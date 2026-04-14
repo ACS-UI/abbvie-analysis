@@ -1,0 +1,26 @@
+{
+  "blockId": "subscription_form",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Subscription Form",
+  "description": "Form allowing users to sign up for updates and resources.",
+  "domHints": {
+    "selectors": [
+      ".forms-embed .cmp-formsembed-widget"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

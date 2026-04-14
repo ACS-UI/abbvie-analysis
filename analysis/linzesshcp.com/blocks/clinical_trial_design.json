@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_trial_design",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Clinical Trial Design",
+  "description": "Explains the design and methodology of LINZESS clinical trials.",
+  "domHints": {
+    "selectors": [
+      ".clincal-train-info-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

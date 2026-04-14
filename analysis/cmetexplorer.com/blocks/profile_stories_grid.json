@@ -1,0 +1,26 @@
+{
+  "blockId": "profile_stories_grid",
+  "templateIds": [
+    "tpl_188"
+  ],
+  "name": "Profile Stories Grid",
+  "description": "Grid showcasing profile stories with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory.card-dashboard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_188 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

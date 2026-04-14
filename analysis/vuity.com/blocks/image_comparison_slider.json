@@ -1,0 +1,26 @@
+{
+  "blockId": "image_comparison_slider",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Image Comparison Slider",
+  "description": "Interactive slider to compare vision with and without age-related blurry near vision.",
+  "domHints": {
+    "selectors": [
+      ".abbv-img-slider"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

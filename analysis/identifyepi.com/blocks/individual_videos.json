@@ -1,0 +1,27 @@
+{
+  "blockId": "individual_videos",
+  "templateIds": [
+    "tpl_11",
+    "tpl_22"
+  ],
+  "name": "Individual Videos",
+  "description": "Displays individual video players for specific topics.",
+  "domHints": {
+    "selectors": [
+      ".abbv-video-player.epi-watch-video-margin"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

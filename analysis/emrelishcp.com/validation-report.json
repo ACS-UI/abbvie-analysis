@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.emrelishcp.com",
+  "normalisedUrl": "https://www.emrelishcp.com/",
+  "finalUrlAfterRedirects": "https://www.emrelishcp.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:22:25.953Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

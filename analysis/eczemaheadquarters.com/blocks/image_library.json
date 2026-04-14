@@ -1,0 +1,26 @@
+{
+  "blockId": "image_library",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Eczema Image Library",
+  "description": "Displays images of eczema symptoms across different body parts.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title h2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

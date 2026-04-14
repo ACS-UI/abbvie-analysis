@@ -1,0 +1,31 @@
+{
+  "blockId": "modal_exit_site",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_5",
+    "tpl_6",
+    "tpl_13"
+  ],
+  "name": "Exit Site Modal",
+  "description": "Modal dialog for confirming navigation to external sites.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.PageExitPARx",
+      ".abbv-modal.PageExitCMM"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

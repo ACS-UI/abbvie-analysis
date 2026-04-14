@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_banner",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Hero Banner",
+  "description": "Highlights the main message with a visual focus.",
+  "domHints": {
+    "selectors": [
+      "section.arthritis-hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_options",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Treatment Options",
+  "description": "Information about treatment options and the role of Botox.",
+  "domHints": {
+    "selectors": [
+      "#aAboutServere"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

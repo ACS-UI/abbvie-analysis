@@ -1,0 +1,27 @@
+{
+  "blockId": "modal_artwork",
+  "templateIds": [
+    "tpl_38",
+    "tpl_40"
+  ],
+  "name": "Artwork Modal",
+  "description": "Displays the scholar's artwork in a modal view.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.scholar-profile-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_38 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

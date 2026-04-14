@@ -1,0 +1,33 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3",
+    "tpl_4",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_10",
+    "tpl_11"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent section at the top of the page with a large image and headline.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text.target-rcmd-brandbox"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

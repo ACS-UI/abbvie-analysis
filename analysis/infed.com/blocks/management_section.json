@@ -1,0 +1,26 @@
+{
+  "blockId": "management_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Management and Treatment Section",
+  "description": "Discusses treatment options for managing ID and IDA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.abbv-siab.management-and-treatment"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

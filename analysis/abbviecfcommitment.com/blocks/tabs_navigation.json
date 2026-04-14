@@ -1,0 +1,26 @@
+{
+  "blockId": "tabs_navigation",
+  "templateIds": [
+    "tpl_29"
+  ],
+  "name": "Tabs Navigation",
+  "description": "Tabbed navigation for browsing different categories of recipes.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_29 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

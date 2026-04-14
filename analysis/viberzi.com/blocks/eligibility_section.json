@@ -1,0 +1,26 @@
+{
+  "blockId": "eligibility_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Eligibility Section",
+  "description": "Displays details about patient eligibility and savings offers.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.eligible-patients-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

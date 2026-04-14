@@ -1,0 +1,211 @@
+{
+  "blocks": [
+    {
+      "blockId": "header_utility_strip",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "header_primary_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_region_0",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_region_1",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_region_2",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_region_3",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_region_4",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_region_5",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "site_footer",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "utility_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "primary_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hero_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "page_title",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "content_section_1",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "content_section_2",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "content_section_3",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "related_pages",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "important_safety_information",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "global_utility_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cta_columns",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "prose_columns",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "accordion_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "informative_section",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Informative Section",
+  "description": "Provides detailed information about IBS-C as a chronic condition.",
+  "domHints": {
+    "selectors": [
+      ".linzess-informative-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

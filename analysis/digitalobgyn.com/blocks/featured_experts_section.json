@@ -1,0 +1,26 @@
+{
+  "blockId": "featured_experts_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Featured Experts Section",
+  "description": "Displays detailed information about the featured experts, including images, titles, and biographies.",
+  "domHints": {
+    "selectors": [
+      ".featured-speaker-faculty-speak-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

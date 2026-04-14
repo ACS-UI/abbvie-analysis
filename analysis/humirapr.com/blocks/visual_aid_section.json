@@ -1,0 +1,26 @@
+{
+  "blockId": "visual_aid_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Visual Aid Section",
+  "description": "Illustrates the condition with diagrams and images.",
+  "domHints": {
+    "selectors": [
+      "section.outside-inside"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

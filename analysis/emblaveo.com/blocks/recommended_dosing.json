@@ -1,0 +1,26 @@
+{
+  "blockId": "recommended_dosing",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Recommended Dosing",
+  "description": "Provides detailed information about the recommended dosing for EMBLAVEO.",
+  "domHints": {
+    "selectors": [
+      ".recommended-dose-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

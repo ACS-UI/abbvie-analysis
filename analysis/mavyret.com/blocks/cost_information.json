@@ -1,0 +1,26 @@
+{
+  "blockId": "cost_information",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Cost Information",
+  "description": "Breakdown of potential costs based on different insurance types.",
+  "domHints": {
+    "selectors": [
+      "#insurance-information"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

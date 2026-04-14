@@ -1,0 +1,175 @@
+{
+  "blocks": [
+    {
+      "blockId": "global_utility_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "primary_header",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hero_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cta_columns",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "testimonial_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "causes_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "signs_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "care_team_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "treatment_options_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "impact_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "guide_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "resources_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "primary_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "sitemap_links",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_links",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_legal_text",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "back_to_top",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "modal_exit",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    }
+  ]
+}

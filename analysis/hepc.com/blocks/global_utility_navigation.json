@@ -1,0 +1,27 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_4",
+    "tpl_6"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides utility links and navigation options for the user.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

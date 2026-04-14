@@ -1,0 +1,26 @@
+{
+  "blockId": "primary_header",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Primary Header",
+  "description": "The header section of the page, typically containing branding and navigation elements.",
+  "domHints": {
+    "selectors": [
+      "header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

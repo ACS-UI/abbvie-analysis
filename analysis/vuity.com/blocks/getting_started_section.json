@@ -1,0 +1,26 @@
+{
+  "blockId": "getting_started_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Getting Started",
+  "description": "Information on how to start using VUITY, including instructions and tips.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.getting-started-vuity-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

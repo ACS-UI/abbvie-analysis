@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section_1",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "CTA Section 1",
+  "description": "Encourages users to sign up for a wellness book.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-features.touts-section.target-touts-area.fybp-tk-qz"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

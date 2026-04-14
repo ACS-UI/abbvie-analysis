@@ -1,0 +1,26 @@
+{
+  "blockId": "error_message",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Error Message",
+  "description": "Provides a detailed description of the error and a call-to-action to return home.",
+  "domHints": {
+    "selectors": [
+      "section[role='main'] > div.container > div.abbv-container.error-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

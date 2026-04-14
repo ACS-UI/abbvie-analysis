@@ -1,0 +1,26 @@
+{
+  "blockId": "video_playlist",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Video Playlist",
+  "description": "Displays a list of videos related to the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion.video-playlist-mobile-only"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

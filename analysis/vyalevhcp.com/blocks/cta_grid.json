@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_grid",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "CTA Grid",
+  "description": "Displays multiple call-to-action elements in a grid layout.",
+  "domHints": {
+    "selectors": [
+      ".flexbox--four-column"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

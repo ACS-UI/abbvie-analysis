@@ -1,0 +1,26 @@
+{
+  "blockId": "image_logo",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Image Logo",
+  "description": "Shows the Durysta logo in different resolutions for branding and recognition.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-content-container-v2 picture"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

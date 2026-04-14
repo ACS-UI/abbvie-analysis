@@ -1,0 +1,26 @@
+{
+  "blockId": "rich_text_intro",
+  "templateIds": [
+    "tpl_42"
+  ],
+  "name": "Introduction Text",
+  "description": "Introductory text providing context and instructions for the locator tool.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.margin-bottom-30"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_42 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

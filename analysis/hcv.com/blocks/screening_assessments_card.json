@@ -1,0 +1,26 @@
+{
+  "blockId": "screening_assessments_card",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Screening & Assessments Card",
+  "description": "Details HCV screening and assessment resources.",
+  "domHints": {
+    "selectors": [
+      "#background-container-2045404616 .flexboxitem-v2:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

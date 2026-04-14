@@ -1,0 +1,27 @@
+{
+  "blockId": "reactive_proactive_section",
+  "templateIds": [
+    "tpl_38"
+  ],
+  "name": "Reactive and Proactive Section",
+  "description": "Explains reactive and proactive treatment approaches.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title h2",
+      "p"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_38 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

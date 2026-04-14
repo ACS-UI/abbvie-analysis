@@ -1,0 +1,26 @@
+{
+  "blockId": "dietary_reference_section",
+  "templateIds": [
+    "tpl_31"
+  ],
+  "name": "Dietary Reference Section",
+  "description": "Offers details on dietary reference intakes for calcium and vitamin D.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1441195364"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_31 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

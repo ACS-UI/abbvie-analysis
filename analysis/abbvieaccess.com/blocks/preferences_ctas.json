@@ -1,0 +1,26 @@
+{
+  "blockId": "preferences_ctas",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Preferences CTAs",
+  "description": "Buttons to manage branded and medical communications preferences.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.left-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

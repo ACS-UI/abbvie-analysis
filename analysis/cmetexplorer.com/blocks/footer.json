@@ -1,0 +1,65 @@
+{
+  "blockId": "footer",
+  "templateIds": [
+    "tpl_7",
+    "tpl_14",
+    "tpl_16",
+    "tpl_18",
+    "tpl_19",
+    "tpl_20",
+    "tpl_22",
+    "tpl_42",
+    "tpl_43",
+    "tpl_51",
+    "tpl_52",
+    "tpl_67",
+    "tpl_80",
+    "tpl_93",
+    "tpl_100",
+    "tpl_102",
+    "tpl_104",
+    "tpl_106",
+    "tpl_131",
+    "tpl_145",
+    "tpl_162",
+    "tpl_163",
+    "tpl_171",
+    "tpl_172",
+    "tpl_176",
+    "tpl_184",
+    "tpl_198",
+    "tpl_202",
+    "tpl_203",
+    "tpl_219",
+    "tpl_221",
+    "tpl_249",
+    "tpl_254",
+    "tpl_255",
+    "tpl_257",
+    "tpl_275",
+    "tpl_290",
+    "tpl_300",
+    "tpl_301",
+    "tpl_302"
+  ],
+  "name": "Footer",
+  "description": "Footer section with site information and additional navigation links.",
+  "domHints": {
+    "selectors": [
+      "#navigation-eb406d7c40"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

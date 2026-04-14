@@ -1,0 +1,534 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_header__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-header"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-hero"
+    },
+    {
+      "relativePath": "anchor_navigation__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-anchor-nav"
+    },
+    {
+      "relativePath": "subpage_navigation__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-subpage-nav"
+    },
+    {
+      "relativePath": "pfs_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#pfs"
+    },
+    {
+      "relativePath": "os_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#os"
+    },
+    {
+      "relativePath": "orr_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#orr"
+    },
+    {
+      "relativePath": "secondary_endpoints__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "main > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "tumor_analysis__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "main > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "cta_cards__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "main > div:nth-of-type(6)"
+    },
+    {
+      "relativePath": "isi_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-isi"
+    },
+    {
+      "relativePath": "references_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-references"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-footer"
+    },
+    {
+      "relativePath": "exit_modal__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-modal[type='exit']"
+    },
+    {
+      "relativePath": "elahere_videos_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "main > div#prophylactic-medications > div#elahere-videos"
+    },
+    {
+      "relativePath": "video_cards_row_1__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#main"
+    },
+    {
+      "relativePath": "video_cards_row_2__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#main"
+    },
+    {
+      "relativePath": "eye_care_videos_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "main > div#eye-care-videos"
+    },
+    {
+      "relativePath": "eye_care_video_cards__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#main"
+    },
+    {
+      "relativePath": "patient_testimonials_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "main > div#patient-testimonials"
+    },
+    {
+      "relativePath": "patient_testimonial_cards__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#main"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-footer"
+    },
+    {
+      "relativePath": "fra_expression_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/fra-and-elahere/why-testing-matters",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#fra-expression-and-prevalence"
+    },
+    {
+      "relativePath": "statistics_cards__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/fra-and-elahere/why-testing-matters",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": ".cmp-container .cmp-row.p__reset-t.pb-5"
+    },
+    {
+      "relativePath": "nccn_guidelines_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/fra-and-elahere/why-testing-matters",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#nccn-guidelines"
+    },
+    {
+      "relativePath": "role_of_fra_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/fra-and-elahere/why-testing-matters",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#longer-term-follow-up-pfs"
+    },
+    {
+      "relativePath": "mod_moa_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/fra-and-elahere/why-testing-matters",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#mod-moa"
+    },
+    {
+      "relativePath": "action_cards__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/fra-and-elahere/why-testing-matters",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": ".cmp-container .cmp-row.cmp-row--equal-height.p__reset-t"
+    },
+    {
+      "relativePath": "main_hero__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "main > cmp-hero"
+    },
+    {
+      "relativePath": "prophylactic_medications__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#prophylactic-medications"
+    },
+    {
+      "relativePath": "dosage_calculation__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "main > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "aibw_calculator__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#calculating-aibw"
+    },
+    {
+      "relativePath": "preparation_instructions__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#instructions-preparation"
+    },
+    {
+      "relativePath": "administration_instructions__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#administration"
+    },
+    {
+      "relativePath": "download_resources__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#main"
+    },
+    {
+      "relativePath": "global_footer__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-footer"
+    },
+    {
+      "relativePath": "most_common_ars__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/safety/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#most-common-ars"
+    },
+    {
+      "relativePath": "laboratory_abnormalities__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/safety/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#laboratory-abnormalities"
+    },
+    {
+      "relativePath": "additional_ars_interest__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/safety/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#additional-ars-interest"
+    },
+    {
+      "relativePath": "ocular_ars__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/safety/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#ocular-ars"
+    },
+    {
+      "relativePath": "longer_term_follow_up__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/safety/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#longer-term-follow-up"
+    },
+    {
+      "relativePath": "hero_disclaimer__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": ".cmp-hero__disclaimer-mobile"
+    },
+    {
+      "relativePath": "hero_statistics__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": ".cmp-flex.mb-2"
+    },
+    {
+      "relativePath": "indication_statement__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": ".cmp-container .cmp-row .cmp-col.text-xl"
+    },
+    {
+      "relativePath": "skip_to_main_content__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/request-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "a.skip-to-main-content-link"
+    },
+    {
+      "relativePath": "header__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/request-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-header"
+    },
+    {
+      "relativePath": "main_form__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/request-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "div.cmp-container > iframe.sfmc-form-iframe"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/request-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "cmp-isi"
+    },
+    {
+      "relativePath": "ocular_management_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#ocular-management"
+    },
+    {
+      "relativePath": "resources_cards__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": ".cmp-row.cmp-row--equal-height.p__reset-t"
+    },
+    {
+      "relativePath": "find_eye_doctor_section__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": "#find-eye-doctor"
+    },
+    {
+      "relativePath": "video_resources__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": ".cmp-row.cmp-row--equal-height.cmp-row--tablet-2col"
+    },
+    {
+      "relativePath": "support_resources__default.png",
+      "sourceUrl": "https://www.elaherehcp.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:38.091Z",
+      "selector": ".cmp-container.pt-8"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "scholar_quote",
+  "templateIds": [
+    "tpl_12",
+    "tpl_35"
+  ],
+  "name": "Scholar Quote",
+  "description": "A highlighted quote from the scholar.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text-common p.ff-roboto-bold"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

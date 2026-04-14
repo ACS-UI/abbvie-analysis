@@ -1,0 +1,104 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": ".hepc-bnr"
+    },
+    {
+      "relativePath": "section_navigation__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": ".abbv-section-navigation"
+    },
+    {
+      "relativePath": "what_is_hepatitis_c__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": "#sec1"
+    },
+    {
+      "relativePath": "how_is_hepatitis_c_spread__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": "#sec2"
+    },
+    {
+      "relativePath": "symptoms_section__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": "#sec3"
+    },
+    {
+      "relativePath": "diagnosis_section__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": "#sec4"
+    },
+    {
+      "relativePath": "treatment_section__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": "#sec5"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.aquienleimporta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:47:29.248Z",
+      "selector": ".abbv-container.hepc-hazte"
+    }
+  ]
+}

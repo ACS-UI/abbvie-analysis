@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_conditions",
+  "templateIds": [
+    "tpl_26"
+  ],
+  "name": "Accordion Conditions",
+  "description": "Interactive accordion detailing underlying conditions and procedures related to EPI.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion.epi-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_26 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

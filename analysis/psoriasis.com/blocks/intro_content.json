@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_content",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Introductory Content",
+  "description": "Provides an introduction and overview of the topic discussed on the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text p"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

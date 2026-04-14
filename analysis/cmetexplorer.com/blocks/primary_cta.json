@@ -1,0 +1,27 @@
+{
+  "blockId": "primary_cta",
+  "templateIds": [
+    "tpl_162",
+    "tpl_229"
+  ],
+  "name": "Primary Call to Action",
+  "description": "Encourages users to explore further content or actions.",
+  "domHints": {
+    "selectors": [
+      "div.button.default"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_162 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

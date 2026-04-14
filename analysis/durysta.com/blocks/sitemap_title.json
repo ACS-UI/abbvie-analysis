@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_title",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Sitemap Title",
+  "description": "The main title of the sitemap page, providing context to users.",
+  "domHints": {
+    "selectors": [
+      "main > div > h1#site-map"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

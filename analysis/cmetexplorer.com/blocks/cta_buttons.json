@@ -1,0 +1,33 @@
+{
+  "blockId": "cta_buttons",
+  "templateIds": [
+    "tpl_6",
+    "tpl_74",
+    "tpl_84",
+    "tpl_85",
+    "tpl_111",
+    "tpl_142",
+    "tpl_239",
+    "tpl_245"
+  ],
+  "name": "Call-to-Action Buttons",
+  "description": "Buttons encouraging user actions such as navigation or form submissions.",
+  "domHints": {
+    "selectors": [
+      ".cmp-button"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

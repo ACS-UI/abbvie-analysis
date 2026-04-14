@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_content",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Introduction Content",
+  "description": "Provides an introduction and explanation of the discussion guide feature.",
+  "domHints": {
+    "selectors": [
+      "main > div.container.theme-barely-coral > div.row.-align-items__center"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

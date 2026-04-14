@@ -1,0 +1,26 @@
+{
+  "blockId": "three_column_cta",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Three Column CTA",
+  "description": "Three-column section highlighting key features or actions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.three-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

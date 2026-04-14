@@ -1,0 +1,27 @@
+{
+  "blockId": "side_effects_details",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Side Effects Details",
+  "description": "Detailed information about side effects and their statistics.",
+  "domHints": {
+    "selectors": [
+      ".text-reference",
+      "section .abbv-row-container.ori-x-padding-top-8"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

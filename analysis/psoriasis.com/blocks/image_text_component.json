@@ -1,0 +1,27 @@
+{
+  "blockId": "image_text_component",
+  "templateIds": [
+    "tpl_2",
+    "tpl_3"
+  ],
+  "name": "Image and Text Component",
+  "description": "Combines images with descriptive text to illustrate key points.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,35 @@
+{
+  "blockId": "primary_header",
+  "templateIds": [
+    "tpl_0",
+    "tpl_7",
+    "tpl_13",
+    "tpl_17",
+    "tpl_26",
+    "tpl_31",
+    "tpl_36",
+    "tpl_38",
+    "tpl_42",
+    "tpl_47"
+  ],
+  "name": "Primary Header",
+  "description": "Displays the main branding and navigation elements.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

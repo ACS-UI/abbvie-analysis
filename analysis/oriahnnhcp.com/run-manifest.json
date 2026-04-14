@@ -1,0 +1,109 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:29:51.757Z",
+  "completedAt": "2026-04-13T15:42:27.941Z",
+  "input": {
+    "url": "https://www.oriahnnhcp.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/oriahnnhcp.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_1",
+        "humanName": "Agent Batch",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Efficacy Section",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Safety Information",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Contact Page",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Search Results",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Clinical Data",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Resources",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Access Page",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Patient Stories",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Site Map",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_profile_grace",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Patient Profile: Grace",
+  "description": "Detailed information about Grace, a patient new to oral contraceptives.",
+  "domHints": {
+    "selectors": [
+      "#abbv-tab-1199648406-0"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "fda_approval_highlight",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "FDA Approval Highlight",
+  "description": "Emphasizes the FDA approval of the product with supporting text.",
+  "domHints": {
+    "selectors": [
+      ".vuitypro-first-only-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

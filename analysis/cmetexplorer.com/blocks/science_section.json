@@ -1,0 +1,37 @@
+{
+  "blockId": "science_section",
+  "templateIds": [
+    "tpl_18",
+    "tpl_20",
+    "tpl_24",
+    "tpl_33",
+    "tpl_69",
+    "tpl_73",
+    "tpl_78",
+    "tpl_81",
+    "tpl_91",
+    "tpl_94",
+    "tpl_204",
+    "tpl_268"
+  ],
+  "name": "Science Section",
+  "description": "Highlights the science-related content and links to detailed pages.",
+  "domHints": {
+    "selectors": [
+      "div#container-3872cfc99d"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_18 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

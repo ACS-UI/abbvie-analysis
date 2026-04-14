@@ -1,0 +1,27 @@
+{
+  "blockId": "trigger_words_section",
+  "templateIds": [
+    "tpl_22"
+  ],
+  "name": "Trigger Words Section",
+  "description": "Features content and a video about eczema trigger words.",
+  "domHints": {
+    "selectors": [
+      "#triggerwords",
+      ".abbv-video-player.video-1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_22 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "pivotal_studies_section_one",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Pivotal Studies Section One",
+  "description": "Highlights pivotal study results for LINZESS regarding constipation and abdominal pain relief.",
+  "domHints": {
+    "selectors": [
+      ".pivotal-studies-section-one"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

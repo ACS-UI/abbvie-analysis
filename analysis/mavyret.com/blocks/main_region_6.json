@@ -1,0 +1,32 @@
+{
+  "blockId": "main_region_6",
+  "templateIds": [
+    "tpl_5",
+    "tpl_9",
+    "tpl_10",
+    "tpl_12",
+    "tpl_16",
+    "tpl_17",
+    "tpl_27"
+  ],
+  "name": "main region 6",
+  "description": "Major content region in main (div). Preview: Insurance Coverage and Support It's normal to have concerns and questions about the cost of medication. MAVYRET Patient …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(7)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_5. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

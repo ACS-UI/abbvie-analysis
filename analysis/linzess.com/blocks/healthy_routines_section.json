@@ -1,0 +1,26 @@
+{
+  "blockId": "healthy_routines_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Healthy Routines Section",
+  "description": "Content section providing information and articles about maintaining healthy routines.",
+  "domHints": {
+    "selectors": [
+      "#healthyroutines"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

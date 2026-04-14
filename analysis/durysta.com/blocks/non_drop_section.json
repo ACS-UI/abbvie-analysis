@@ -1,0 +1,27 @@
+{
+  "blockId": "non_drop_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Non-Drop Section",
+  "description": "Highlights the non-drop treatment option with an image and descriptive text.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(2) > div.columns > div > div > picture",
+      "main > div:nth-of-type(2) > div.columns > div > div > h3#a-nondrop-treatment-option-that-lasts-around-the-clock-for-several-months"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

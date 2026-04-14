@@ -1,0 +1,27 @@
+{
+  "blockId": "support_groups_section",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Support Groups Section",
+  "description": "Encourages users to find support groups and resources.",
+  "domHints": {
+    "selectors": [
+      "#fu",
+      ".abbv-title.max-width-300"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

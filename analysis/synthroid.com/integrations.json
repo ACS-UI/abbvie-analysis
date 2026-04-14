@@ -1,0 +1,27 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.synthroid.com/what-is-synthroid",
+          "https://www.synthroid.com/",
+          "https://www.synthroid.com/sign-up",
+          "https://www.synthroid.com/search-results",
+          "https://www.synthroid.com/sitemap",
+          "https://www.synthroid.com/faq",
+          "https://www.synthroid.com/synthroid-delivers-program"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:19:51.292Z"
+}

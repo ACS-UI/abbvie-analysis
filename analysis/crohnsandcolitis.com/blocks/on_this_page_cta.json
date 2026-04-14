@@ -1,0 +1,27 @@
+{
+  "blockId": "on_this_page_cta",
+  "templateIds": [
+    "tpl_5",
+    "tpl_10"
+  ],
+  "name": "On This Page CTA",
+  "description": "Provides quick links to sections within the page.",
+  "domHints": {
+    "selectors": [
+      ".on-this-page"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

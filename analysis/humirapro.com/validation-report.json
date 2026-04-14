@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.humirapro.com",
+  "normalisedUrl": "https://www.humirapro.com/",
+  "finalUrlAfterRedirects": "https://www.humirapro.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:08:29.193Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

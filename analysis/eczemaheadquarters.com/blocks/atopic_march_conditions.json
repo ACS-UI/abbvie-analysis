@@ -1,0 +1,26 @@
+{
+  "blockId": "atopic_march_conditions",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Atopic March Conditions",
+  "description": "Highlights specific conditions related to the atopic march, including asthma and food allergies.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.bg--green.padding-top-70"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

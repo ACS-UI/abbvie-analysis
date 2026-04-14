@@ -1,0 +1,66 @@
+{
+  "blockId": "global_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_6",
+    "tpl_7",
+    "tpl_28",
+    "tpl_29",
+    "tpl_34",
+    "tpl_37",
+    "tpl_41",
+    "tpl_49",
+    "tpl_54",
+    "tpl_58",
+    "tpl_62",
+    "tpl_63",
+    "tpl_72",
+    "tpl_94",
+    "tpl_95",
+    "tpl_104",
+    "tpl_126",
+    "tpl_127",
+    "tpl_130",
+    "tpl_154",
+    "tpl_165",
+    "tpl_175",
+    "tpl_184",
+    "tpl_185",
+    "tpl_190",
+    "tpl_200",
+    "tpl_203",
+    "tpl_206",
+    "tpl_217",
+    "tpl_223",
+    "tpl_224",
+    "tpl_226",
+    "tpl_230",
+    "tpl_246",
+    "tpl_247",
+    "tpl_275",
+    "tpl_284",
+    "tpl_294",
+    "tpl_305",
+    "tpl_309"
+  ],
+  "name": "Global Navigation",
+  "description": "Provides access to the main sections of the website, including search functionality.",
+  "domHints": {
+    "selectors": [
+      "header.nav-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.oriahnn.com/",
+  "normalisedUrl": "https://www.oriahnn.com/",
+  "finalUrlAfterRedirects": "https://www.oriahnn.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:29:21.113Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

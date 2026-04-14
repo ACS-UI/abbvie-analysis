@@ -1,0 +1,26 @@
+{
+  "blockId": "ocular_management_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Ocular Management Section",
+  "description": "Details about managing ocular adverse reactions, including schedules and recommendations.",
+  "domHints": {
+    "selectors": [
+      "#ocular-management"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

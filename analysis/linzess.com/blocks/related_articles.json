@@ -1,0 +1,26 @@
+{
+  "blockId": "related_articles",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Related Articles",
+  "description": "Displays a list of related articles for further reading.",
+  "domHints": {
+    "selectors": [
+      ".flexbox-article-cards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

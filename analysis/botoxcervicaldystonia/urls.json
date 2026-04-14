@@ -1,0 +1,70 @@
+{
+  "entryUrl": "https://www.botoxcervicaldystonia.com/",
+  "discoveredAt": "2026-04-13T12:21:38.400Z",
+  "urls": [
+    {
+      "url": "https://www.botoxcervicaldystonia.com/",
+      "normalised": "https://www.botoxcervicaldystonia.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxcervicaldystonia.com/sitemap",
+      "normalised": "https://www.botoxcervicaldystonia.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxcervicaldystonia.com/find-a-botox-specialist",
+      "normalised": "https://www.botoxcervicaldystonia.com/find-a-botox-specialist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxcervicaldystonia.com/botox-reviews-and-stories",
+      "normalised": "https://www.botoxcervicaldystonia.com/botox-reviews-and-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxcervicaldystonia.com/why-botox",
+      "normalised": "https://www.botoxcervicaldystonia.com/why-botox",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxcervicaldystonia.com/savings-and-support",
+      "normalised": "https://www.botoxcervicaldystonia.com/savings-and-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxcervicaldystonia.com/about-cervical-dystonia",
+      "normalised": "https://www.botoxcervicaldystonia.com/about-cervical-dystonia",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxcervicaldystonia.com/search-results",
+      "normalised": "https://www.botoxcervicaldystonia.com/search-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "bySource": {
+      "sitemap": 1,
+      "crawl": 7,
+      "manual": 0
+    }
+  }
+}

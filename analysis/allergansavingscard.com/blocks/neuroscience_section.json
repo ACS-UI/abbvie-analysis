@@ -1,0 +1,27 @@
+{
+  "blockId": "neuroscience_section",
+  "templateIds": [
+    "tpl_269",
+    "tpl_275"
+  ],
+  "name": "Neuroscience Section",
+  "description": "Showcases information about neuroscience focus with an image and text.",
+  "domHints": {
+    "selectors": [
+      "#container-2a90107379 .grid-row:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_269 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

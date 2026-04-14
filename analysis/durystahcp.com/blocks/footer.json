@@ -1,0 +1,28 @@
+{
+  "blockId": "footer",
+  "templateIds": [
+    "tpl_0",
+    "tpl_15",
+    "tpl_16"
+  ],
+  "name": "Footer",
+  "description": "Contains site-wide links such as About AbbVie, Contact Us, and Privacy Notice.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

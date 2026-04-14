@@ -1,0 +1,26 @@
+{
+  "blockId": "content_glossary",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Glossary Content",
+  "description": "Displays the glossary terms and their definitions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "dopamine_receptor_intro",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Dopamine Receptor Introduction",
+  "description": "Introduces the content about dopamine receptors with a title and description.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section.first"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

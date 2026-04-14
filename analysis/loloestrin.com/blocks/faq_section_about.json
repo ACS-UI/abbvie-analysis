@@ -1,0 +1,27 @@
+{
+  "blockId": "faq_section_about",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "FAQ Section: About",
+  "description": "Accordion section providing answers to questions about Lo Loestrin Fe.",
+  "domHints": {
+    "selectors": [
+      "#aboutfaq",
+      ".abbv-accordion:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

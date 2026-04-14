@@ -1,0 +1,26 @@
+{
+  "blockId": "personal_story",
+  "templateIds": [
+    "tpl_43"
+  ],
+  "name": "Personal Story",
+  "description": "Contains the scholar's personal story and experiences.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container > .rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_43 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

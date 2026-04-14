@@ -1,0 +1,26 @@
+{
+  "blockId": "did_you_know_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Did You Know Section",
+  "description": "Highlights interesting facts or statistics about HS.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.light-grey-fill"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

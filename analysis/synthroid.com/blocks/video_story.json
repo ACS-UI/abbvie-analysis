@@ -1,0 +1,26 @@
+{
+  "blockId": "video_story",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Video Story Section",
+  "description": "Features a video story about a real user's experience with Synthroid.",
+  "domHints": {
+    "selectors": [
+      ".abbv-video-player"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

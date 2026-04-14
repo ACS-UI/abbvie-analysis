@@ -1,0 +1,26 @@
+{
+  "blockId": "section_title",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Section Title",
+  "description": "Displays the title of the current section.",
+  "domHints": {
+    "selectors": [
+      "#background-container-973616166 .abbv-title h2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

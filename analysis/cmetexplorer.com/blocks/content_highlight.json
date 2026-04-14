@@ -1,0 +1,27 @@
+{
+  "blockId": "content_highlight",
+  "templateIds": [
+    "tpl_117",
+    "tpl_245"
+  ],
+  "name": "Content Highlight",
+  "description": "Showcases key content or features with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_117 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "proven_safety",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Proven Safety Data",
+  "description": "Provides information about the safety and studies of the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.home-favorable"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

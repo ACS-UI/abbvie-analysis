@@ -1,0 +1,28 @@
+{
+  "blockId": "lead_story",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Lead Story",
+  "description": "Highlights the main story or message with a title and supporting text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title",
+      "h1",
+      "h2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

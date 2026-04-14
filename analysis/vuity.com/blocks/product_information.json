@@ -1,0 +1,26 @@
+{
+  "blockId": "product_information",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Product Information",
+  "description": "Details about the product usage and recommended dosage.",
+  "domHints": {
+    "selectors": [
+      ".home-learn-access-section.prescription-eyedrop-img"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

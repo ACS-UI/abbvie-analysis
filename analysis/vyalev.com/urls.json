@@ -1,0 +1,217 @@
+{
+  "entryUrl": "https://www.vyalev.com/",
+  "discoveredAt": "2026-04-13T15:14:28.598Z",
+  "urls": [
+    {
+      "url": "https://www.vyalev.com/",
+      "normalised": "https://www.vyalev.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/content/dam/vyalev/docs/vyalev-prep-mat.pdf",
+      "normalised": "https://www.vyalev.com/content/dam/vyalev/docs/vyalev-prep-mat.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalev.com/content/dam/vyalev/docs/treatment-start-day-checklist.pdf",
+      "normalised": "https://www.vyalev.com/content/dam/vyalev/docs/treatment-start-day-checklist.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalev.com/content/dam/vyalev/docs/patient-decision-brochure.pdf",
+      "normalised": "https://www.vyalev.com/content/dam/vyalev/docs/patient-decision-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalev.com/content/dam/vyalev/docs/Travel%20Brochure%20-%20Digital%20Version.pdf",
+      "normalised": "https://www.vyalev.com/content/dam/vyalev/docs/Travel%20Brochure%20-%20Digital%20Version.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalev.com/content/dam/vyalev/docs/folleto-de-decision-del-paciente.pdf",
+      "normalised": "https://www.vyalev.com/content/dam/vyalev/docs/folleto-de-decision-del-paciente.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalev.com/content/dam/vyalev/docs/how-to-guide.pdf",
+      "normalised": "https://www.vyalev.com/content/dam/vyalev/docs/how-to-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalev.com/education-program",
+      "normalised": "https://www.vyalev.com/education-program",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/sign-up",
+      "normalised": "https://www.vyalev.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/what-is-vyalev",
+      "normalised": "https://www.vyalev.com/what-is-vyalev",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/side-effects",
+      "normalised": "https://www.vyalev.com/side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/mentor-program",
+      "normalised": "https://www.vyalev.com/mentor-program",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/vyalev-pump",
+      "normalised": "https://www.vyalev.com/vyalev-pump",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/vyalev-results",
+      "normalised": "https://www.vyalev.com/vyalev-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/insurance-savings",
+      "normalised": "https://www.vyalev.com/insurance-savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/doctor-locator",
+      "normalised": "https://www.vyalev.com/doctor-locator",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/wearing-vyalev-pump",
+      "normalised": "https://www.vyalev.com/wearing-vyalev-pump",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/on-off-time",
+      "normalised": "https://www.vyalev.com/on-off-time",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/delivery-system/getting-started-video",
+      "normalised": "https://www.vyalev.com/delivery-system/getting-started-video",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/patient-stories",
+      "normalised": "https://www.vyalev.com/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/site-map",
+      "normalised": "https://www.vyalev.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/delivery-system/routine-reminders-video",
+      "normalised": "https://www.vyalev.com/delivery-system/routine-reminders-video",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/resources",
+      "normalised": "https://www.vyalev.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/faqs",
+      "normalised": "https://www.vyalev.com/faqs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/delivery-system",
+      "normalised": "https://www.vyalev.com/delivery-system",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/delivery-system/how-to-infuse-video",
+      "normalised": "https://www.vyalev.com/delivery-system/how-to-infuse-video",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/care-partner-support",
+      "normalised": "https://www.vyalev.com/care-partner-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/stay-on-track-resources",
+      "normalised": "https://www.vyalev.com/stay-on-track-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalev.com/getting-started-resources",
+      "normalised": "https://www.vyalev.com/getting-started-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 29,
+    "bySource": {
+      "sitemap": 11,
+      "crawl": 18,
+      "manual": 0
+    }
+  }
+}

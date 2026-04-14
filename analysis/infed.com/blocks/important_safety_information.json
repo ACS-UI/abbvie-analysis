@@ -1,0 +1,29 @@
+{
+  "blockId": "important_safety_information",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_4",
+    "tpl_5"
+  ],
+  "name": "Important Safety Information",
+  "description": "Displays critical safety and usage information for INFeD.",
+  "domHints": {
+    "selectors": [
+      ".abbv-inline-use-isi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

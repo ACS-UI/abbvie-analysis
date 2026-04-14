@@ -1,0 +1,26 @@
+{
+  "blockId": "survey_form",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Survey Form",
+  "description": "Embeds the RAPID3 survey form for users to fill out.",
+  "domHints": {
+    "selectors": [
+      ".forms-embed"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

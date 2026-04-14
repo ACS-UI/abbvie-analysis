@@ -1,0 +1,109 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:53:46.630Z",
+  "completedAt": "2026-04-13T16:06:29.505Z",
+  "input": {
+    "url": "https://www.nobsabouths.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/nobsabouths.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Article Pages",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Agent Unassigned Batch 2",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Interactive Tools",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Homepage Variants",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Personalization Features",
+        "source": "llm_identify",
+        "blockCount": 1,
+        "proposedCount": 1
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Overview Pages",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Search Results",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Reference Glossaries",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Navigation Pages",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Feedback Pages",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Engagement Pages",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "blockId": "captcha_protection",
+  "templateIds": [
+    "tpl_1",
+    "tpl_7"
+  ],
+  "name": "Captcha Protection",
+  "description": "Displays reCAPTCHA to ensure secure form submissions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-badgeless-captcha",
+      ".g-recaptcha.js-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

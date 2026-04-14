@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns",
+  "templateIds": [
+    "tpl_39"
+  ],
+  "name": "Content Columns",
+  "description": "Displays detailed content in a multi-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.bg--white.border-radius-22"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_39 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

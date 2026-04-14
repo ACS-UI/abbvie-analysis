@@ -1,0 +1,26 @@
+{
+  "blockId": "counseling_cta",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Counseling Call-to-Action",
+  "description": "Encourages users to access patient counseling tools and resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.px-10"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

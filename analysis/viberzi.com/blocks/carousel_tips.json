@@ -1,0 +1,26 @@
+{
+  "blockId": "carousel_tips",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Tips Carousel",
+  "description": "Interactive carousel displaying tips for taking VIBERZI.",
+  "domHints": {
+    "selectors": [
+      ".abbv-carousel.tips-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

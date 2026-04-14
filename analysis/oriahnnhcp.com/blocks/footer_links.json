@@ -1,0 +1,33 @@
+{
+  "blockId": "footer_links",
+  "templateIds": [
+    "tpl_2",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11"
+  ],
+  "name": "Footer Links",
+  "description": "Contains navigational links for site policies and additional resources.",
+  "domHints": {
+    "selectors": [
+      "footer.abbv-footer ul.abbv-footer-horizontal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

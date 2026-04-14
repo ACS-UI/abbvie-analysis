@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_facebook",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Facebook Modal",
+  "description": "A modal for Facebook-related information.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-modal.nobsFacebookModal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "dcnva_chart_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "DCNVA Chart Section",
+  "description": "Displays charts and data about DCNVA results.",
+  "domHints": {
+    "selectors": [
+      ".vuitipro-dcnva-chart-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

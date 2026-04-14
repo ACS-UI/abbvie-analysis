@@ -1,0 +1,26 @@
+{
+  "blockId": "program_benefits",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Program Benefits",
+  "description": "Details the benefits of the program for optometry students and practicing optometrists.",
+  "domHints": {
+    "selectors": [
+      ".allergan-patient-saving-vuity-sec"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

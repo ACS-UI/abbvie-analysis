@@ -1,0 +1,26 @@
+{
+  "blockId": "primary_header",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Primary Header",
+  "description": "Displays the main logo and branding for the site.",
+  "domHints": {
+    "selectors": [
+      ".logo"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

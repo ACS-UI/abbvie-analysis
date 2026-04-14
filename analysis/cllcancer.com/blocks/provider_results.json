@@ -1,0 +1,26 @@
+{
+  "blockId": "provider_results",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Provider Results",
+  "description": "Displays the search results for healthcare providers.",
+  "domHints": {
+    "selectors": [
+      ".find-a-provider-results"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

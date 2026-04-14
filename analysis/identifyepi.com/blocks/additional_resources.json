@@ -1,0 +1,28 @@
+{
+  "blockId": "additional_resources",
+  "templateIds": [
+    "tpl_2",
+    "tpl_8",
+    "tpl_30"
+  ],
+  "name": "Additional Resources",
+  "description": "Links to further resources and information about EPI.",
+  "domHints": {
+    "selectors": [
+      "#background-container-435241548"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

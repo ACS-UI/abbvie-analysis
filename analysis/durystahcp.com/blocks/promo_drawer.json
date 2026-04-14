@@ -1,0 +1,26 @@
+{
+  "blockId": "promo_drawer",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Promotional Drawer",
+  "description": "A promotional drawer providing information about patient savings.",
+  "domHints": {
+    "selectors": [
+      ".abbv-promo-drawer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "impact_statistics",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Impact Statistics",
+  "description": "Displays key statistics about IBS in a visually engaging format.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1594455504"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "science_link_list",
+  "templateIds": [
+    "tpl_146"
+  ],
+  "name": "Science Link List",
+  "description": "Displays links related to the Science section.",
+  "domHints": {
+    "selectors": [
+      "#linklist-5a6eb2011b"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_146 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

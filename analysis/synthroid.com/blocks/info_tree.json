@@ -1,0 +1,26 @@
+{
+  "blockId": "info_tree",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Interactive Info Tree",
+  "description": "Guides users through a personalized journey based on their responses.",
+  "domHints": {
+    "selectors": [
+      ".abbv-info-tree"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "call_to_action",
+  "templateIds": [
+    "tpl_133"
+  ],
+  "name": "Call to Action",
+  "description": "Button encouraging users to explore more about the topic.",
+  "domHints": {
+    "selectors": [
+      "a#button-7e9702dcac"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_133 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

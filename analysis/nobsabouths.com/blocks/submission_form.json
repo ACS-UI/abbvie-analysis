@@ -1,0 +1,26 @@
+{
+  "blockId": "submission_form",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Submission Form",
+  "description": "Allows users to submit their stories or multimedia content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-html-container.ugc-form-olp"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "content_column_one",
+  "templateIds": [
+    "tpl_54"
+  ],
+  "name": "Content Column One",
+  "description": "Displays introductory text and a button linking to more information.",
+  "domHints": {
+    "selectors": [
+      "#container-71b0445bcc .grid-row__col-with-4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_54 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

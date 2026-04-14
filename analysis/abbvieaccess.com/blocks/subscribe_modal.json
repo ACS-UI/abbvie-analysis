@@ -1,0 +1,27 @@
+{
+  "blockId": "subscribe_modal",
+  "templateIds": [
+    "tpl_4",
+    "tpl_7"
+  ],
+  "name": "Subscribe Modal",
+  "description": "Modal for subscribing to updates and news.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.subscribeForNews"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

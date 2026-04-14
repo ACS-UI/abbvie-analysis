@@ -1,0 +1,364 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.infed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": "#hdrv2-utilnav"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.infed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.infed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-container.infed-homepage-background-container"
+    },
+    {
+      "relativePath": "iron_deficiency_card__default.png",
+      "sourceUrl": "https://www.infed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".iron-deficiency-card"
+    },
+    {
+      "relativePath": "why_infed_card__default.png",
+      "sourceUrl": "https://www.infed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".why-infed-card"
+    },
+    {
+      "relativePath": "dosing_administration_card__default.png",
+      "sourceUrl": "https://www.infed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".dosing-administration-card"
+    },
+    {
+      "relativePath": "access_coverage_card__default.png",
+      "sourceUrl": "https://www.infed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".access-coverage-card"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.infed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.infed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.infed.com/why-infed",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": "header.abbv-header-v2"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.infed.com/why-infed",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-row-container.anchor-nav-mob-hide"
+    },
+    {
+      "relativePath": "legacy_of_balance__default.png",
+      "sourceUrl": "https://www.infed.com/why-infed",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-container.why-infed-legacy-section-1"
+    },
+    {
+      "relativePath": "how_infed_works__default.png",
+      "sourceUrl": "https://www.infed.com/why-infed",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-container.why-infed-legacy-section-2"
+    },
+    {
+      "relativePath": "coverage_section__default.png",
+      "sourceUrl": "https://www.infed.com/why-infed",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-container.why-infed-legacy-section-3"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.infed.com/about-id-and-ida",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": "#hdrv2-utilnav"
+    },
+    {
+      "relativePath": "cta_columns__default.png",
+      "sourceUrl": "https://www.infed.com/about-id-and-ida",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-row-container.about-id-section-2"
+    },
+    {
+      "relativePath": "prevalence_section__default.png",
+      "sourceUrl": "https://www.infed.com/about-id-and-ida",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-container.abbv-siab.about-id-3-images-section"
+    },
+    {
+      "relativePath": "identifying_id_section__default.png",
+      "sourceUrl": "https://www.infed.com/about-id-and-ida",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-row-container.abbv-siab.identifying-id-section"
+    },
+    {
+      "relativePath": "demographics_section__default.png",
+      "sourceUrl": "https://www.infed.com/about-id-and-ida",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-container.abbv-siab.demographics-section"
+    },
+    {
+      "relativePath": "symptoms_section__default.png",
+      "sourceUrl": "https://www.infed.com/about-id-and-ida",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-container.abbv-siab.what-to-look-for-section"
+    },
+    {
+      "relativePath": "diagnosis_section__default.png",
+      "sourceUrl": "https://www.infed.com/about-id-and-ida",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-container.abbv-siab.diagnosis-id-and-ida"
+    },
+    {
+      "relativePath": "management_section__default.png",
+      "sourceUrl": "https://www.infed.com/about-id-and-ida",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-container.abbv-siab.management-and-treatment"
+    },
+    {
+      "relativePath": "learn_more_section__default.png",
+      "sourceUrl": "https://www.infed.com/about-id-and-ida",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-siab.learn-more-about-section"
+    },
+    {
+      "relativePath": "cta_buttons__default.png",
+      "sourceUrl": "https://www.infed.com/dosing-and-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".button-group"
+    },
+    {
+      "relativePath": "dosing_duration__default.png",
+      "sourceUrl": "https://www.infed.com/dosing-and-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".infed-dosing-and-duration"
+    },
+    {
+      "relativePath": "test_dose_section__default.png",
+      "sourceUrl": "https://www.infed.com/dosing-and-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".administering-a-test-dose"
+    },
+    {
+      "relativePath": "ida_dosage__default.png",
+      "sourceUrl": "https://www.infed.com/dosing-and-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".recommended-dosage"
+    },
+    {
+      "relativePath": "iron_replacement__default.png",
+      "sourceUrl": "https://www.infed.com/dosing-and-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".iron-replacement"
+    },
+    {
+      "relativePath": "prescription_details__default.png",
+      "sourceUrl": "https://www.infed.com/dosing-and-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".infed-prescription-details"
+    },
+    {
+      "relativePath": "total_dose_calculator__default.png",
+      "sourceUrl": "https://www.infed.com/dosing-and-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".total-dose-calculator"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.infed.com/dosing-and-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.infed.com/references",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "references_list__default.png",
+      "sourceUrl": "https://www.infed.com/references",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-rich-text.infed-references-text"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.infed.com/references",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "cookie_settings__default.png",
+      "sourceUrl": "https://www.infed.com/references",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": "#ot-sdk-btn1"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.infed.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:15:09.384Z",
+      "selector": ".infed-sitemap-list"
+    }
+  ]
+}

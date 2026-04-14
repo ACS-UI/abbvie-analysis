@@ -1,0 +1,26 @@
+{
+  "blockId": "informational_text",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Informational Text",
+  "description": "Text block providing details about the registration and resources.",
+  "domHints": {
+    "selectors": [
+      ".stay-informed-rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

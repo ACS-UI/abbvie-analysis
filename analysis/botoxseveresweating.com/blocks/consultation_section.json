@@ -1,0 +1,26 @@
+{
+  "blockId": "consultation_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Consultation Information",
+  "description": "Details about what to expect during a dermatologist consultation.",
+  "domHints": {
+    "selectors": [
+      ".about_col:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

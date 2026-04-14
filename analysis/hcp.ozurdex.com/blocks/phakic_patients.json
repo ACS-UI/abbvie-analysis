@@ -1,0 +1,26 @@
+{
+  "blockId": "phakic_patients",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Phakic Patients",
+  "description": "Details the efficacy outcomes for phakic patients.",
+  "domHints": {
+    "selectors": [
+      "#phakic-patients"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,35 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.abbvieaccess.com/brand/lupron-men",
+          "https://www.abbvieaccess.com/brand/combigan",
+          "https://www.abbvieaccess.com/request-a-rep",
+          "https://www.abbvieaccess.com/womens-health",
+          "https://www.abbvieaccess.com/",
+          "https://www.abbvieaccess.com/hcp-registration/abbvieaccess-registration",
+          "https://www.abbvieaccess.com/preference-center",
+          "https://www.abbvieaccess.com/search-results",
+          "https://www.abbvieaccess.com/resource-request",
+          "https://www.abbvieaccess.com/enrollment-forms",
+          "https://www.abbvieaccess.com/formulary-coverage",
+          "https://www.abbvieaccess.com/patient-resources",
+          "https://www.abbvieaccess.com/reimbursement-program",
+          "https://www.abbvieaccess.com/patient-assistance",
+          "https://www.abbvieaccess.com/prior-authorization"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:57:34.616Z"
+}

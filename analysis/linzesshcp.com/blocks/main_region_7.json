@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_7",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "main region 7",
+  "description": "Major content region in main (div). Preview: Set expectations with patients on LINZESS In pivotal studies, adult patients with IBS-C started to feel improvement in C…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(8)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

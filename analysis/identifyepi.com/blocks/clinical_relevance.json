@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_relevance",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Clinical Relevance Section",
+  "description": "Discusses the clinical relevance of malabsorption and symptoms.",
+  "domHints": {
+    "selectors": [
+      ".epi-clinically-relevant-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

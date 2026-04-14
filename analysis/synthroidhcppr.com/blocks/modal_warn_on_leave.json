@@ -1,0 +1,27 @@
+{
+  "blockId": "modal_warn_on_leave",
+  "templateIds": [
+    "tpl_0",
+    "tpl_4"
+  ],
+  "name": "Warn on Leave Modal",
+  "description": "Notifies users when they are leaving the Synthroid site.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.synthroidWarnOnLeave"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

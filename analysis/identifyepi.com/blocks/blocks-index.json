@@ -1,0 +1,1174 @@
+{
+  "blocks": [
+    {
+      "blockId": "global_utility_strip",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "primary_header",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hero_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptoms_icons_grid",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "content_columns",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "references_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "back_to_top",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cookie_consent",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "global_utility_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "primary_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "search_results",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cookie_consent_modal",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hcp_modal",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptoms_overview",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptoms_details",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptoms_advice",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptom_checker_cta",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "additional_resources",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "intro_paragraph",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "accordion_underlying_conditions",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "highlight_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cta_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_grid",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cta_blocks",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_links",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_transcript_content",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_legal_text",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "back_to_top_button",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "modal_advertising_choices",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "modal_hcp_warning",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "faq_accordion",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cta_get_updates",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "epi_resources_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_heading",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "signup_form",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_legal",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cookie_settings",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "intro_text",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptoms_checklist",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "specialist_information",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "epi_tests_overview",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "test_details",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "treatment_information",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "intro_content",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "pert_information",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "pancreas_function",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "enzymes_information",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "epi_causes",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "digestion_carousel",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "epi_resources",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hero_section_1",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hero_section_2",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptom_checker_intro",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptom_checker_tool",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "next_steps",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "reference_sources",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_playlist",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "individual_videos",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "resource_ctas",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "utility_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_section_1",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_section_2",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptoms_cta",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "telemedicine_tips",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "resources_cta",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "intro_column",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptoms_highlight",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "clinical_relevance",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "spotlight_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_form",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "search_bar",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "intro_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "pert_explanation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "pert_guidelines",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "support_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "videos_intro",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_video_player",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "individual_video_players",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "patient_videos_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_thumbnails",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "intro_columns",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptoms_columns",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "signs_and_symptoms",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "underlying_conditions",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_spotlight",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "patient_questions",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "icd_code_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "diagnostic_tests",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_references",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "study_highlight",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "resources_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "form_embed",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "doctor_locator_tool",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "additional_info",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "transcript_content",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "sitemap_links",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_highlights",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "videos_for_practice",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "videos_for_patients",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "bottom_cta",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "signup_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "general_resources",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "pancreatic_resources",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "etiology_intro",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "etiology_causes",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "accordion_conditions",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "header_logo",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "diet_lifestyle_intro",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "digestion_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "diet_tips",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cf_commitment_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "references",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "content_section_pancreas_roles",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "content_section_pancreatic_enzymes",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "content_section_enzyme_secretion",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "management_plan",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "standard_of_care",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "dosing_guidelines",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "adjustment_guidelines",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "below_header_intro",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "challenge_factors",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "spotlight_video",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "symptom_timeline",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "telemedicine_video",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "header_utility_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "site_map_content",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    }
+  ]
+}

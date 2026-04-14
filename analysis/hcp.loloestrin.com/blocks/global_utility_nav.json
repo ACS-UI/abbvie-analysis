@@ -1,0 +1,26 @@
+{
+  "blockId": "global_utility_nav",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick links for healthcare professionals, safety information, prescribing information, and patient site access.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

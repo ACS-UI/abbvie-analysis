@@ -1,0 +1,26 @@
+{
+  "blockId": "video_transcription",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Video Transcription",
+  "description": "Detailed transcription of the video content explaining hepatitis C and MAVYRET.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.transcript-container .abbv-rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

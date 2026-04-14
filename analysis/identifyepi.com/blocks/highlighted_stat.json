@@ -1,0 +1,26 @@
+{
+  "blockId": "highlighted_stat",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Highlighted Statistic",
+  "description": "Highlights a key statistic about EPI diagnoses.",
+  "domHints": {
+    "selectors": [
+      ".epi-translucent-block"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

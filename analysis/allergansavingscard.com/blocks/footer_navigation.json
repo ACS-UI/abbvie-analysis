@@ -1,0 +1,30 @@
+{
+  "blockId": "footer_navigation",
+  "templateIds": [
+    "tpl_23",
+    "tpl_175",
+    "tpl_198",
+    "tpl_225",
+    "tpl_240"
+  ],
+  "name": "Footer Navigation",
+  "description": "Footer with site-wide links and information.",
+  "domHints": {
+    "selectors": [
+      "#navigation-65860bfaad"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

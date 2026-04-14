@@ -1,0 +1,26 @@
+{
+  "blockId": "macular_edema_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Macular Edema Section",
+  "description": "Detailed information about macular edema, its causes, and related content.",
+  "domHints": {
+    "selectors": [
+      "#macular-edema"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

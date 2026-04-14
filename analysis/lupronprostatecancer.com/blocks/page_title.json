@@ -1,0 +1,26 @@
+{
+  "blockId": "page_title",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Page Title",
+  "description": "Displays the main title of the page.",
+  "domHints": {
+    "selectors": [
+      ".page-title-container .abbv-rich-text h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

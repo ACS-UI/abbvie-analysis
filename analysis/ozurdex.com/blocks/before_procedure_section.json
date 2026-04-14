@@ -1,0 +1,26 @@
+{
+  "blockId": "before_procedure_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Before the Procedure",
+  "description": "Details the steps and preparations required before the procedure.",
+  "domHints": {
+    "selectors": [
+      ".flex-container.before-procedure"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

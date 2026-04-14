@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section_2",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "CTA Section 2",
+  "description": "Promotes learning about treatment options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.get-a-guide-doctor-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

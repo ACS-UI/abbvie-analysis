@@ -1,0 +1,26 @@
+{
+  "blockId": "prose_columns",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Prose Columns",
+  "description": "Columns with descriptive text and images providing information about the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.prescribed-columns"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

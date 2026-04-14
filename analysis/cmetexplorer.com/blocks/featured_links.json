@@ -1,0 +1,27 @@
+{
+  "blockId": "featured_links",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Featured Links",
+  "description": "A set of highlighted links to important or relevant sections or pages.",
+  "domHints": {
+    "selectors": [
+      "ul#linklist-ebaab6114c",
+      "ul.cmp-list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

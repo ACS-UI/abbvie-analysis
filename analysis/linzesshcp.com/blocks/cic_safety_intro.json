@@ -1,0 +1,26 @@
+{
+  "blockId": "cic_safety_intro",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "CIC Safety Introduction",
+  "description": "Introduces the safety profile of LINZESS for CIC patients with key highlights.",
+  "domHints": {
+    "selectors": [
+      ".cic-safety-title-desc-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

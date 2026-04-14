@@ -1,0 +1,26 @@
+{
+  "blockId": "identifying_synthroid",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Identifying Synthroid",
+  "description": "Educates on how to identify Synthroid pills and their dosages.",
+  "domHints": {
+    "selectors": [
+      ".synthroid-idsyn-new-header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

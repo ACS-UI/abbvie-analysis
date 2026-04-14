@@ -1,0 +1,130 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:19:52.257Z",
+  "completedAt": "2026-04-13T15:29:19.021Z",
+  "input": {
+    "url": "https://www.emblaveo.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/emblaveo.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Error Page",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Sitemap Page",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Video Gallery",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Content Article",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Registration Form",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Clinical Data",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Testing Information",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Safety Profile",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Medical Information",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Mechanism of Action",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Dosing Information",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Ordering Support",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Customer Support",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      }
+    ]
+  }
+}

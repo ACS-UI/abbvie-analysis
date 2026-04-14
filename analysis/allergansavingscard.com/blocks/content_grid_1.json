@@ -1,0 +1,26 @@
+{
+  "blockId": "content_grid_1",
+  "templateIds": [
+    "tpl_270"
+  ],
+  "name": "Content Grid 1",
+  "description": "Grid layout showcasing an image and text content with a button.",
+  "domHints": {
+    "selectors": [
+      "#container-a9a9fe74b6 .grid-row:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_270 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

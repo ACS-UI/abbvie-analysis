@@ -1,0 +1,26 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.burdenofad.com/sitemap",
+          "https://www.burdenofad.com/",
+          "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+          "https://www.burdenofad.com/patient-reported-outcomes",
+          "https://www.burdenofad.com/mechanism-of-disease",
+          "https://www.burdenofad.com/resources"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:21:43.956Z"
+}

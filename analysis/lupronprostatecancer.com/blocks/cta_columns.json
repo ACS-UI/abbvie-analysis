@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_columns",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "CTA Columns",
+  "description": "Columns with call-to-action buttons for key resources and information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.banner-cta-columns"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

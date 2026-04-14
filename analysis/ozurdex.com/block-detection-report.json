@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_1",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "How It Works Page",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "About Condition Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Site Navigation Page",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Warning Page",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 2
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Search Results Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Cookies Settings Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "What to Expect Page",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    }
+  ],
+  "generatedAt": "2026-04-13T15:41:03.228Z"
+}

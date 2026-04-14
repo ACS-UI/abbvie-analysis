@@ -1,0 +1,26 @@
+{
+  "blockId": "closer_look_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "A Closer Look Section",
+  "description": "Detailed information about Maria's background and challenges.",
+  "domHints": {
+    "selectors": [
+      ".flex-green-pink-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

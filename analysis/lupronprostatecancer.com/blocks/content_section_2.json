@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_2",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Content Section 2",
+  "description": "Information on flexible dosing options for treatment.",
+  "domHints": {
+    "selectors": [
+      ".dosing-option-treatment-option-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

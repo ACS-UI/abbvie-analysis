@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_plan",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Developing a Treatment Plan",
+  "description": "Guidance on creating a treatment plan with healthcare providers.",
+  "domHints": {
+    "selectors": [
+      "#treatment-plan"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

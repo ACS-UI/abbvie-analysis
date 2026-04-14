@@ -1,0 +1,26 @@
+{
+  "blockId": "patients_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Patients Section",
+  "description": "Provides information and resources for patients, including a brochure download.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-item.ozurdex-home-patients"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

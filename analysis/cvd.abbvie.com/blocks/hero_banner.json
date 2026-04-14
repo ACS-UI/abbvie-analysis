@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_banner",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Hero Banner",
+  "description": "Displays the main title and introductory content for the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.banner-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

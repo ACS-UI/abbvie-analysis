@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosing_crohns_section",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Diagnosing Crohn's Section",
+  "description": "Information on tests and procedures for diagnosing Crohn's disease.",
+  "domHints": {
+    "selectors": [
+      "#diagnosingcrohns"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

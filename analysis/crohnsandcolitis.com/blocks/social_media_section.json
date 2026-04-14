@@ -1,0 +1,26 @@
+{
+  "blockId": "social_media_section",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Social Media Section",
+  "description": "Showcases social media groups and communities for engagement.",
+  "domHints": {
+    "selectors": [
+      "#sm"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

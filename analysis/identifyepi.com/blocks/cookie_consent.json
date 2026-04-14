@@ -1,0 +1,27 @@
+{
+  "blockId": "cookie_consent",
+  "templateIds": [
+    "tpl_0",
+    "tpl_19"
+  ],
+  "name": "Cookie Consent Modal",
+  "description": "Displays cookie consent options for the user.",
+  "domHints": {
+    "selectors": [
+      "#ot-sdk-btn1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

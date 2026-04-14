@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.beyondagutfeeling.com/",
+  "normalisedUrl": "https://www.beyondagutfeeling.com/",
+  "finalUrlAfterRedirects": "https://www.beyondagutfeeling.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:36:30.891Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

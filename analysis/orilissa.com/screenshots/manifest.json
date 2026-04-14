@@ -1,0 +1,304 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_chrome__default.png",
+      "sourceUrl": "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": "header"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "columns__default.png",
+      "sourceUrl": "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "form_block_0__default.png",
+      "sourceUrl": "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1)"
+    },
+    {
+      "relativePath": "form_block_1__default.png",
+      "sourceUrl": "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1)"
+    },
+    {
+      "relativePath": "form_block_2__default.png",
+      "sourceUrl": "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "send_mail_tool__default.png",
+      "sourceUrl": "https://www.orilissa.com/emails/video-emails/6122699813001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-send-mail.ori-send-email"
+    },
+    {
+      "relativePath": "form_fields__default.png",
+      "sourceUrl": "https://www.orilissa.com/emails/video-emails/6122699813001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-form-wrapper.abbv-from-name"
+    },
+    {
+      "relativePath": "form_buttons__default.png",
+      "sourceUrl": "https://www.orilissa.com/emails/video-emails/6122699813001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-mail-buttons"
+    },
+    {
+      "relativePath": "captcha_protection__default.png",
+      "sourceUrl": "https://www.orilissa.com/emails/video-emails/6122699813001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-badgeless-captcha"
+    },
+    {
+      "relativePath": "loading_feedback__default.png",
+      "sourceUrl": "https://www.orilissa.com/emails/video-emails/6122699813001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".loading"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.orilissa.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.orilissa.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.orilissa.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-background-container.hero-home"
+    },
+    {
+      "relativePath": "cta_cards__default.png",
+      "sourceUrl": "https://www.orilissa.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-flex-container.home-ctas"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.orilissa.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.orilissa.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.orilissa.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.orilissa.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.orilissa.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_dialogs__default.png",
+      "sourceUrl": "https://www.orilissa.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "breadcrumbs_navigation__default.png",
+      "sourceUrl": "https://www.orilissa.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-breadcrumb-navigation"
+    },
+    {
+      "relativePath": "savings_card_info__default.png",
+      "sourceUrl": "https://www.orilissa.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-row-container.margin-bottom-40"
+    },
+    {
+      "relativePath": "savings_card_form__default.png",
+      "sourceUrl": "https://www.orilissa.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".forms-embed"
+    },
+    {
+      "relativePath": "savings_card_image__default.png",
+      "sourceUrl": "https://www.orilissa.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".img--savings-card"
+    },
+    {
+      "relativePath": "help_section__default.png",
+      "sourceUrl": "https://www.orilissa.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-row-container.orilissa-co-pay-card-cs"
+    },
+    {
+      "relativePath": "breadcrumb_navigation__default.png",
+      "sourceUrl": "https://www.orilissa.com/find-an-obgyn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": "header.abbv-header-utility-navigation_mobile_home"
+    },
+    {
+      "relativePath": "site_map_links_home__default.png",
+      "sourceUrl": "https://www.orilissa.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": "header.abbv-header-utility-navigation_mobile_home"
+    },
+    {
+      "relativePath": "send_email_form__default.png",
+      "sourceUrl": "https://www.orilissa.com/emails/endo-resource",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:59.556Z",
+      "selector": ".abbv-send-email-form"
+    }
+  ]
+}

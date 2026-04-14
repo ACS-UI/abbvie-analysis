@@ -1,0 +1,26 @@
+{
+  "blockId": "key_dates",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Key Dates Section",
+  "description": "Lists important dates for the scholarship application process.",
+  "domHints": {
+    "selectors": [
+      ".application-status"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

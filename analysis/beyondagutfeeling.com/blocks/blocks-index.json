@@ -1,0 +1,94 @@
+{
+  "blocks": [
+    {
+      "blockId": "global_utility_strip",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "primary_header",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hero_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "intro_text",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_player",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "accordion_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "three_column_cta",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "goals_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "understanding_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    }
+  ]
+}

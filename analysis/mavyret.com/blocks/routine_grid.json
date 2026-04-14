@@ -1,0 +1,26 @@
+{
+  "blockId": "routine_grid",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Routine Grid",
+  "description": "Showcases features of the treatment in a grid format.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.routine-grid"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

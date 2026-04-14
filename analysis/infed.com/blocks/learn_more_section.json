@@ -1,0 +1,26 @@
+{
+  "blockId": "learn_more_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Learn More Section",
+  "description": "Encourages users to explore additional resources about INFeD.",
+  "domHints": {
+    "selectors": [
+      ".abbv-siab.learn-more-about-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

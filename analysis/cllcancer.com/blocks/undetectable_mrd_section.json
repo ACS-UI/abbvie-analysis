@@ -1,0 +1,26 @@
+{
+  "blockId": "undetectable_mrd_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Undetectable MRD Section",
+  "description": "Describes the state of undetectable MRD after treatment.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-item:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

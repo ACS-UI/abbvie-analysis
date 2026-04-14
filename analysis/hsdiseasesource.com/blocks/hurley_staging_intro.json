@@ -1,0 +1,26 @@
+{
+  "blockId": "hurley_staging_intro",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Hurley Staging Introduction",
+  "description": "Introduction to the Hurley Staging System with descriptive text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.mb3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

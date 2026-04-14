@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_youtube",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "YouTube Modal",
+  "description": "A modal for YouTube-related information.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-modal.nobsYoutubeModal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

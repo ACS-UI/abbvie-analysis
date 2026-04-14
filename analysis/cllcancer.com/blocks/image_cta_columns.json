@@ -1,0 +1,26 @@
+{
+  "blockId": "image_cta_columns",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Image CTA Columns",
+  "description": "Columns with call-to-action links for exploring treatments and signing up.",
+  "domHints": {
+    "selectors": [
+      ".column-container__image-cta"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

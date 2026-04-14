@@ -1,0 +1,26 @@
+{
+  "blockId": "important_safety_links",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Important Safety Links",
+  "description": "Provides links to important safety and prescribing information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-item-v2.safety-links"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

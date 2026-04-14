@@ -1,0 +1,28 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.lupronped.com/glossary",
+          "https://www.lupronped.com/about-lupron-depot-ped?3#flexible-dosing",
+          "https://www.lupronped.com/starting-therapy?1#expect-atdoctor",
+          "https://www.lupronped.com/understanding-central-precocious-puberty?1#signs-of-cpp",
+          "https://www.lupronped.com/",
+          "https://www.lupronped.com/site-map",
+          "https://www.lupronped.com/isi",
+          "https://www.lupronped.com/search-results"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:32:51.790Z"
+}

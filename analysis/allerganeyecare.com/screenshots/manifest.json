@@ -1,0 +1,564 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-image-text.allerganeyecare-hero-home"
+    },
+    {
+      "relativePath": "cta_buttons__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".top-two-btns-header"
+    },
+    {
+      "relativePath": "intro_text_section__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-wevebeencr"
+    },
+    {
+      "relativePath": "image_highlight__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan75-image-container"
+    },
+    {
+      "relativePath": "audience_cta__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-rectangleC-moblie"
+    },
+    {
+      "relativePath": "products_carousel__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allerrgan-global-carousel"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/prescribing-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "page_heading__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/prescribing-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".prescribing-information-heading"
+    },
+    {
+      "relativePath": "prescribing_information_list__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/prescribing-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".p-i-list-view"
+    },
+    {
+      "relativePath": "contact_us_heading__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/contact-us",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".contact-us-pageheading"
+    },
+    {
+      "relativePath": "contact_us_sections__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/contact-us",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-contact-col"
+    },
+    {
+      "relativePath": "instagram_carousel__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/contact-us",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".common-instagram-carousel"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/contact-us",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-image-text.allergan-hero-banner-text"
+    },
+    {
+      "relativePath": "mission_statement__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".techalliance-ourmission"
+    },
+    {
+      "relativePath": "resources_links__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-linklistor-bg"
+    },
+    {
+      "relativePath": "our_products_heading__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".our-products-heading-homepage"
+    },
+    {
+      "relativePath": "product_tabs__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-tabs"
+    },
+    {
+      "relativePath": "patient_savings_intro__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources/patient-savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-row-container.allegan-ptnt-products"
+    },
+    {
+      "relativePath": "vuity_savings_program__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources/patient-savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-patient-saving-vuity-sec"
+    },
+    {
+      "relativePath": "restasis_savings_program__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources/patient-savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-patient-saving-mytears-sec"
+    },
+    {
+      "relativePath": "ays_savings_program__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources/patient-savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-patient-saving-zurdex-sec3"
+    },
+    {
+      "relativePath": "patient_assistance_intro__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources/patient-assistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergen-assistance-title"
+    },
+    {
+      "relativePath": "patient_assistance_details__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources/patient-assistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-patient-assistance-sec2"
+    },
+    {
+      "relativePath": "adverse_events_reporting__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources/patient-assistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-adverse"
+    },
+    {
+      "relativePath": "carousel_our_products__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources/patient-assistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".our-products-type-two-carousel"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/product-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-container .abbv-row-container .abbv-rich-text.thelinksan"
+    },
+    {
+      "relativePath": "product_information_section__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/product-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-container .abbv-row-container .abbv-rich-text.abbv-rich-text-common"
+    },
+    {
+      "relativePath": "accordion_product_details__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/product-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-accordion.allergan-accordian-product-information"
+    },
+    {
+      "relativePath": "intro_columns__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-row-container > .abbv-row:nth-of-type(1)"
+    },
+    {
+      "relativePath": "cta_links__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-linklistor-bg"
+    },
+    {
+      "relativePath": "assistance_savings_section__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": "#background-container-1055059739"
+    },
+    {
+      "relativePath": "eye_conditions_grid__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/patientcareresources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-container.allergan-eye-three-col"
+    },
+    {
+      "relativePath": "error_message__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/page-not-found",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-rich-text-common"
+    },
+    {
+      "relativePath": "cta_button__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/page-not-found",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".page-not-found-primary-btn"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/page-not-found",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "secondary_navigation__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/ecp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": "div.abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/system-error",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "error_content__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/system-error",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-content > .newpar"
+    },
+    {
+      "relativePath": "cta_banner__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/system-error",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-rich-text .cta"
+    },
+    {
+      "relativePath": "program_overview__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/ecp/jumpstart_1",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": "#background-container-903924010"
+    },
+    {
+      "relativePath": "program_benefits__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/ecp/jumpstart_1",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-patient-saving-vuity-sec"
+    },
+    {
+      "relativePath": "registration_section__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/ecp/jumpstart_1",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".jumpstarrt-reg"
+    },
+    {
+      "relativePath": "products_section__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/ecp/jumpstart_1",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".common-instagram-carousel"
+    },
+    {
+      "relativePath": "resource_links__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance/office-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-container.allergan-linklistor-bg"
+    },
+    {
+      "relativePath": "office_resources_heading__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance/office-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-row-container.ofc-res-heading"
+    },
+    {
+      "relativePath": "office_resources_tabs__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance/office-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-container.ofc-res-tab"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance/office-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".abbv-row-container.office-resources-video-section"
+    },
+    {
+      "relativePath": "thank_you_message__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/ecp/thank-you",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-jump-start-top-thankyou"
+    },
+    {
+      "relativePath": "site_map_heading__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".site-map-heading"
+    },
+    {
+      "relativePath": "site_map_links__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": "div.abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".scroll_head"
+    },
+    {
+      "relativePath": "helpful_links_list__default.png",
+      "sourceUrl": "https://www.abbvieeyecare.com/techalliance/helpful-links",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:01:12.211Z",
+      "selector": ".allergan-eye-care-links"
+    }
+  ]
+}

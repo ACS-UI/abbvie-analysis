@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.lupronprostatecancer.com",
+  "normalisedUrl": "https://www.lupronprostatecancer.com/",
+  "finalUrlAfterRedirects": "https://www.lupronprostatecancer.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:17:32.643Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

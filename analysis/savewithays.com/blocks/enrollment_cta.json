@@ -1,0 +1,26 @@
+{
+  "blockId": "enrollment_cta",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Enrollment CTA",
+  "description": "Encourages users to enroll in the program with a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      ".allergan-enroll-now-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

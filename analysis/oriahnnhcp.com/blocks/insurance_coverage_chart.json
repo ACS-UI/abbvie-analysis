@@ -1,0 +1,26 @@
+{
+  "blockId": "insurance_coverage_chart",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Insurance Coverage Chart",
+  "description": "Displays a pie chart summarizing insurance coverage statistics.",
+  "domHints": {
+    "selectors": [
+      ".abbv-interactive-chart"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

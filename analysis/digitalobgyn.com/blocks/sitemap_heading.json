@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_heading",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Sitemap Heading",
+  "description": "Heading for the sitemap section.",
+  "domHints": {
+    "selectors": [
+      ".sitemap-heading"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_1",
+      "humanName": "HCP Homepage",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "HCP Resources",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "HCP Reimbursement",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "HCP Mechanism of Action",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "HCP Clinical Efficacy",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "HCP Sitemap",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "HCP About Ozurdex",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    }
+  ],
+  "generatedAt": "2026-04-13T15:42:44.253Z"
+}

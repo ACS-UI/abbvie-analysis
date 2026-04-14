@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_buttons",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Call-to-Action Buttons",
+  "description": "Buttons for navigating to specific topics or actions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

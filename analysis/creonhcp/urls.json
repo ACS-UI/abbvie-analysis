@@ -1,0 +1,511 @@
+{
+  "entryUrl": "https://www.creonhcp.com/",
+  "discoveredAt": "2026-04-13T12:30:10.767Z",
+  "urls": [
+    {
+      "url": "https://www.creonhcp.com/",
+      "normalised": "https://www.creonhcp.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/content/dam/creonhcp/pdf/creon-24k-36k-dosing-chart.pdf",
+      "normalised": "https://www.creonhcp.com/content/dam/creonhcp/pdf/creon-24k-36k-dosing-chart.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creonhcp.com/content/dam/creonhcp/pdf/creon-doctor-discussion-guide.pdf",
+      "normalised": "https://www.creonhcp.com/content/dam/creonhcp/pdf/creon-doctor-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creonhcp.com/content/dam/creonhcp/pdf/creon-treatment-tracker.pdf",
+      "normalised": "https://www.creonhcp.com/content/dam/creonhcp/pdf/creon-treatment-tracker.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creonhcp.com/content/dam/creonhcp/pdf/36kdosingsummary.pdf",
+      "normalised": "https://www.creonhcp.com/content/dam/creonhcp/pdf/36kdosingsummary.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creonhcp.com/content/dam/creonhcp/pdf/health-insurance-creon-guide.pdf",
+      "normalised": "https://www.creonhcp.com/content/dam/creonhcp/pdf/health-insurance-creon-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creonhcp.com/content/dam/creonhcp/pdf/creon-complete-treatment-tracker.pdf",
+      "normalised": "https://www.creonhcp.com/content/dam/creonhcp/pdf/creon-complete-treatment-tracker.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creonhcp.com/symptoms-of-epi",
+      "normalised": "https://www.creonhcp.com/symptoms-of-epi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/managing-epi",
+      "normalised": "https://www.creonhcp.com/managing-epi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/dosing-administration",
+      "normalised": "https://www.creonhcp.com/dosing-administration",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/understanding-epi",
+      "normalised": "https://www.creonhcp.com/understanding-epi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/patient-support",
+      "normalised": "https://www.creonhcp.com/patient-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/cystic-fibrosis-dosing",
+      "normalised": "https://www.creonhcp.com/cystic-fibrosis-dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/dosing-160-315lb-patients-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/dosing-160-315lb-patients-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/site-map",
+      "normalised": "https://www.creonhcp.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/formulary-lookup",
+      "normalised": "https://www.creonhcp.com/formulary-lookup",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/sitemap",
+      "normalised": "https://www.creonhcp.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/epi-differential-diagnosis-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/epi-differential-diagnosis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/mechanism-of-action",
+      "normalised": "https://www.creonhcp.com/mechanism-of-action",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/access-coverage",
+      "normalised": "https://www.creonhcp.com/access-coverage",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/symptoms-features-epi-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/symptoms-features-epi-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/resources",
+      "normalised": "https://www.creonhcp.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/dosing-other-epi-conditions",
+      "normalised": "https://www.creonhcp.com/dosing-other-epi-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/dosing-cp-py-patient-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/dosing-cp-py-patient-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/search-results",
+      "normalised": "https://www.creonhcp.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/cp-or-pancreatectomy",
+      "normalised": "https://www.creonhcp.com/cp-or-pancreatectomy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/safety-data",
+      "normalised": "https://www.creonhcp.com/safety-data",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/discussion-guide",
+      "normalised": "https://www.creonhcp.com/discussion-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/diagnosing-epi",
+      "normalised": "https://www.creonhcp.com/diagnosing-epi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/underlying-conditions",
+      "normalised": "https://www.creonhcp.com/underlying-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/efficacy",
+      "normalised": "https://www.creonhcp.com/efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/about-creon",
+      "normalised": "https://www.creonhcp.com/about-creon",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/dosing-calculator",
+      "normalised": "https://www.creonhcp.com/dosing-calculator",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/contact-a-rep",
+      "normalised": "https://www.creonhcp.com/contact-a-rep",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/tips-newly-diagnosed-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/tips-newly-diagnosed-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos",
+      "normalised": "https://www.creonhcp.com/creon-videos",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/collaborative-epi-management-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/collaborative-epi-management-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/optimizing-epi-management-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/optimizing-epi-management-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/why-creon-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/why-creon-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/dosing-epi",
+      "normalised": "https://www.creonhcp.com/dosing-epi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-starting-dose",
+      "normalised": "https://www.creonhcp.com/creon-starting-dose",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/treatment-tracker",
+      "normalised": "https://www.creonhcp.com/treatment-tracker",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/dosing-110-160lb-patients-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/dosing-110-160lb-patients-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/communication-diagnosing-epi-transcript",
+      "normalised": "https://www.creonhcp.com/creon-videos/communication-diagnosing-epi-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/challenges-to-diagnosis",
+      "normalised": "https://www.creonhcp.com/challenges-to-diagnosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/access-coverage/formulary-lookup",
+      "normalised": "https://www.creonhcp.com/access-coverage/formulary-lookup",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-patient-support",
+      "normalised": "https://www.creonhcp.com/creon-patient-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/on-course",
+      "normalised": "https://www.creonhcp.com/on-course",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/cfcareforward",
+      "normalised": "https://www.creonhcp.com/cfcareforward",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/hcp/resources",
+      "normalised": "https://www.creonhcp.com/hcp/resources",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-897748787-0",
+      "normalised": "https://www.creonhcp.com/abbv-tab-897748787-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-2036695342-0",
+      "normalised": "https://www.creonhcp.com/abbv-tab-2036695342-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-897748787-1",
+      "normalised": "https://www.creonhcp.com/abbv-tab-897748787-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-249405452-0",
+      "normalised": "https://www.creonhcp.com/abbv-tab-249405452-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-897748787-2",
+      "normalised": "https://www.creonhcp.com/abbv-tab-897748787-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-2036695342-1",
+      "normalised": "https://www.creonhcp.com/abbv-tab-2036695342-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-2000063064-1",
+      "normalised": "https://www.creonhcp.com/abbv-tab-2000063064-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/hcp/enroll",
+      "normalised": "https://www.creonhcp.com/hcp/enroll",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-296515896-0",
+      "normalised": "https://www.creonhcp.com/abbv-tab-296515896-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-complete",
+      "normalised": "https://www.creonhcp.com/creon-complete",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/abbv-tab-897748787-2",
+      "normalised": "https://www.creonhcp.com/creon-videos/abbv-tab-897748787-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-2100314481-0",
+      "normalised": "https://www.creonhcp.com/abbv-tab-2100314481-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-1047820223-1",
+      "normalised": "https://www.creonhcp.com/abbv-tab-1047820223-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/hcp/patient-support",
+      "normalised": "https://www.creonhcp.com/hcp/patient-support",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-1047820223-0",
+      "normalised": "https://www.creonhcp.com/abbv-tab-1047820223-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-2100314481-1",
+      "normalised": "https://www.creonhcp.com/abbv-tab-2100314481-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/abbv-tab-897748787-0",
+      "normalised": "https://www.creonhcp.com/creon-videos/abbv-tab-897748787-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/creon-videos/abbv-tab-897748787-1",
+      "normalised": "https://www.creonhcp.com/creon-videos/abbv-tab-897748787-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-2000063064-0",
+      "normalised": "https://www.creonhcp.com/abbv-tab-2000063064-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-249405452-1",
+      "normalised": "https://www.creonhcp.com/abbv-tab-249405452-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creonhcp.com/abbv-tab-296515896-2",
+      "normalised": "https://www.creonhcp.com/abbv-tab-296515896-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 71,
+    "bySource": {
+      "sitemap": 22,
+      "crawl": 49,
+      "manual": 0
+    }
+  }
+}

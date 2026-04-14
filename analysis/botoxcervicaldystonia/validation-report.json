@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.botoxcervicaldystonia.com/",
+  "normalisedUrl": "https://www.botoxcervicaldystonia.com/",
+  "finalUrlAfterRedirects": "https://www.botoxcervicaldystonia.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T12:21:38.397Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

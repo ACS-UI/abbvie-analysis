@@ -1,0 +1,26 @@
+{
+  "blockId": "image_section_1",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Image Section 1",
+  "description": "Displays an image illustrating dosage adjustment chart for EMRELIS.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text-v2:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "section_inflammation",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Inflammation Section",
+  "description": "Describes the role of inflammation in eczema.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.bg--green"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

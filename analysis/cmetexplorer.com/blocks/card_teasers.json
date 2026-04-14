@@ -1,0 +1,27 @@
+{
+  "blockId": "card_teasers",
+  "templateIds": [
+    "tpl_34",
+    "tpl_293"
+  ],
+  "name": "Card Teasers",
+  "description": "Displays content cards with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory.card-dashboard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_34 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

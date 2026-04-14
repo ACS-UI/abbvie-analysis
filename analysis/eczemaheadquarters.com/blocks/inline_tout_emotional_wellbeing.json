@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_tout_emotional_wellbeing",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Inline Tout: Emotional Well-Being",
+  "description": "Discusses the emotional impact of eczema and ways to manage it, with visuals and a call-to-action.",
+  "domHints": {
+    "selectors": [
+      "div.personalization-inline-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

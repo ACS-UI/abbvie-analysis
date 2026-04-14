@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides introductory information about the clinical trials and their outcomes.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.ori-x-accent-teal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "side_navigation",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Side Navigation",
+  "description": "Provides additional navigation links related to the current section.",
+  "domHints": {
+    "selectors": [
+      ".nobs-sidenav-linklist"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

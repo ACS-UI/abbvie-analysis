@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.allerganeyecare.com/",
+  "normalisedUrl": "https://www.allerganeyecare.com/",
+  "finalUrlAfterRedirects": "https://www.abbvieeyecare.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:42:48.418Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

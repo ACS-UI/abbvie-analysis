@@ -1,0 +1,27 @@
+{
+  "blockId": "main_content_cards",
+  "templateIds": [
+    "tpl_58"
+  ],
+  "name": "Main Content Cards",
+  "description": "Grid of cards showcasing stories or highlights.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory",
+      "div.dashboardcards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_58 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,30 @@
+{
+  "blockId": "floating_isi",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3",
+    "tpl_8",
+    "tpl_9",
+    "tpl_11"
+  ],
+  "name": "Floating ISI",
+  "description": "Displays important safety information in a floating section.",
+  "domHints": {
+    "selectors": [
+      "#divFloatingISI"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

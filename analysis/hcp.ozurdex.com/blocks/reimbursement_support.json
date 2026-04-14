@@ -1,0 +1,26 @@
+{
+  "blockId": "reimbursement_support",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Reimbursement Support",
+  "description": "Details reimbursement and order support options with accompanying visuals.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.ozurdex-hcp-reimbursement"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

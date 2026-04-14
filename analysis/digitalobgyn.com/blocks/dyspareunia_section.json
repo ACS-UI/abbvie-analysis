@@ -1,0 +1,26 @@
+{
+  "blockId": "dyspareunia_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Dyspareunia Section",
+  "description": "Provides information and videos about dyspareunia in the context of endometriosis.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1273957900"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

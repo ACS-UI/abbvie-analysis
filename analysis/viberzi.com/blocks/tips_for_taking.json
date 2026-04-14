@@ -1,0 +1,26 @@
+{
+  "blockId": "tips_for_taking",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Tips for Taking VIBERZI",
+  "description": "Provides practical advice for incorporating VIBERZI into daily life.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.pattern-14.tips-conainer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

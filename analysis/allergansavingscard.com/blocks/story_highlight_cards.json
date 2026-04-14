@@ -1,0 +1,26 @@
+{
+  "blockId": "story_highlight_cards",
+  "templateIds": [
+    "tpl_118"
+  ],
+  "name": "Story Highlight Cards",
+  "description": "Displays featured stories in a card format with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_118 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "terms_conditions",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Terms and Conditions",
+  "description": "Displays the terms and conditions of the savings program.",
+  "domHints": {
+    "selectors": [
+      "#terms-conditions"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

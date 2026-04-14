@@ -1,0 +1,27 @@
+{
+  "blockId": "spotlight_section",
+  "templateIds": [
+    "tpl_7",
+    "tpl_10"
+  ],
+  "name": "Spotlight Section",
+  "description": "Highlights key information about PERTs and their usage.",
+  "domHints": {
+    "selectors": [
+      ".spotlight--content-highlight"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

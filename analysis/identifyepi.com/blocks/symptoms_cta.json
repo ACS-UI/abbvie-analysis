@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_cta",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Symptoms CTA",
+  "description": "Encourages users to locate a doctor and share symptoms details.",
+  "domHints": {
+    "selectors": [
+      "div.creon-talking-doctor-two-part"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

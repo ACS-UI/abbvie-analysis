@@ -1,0 +1,26 @@
+{
+  "blockId": "quote_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Quote Section",
+  "description": "Features a quote from a healthcare professional about HS.",
+  "domHints": {
+    "selectors": [
+      ".callout--quote"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

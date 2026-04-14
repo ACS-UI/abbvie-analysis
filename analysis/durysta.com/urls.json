@@ -1,0 +1,49 @@
+{
+  "entryUrl": "https://www.durysta.com/",
+  "discoveredAt": "2026-04-13T15:17:55.799Z",
+  "urls": [
+    {
+      "url": "https://www.durysta.com/",
+      "normalised": "https://www.durysta.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.durysta.com/about",
+      "normalised": "https://www.durysta.com/about",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.durysta.com/sitemap",
+      "normalised": "https://www.durysta.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.durysta.com/talk-with-your-doctor",
+      "normalised": "https://www.durysta.com/talk-with-your-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.durysta.com/why-durysta",
+      "normalised": "https://www.durysta.com/why-durysta",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "bySource": {
+      "sitemap": 1,
+      "crawl": 4,
+      "manual": 0
+    }
+  }
+}

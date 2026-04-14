@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_stay_informed",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "CTA Stay Informed",
+  "description": "Promotes staying informed with knowledge about biomarkers.",
+  "domHints": {
+    "selectors": [
+      ".stay-informed-testing-columns .stay-informed-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

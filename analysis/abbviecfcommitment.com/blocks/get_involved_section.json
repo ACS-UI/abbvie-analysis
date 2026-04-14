@@ -1,0 +1,26 @@
+{
+  "blockId": "get_involved_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Get Involved Section",
+  "description": "Encourages users to participate in community activities.",
+  "domHints": {
+    "selectors": [
+      "#background-container-345208420"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

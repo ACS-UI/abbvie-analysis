@@ -1,0 +1,26 @@
+{
+  "blockId": "eligibility_form",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Eligibility Form",
+  "description": "Embedded form for users to check their eligibility for the savings card.",
+  "domHints": {
+    "selectors": [
+      ".cmp-formsembed-widget"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

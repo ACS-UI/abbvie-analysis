@@ -1,0 +1,28 @@
+{
+  "blockId": "image_text_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_6",
+    "tpl_18"
+  ],
+  "name": "Image and Text Section",
+  "description": "Combines an image with text content to convey a message or branding.",
+  "domHints": {
+    "selectors": [
+      ".traininghcpcta.abbv-image-text-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

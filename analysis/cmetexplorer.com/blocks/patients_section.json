@@ -1,0 +1,33 @@
+{
+  "blockId": "patients_section",
+  "templateIds": [
+    "tpl_33",
+    "tpl_69",
+    "tpl_73",
+    "tpl_78",
+    "tpl_81",
+    "tpl_91",
+    "tpl_94"
+  ],
+  "name": "Patients Section",
+  "description": "Resources and information for patients, including support and product safety.",
+  "domHints": {
+    "selectors": [
+      "div.nav-dropdown ul.cmp-navigation__group",
+      "div.level-two-menu-items"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_33 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

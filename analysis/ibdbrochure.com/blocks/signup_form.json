@@ -1,0 +1,26 @@
+{
+  "blockId": "signup_form",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Signup Form",
+  "description": "Contains the main form for user signup.",
+  "domHints": {
+    "selectors": [
+      ".cmp-formsembed-widget"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

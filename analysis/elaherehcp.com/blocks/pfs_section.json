@@ -1,0 +1,26 @@
+{
+  "blockId": "pfs_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "PFS Section",
+  "description": "Section detailing the progression-free survival data.",
+  "domHints": {
+    "selectors": [
+      "#pfs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

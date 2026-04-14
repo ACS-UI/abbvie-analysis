@@ -1,0 +1,481 @@
+{
+  "blocks": [
+    {
+      "blockId": "global_header",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hero_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "anchor_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "subpage_navigation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "pfs_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "os_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "orr_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "secondary_endpoints",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "tumor_analysis",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "cta_cards",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "isi_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "references_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "exit_modal",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "elahere_videos_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_cards_row_1",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_cards_row_2",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "eye_care_videos_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "eye_care_video_cards",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "patient_testimonials_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "patient_testimonial_cards",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "footer",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "fra_expression_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "statistics_cards",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "nccn_guidelines_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "role_of_fra_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "mod_moa_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "action_cards",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_hero",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "prophylactic_medications",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "dosage_calculation",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "aibw_calculator",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "preparation_instructions",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "administration_instructions",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "download_resources",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "global_footer",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "most_common_ars",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "laboratory_abnormalities",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "additional_ars_interest",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "ocular_ars",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "longer_term_follow_up",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hero_disclaimer",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "hero_statistics",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "indication_statement",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "skip_to_main_content",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "header",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "main_form",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "important_safety_information",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "ocular_management_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "resources_cards",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "find_eye_doctor_section",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "video_resources",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    },
+    {
+      "blockId": "support_resources",
+      "variations": [
+        {
+          "variationId": "default",
+          "label": "Default"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "main_video_player",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Main Video Player",
+  "description": "Displays the primary video player with a playlist.",
+  "domHints": {
+    "selectors": [
+      ".for-your-practice-playlist"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

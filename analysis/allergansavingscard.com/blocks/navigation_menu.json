@@ -1,0 +1,27 @@
+{
+  "blockId": "navigation_menu",
+  "templateIds": [
+    "tpl_38",
+    "tpl_245"
+  ],
+  "name": "Navigation Menu",
+  "description": "The navigation menu provides links to various sections of the site.",
+  "domHints": {
+    "selectors": [
+      "nav#navigation-e8f5f3217c"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_38 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

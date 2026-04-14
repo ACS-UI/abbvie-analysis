@@ -1,0 +1,26 @@
+{
+  "blockId": "side_effects",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Side Effects Section",
+  "description": "Lists common side effects of VIBERZI and provides warnings.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.side-effects-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

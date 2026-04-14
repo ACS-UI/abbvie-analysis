@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_download_guide",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "CTA: Download Guide",
+  "description": "Call-to-action for downloading the dosing and administration guide.",
+  "domHints": {
+    "selectors": [
+      ".download-dosing-guide-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,33 @@
+{
+  "blockId": "main_region_3",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_12",
+    "tpl_17",
+    "tpl_18",
+    "tpl_22",
+    "tpl_23",
+    "tpl_24"
+  ],
+  "name": "main region 3",
+  "description": "Major content region in main (div). Preview: .abbv-image-text-v1-1369338282-large { display: inline-block; } CREON Treatment Tracker Encourage patients to use the Tr…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_3. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

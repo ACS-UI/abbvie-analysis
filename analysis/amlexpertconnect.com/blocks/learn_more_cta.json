@@ -1,0 +1,26 @@
+{
+  "blockId": "learn_more_cta",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Learn More CTA",
+  "description": "Encourages users to explore additional treatment options with a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      "div.container.parbase > div.abbv-container.bg-light-blue-20"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

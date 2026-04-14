@@ -1,0 +1,26 @@
+{
+  "blockId": "form_embed",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Form Embed",
+  "description": "Form for users to sign up for the savings program.",
+  "domHints": {
+    "selectors": [
+      ".forms-embed"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

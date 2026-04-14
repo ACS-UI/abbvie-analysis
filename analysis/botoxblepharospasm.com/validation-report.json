@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.botoxblepharospasm.com/",
+  "normalisedUrl": "https://www.botoxblepharospasm.com/",
+  "finalUrlAfterRedirects": "https://www.botoxblepharospasm.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:32:58.554Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

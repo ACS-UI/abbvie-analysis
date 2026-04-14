@@ -1,0 +1,27 @@
+{
+  "blockId": "main_content_columns",
+  "templateIds": [
+    "tpl_0",
+    "tpl_5"
+  ],
+  "name": "Main Content Columns",
+  "description": "Displays the primary content of the page in a multi-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.page-main-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

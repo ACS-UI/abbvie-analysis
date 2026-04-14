@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_section_taking",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "FAQ Section: Taking Lo Loestrin Fe",
+  "description": "Accordion section providing answers to questions about using Lo Loestrin Fe.",
+  "domHints": {
+    "selectors": [
+      "#takinglolo"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

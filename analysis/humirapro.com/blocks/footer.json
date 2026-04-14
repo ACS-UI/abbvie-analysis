@@ -1,0 +1,26 @@
+{
+  "blockId": "footer",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Footer",
+  "description": "Displays the footer content with additional navigation and site information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

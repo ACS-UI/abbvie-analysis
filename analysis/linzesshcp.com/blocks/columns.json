@@ -1,0 +1,29 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_7",
+    "tpl_16",
+    "tpl_17",
+    "tpl_19"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: LINZESS acts locally within the GI tract and has negligible systemic availability1…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_7. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "specialist_intro",
+  "templateIds": [
+    "tpl_24"
+  ],
+  "name": "Specialist Introduction",
+  "description": "Section introducing eczema specialists and their roles.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.margin-bottom-70:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_24 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

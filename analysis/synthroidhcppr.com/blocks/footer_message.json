@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_message",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Footer Message",
+  "description": "Provides a concluding message or call to action.",
+  "domHints": {
+    "selectors": [
+      ".synthroid-btm-ftr"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

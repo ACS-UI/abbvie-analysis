@@ -1,0 +1,35 @@
+{
+  "blockId": "who_we_are_section",
+  "templateIds": [
+    "tpl_20",
+    "tpl_24",
+    "tpl_33",
+    "tpl_69",
+    "tpl_73",
+    "tpl_78",
+    "tpl_81",
+    "tpl_91",
+    "tpl_94",
+    "tpl_268"
+  ],
+  "name": "Who We Are Section",
+  "description": "A section providing information about the organization's principles and values.",
+  "domHints": {
+    "selectors": [
+      "div#title-aa2fc26fe5"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_20 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

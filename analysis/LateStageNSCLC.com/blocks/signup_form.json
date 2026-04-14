@@ -1,0 +1,26 @@
+{
+  "blockId": "signup_form",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Signup Form",
+  "description": "The form for users to sign up for resources and updates.",
+  "domHints": {
+    "selectors": [
+      ".signup-form-container iframe#aemFormFrame"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

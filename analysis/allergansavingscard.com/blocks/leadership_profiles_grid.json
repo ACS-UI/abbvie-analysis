@@ -1,0 +1,26 @@
+{
+  "blockId": "leadership_profiles_grid",
+  "templateIds": [
+    "tpl_48"
+  ],
+  "name": "Leadership Profiles Grid",
+  "description": "Displays profiles of leaders in a grid format with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      "div.grid-container > div.grid-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_48 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

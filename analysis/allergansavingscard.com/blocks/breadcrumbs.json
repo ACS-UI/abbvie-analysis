@@ -1,0 +1,26 @@
+{
+  "blockId": "breadcrumbs",
+  "templateIds": [
+    "tpl_310"
+  ],
+  "name": "Breadcrumbs Navigation",
+  "description": "Displays the navigational path for the current page.",
+  "domHints": {
+    "selectors": [
+      ".breadcrumbs__wrap"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_310 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

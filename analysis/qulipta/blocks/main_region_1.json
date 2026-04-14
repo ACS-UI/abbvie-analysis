@@ -1,0 +1,46 @@
+{
+  "blockId": "main_region_1",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11",
+    "tpl_13",
+    "tpl_14",
+    "tpl_15",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_19",
+    "tpl_20",
+    "tpl_21",
+    "tpl_22"
+  ],
+  "name": "main region 1",
+  "description": "Major content region in main (div).",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

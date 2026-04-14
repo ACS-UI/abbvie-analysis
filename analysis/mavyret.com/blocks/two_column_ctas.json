@@ -1,0 +1,26 @@
+{
+  "blockId": "two_column_ctas",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Two Column CTAs",
+  "description": "Provides call-to-action links for key topics.",
+  "domHints": {
+    "selectors": [
+      ".two-column-container.patient-stories-reviews"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

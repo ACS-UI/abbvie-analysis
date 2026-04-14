@@ -1,0 +1,26 @@
+{
+  "blockId": "main_cta_button",
+  "templateIds": [
+    "tpl_59"
+  ],
+  "name": "Main CTA Button",
+  "description": "Primary call-to-action button for navigating to another page.",
+  "domHints": {
+    "selectors": [
+      "a#button-04cb293207"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_59 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

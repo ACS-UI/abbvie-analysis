@@ -1,0 +1,27 @@
+{
+  "blockId": "transcript_text",
+  "templateIds": [
+    "tpl_15",
+    "tpl_41"
+  ],
+  "name": "Transcript Text",
+  "description": "Shows the detailed transcript of the video.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.ez-transcript-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

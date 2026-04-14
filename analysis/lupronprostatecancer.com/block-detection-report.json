@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Agent Unassigned Page",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 9
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Content Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    }
+  ],
+  "generatedAt": "2026-04-13T15:22:34.250Z"
+}

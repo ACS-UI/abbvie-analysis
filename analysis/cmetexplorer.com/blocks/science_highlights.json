@@ -1,0 +1,26 @@
+{
+  "blockId": "science_highlights",
+  "templateIds": [
+    "tpl_204"
+  ],
+  "name": "Science Highlights",
+  "description": "Features key scientific stories and achievements.",
+  "domHints": {
+    "selectors": [
+      ".grid-row__col-with-1 > .cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_204 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

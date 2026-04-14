@@ -1,0 +1,26 @@
+{
+  "blockId": "primary_footer",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Primary Footer",
+  "description": "The footer of the page, containing additional links and information.",
+  "domHints": {
+    "selectors": [
+      "cmp-footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

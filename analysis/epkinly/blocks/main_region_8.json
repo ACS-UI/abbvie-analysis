@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_8",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "main region 8",
+  "description": "Major content region in main (div). Preview: If you’ve been prescribed EPKINLY by your doctor, you can track how you’re feeling, appointments, and questions for your…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(9)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_13. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

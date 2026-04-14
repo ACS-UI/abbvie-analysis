@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_dialogs",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Modal Dialogs",
+  "description": "Modal dialogs for leaving site warnings and other interactions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

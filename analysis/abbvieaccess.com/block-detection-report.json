@@ -1,0 +1,110 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Agent Unassigned",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Brand Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Representative Request",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Category Homepage",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "HCP Registration",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Preference Center",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Search Results",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Resource Request",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Enrollment Forms",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Formulary Coverage",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Patient Resources",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Reimbursement Program",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Patient Assistance",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_14",
+      "humanName": "Prior Authorization",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    }
+  ],
+  "generatedAt": "2026-04-13T15:57:34.600Z"
+}

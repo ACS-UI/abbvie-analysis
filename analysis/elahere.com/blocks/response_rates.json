@@ -1,0 +1,26 @@
+{
+  "blockId": "response_rates",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Response Rates Section",
+  "description": "Information on the response rates to the treatment.",
+  "domHints": {
+    "selectors": [
+      "#response-rates"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

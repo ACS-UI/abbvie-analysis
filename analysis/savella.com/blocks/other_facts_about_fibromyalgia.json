@@ -1,0 +1,26 @@
+{
+  "blockId": "other_facts_about_fibromyalgia",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Other Facts About Fibromyalgia",
+  "description": "Provides additional information and context about fibromyalgia.",
+  "domHints": {
+    "selectors": [
+      ".fibromyalgia-other-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

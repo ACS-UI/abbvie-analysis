@@ -1,0 +1,38 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11",
+    "tpl_12",
+    "tpl_13"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Top navigation bar with contact and subscription information.",
+  "domHints": {
+    "selectors": [
+      "header > div.top-nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

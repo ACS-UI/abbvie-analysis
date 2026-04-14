@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Content Columns",
+  "description": "Three-column layout providing detailed information about product usage and recommendations.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.access-prescribing-dropplet-secion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

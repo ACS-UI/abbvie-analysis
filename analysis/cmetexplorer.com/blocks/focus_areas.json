@@ -1,0 +1,28 @@
+{
+  "blockId": "focus_areas",
+  "templateIds": [
+    "tpl_252"
+  ],
+  "name": "Focus Areas",
+  "description": "Highlights specific focus areas with supporting text and images.",
+  "domHints": {
+    "selectors": [
+      "div.grid-row__col-with-6 > div.title",
+      "div.grid-row__col-with-6 > div.text",
+      "div.grid-row__col-with-6 > div.image"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_252 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

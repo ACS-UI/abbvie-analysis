@@ -1,0 +1,26 @@
+{
+  "blockId": "contact_information",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Contact Information",
+  "description": "Provides contact details for reimbursement support and additional resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.ozurdex-contact"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

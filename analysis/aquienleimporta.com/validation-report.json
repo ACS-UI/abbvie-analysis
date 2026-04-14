@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.aquienleimporta.com/",
+  "normalisedUrl": "https://www.aquienleimporta.com/",
+  "finalUrlAfterRedirects": "https://www.aquienleimporta.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:46:35.934Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

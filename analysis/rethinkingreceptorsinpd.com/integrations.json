@@ -1,0 +1,27 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.rethinkingreceptorsinpd.com/",
+          "https://www.rethinkingreceptorsinpd.com/emerging-pd-research",
+          "https://www.rethinkingreceptorsinpd.com/role-of-dopamine",
+          "https://www.rethinkingreceptorsinpd.com/current-pd-treatments",
+          "https://www.rethinkingreceptorsinpd.com/burden-of-pd",
+          "https://www.rethinkingreceptorsinpd.com/site-map",
+          "https://www.rethinkingreceptorsinpd.com/request-msl"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:28:34.842Z"
+}

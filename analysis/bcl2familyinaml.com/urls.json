@@ -1,0 +1,28 @@
+{
+  "entryUrl": "https://www.bcl2familyinaml.com/",
+  "discoveredAt": "2026-04-13T16:19:11.254Z",
+  "urls": [
+    {
+      "url": "https://www.bcl2familyinaml.com/",
+      "normalised": "https://www.bcl2familyinaml.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.bcl2familyinaml.com/sitemap",
+      "normalised": "https://www.bcl2familyinaml.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "bySource": {
+      "sitemap": 1,
+      "crawl": 1,
+      "manual": 0
+    }
+  }
+}

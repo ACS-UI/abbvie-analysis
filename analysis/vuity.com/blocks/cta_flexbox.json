@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_flexbox",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Call-to-Action Flexbox",
+  "description": "Encourages users to identify with the symptoms described through a visually engaging layout.",
+  "domHints": {
+    "selectors": [
+      ".vuity-about-close-vision-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

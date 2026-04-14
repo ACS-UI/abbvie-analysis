@@ -1,0 +1,26 @@
+{
+  "blockId": "hs_diagnosis_statistics",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "HS Diagnosis Statistics",
+  "description": "Provides statistical insights into HS diagnosis challenges.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.light-grey-fill .abbv-row-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

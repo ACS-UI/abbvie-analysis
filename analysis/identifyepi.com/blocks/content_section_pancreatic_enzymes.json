@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_pancreatic_enzymes",
+  "templateIds": [
+    "tpl_31"
+  ],
+  "name": "Content Section: Pancreatic Enzymes",
+  "description": "Details the types and functions of pancreatic enzymes.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-margin-top-20"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_31 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

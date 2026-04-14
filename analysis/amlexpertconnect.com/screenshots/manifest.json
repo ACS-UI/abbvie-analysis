@@ -1,0 +1,94 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_header__default.png",
+      "sourceUrl": "https://www.amlexpertconnect.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:22:25.866Z",
+      "selector": "div.abbv-content-container"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.amlexpertconnect.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:22:25.866Z",
+      "selector": "section > div.container.parbase > div.abbv-container.bg-dark-blue"
+    },
+    {
+      "relativePath": "expert_locator_form__default.png",
+      "sourceUrl": "https://www.amlexpertconnect.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:22:25.866Z",
+      "selector": "div.find-a-provider.parbase"
+    },
+    {
+      "relativePath": "results_section__default.png",
+      "sourceUrl": "https://www.amlexpertconnect.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:22:25.866Z",
+      "selector": "div.find-a-provider-results"
+    },
+    {
+      "relativePath": "learn_more_cta__default.png",
+      "sourceUrl": "https://www.amlexpertconnect.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:22:25.866Z",
+      "selector": "div.container.parbase > div.abbv-container.bg-light-blue-20"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.amlexpertconnect.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:22:25.866Z",
+      "selector": "footer.abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.amlexpertconnect.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:22:25.866Z",
+      "selector": "button.abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_terms_conditions__default.png",
+      "sourceUrl": "https://www.amlexpertconnect.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:22:25.866Z",
+      "selector": "div.abbv-modal.termasandConditions"
+    },
+    {
+      "relativePath": "modal_explore_treatment__default.png",
+      "sourceUrl": "https://www.amlexpertconnect.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:22:25.866Z",
+      "selector": "div.abbv-modal.wolexploretreatment"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "modal_study_design",
+  "templateIds": [
+    "tpl_0",
+    "tpl_4"
+  ],
+  "name": "Study Design Modal",
+  "description": "Provides detailed information about the study design for Synthroid.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.synthroidstudydesign"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

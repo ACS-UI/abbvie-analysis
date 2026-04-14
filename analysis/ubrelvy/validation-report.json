@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.ubrelvy.com/",
+  "normalisedUrl": "https://www.ubrelvy.com/",
+  "finalUrlAfterRedirects": "https://www.ubrelvy.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T11:14:08.574Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

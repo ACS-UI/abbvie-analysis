@@ -1,0 +1,35 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11"
+  ],
+  "name": "Hero Section",
+  "description": "Introduces the page with a title and key message, setting the context for the content.",
+  "domHints": {
+    "selectors": [
+      ".titles.parbase .abbv-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

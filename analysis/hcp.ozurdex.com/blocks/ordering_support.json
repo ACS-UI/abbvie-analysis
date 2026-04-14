@@ -1,0 +1,26 @@
+{
+  "blockId": "ordering_support",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Ordering and Support Reference",
+  "description": "Provides a guide for ordering and support options.",
+  "domHints": {
+    "selectors": [
+      ".support-ordering-wrap"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "important_safety_information",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Important Safety Information",
+  "description": "Displays critical safety information related to the product.",
+  "domHints": {
+    "selectors": [
+      "cmp-isi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

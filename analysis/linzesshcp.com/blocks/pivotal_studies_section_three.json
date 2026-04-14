@@ -1,0 +1,26 @@
+{
+  "blockId": "pivotal_studies_section_three",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Pivotal Studies Section Three",
+  "description": "Focuses on reduced abdominal pain outcomes for LINZESS-treated patients.",
+  "domHints": {
+    "selectors": [
+      ".pivotal-studies-section-three"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

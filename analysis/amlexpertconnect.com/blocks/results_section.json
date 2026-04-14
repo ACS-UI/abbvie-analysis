@@ -1,0 +1,26 @@
+{
+  "blockId": "results_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Results Section",
+  "description": "Displays the search results for AML specialists, including map and list views.",
+  "domHints": {
+    "selectors": [
+      "div.find-a-provider-results"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

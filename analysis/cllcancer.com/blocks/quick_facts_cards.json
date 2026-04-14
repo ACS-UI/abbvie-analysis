@@ -1,0 +1,26 @@
+{
+  "blockId": "quick_facts_cards",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Quick Facts Cards",
+  "description": "Displays quick facts about CLL in a card layout.",
+  "domHints": {
+    "selectors": [
+      ".flexbox-container__cards.quick-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

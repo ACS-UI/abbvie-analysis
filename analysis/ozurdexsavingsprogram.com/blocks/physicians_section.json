@@ -1,0 +1,26 @@
+{
+  "blockId": "physicians_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Physicians Section",
+  "description": "Offers resources and enrollment options for physicians.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-item.ozurdex-home-physicians"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

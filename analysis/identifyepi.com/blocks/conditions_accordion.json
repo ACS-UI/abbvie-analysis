@@ -1,0 +1,26 @@
+{
+  "blockId": "conditions_accordion",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Conditions Accordion",
+  "description": "Accordion component listing underlying conditions and their descriptions.",
+  "domHints": {
+    "selectors": [
+      ".epi-accordians"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

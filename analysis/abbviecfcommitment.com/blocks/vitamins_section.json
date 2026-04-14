@@ -1,0 +1,26 @@
+{
+  "blockId": "vitamins_section",
+  "templateIds": [
+    "tpl_24"
+  ],
+  "name": "Vitamins Section",
+  "description": "Details the importance of vitamins for individuals with CF.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1633127556"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_24 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

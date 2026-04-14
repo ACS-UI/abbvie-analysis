@@ -1,0 +1,26 @@
+{
+  "blockId": "causes_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Causes Section",
+  "description": "Explains the potential causes and genetic factors of the conditions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.fybp-bullet-indt"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

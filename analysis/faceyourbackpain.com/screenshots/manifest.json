@@ -1,0 +1,684 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-header-content-container"
+    },
+    {
+      "relativePath": "mega_navigation__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": "#background-container-1780133110"
+    },
+    {
+      "relativePath": "carousel_spotlight__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-carousel"
+    },
+    {
+      "relativePath": "info_tree__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-info-tree"
+    },
+    {
+      "relativePath": "three_column_cta__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-home-features"
+    },
+    {
+      "relativePath": "real_people_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-undiagnosed-patient-container"
+    },
+    {
+      "relativePath": "connect_with_others__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-home-connect-cstm"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/get-more-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/get-more-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "information_intro__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/get-more-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-get-more-info-heading2"
+    },
+    {
+      "relativePath": "image_text_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/get-more-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-register-book"
+    },
+    {
+      "relativePath": "form_embed__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/get-more-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".cmp-formsembed-widget"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/get-more-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/get-more-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "intro_content__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-rich-text.abbv-rich-text-common"
+    },
+    {
+      "relativePath": "exercise_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-exr:nth-of-type(1)"
+    },
+    {
+      "relativePath": "wellness_book_cta__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-container.bg-color-natual-light"
+    },
+    {
+      "relativePath": "face_the_facts__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-container.fybp-bg-color-lavendar-gray"
+    },
+    {
+      "relativePath": "features_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-features"
+    },
+    {
+      "relativePath": "references_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-accordion.fybp-references-title"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "intro_paragraph__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-rich-text.fybp-img-width-300"
+    },
+    {
+      "relativePath": "diagnosis_steps__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-rich-text.fybp-bullet-indt"
+    },
+    {
+      "relativePath": "diagnosis_images__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-diagnosing-col-imgs"
+    },
+    {
+      "relativePath": "mechanical_vs_inflammatory__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-title-col"
+    },
+    {
+      "relativePath": "cta_take_quiz__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-col-6 .abbv-container:nth-of-type(1)"
+    },
+    {
+      "relativePath": "references_accordion__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-accordion.fybp-references-title"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-main"
+    },
+    {
+      "relativePath": "symptoms_list__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-rich-text.fybp-bullet-indt"
+    },
+    {
+      "relativePath": "comparison_table__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-title-col"
+    },
+    {
+      "relativePath": "interactive_hotspots__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-hot-spot"
+    },
+    {
+      "relativePath": "cta_assess_symptoms__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-button-plain.fybp-assess-link"
+    },
+    {
+      "relativePath": "causes_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-rich-text.fybp-bullet-indt"
+    },
+    {
+      "relativePath": "questionnaire_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-info-tree.fybp-info-tree-guide-you"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-rich-text p"
+    },
+    {
+      "relativePath": "resource_links_grid__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-row-border"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-features"
+    },
+    {
+      "relativePath": "sidebar_promo__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-container.bg-color-natual-light"
+    },
+    {
+      "relativePath": "site_logo__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-header-left a img"
+    },
+    {
+      "relativePath": "search_bar__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": "#header-search"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "modal_component__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "quiz_intro__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/take-the-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-rich-text.cst-take-quiz-pa"
+    },
+    {
+      "relativePath": "quiz_form__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/take-the-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".cmp-formsembed-widget"
+    },
+    {
+      "relativePath": "disclaimer__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/take-the-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-rich-text.font-size-08.takequizpara"
+    },
+    {
+      "relativePath": "cta_section_1__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/take-the-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-features.touts-section.target-touts-area.fybp-tk-qz"
+    },
+    {
+      "relativePath": "cta_section_2__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/take-the-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-container.get-a-guide-doctor-tout"
+    },
+    {
+      "relativePath": "doctor_locator__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/find-rheumatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".doctor-locator"
+    },
+    {
+      "relativePath": "note_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/find-rheumatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-find-a-rheum-note-text"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories/before-diagnosis-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "feature_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/doctor-discussion-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-features"
+    },
+    {
+      "relativePath": "accordion_references__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/doctor-discussion-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-accordion.fybp-references-title"
+    },
+    {
+      "relativePath": "main_content_columns__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-in-women-vs-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.abbv-margin-top-20.fybp-main"
+    },
+    {
+      "relativePath": "info_tree_question__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-in-women-vs-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-info-tree"
+    },
+    {
+      "relativePath": "statistics_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-custom-border"
+    },
+    {
+      "relativePath": "treatment_options_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-main .abbv-row-container"
+    },
+    {
+      "relativePath": "image_text_columns__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/why-a-rheumatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-keep-columns"
+    },
+    {
+      "relativePath": "fact_box__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/why-a-rheumatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-container.fybp-bg-color-lavendar-gray"
+    },
+    {
+      "relativePath": "feature_highlights__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/why-a-rheumatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-row-container.fybp-features"
+    },
+    {
+      "relativePath": "video_section_before_diagnosis__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-video-before-diagnosis"
+    },
+    {
+      "relativePath": "video_section_getting_diagnosed__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-video-getting-diagnosed"
+    },
+    {
+      "relativePath": "video_section_life_after_diagnosis__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-video-life-after-diagnosis"
+    },
+    {
+      "relativePath": "connect_section__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".fybp-connect-box"
+    },
+    {
+      "relativePath": "patient_stories_cta__default.png",
+      "sourceUrl": "https://www.faceyourbackpain.com/thank_you_page",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:31.646Z",
+      "selector": ".abbv-container.fybp-undiagnosed-patient-text"
+    }
+  ]
+}

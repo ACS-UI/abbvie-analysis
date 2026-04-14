@@ -1,0 +1,170 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T10:49:24.568Z",
+  "completedAt": "2026-04-13T10:52:17.008Z",
+  "input": {
+    "url": "https://www.qulipta.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/qulipta-v1",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Page layout group 1",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Why Qulipta — group 2",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Migraine Center — group 3",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 0
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "The Cost Of Qulipta — group 4",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Sign Up — group 5",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Cost — group 6",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Additional Resources — group 7",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Qulipta Complete Savings Program — group 8",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Sign Up Confirmation — group 9",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Find A Doctor — group 10",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Sitemap — group 11",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Video Transcript Qulipta Weather — group 12",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Confirmation Savings Card — group 13",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Kelsi Video Transcript — group 14",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "Video Transcript Patients Taking Qulipta — group 15",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "Qulipta Discussion Guide — group 16",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "Patient Stories — group 17",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "Qulipta Vs Topiramate — group 18",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 14
+      },
+      {
+        "templateId": "tpl_18",
+        "humanName": "Migraine Education — group 19",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 15
+      },
+      {
+        "templateId": "tpl_19",
+        "humanName": "Sign Up Confirmation — group 20",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_20",
+        "humanName": "Video Transcript Qulipta Introductions — group 21",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_21",
+        "humanName": "Frequently Asked Questions — group 22",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_22",
+        "humanName": "Page layout group 23",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      }
+    ]
+  }
+}

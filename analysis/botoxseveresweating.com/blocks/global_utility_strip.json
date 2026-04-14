@@ -1,0 +1,29 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_5",
+    "tpl_6",
+    "tpl_10",
+    "tpl_11"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Contains links to external resources and programs such as product information, savings programs, and login.",
+  "domHints": {
+    "selectors": [
+      ".nav_float"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

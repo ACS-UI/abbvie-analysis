@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_intro",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Main Content Introduction",
+  "description": "Provides an introduction to the services offered by Field Reimbursement Managers.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text > h3.questions"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

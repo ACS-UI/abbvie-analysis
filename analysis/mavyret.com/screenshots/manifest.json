@@ -1,0 +1,584 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#background-container-2033357632"
+    },
+    {
+      "relativePath": "indication_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#background-container-1350571668"
+    },
+    {
+      "relativePath": "nurse_ambassador_info__default.png",
+      "sourceUrl": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#background-container-772500488"
+    },
+    {
+      "relativePath": "enrollment_cta__default.png",
+      "sourceUrl": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#background-container-1320445305"
+    },
+    {
+      "relativePath": "resources_cta__default.png",
+      "sourceUrl": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-image-text-v2"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.mavyret.com/liver-under-attack-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-header-v2"
+    },
+    {
+      "relativePath": "transcript_content__default.png",
+      "sourceUrl": "https://www.mavyret.com/liver-under-attack-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-rich-text.transcript-content"
+    },
+    {
+      "relativePath": "safety_considerations__default.png",
+      "sourceUrl": "https://www.mavyret.com/liver-under-attack-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".h2--safety-small"
+    },
+    {
+      "relativePath": "legal_disclaimer__default.png",
+      "sourceUrl": "https://www.mavyret.com/liver-under-attack-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.mavyret.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container .abbv-rich-text.orange-bg-brushstroke__sub-title"
+    },
+    {
+      "relativePath": "description_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.patient-stories-reviews"
+    },
+    {
+      "relativePath": "cost_information__default.png",
+      "sourceUrl": "https://www.mavyret.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#insurance-information"
+    },
+    {
+      "relativePath": "insurance_support__default.png",
+      "sourceUrl": "https://www.mavyret.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#mavyret-coverage-and-support"
+    },
+    {
+      "relativePath": "savings_program__default.png",
+      "sourceUrl": "https://www.mavyret.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#mavyret-savings"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.mavyret.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.center-container--gray-bg"
+    },
+    {
+      "relativePath": "routine_grid__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.routine-grid"
+    },
+    {
+      "relativePath": "missed_dose_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.gray-texture-section-6"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.mavyret-video-container__plain"
+    },
+    {
+      "relativePath": "support_cards__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.two-column-container"
+    },
+    {
+      "relativePath": "about_hep_c_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/about-hep-c",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#background-container-1647669526"
+    },
+    {
+      "relativePath": "spread_info_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/about-hep-c",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#background-container-1605751318"
+    },
+    {
+      "relativePath": "testing_info_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/about-hep-c",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#background-container-113074462"
+    },
+    {
+      "relativePath": "footer_safety_information__default.png",
+      "sourceUrl": "https://www.mavyret.com/about-hep-c",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.mavyret.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.mavyret.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "highlighted_cta__default.png",
+      "sourceUrl": "https://www.mavyret.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.hero-campaign"
+    },
+    {
+      "relativePath": "information_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.indication-container"
+    },
+    {
+      "relativePath": "image_text_block__default.png",
+      "sourceUrl": "https://www.mavyret.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".image-icon-block--home"
+    },
+    {
+      "relativePath": "card_grid__default.png",
+      "sourceUrl": "https://www.mavyret.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".container__two-column"
+    },
+    {
+      "relativePath": "isi_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "doctor_locator_form__default.png",
+      "sourceUrl": "https://www.mavyret.com/locator",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-dr-locator"
+    },
+    {
+      "relativePath": "callout_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/locator",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".callout-container.locator"
+    },
+    {
+      "relativePath": "two_column_cards__default.png",
+      "sourceUrl": "https://www.mavyret.com/locator",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".two-column-container"
+    },
+    {
+      "relativePath": "side_effects_summary__default.png",
+      "sourceUrl": "https://www.mavyret.com/side-effects",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.content-row--side-effects"
+    },
+    {
+      "relativePath": "patient_quote__default.png",
+      "sourceUrl": "https://www.mavyret.com/side-effects",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.quote-container"
+    },
+    {
+      "relativePath": "carousel_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/patient-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.patient-support-carousel"
+    },
+    {
+      "relativePath": "sign_up_form__default.png",
+      "sourceUrl": "https://www.mavyret.com/patient-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.form-container.sign-up-for-mavyret-patient-support"
+    },
+    {
+      "relativePath": "testimonial_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/patient-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-row-container.content-image-container"
+    },
+    {
+      "relativePath": "doctor_locator__default.png",
+      "sourceUrl": "https://www.mavyret.com/patient-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-dr-locator"
+    },
+    {
+      "relativePath": "two_column_cta__default.png",
+      "sourceUrl": "https://www.mavyret.com/patient-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.two-column-container.patient-support"
+    },
+    {
+      "relativePath": "patient_story_videos__default.png",
+      "sourceUrl": "https://www.mavyret.com/patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".stories-video-container"
+    },
+    {
+      "relativePath": "share_your_story__default.png",
+      "sourceUrl": "https://www.mavyret.com/patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": "#share-your-story"
+    },
+    {
+      "relativePath": "two_column_ctas__default.png",
+      "sourceUrl": "https://www.mavyret.com/patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".two-column-container.patient-stories-reviews"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.mavyret.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-link-list"
+    },
+    {
+      "relativePath": "intro_paragraph__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.grey-bar"
+    },
+    {
+      "relativePath": "why_get_tested_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-background-container.why-get-tested"
+    },
+    {
+      "relativePath": "columns_why_get_tested__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-row-container.four-column-grid"
+    },
+    {
+      "relativePath": "relief_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.relief"
+    },
+    {
+      "relativePath": "patient_story__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".mavyret-video-container__large"
+    },
+    {
+      "relativePath": "who_should_get_tested__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-background-container.who-should-get-tested"
+    },
+    {
+      "relativePath": "find_doctor_section__default.png",
+      "sourceUrl": "https://www.mavyret.com/hep-c-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-background-container.locate-doctor"
+    },
+    {
+      "relativePath": "video_transcription__default.png",
+      "sourceUrl": "https://www.mavyret.com/espanol/hep-c-y-el-higado-video-transcripcion",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:23:30.092Z",
+      "selector": ".abbv-container.transcript-container .abbv-rich-text"
+    }
+  ]
+}

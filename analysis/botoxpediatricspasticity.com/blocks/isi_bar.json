@@ -1,0 +1,26 @@
+{
+  "blockId": "isi_bar",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Important Safety Information Bar",
+  "description": "Provides critical safety information for users.",
+  "domHints": {
+    "selectors": [
+      ".isi-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

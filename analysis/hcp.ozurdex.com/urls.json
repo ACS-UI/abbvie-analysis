@@ -1,0 +1,224 @@
+{
+  "entryUrl": "https://hcp.ozurdex.com/",
+  "discoveredAt": "2026-04-13T15:33:16.578Z",
+  "urls": [
+    {
+      "url": "https://hcp.ozurdex.com/",
+      "normalised": "https://hcp.ozurdex.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230009_020857_OZX-Injection-Technique-Supplement_HR.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230009_020857_OZX-Injection-Technique-Supplement_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230018_021105_OZX-Tech-FAQ_HR.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230018_021105_OZX-Tech-FAQ_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230017_021104_OZX-Uveitis-Patient-Brochure_HR.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230017_021104_OZX-Uveitis-Patient-Brochure_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230016_021103_OZX-RVO-Patient-Brochure_HR.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230016_021103_OZX-RVO-Patient-Brochure_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230015_021102_OZX-How-to-Order-FC_HR.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230015_021102_OZX-How-to-Order-FC_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/OZU112023_OZURDEX-DME-Patient-Brochure_HR.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/OZU112023_OZURDEX-DME-Patient-Brochure_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230013_021100_OZX-DME-Patient-Slim-Jim_HR.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230013_021100_OZX-DME-Patient-Slim-Jim_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/OZU112417-v2_How-To-Order-OZURDEX-Flashcard.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/OZU112417-v2_How-To-Order-OZURDEX-Flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230107_023977_Uveitis%20Patient%20Slim%20Jim_Veeva_FINAL.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230107_023977_Uveitis%20Patient%20Slim%20Jim_Veeva_FINAL.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230106_023976_RVO%20Patient%20Slim%20Jim_Veeva_FINAL.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/US-OZU-230106_023976_RVO%20Patient%20Slim%20Jim_Veeva_FINAL.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/injection-technique-brochure.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/injection-technique-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/OZX-DME-Patient-Slim-Jim-HR.pdf",
+      "normalised": "https://hcp.ozurdex.com/content/dam/ozurdexhcp/pdf/OZX-DME-Patient-Slim-Jim-HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/resources",
+      "normalised": "https://hcp.ozurdex.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/reimbursement-support",
+      "normalised": "https://hcp.ozurdex.com/reimbursement-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/hcp.ozurdex.com/resources",
+      "normalised": "https://hcp.ozurdex.com/hcp.ozurdex.com/resources",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/mechanism-of-action",
+      "normalised": "https://hcp.ozurdex.com/mechanism-of-action",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/clinical-efficacy",
+      "normalised": "https://hcp.ozurdex.com/clinical-efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/injection-technique",
+      "normalised": "https://hcp.ozurdex.com/injection-technique",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/hcp.ozurdex.com/mechanism-of-action",
+      "normalised": "https://hcp.ozurdex.com/hcp.ozurdex.com/mechanism-of-action",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/sitemap",
+      "normalised": "https://hcp.ozurdex.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/hcp.ozurdex.com/clinical-efficacy",
+      "normalised": "https://hcp.ozurdex.com/hcp.ozurdex.com/clinical-efficacy",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/hcp.ozurdex.com/reimbursement-support",
+      "normalised": "https://hcp.ozurdex.com/hcp.ozurdex.com/reimbursement-support",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/hcp.ozurdex.com/about-ozurdex",
+      "normalised": "https://hcp.ozurdex.com/hcp.ozurdex.com/about-ozurdex",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/about-ozurdex",
+      "normalised": "https://hcp.ozurdex.com/about-ozurdex",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/hcp.ozurdex.com/",
+      "normalised": "https://hcp.ozurdex.com/hcp.ozurdex.com",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/site-modols/prescibing_information",
+      "normalised": "https://hcp.ozurdex.com/site-modols/prescibing_information",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/site-modols/patientsite_requestrep",
+      "normalised": "https://hcp.ozurdex.com/site-modols/patientsite_requestrep",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/faq",
+      "normalised": "https://hcp.ozurdex.com/faq",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.ozurdex.com/site-modols/patient_site",
+      "normalised": "https://hcp.ozurdex.com/site-modols/patient_site",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 30,
+    "bySource": {
+      "sitemap": 20,
+      "crawl": 10,
+      "manual": 0
+    }
+  }
+}

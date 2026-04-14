@@ -1,0 +1,26 @@
+{
+  "blockId": "additional_resources",
+  "templateIds": [
+    "tpl_25"
+  ],
+  "name": "Additional Resources",
+  "description": "Provides further resources and tools for preparation.",
+  "domHints": {
+    "selectors": [
+      ".visit-next-page-block"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "support_brochures",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Support Brochures",
+  "description": "Section featuring downloadable brochures for patient education and support services.",
+  "domHints": {
+    "selectors": [
+      ".support-brochures"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

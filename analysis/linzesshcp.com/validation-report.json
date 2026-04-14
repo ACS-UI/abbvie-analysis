@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.linzesshcp.com/",
+  "normalisedUrl": "https://www.linzesshcp.com/",
+  "finalUrlAfterRedirects": "https://www.linzesshcp.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:14:29.209Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

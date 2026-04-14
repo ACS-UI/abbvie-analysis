@@ -1,0 +1,34 @@
+{
+  "blockId": "main_region_5",
+  "templateIds": [
+    "tpl_1",
+    "tpl_5",
+    "tpl_9",
+    "tpl_10",
+    "tpl_12",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_27"
+  ],
+  "name": "main region 5",
+  "description": "Major content region in main (div). Preview: Looking for MAVYRET support? View helpful resources Want to know more about MAVYRET? Learn about side effects *Cure mean…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(6)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_1. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

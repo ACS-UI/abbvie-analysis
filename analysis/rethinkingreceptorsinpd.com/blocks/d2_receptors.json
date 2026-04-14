@@ -1,0 +1,26 @@
+{
+  "blockId": "d2_receptors",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "D2-Like Receptors",
+  "description": "Details about D2-like dopamine receptors with an image and description.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2.callout.callout-with-border-reverse"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

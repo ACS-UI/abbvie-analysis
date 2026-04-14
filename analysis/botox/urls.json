@@ -1,0 +1,294 @@
+{
+  "entryUrl": "https://www.botox.com/",
+  "discoveredAt": "2026-04-13T12:27:19.074Z",
+  "urls": [
+    {
+      "url": "https://www.botox.com/",
+      "normalised": "https://www.botox.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/log-in",
+      "normalised": "https://www.botox.com/log-in",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/dashboard",
+      "normalised": "https://www.botox.com/dashboard",
+      "source": "crawl",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/sitemap",
+      "normalised": "https://www.botox.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/account/sms",
+      "normalised": "https://www.botox.com/account/sms",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/manage-account",
+      "normalised": "https://www.botox.com/manage-account",
+      "source": "crawl",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/account/journey",
+      "normalised": "https://www.botox.com/account/journey",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/submit-a-claim",
+      "normalised": "https://www.botox.com/complete-dashboard/submit-a-claim",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/change-password",
+      "normalised": "https://www.botox.com/complete-dashboard/change-password",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/treatment-reminders",
+      "normalised": "https://www.botox.com/complete-dashboard/treatment-reminders",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/caregiver-information",
+      "normalised": "https://www.botox.com/complete-dashboard/caregiver-information",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/manage-account/change-password",
+      "normalised": "https://www.botox.com/manage-account/change-password",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard",
+      "normalised": "https://www.botox.com/complete-dashboard",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/account/coverage",
+      "normalised": "https://www.botox.com/account/coverage",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/bsp-enroll",
+      "normalised": "https://www.botox.com/bsp-enroll",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/profile",
+      "normalised": "https://www.botox.com/complete-dashboard/profile",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/claims-management",
+      "normalised": "https://www.botox.com/complete-dashboard/claims-management",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/manage-account/treatment-reminders",
+      "normalised": "https://www.botox.com/manage-account/treatment-reminders",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/completeterms",
+      "normalised": "https://www.botox.com/completeterms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/mobile-terms-conditions",
+      "normalised": "https://www.botox.com/mobile-terms-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/patient-information",
+      "normalised": "https://www.botox.com/complete-dashboard/patient-information",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/botox-complete-conversion",
+      "normalised": "https://www.botox.com/botox-complete-conversion",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/communication-preferences",
+      "normalised": "https://www.botox.com/complete-dashboard/communication-preferences",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/botox-account-sign-up",
+      "normalised": "https://www.botox.com/botox-account-sign-up",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/specialty-pharmacy-savings-card",
+      "normalised": "https://www.botox.com/complete-dashboard/specialty-pharmacy-savings-card",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/treatment-reminders",
+      "normalised": "https://www.botox.com/treatment-reminders",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/resources/botox-complete",
+      "normalised": "https://www.botox.com/resources/botox-complete",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/botox-account-sign-up/confirmation",
+      "normalised": "https://www.botox.com/botox-account-sign-up/confirmation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/submit-a-claim/confirmation",
+      "normalised": "https://www.botox.com/complete-dashboard/submit-a-claim/confirmation",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/complete-dashboard/claim-details",
+      "normalised": "https://www.botox.com/complete-dashboard/claim-details",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botox.com/resources",
+      "normalised": "https://www.botox.com/resources",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/reset-password",
+      "normalised": "https://www.botox.com/reset-password",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/main",
+      "normalised": "https://www.botox.com/main",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/botox-complete-sign-up",
+      "normalised": "https://www.botox.com/botox-complete-sign-up",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/resources/frequently-asked-questions",
+      "normalised": "https://www.botox.com/resources/frequently-asked-questions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/cost-and-coverage",
+      "normalised": "https://www.botox.com/cost-and-coverage",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/botox-complete-sign-up/confirmation",
+      "normalised": "https://www.botox.com/botox-complete-sign-up/confirmation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/forgot-password",
+      "normalised": "https://www.botox.com/forgot-password",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/reset-expired-password",
+      "normalised": "https://www.botox.com/reset-expired-password",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botox.com/account",
+      "normalised": "https://www.botox.com/account",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 40,
+    "bySource": {
+      "sitemap": 29,
+      "crawl": 11,
+      "manual": 0
+    }
+  }
+}

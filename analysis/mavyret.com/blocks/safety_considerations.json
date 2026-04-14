@@ -1,0 +1,27 @@
+{
+  "blockId": "safety_considerations",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Safety Considerations",
+  "description": "Provides critical safety information related to the product.",
+  "domHints": {
+    "selectors": [
+      ".h2--safety-small",
+      ".abbv-rich-text.transcript-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

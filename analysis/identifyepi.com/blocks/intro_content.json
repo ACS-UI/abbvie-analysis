@@ -1,0 +1,29 @@
+{
+  "blockId": "intro_content",
+  "templateIds": [
+    "tpl_9",
+    "tpl_12",
+    "tpl_29",
+    "tpl_32"
+  ],
+  "name": "Introduction Content",
+  "description": "Provides a detailed explanation of EPI and its management.",
+  "domHints": {
+    "selectors": [
+      ".epi-first-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

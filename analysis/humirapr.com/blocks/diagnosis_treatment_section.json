@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosis_treatment_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Diagnosis and Treatment",
+  "description": "Provides information on diagnosis methods and treatment options.",
+  "domHints": {
+    "selectors": [
+      ".symptoms-plaque-psoriasis"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

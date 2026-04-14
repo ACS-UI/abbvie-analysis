@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Homepage with Product Links",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    }
+  ],
+  "generatedAt": "2026-04-13T16:36:16.457Z"
+}

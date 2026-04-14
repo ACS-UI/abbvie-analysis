@@ -1,0 +1,29 @@
+{
+  "blockId": "story_highlight",
+  "templateIds": [
+    "tpl_67",
+    "tpl_97",
+    "tpl_117",
+    "tpl_187"
+  ],
+  "name": "Story Highlight",
+  "description": "Showcases a specific story or article with an image, title, and brief description.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory.card-dashboard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_67 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

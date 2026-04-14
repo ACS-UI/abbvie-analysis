@@ -1,0 +1,26 @@
+{
+  "blockId": "graph_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Graph Section",
+  "description": "Presents data visualization and supporting text about product efficacy.",
+  "domHints": {
+    "selectors": [
+      "#background-container-57469242"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

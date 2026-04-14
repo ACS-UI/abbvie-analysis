@@ -1,0 +1,26 @@
+{
+  "blockId": "copay_card_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Copay Card Section",
+  "description": "Details about the Synthroid copay card and its benefits.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.container-outline.section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

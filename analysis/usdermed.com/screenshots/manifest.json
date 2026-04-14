@@ -1,0 +1,194 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.usdermed.com/clinical-tools/napsi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-footer-horizontal.abbv-footer-border-top"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.usdermed.com/clinical-tools/napsi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-header-v2"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.usdermed.com/clinical-tools/napsi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": "#background-container-1882784644"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.usdermed.com/clinical-tools/napsi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-rich-text-common"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.usdermed.com/clinical-tools/napsi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".cta.parbase"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.usdermed.com/clinical-tools/napsi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.usdermed.com/clinical-tools/napsi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_overlay__default.png",
+      "sourceUrl": "https://www.usdermed.com/clinical-tools/napsi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "section_navigation__default.png",
+      "sourceUrl": "https://www.usdermed.com/atopic-dermatitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-section-navigation"
+    },
+    {
+      "relativePath": "disease_education_section__default.png",
+      "sourceUrl": "https://www.usdermed.com/atopic-dermatitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": "#background-container-872984000"
+    },
+    {
+      "relativePath": "treatment_considerations_section__default.png",
+      "sourceUrl": "https://www.usdermed.com/atopic-dermatitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": "#background-container-1450286694"
+    },
+    {
+      "relativePath": "video_playlist__default.png",
+      "sourceUrl": "https://www.usdermed.com/atopic-dermatitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-accordion.video-playlist-mobile-only"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.usdermed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.usdermed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "intro_columns__default.png",
+      "sourceUrl": "https://www.usdermed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".hero-inner-content-section-para"
+    },
+    {
+      "relativePath": "cta_buttons__default.png",
+      "sourceUrl": "https://www.usdermed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-flex-container-v2"
+    },
+    {
+      "relativePath": "skin_tout_section__default.png",
+      "sourceUrl": "https://www.usdermed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".container__skin-tout-bg-container"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.usdermed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.usdermed.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:31:34.906Z",
+      "selector": ".abbv-back-to-top"
+    }
+  ]
+}

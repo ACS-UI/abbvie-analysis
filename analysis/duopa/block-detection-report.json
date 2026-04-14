@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Page layout group 1",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "How Duopa Works — group 2",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 9
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Mentor Program — group 3",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "What Is Duopa — group 4",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 9
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Sitemap — group 5",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Page layout group 6",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Duopa Share — group 7",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 1
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Advanced Parkinsons — group 8",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Patient Stories — group 9",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Carrying Case — group 10",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 10
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "My Duopa Materials — group 11",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 9
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Resources — group 12",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 10
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Search Results — group 13",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Duopa Your Day — group 14",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 10
+    },
+    {
+      "templateId": "tpl_14",
+      "humanName": "As Parkinsons Advances — group 15",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_15",
+      "humanName": "Education Program — group 16",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    }
+  ],
+  "generatedAt": "2026-04-13T12:32:50.691Z"
+}

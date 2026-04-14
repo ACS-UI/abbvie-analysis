@@ -1,0 +1,26 @@
+{
+  "blockId": "rich_text_intro",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Introductory Text",
+  "description": "Rich text section providing introductory information.",
+  "domHints": {
+    "selectors": [
+      ".abbvieaccess-patientassist-container .rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

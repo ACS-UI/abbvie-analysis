@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns_4",
+  "templateIds": [
+    "tpl_25"
+  ],
+  "name": "Content Columns - Communication",
+  "description": "Tips on effective communication with the doctor.",
+  "domHints": {
+    "selectors": [
+      "#thsl"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

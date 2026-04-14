@@ -1,0 +1,29 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5"
+  ],
+  "name": "Hero Section",
+  "description": "Main visual and introductory section of the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

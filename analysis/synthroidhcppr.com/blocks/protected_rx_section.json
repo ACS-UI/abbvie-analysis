@@ -1,0 +1,26 @@
+{
+  "blockId": "protected_rx_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Protected RX Section",
+  "description": "Explains the benefits of protected RX with visual aids.",
+  "domHints": {
+    "selectors": [
+      ".synthroid-protected-rx-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

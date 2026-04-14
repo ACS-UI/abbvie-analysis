@@ -1,0 +1,31 @@
+{
+  "blockId": "product_cards",
+  "templateIds": [
+    "tpl_2",
+    "tpl_8",
+    "tpl_10",
+    "tpl_11",
+    "tpl_12",
+    "tpl_14"
+  ],
+  "name": "Product Cards",
+  "description": "Displays a grid of product cards with links to more information and representative requests.",
+  "domHints": {
+    "selectors": [
+      ".abbvieaccess-flex-cards-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

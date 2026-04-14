@@ -1,0 +1,27 @@
+{
+  "blockId": "subscription_cta",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2"
+  ],
+  "name": "Subscription CTA",
+  "description": "Encourages users to sign up for more information and resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.abv-custom-bgcolor-green"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

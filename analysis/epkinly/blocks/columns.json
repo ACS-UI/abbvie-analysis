@@ -1,0 +1,26 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_26"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: Downloadable resources Care Partner brochure Learn how you can support your loved one during their treatment. Download t…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_26. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

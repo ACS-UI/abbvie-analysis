@@ -1,0 +1,28 @@
+{
+  "blockId": "hero_banner",
+  "templateIds": [
+    "tpl_4",
+    "tpl_5",
+    "tpl_7"
+  ],
+  "name": "Hero Banner",
+  "description": "Displays the main visual and headline for the page, emphasizing safety and tolerability.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1468676561"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

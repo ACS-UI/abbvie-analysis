@@ -1,0 +1,56 @@
+{
+  "blockId": "main_region_2",
+  "templateIds": [
+    "tpl_1",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_9",
+    "tpl_10",
+    "tpl_12",
+    "tpl_13",
+    "tpl_16",
+    "tpl_18",
+    "tpl_19",
+    "tpl_22",
+    "tpl_23",
+    "tpl_24",
+    "tpl_32",
+    "tpl_34",
+    "tpl_36",
+    "tpl_39",
+    "tpl_40",
+    "tpl_41",
+    "tpl_42",
+    "tpl_43",
+    "tpl_45",
+    "tpl_46",
+    "tpl_57",
+    "tpl_64",
+    "tpl_69",
+    "tpl_72",
+    "tpl_80",
+    "tpl_81"
+  ],
+  "name": "main region 2",
+  "description": "Major content region in main (div). Preview: Indication Primary Axillary Hyperhidrosis BOTOX® is indicated for the treatment of severe primary axillary hyperhidrosis…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_1. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "main_content",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Main Content",
+  "description": "The main content area of the page, including the conversation guide.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.conversation-guide-title-container",
+      ".aemform"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

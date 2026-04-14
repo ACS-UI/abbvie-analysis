@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_body_text",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Modal Body Text",
+  "description": "Contains the main message of the modal, explaining the purpose and any disclaimers.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-rich-text.exit-modal-body"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

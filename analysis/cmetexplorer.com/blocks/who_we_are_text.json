@@ -1,0 +1,27 @@
+{
+  "blockId": "who_we_are_text",
+  "templateIds": [
+    "tpl_21"
+  ],
+  "name": "Who We Are Text",
+  "description": "Describes the mission and vision of AbbVie.",
+  "domHints": {
+    "selectors": [
+      "div#text-7517717037",
+      "div.cmp-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_21 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

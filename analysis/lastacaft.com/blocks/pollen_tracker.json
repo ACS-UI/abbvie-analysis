@@ -1,0 +1,26 @@
+{
+  "blockId": "pollen_tracker",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Pollen Tracker",
+  "description": "Interactive tool for tracking pollen levels by ZIP code.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-pollen-tracker"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

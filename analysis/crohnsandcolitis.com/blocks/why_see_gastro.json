@@ -1,0 +1,26 @@
+{
+  "blockId": "why_see_gastro",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Why See a Gastroenterologist",
+  "description": "Explains the importance of consulting a gastroenterologist.",
+  "domHints": {
+    "selectors": [
+      "#workingwithgastro"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

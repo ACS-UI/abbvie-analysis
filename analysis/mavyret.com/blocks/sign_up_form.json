@@ -1,0 +1,26 @@
+{
+  "blockId": "sign_up_form",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Sign-Up Form",
+  "description": "Allows users to register for the MAVYRET Patient Support program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.form-container.sign-up-for-mavyret-patient-support"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_response_terminology",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Treatment Response Terminology",
+  "description": "Explains terms related to treatment responses.",
+  "domHints": {
+    "selectors": [
+      ".borderbox__aquarium"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

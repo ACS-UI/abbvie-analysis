@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_cards_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "CTA Cards Section",
+  "description": "Provides call-to-action cards for learning more, finding a doctor, and downloading resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.cta-card-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

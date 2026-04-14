@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.durystahcp.com/",
+  "normalisedUrl": "https://www.durystahcp.com/",
+  "finalUrlAfterRedirects": "https://www.durystahcp.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:18:46.334Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

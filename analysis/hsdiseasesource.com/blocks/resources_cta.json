@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_cta",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Resources Call-to-Action",
+  "description": "Encourages users to explore educational and support resources.",
+  "domHints": {
+    "selectors": [
+      ".tout-journey-next"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

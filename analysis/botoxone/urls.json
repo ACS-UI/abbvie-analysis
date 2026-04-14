@@ -1,0 +1,1561 @@
+{
+  "entryUrl": "https://www.botoxone.com/",
+  "discoveredAt": "2026-04-13T12:22:28.905Z",
+  "urls": [
+    {
+      "url": "https://www.botoxone.com/",
+      "normalised": "https://www.botoxone.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/dashboard",
+      "normalised": "https://www.botoxone.com/dashboard",
+      "source": "crawl",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/hyperhidrosis",
+      "normalised": "https://www.botoxone.com/hyperhidrosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/register",
+      "normalised": "https://www.botoxone.com/register",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/sign-in",
+      "normalised": "https://www.botoxone.com/sign-in",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/manage-account",
+      "normalised": "https://www.botoxone.com/manage-account",
+      "source": "crawl",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/dosing/lls-calculator",
+      "normalised": "https://www.botoxone.com/adult-spasticity/dosing/lls-calculator",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/patient-access-and-support",
+      "normalised": "https://www.botoxone.com/patient-access-and-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/request-a-rep",
+      "normalised": "https://www.botoxone.com/request-a-rep",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospasm",
+      "normalised": "https://www.botoxone.com/blepharospasm",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab",
+      "normalised": "https://www.botoxone.com/oab",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/hyperhidrosis/dosing",
+      "normalised": "https://www.botoxone.com/hyperhidrosis/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/strabismus",
+      "normalised": "https://www.botoxone.com/strabismus",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo",
+      "normalised": "https://www.botoxone.com/adult-ndo",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/maxedge",
+      "normalised": "https://www.botoxone.com/maxedge",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/botox-services",
+      "normalised": "https://www.botoxone.com/botox-services",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/online-training",
+      "normalised": "https://www.botoxone.com/online-training",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/practice-resources",
+      "normalised": "https://www.botoxone.com/practice-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/patient-id",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/patient-id",
+      "normalised": "https://www.botoxone.com/adult-spasticity/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/search-results",
+      "normalised": "https://www.botoxone.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/efficacy",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/cm-additional-data",
+      "normalised": "https://www.botoxone.com/chronic-migraine/cm-additional-data",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/hyperhidrosis/patient-id",
+      "normalised": "https://www.botoxone.com/hyperhidrosis/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/safety",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/dosing",
+      "normalised": "https://www.botoxone.com/chronic-migraine/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/dosing/uls-calculator",
+      "normalised": "https://www.botoxone.com/adult-spasticity/dosing/uls-calculator",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/efficacy",
+      "normalised": "https://www.botoxone.com/adult-spasticity/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/efficacy",
+      "normalised": "https://www.botoxone.com/chronic-migraine/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/strabismus/safety",
+      "normalised": "https://www.botoxone.com/strabismus/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/hyperhidrosis/safety",
+      "normalised": "https://www.botoxone.com/hyperhidrosis/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/strabismus/efficacy",
+      "normalised": "https://www.botoxone.com/strabismus/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/resources",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/strabismus/resources",
+      "normalised": "https://www.botoxone.com/strabismus/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/patient-id",
+      "normalised": "https://www.botoxone.com/chronic-migraine/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/dosing",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/safety",
+      "normalised": "https://www.botoxone.com/adult-spasticity/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/efficacy",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/efficacy",
+      "normalised": "https://www.botoxone.com/oab/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/resources",
+      "normalised": "https://www.botoxone.com/adult-spasticity/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/since-2010",
+      "normalised": "https://www.botoxone.com/chronic-migraine/since-2010",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/practice-resources?q=Patient%20Materials&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/practice-resources?q=Patient%20Materials&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/find-an-injector",
+      "normalised": "https://www.botoxone.com/find-an-injector",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/practice-resources?q=Provider%20Tools&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/practice-resources?q=Provider%20Tools&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/clinical-information",
+      "normalised": "https://www.botoxone.com/clinical-information",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-ndo",
+      "normalised": "https://www.botoxone.com/pediatric-ndo",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity",
+      "normalised": "https://www.botoxone.com/adult-spasticity",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia",
+      "normalised": "https://www.botoxone.com/cervical-dystonia",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine",
+      "normalised": "https://www.botoxone.com/chronic-migraine",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/faqs",
+      "normalised": "https://www.botoxone.com/faqs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/hyperhidrosis/efficacy",
+      "normalised": "https://www.botoxone.com/hyperhidrosis/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/strabismus/patient-id",
+      "normalised": "https://www.botoxone.com/strabismus/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/resources",
+      "normalised": "https://www.botoxone.com/chronic-migraine/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/strabismus/dosing",
+      "normalised": "https://www.botoxone.com/strabismus/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/dosing",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/site-map",
+      "normalised": "https://www.botoxone.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/hyperhidrosis/resources",
+      "normalised": "https://www.botoxone.com/hyperhidrosis/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/safety",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/dosing",
+      "normalised": "https://www.botoxone.com/adult-spasticity/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/safety",
+      "normalised": "https://www.botoxone.com/chronic-migraine/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/patient-id",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/resources",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/practice-resources?q=Office%20Tools&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/practice-resources?q=Office%20Tools&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/practice-resources?q=practice%20resources&collection=ce_documents&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/practice-resources?q=practice%20resources&collection=ce_documents&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Pediatric%20Spasticity%20Injection%20Workbook.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Pediatric%20Spasticity%20Injection%20Workbook.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Get%20to%20Know%20BOTOXOne.com.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Get%20to%20Know%20BOTOXOne.com.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Equipment_and_Procedure_Guide.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Equipment_and_Procedure_Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Flashcard%20%E2%80%93%20OAB%20Due%20to%20a%20Neurologic%20Condition.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Flashcard%20%E2%80%93%20OAB%20Due%20to%20a%20Neurologic%20Condition.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Reconstitution_Procedure_Information.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Reconstitution_Procedure_Information.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB-NC%20Flashcard.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB-NC%20Flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Chronic%20Migraine%20Guide%20to%20Billing%20and%20Coding.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Chronic%20Migraine%20Guide%20to%20Billing%20and%20Coding.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Chronic%20Migraine%20PREEMPT%20Brochure.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Chronic%20Migraine%20PREEMPT%20Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB%20Appointment%20Confirm%20Talk%20Track.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB%20Appointment%20Confirm%20Talk%20Track.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Product%20Monograph%20-%20All%20Indications.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Product%20Monograph%20-%20All%20Indications.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Reconstitution%20Flashcard%20for%20Spasticity%20and%20Movement%20Disorders.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Reconstitution%20Flashcard%20for%20Spasticity%20and%20Movement%20Disorders.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Pediatric%20Spasticity%20Billing%20and%20Coding%20Guide.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Pediatric%20Spasticity%20Billing%20and%20Coding%20Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Savings%20Program%20QR%20Code%20Stand.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Savings%20Program%20QR%20Code%20Stand.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Treatment%20Details%20Form.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Treatment%20Details%20Form.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Chronic%20Migraine%20Injector%20Offerings%20Tool.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Chronic%20Migraine%20Injector%20Offerings%20Tool.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Savings%20Program%20Tear%20Pad.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Savings%20Program%20Tear%20Pad.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Guide%20to%20Billing%20and%20Coding%20Neurosciences.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Guide%20to%20Billing%20and%20Coding%20Neurosciences.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Savings%20Program%20Patient%20Brochure.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Savings%20Program%20Patient%20Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB-NC%20Patient%20Brochure.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB-NC%20Patient%20Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Today%20Leave%20Behind.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOX%20Today%20Leave%20Behind.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB%20Front%20Office%20Scheduling%20Tool.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB%20Front%20Office%20Scheduling%20Tool.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Adult%20Spasticity%20Injection%20Workbook.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Adult%20Spasticity%20Injection%20Workbook.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Cervical%20Dystonia%20Injection%20Workbook.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Cervical%20Dystonia%20Injection%20Workbook.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Get%20to%20Know%20BOTOX.com.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Get%20to%20Know%20BOTOX.com.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB%20Patient%20Brochure.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/OAB%20Patient%20Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOXTrackandTraceFlashcard.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/BOTOXTrackandTraceFlashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/content/dam/botoxone/pdf/Track%20and%20Trace%20Flashcard.pdf",
+      "normalised": "https://www.botoxone.com/content/dam/botoxone/pdf/Track%20and%20Trace%20Flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/apps/abbvieforms/v1/components/form/file-upload/ui/fonts/abbv_iconFont.woff",
+      "normalised": "https://www.botoxone.com/apps/abbvieforms/v1/components/form/file-upload/ui/fonts/abbv_iconFont.woff",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxone.com/explore",
+      "normalised": "https://www.botoxone.com/explore",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/education-and-training",
+      "normalised": "https://www.botoxone.com/education-and-training",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/overview",
+      "normalised": "https://www.botoxone.com/overview",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/instance",
+      "normalised": "https://www.botoxone.com/instance",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/safety",
+      "normalised": "https://www.botoxone.com/adult-ndo/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospam/safety",
+      "normalised": "https://www.botoxone.com/blepharospam/safety",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospasm/safety",
+      "normalised": "https://www.botoxone.com/blepharospasm/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospam/patient-id",
+      "normalised": "https://www.botoxone.com/blepharospam/patient-id",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/efficacy",
+      "normalised": "https://www.botoxone.com/adult-ndo/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospam/resources",
+      "normalised": "https://www.botoxone.com/blepharospam/resources",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/badges",
+      "normalised": "https://www.botoxone.com/badges",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-ndo/resources",
+      "normalised": "https://www.botoxone.com/pediatric-ndo/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/reset-password",
+      "normalised": "https://www.botoxone.com/reset-password",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospasm/dosing",
+      "normalised": "https://www.botoxone.com/blepharospasm/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/forgot-password",
+      "normalised": "https://www.botoxone.com/forgot-password",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospam/dosing",
+      "normalised": "https://www.botoxone.com/blepharospam/dosing",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-ndo/dosing",
+      "normalised": "https://www.botoxone.com/pediatric-ndo/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospam",
+      "normalised": "https://www.botoxone.com/blepharospam",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospasm/resources",
+      "normalised": "https://www.botoxone.com/blepharospasm/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/sitemap",
+      "normalised": "https://www.botoxone.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospam/efficacy",
+      "normalised": "https://www.botoxone.com/blepharospam/efficacy",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/complete-program",
+      "normalised": "https://www.botoxone.com/complete-program",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospam/resources?q=blepharospam&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/blepharospam/resources?q=blepharospam&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/nurse--maureen--chronic-migraine-crystal-clear-moments-video",
+      "normalised": "https://www.botoxone.com/nurse--maureen--chronic-migraine-crystal-clear-moments-video",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospasm/patient-id",
+      "normalised": "https://www.botoxone.com/blepharospasm/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/resources",
+      "normalised": "https://www.botoxone.com/adult-ndo/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/dosing",
+      "normalised": "https://www.botoxone.com/adult-ndo/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/dosing",
+      "normalised": "https://www.botoxone.com/oab/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/resources",
+      "normalised": "https://www.botoxone.com/oab/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospasm/efficacy",
+      "normalised": "https://www.botoxone.com/blepharospasm/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-ndo/safety",
+      "normalised": "https://www.botoxone.com/pediatric-ndo/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/patient-id",
+      "normalised": "https://www.botoxone.com/adult-ndo/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-ndo/patient-id",
+      "normalised": "https://www.botoxone.com/pediatric-ndo/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/maxedge-update-profile",
+      "normalised": "https://www.botoxone.com/maxedge-update-profile",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-ndo/efficacy",
+      "normalised": "https://www.botoxone.com/pediatric-ndo/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&amp;collection=ce_documents&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&amp;collection=ce_documents&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospasm/resources?q=Blepharospasm&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/blepharospasm/resources?q=Blepharospasm&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/resources?q=adult%20spasticity&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/adult-spasticity/resources?q=adult%20spasticity&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/resources?q=oab&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/oab/resources?q=oab&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/practice-resources?q=Patient%20Materials&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/practice-resources?q=Patient%20Materials&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/practice-resources?q=practice%20resources&amp;collection=ce_documents&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/practice-resources?q=practice%20resources&amp;collection=ce_documents&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/strabismus/resources?q=strabismus&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/strabismus/resources?q=strabismus&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/practice-resources?q=Provider%20Tools&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/practice-resources?q=Provider%20Tools&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/resources?q=pediatric%20spasticity&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/resources?q=pediatric%20spasticity&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/hyperhidrosis/resources?q=hyperhidrosis&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/hyperhidrosis/resources?q=hyperhidrosis&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/resources?q=cervical%20dystonia&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/resources?q=cervical%20dystonia&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/oab.html",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/oab.html",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/practice-resources?q=Office%20Tools&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/practice-resources?q=Office%20Tools&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/blepharospasm.html",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/blepharospasm.html",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-ndo/resources?q=pediatric%20ndo&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/pediatric-ndo/resources?q=pediatric%20ndo&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/adult-spasticity.html",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/adult-spasticity.html",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/resources?q=adult%20ndo&amp;sp_c=5&amp;page=1",
+      "normalised": "https://www.botoxone.com/adult-ndo/resources?q=adult%20ndo&amp;sp_c=5&amp;page=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/manage-account/jcr:content/contentpar/columns_copy/0/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/manage-account/jcr:content/contentpar/columns_copy/0/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 401,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/jcr:content/contentpar/columns_copy/0/container/containerparsys/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/jcr:content/contentpar/columns_copy/0/container/containerparsys/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/botox-services/jcr:content/contentpar/columns_copy_847754741/0/container/containerparsys/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/botox-services/jcr:content/contentpar/columns_copy_847754741/0/container/containerparsys/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/patient-access-and-support/jcr:content/contentpar/columns/0/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/patient-access-and-support/jcr:content/contentpar/columns/0/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/sign-in/jcr:content/contentpar/background_container/bkgwidthcontainer/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/sign-in/jcr:content/contentpar/background_container/bkgwidthcontainer/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/forgot-password/jcr:content/contentpar/background_container/bkgwidthcontainer/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/forgot-password/jcr:content/contentpar/background_container/bkgwidthcontainer/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/hyperhidrosis.html",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/hyperhidrosis.html",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/request-a-rep/jcr:content/contentpar/columns_1660153004/0/container/containerparsys/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/request-a-rep/jcr:content/contentpar/columns_1660153004/0/container/containerparsys/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/register/jcr:content/contentpar/columns/0/container/containerparsys/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/register/jcr:content/contentpar/columns/0/container/containerparsys/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/safety",
+      "normalised": "https://www.botoxone.com/oab/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/patient-id",
+      "normalised": "https://www.botoxone.com/oab/patient-id",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-689495633-1",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-689495633-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/abbv-tab-856612567-0",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/abbv-tab-856612567-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/abbv-tab-1071634255-1",
+      "normalised": "https://www.botoxone.com/abbv-tab-1071634255-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1111077975-0",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1111077975-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/abbv-tab-1858664683-1",
+      "normalised": "https://www.botoxone.com/adult-spasticity/abbv-tab-1858664683-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/abbv-tab-739987714-0",
+      "normalised": "https://www.botoxone.com/chronic-migraine/abbv-tab-739987714-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/abbv-tab-1467108837-0",
+      "normalised": "https://www.botoxone.com/oab/abbv-tab-1467108837-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/abbv-tab-242928405-0",
+      "normalised": "https://www.botoxone.com/oab/abbv-tab-242928405-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/abbv-tab-2040227885-1",
+      "normalised": "https://www.botoxone.com/adult-ndo/abbv-tab-2040227885-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/abbv-tab-63936614-0",
+      "normalised": "https://www.botoxone.com/oab/abbv-tab-63936614-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/abbv-tab-242928405-1",
+      "normalised": "https://www.botoxone.com/oab/abbv-tab-242928405-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/abbv-tab-856612567-1",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/abbv-tab-856612567-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/abbv-tab-2040227885-0",
+      "normalised": "https://www.botoxone.com/adult-ndo/abbv-tab-2040227885-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/abbv-tab-63936614-1",
+      "normalised": "https://www.botoxone.com/oab/abbv-tab-63936614-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/abbv-tab-1467108837-1",
+      "normalised": "https://www.botoxone.com/oab/abbv-tab-1467108837-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1683288498-1",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1683288498-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1437669435-1",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1437669435-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-689495633-0",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-689495633-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/abbv-tab-1164599605-1",
+      "normalised": "https://www.botoxone.com/adult-ndo/abbv-tab-1164599605-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/abbv-tab-1165719119-0",
+      "normalised": "https://www.botoxone.com/adult-ndo/abbv-tab-1165719119-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/abbv-tab-1189048761-0",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/abbv-tab-1189048761-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/abbv-tab-1189048761-1",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/abbv-tab-1189048761-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/enroll",
+      "normalised": "https://www.botoxone.com/enroll",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-644536973-1",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-644536973-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/abbv-tab-1165719119-1",
+      "normalised": "https://www.botoxone.com/adult-ndo/abbv-tab-1165719119-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/abbv-tab-1164599605-0",
+      "normalised": "https://www.botoxone.com/adult-ndo/abbv-tab-1164599605-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine-injection-video",
+      "normalised": "https://www.botoxone.com/chronic-migraine-injection-video",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/nurse--laurel--chronic-migraine-crystal-clear-moments-video",
+      "normalised": "https://www.botoxone.com/nurse--laurel--chronic-migraine-crystal-clear-moments-video",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/introducing-botox-complete",
+      "normalised": "https://www.botoxone.com/introducing-botox-complete",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/abbv-tab-1071634255-0",
+      "normalised": "https://www.botoxone.com/abbv-tab-1071634255-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/abbv-tab-1858664683-0",
+      "normalised": "https://www.botoxone.com/adult-spasticity/abbv-tab-1858664683-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/abbv-tab-739987714-1",
+      "normalised": "https://www.botoxone.com/chronic-migraine/abbv-tab-739987714-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1111077975-1",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1111077975-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/botox-complete-savings-reimbursement",
+      "normalised": "https://www.botoxone.com/botox-complete-savings-reimbursement",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/abbv-tab-1612501063-1",
+      "normalised": "https://www.botoxone.com/oab/abbv-tab-1612501063-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1437669435-0",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1437669435-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-644536973-0",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-644536973-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/reset-password/jcr:content/contentpar/columns/0/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/reset-password/jcr:content/contentpar/columns/0/aemform.iframe.en.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/frm",
+      "normalised": "https://www.botoxone.com/frm",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine-ease-of-injection-video",
+      "normalised": "https://www.botoxone.com/chronic-migraine-ease-of-injection-video",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-ndo/resources?q=pediatric%20ndo&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/pediatric-ndo/resources?q=pediatric%20ndo&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&collection=ce_documents&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&collection=ce_documents&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/adult-ndo.html",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/adult-ndo.html",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/register?cid=vie_botox_cross_vanity_hcp_us-btx-240402_button",
+      "normalised": "https://www.botoxone.com/register?cid=vie_botox_cross_vanity_hcp_us-btx-240402_button",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/resources?q=oab&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/oab/resources?q=oab&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/strabismus/resources?q=strabismus&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/strabismus/resources?q=strabismus&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine-crystal-clear-moment-video",
+      "normalised": "https://www.botoxone.com/chronic-migraine-crystal-clear-moment-video",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/resources?q=pediatric%20spasticity&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/resources?q=pediatric%20spasticity&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/request-a-rep?cid=vie_botox_cross_vanity_hcp_us-btx-240402_button",
+      "normalised": "https://www.botoxone.com/request-a-rep?cid=vie_botox_cross_vanity_hcp_us-btx-240402_button",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/cervical-dystonia/resources?q=cervical%20dystonia&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/cervical-dystonia/resources?q=cervical%20dystonia&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-ndo/resources?q=adult%20ndo&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/adult-ndo/resources?q=adult%20ndo&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/blepharospasm/resources?q=Blepharospasm&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/blepharospasm/resources?q=Blepharospasm&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/adult-spasticity/resources?q=adult%20spasticity&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/adult-spasticity/resources?q=adult%20spasticity&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/hyperhidrosis/resources?q=hyperhidrosis&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/hyperhidrosis/resources?q=hyperhidrosis&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1683288498-0",
+      "normalised": "https://www.botoxone.com/pediatric-spasticity/abbv-tab-1683288498-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/oab/abbv-tab-1612501063-0",
+      "normalised": "https://www.botoxone.com/oab/abbv-tab-1612501063-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/fabs@Allergan.com",
+      "normalised": "https://www.botoxone.com/fabs@Allergan.com",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/blepharospam.html",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/blepharospam.html",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/chronic-migraine.html",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/chronic-migraine.html",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/strabismus.html",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/strabismus.html",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/content/botoxone/en-us/cervical-dystonia.html",
+      "normalised": "https://www.botoxone.com/content/botoxone/en-us/cervical-dystonia.html",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/resources?q=NDO%20Reconstitution&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/chronic-migraine/resources?q=NDO%20Reconstitution&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxone.com/chronic-migraine/resources?q=Flexible%20Needle%20Guide&sp_c=5&page=1",
+      "normalised": "https://www.botoxone.com/chronic-migraine/resources?q=Flexible%20Needle%20Guide&sp_c=5&page=1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 221,
+    "bySource": {
+      "sitemap": 133,
+      "crawl": 88,
+      "manual": 0
+    }
+  }
+}

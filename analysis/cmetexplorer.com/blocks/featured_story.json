@@ -1,0 +1,28 @@
+{
+  "blockId": "featured_story",
+  "templateIds": [
+    "tpl_47",
+    "tpl_137",
+    "tpl_265"
+  ],
+  "name": "Featured Story",
+  "description": "Highlights a key story or profile related to AbbVie.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory.card-dashboard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_47 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

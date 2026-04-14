@@ -1,0 +1,27 @@
+{
+  "blockId": "why_choose_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3"
+  ],
+  "name": "Why Choose Section",
+  "description": "Explains the benefits of the product with supporting images and text.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-why-choose-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

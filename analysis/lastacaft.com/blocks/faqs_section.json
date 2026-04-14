@@ -1,0 +1,26 @@
+{
+  "blockId": "faqs_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "FAQs Section",
+  "description": "Provides answers to frequently asked questions in an accordion format.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-faqs-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

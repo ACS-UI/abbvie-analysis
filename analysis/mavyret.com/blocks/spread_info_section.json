@@ -1,0 +1,26 @@
+{
+  "blockId": "spread_info_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Spread Information Section",
+  "description": "Details on how Hepatitis C can and cannot be spread.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1605751318"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

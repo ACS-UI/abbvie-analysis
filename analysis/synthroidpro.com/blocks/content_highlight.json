@@ -1,0 +1,26 @@
+{
+  "blockId": "content_highlight",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Content Highlight",
+  "description": "Provides detailed information about the product's accessibility and benefits.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section--full.color--card-bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

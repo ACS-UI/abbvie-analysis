@@ -1,0 +1,189 @@
+{
+  "entryUrl": "https://www.psoriaticarthritisinfo.com/",
+  "discoveredAt": "2026-04-13T15:59:32.225Z",
+  "urls": [
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/",
+      "normalised": "https://www.psoriaticarthritisinfo.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/content/dam/psoriaticarthritisinfo/pdf/diagnosed-discussion-guide.pdf",
+      "normalised": "https://www.psoriaticarthritisinfo.com/content/dam/psoriaticarthritisinfo/pdf/diagnosed-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/content/dam/psoriaticarthritisinfo/pdf/undiagnosed-discussion-guide.pdf",
+      "normalised": "https://www.psoriaticarthritisinfo.com/content/dam/psoriaticarthritisinfo/pdf/undiagnosed-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/content/dam/psoriaticarthritisinfo/pdf/Psoriatic-Arthritis-Living-Well-Kit.pdf",
+      "normalised": "https://www.psoriaticarthritisinfo.com/content/dam/psoriaticarthritisinfo/pdf/Psoriatic-Arthritis-Living-Well-Kit.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis",
+      "normalised": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/progression",
+      "normalised": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/progression",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/symptoms",
+      "normalised": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/living-with-psoriatic-arthritis/lifestyle-and-diet",
+      "normalised": "https://www.psoriaticarthritisinfo.com/living-with-psoriatic-arthritis/lifestyle-and-diet",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/emailsetup",
+      "normalised": "https://www.psoriaticarthritisinfo.com/emailsetup",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/pdfsetup",
+      "normalised": "https://www.psoriaticarthritisinfo.com/pdfsetup",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/living-with-psoriatic-arthritis",
+      "normalised": "https://www.psoriaticarthritisinfo.com/living-with-psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/types",
+      "normalised": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/types",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/sitemap",
+      "normalised": "https://www.psoriaticarthritisinfo.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/living-with-psoriatic-arthritis/resources",
+      "normalised": "https://www.psoriaticarthritisinfo.com/living-with-psoriatic-arthritis/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/register",
+      "normalised": "https://www.psoriaticarthritisinfo.com/register",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/causes",
+      "normalised": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/causes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/find-a-doctor",
+      "normalised": "https://www.psoriaticarthritisinfo.com/find-a-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/psoriatic-arthritis-symptoms-quiz",
+      "normalised": "https://www.psoriaticarthritisinfo.com/psoriatic-arthritis-symptoms-quiz",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/emailsetup/isi-text",
+      "normalised": "https://www.psoriaticarthritisinfo.com/emailsetup/isi-text",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/living-with-psoriatic-arthritis/doctor-discussion-guide",
+      "normalised": "https://www.psoriaticarthritisinfo.com/living-with-psoriatic-arthritis/doctor-discussion-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/treatment",
+      "normalised": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/find-a-doctor/why-a-rheumatologist",
+      "normalised": "https://www.psoriaticarthritisinfo.com/find-a-doctor/why-a-rheumatologist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/find-a-doctor/who-treats-psoriatic-arthritis",
+      "normalised": "https://www.psoriaticarthritisinfo.com/find-a-doctor/who-treats-psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/personalization-diagnosed",
+      "normalised": "https://www.psoriaticarthritisinfo.com/personalization-diagnosed",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/tests-and-diagnosis",
+      "normalised": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis/tests-and-diagnosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 25,
+    "bySource": {
+      "sitemap": 9,
+      "crawl": 16,
+      "manual": 0
+    }
+  }
+}

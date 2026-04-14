@@ -1,0 +1,26 @@
+{
+  "blockId": "mission_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Mission Section",
+  "description": "Describes the mission and goals of the organization.",
+  "domHints": {
+    "selectors": [
+      ".mission-section-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

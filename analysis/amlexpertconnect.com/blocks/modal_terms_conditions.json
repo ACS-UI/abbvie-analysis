@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_terms_conditions",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Terms and Conditions Modal",
+  "description": "Displays terms and conditions in a modal dialog.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-modal.termasandConditions"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

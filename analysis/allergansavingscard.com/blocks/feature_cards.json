@@ -1,0 +1,27 @@
+{
+  "blockId": "feature_cards",
+  "templateIds": [
+    "tpl_123",
+    "tpl_204"
+  ],
+  "name": "Feature Cards",
+  "description": "Displays key stories or features in a card layout.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_123 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

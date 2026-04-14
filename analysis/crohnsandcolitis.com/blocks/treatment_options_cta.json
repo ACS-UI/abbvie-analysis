@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_options_cta",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Treatment Options CTA",
+  "description": "Call-to-action encouraging users to explore treatment options.",
+  "domHints": {
+    "selectors": [
+      ".target-tout-inline"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "questionnaire_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Questionnaire Section",
+  "description": "Interactive section to guide users based on their diagnosis status.",
+  "domHints": {
+    "selectors": [
+      ".abbv-info-tree.fybp-info-tree-guide-you"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

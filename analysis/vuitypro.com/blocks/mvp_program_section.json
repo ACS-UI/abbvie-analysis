@@ -1,0 +1,26 @@
+{
+  "blockId": "mvp_program_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "MVP Program Section",
+  "description": "Information about the My VUITY Points program for patients.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text.mvp-program"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

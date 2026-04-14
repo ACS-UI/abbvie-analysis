@@ -1,0 +1,134 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "header nav"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "carousel__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "[role='main'] > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "[role='main'] > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "main_region_5__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "[role='main'] > div:nth-of-type(6)"
+    },
+    {
+      "relativePath": "main_region_6__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "[role='main'] > div:nth-of-type(7)"
+    },
+    {
+      "relativePath": "main_region_7__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "[role='main'] > div:nth-of-type(8)"
+    },
+    {
+      "relativePath": "form_block_0__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > section:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.botox.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://www.botox.com/log-in",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:27:57.627Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    }
+  ]
+}

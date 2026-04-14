@@ -1,0 +1,33 @@
+{
+  "blockId": "cta_buttons",
+  "templateIds": [
+    "tpl_119",
+    "tpl_161",
+    "tpl_170",
+    "tpl_181",
+    "tpl_196",
+    "tpl_256",
+    "tpl_257",
+    "tpl_280"
+  ],
+  "name": "Call-to-Action Buttons",
+  "description": "Encourages users to take specific actions like exploring more content.",
+  "domHints": {
+    "selectors": [
+      "a#button-e8a49f3fea"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_119 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

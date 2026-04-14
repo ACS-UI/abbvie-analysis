@@ -1,0 +1,26 @@
+{
+  "blockId": "help_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Help Section",
+  "description": "Offers assistance for users needing help with their savings card.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.orilissa-co-pay-card-cs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

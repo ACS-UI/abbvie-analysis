@@ -1,0 +1,26 @@
+{
+  "blockId": "program_description",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Program Description",
+  "description": "Additional information and terms about the SAVELLA Savings Program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.saving-program-description"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

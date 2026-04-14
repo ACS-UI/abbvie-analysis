@@ -1,0 +1,26 @@
+{
+  "blockId": "discussion_guide_cta",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Discussion Guide CTA",
+  "description": "Encourages users to download the doctor discussion guide.",
+  "domHints": {
+    "selectors": [
+      ".callout--cta-m-full"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

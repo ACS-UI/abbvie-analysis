@@ -1,0 +1,26 @@
+{
+  "blockId": "overall_symptoms_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Overall Symptoms Section",
+  "description": "Presents data on LINZESS's impact on overall abdominal symptoms in IBS-C patients.",
+  "domHints": {
+    "selectors": [
+      ".overall-symptoms-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

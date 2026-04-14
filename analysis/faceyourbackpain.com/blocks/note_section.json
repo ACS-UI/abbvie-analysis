@@ -1,0 +1,26 @@
+{
+  "blockId": "note_section",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Note Section",
+  "description": "Displays additional notes about the directory.",
+  "domHints": {
+    "selectors": [
+      ".fybp-find-a-rheum-note-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

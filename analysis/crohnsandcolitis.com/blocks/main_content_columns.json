@@ -1,0 +1,27 @@
+{
+  "blockId": "main_content_columns",
+  "templateIds": [
+    "tpl_12",
+    "tpl_14"
+  ],
+  "name": "Main Content Columns",
+  "description": "Two-column layout with text and images explaining targeted treatments.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flex-wrap-wrap.mb-0"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

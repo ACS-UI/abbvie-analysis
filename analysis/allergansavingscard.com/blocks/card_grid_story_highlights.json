@@ -1,0 +1,26 @@
+{
+  "blockId": "card_grid_story_highlights",
+  "templateIds": [
+    "tpl_163"
+  ],
+  "name": "Story Highlights",
+  "description": "Displays a grid of cards showcasing key stories or features.",
+  "domHints": {
+    "selectors": [
+      ".grid-container > .grid-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_163 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

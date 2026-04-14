@@ -1,0 +1,32 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent section introducing VUITY with a background image and headline text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.vuity-hero-introducing-banner"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

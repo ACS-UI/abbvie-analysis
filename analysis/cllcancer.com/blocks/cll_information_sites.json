@@ -1,0 +1,26 @@
+{
+  "blockId": "cll_information_sites",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "CLL Information Sites",
+  "description": "Section listing sites for CLL information and research.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.mb-72"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

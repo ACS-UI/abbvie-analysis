@@ -1,0 +1,26 @@
+{
+  "blockId": "know_your_goals_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Know Your Goals Section",
+  "description": "Provides information on setting treatment goals.",
+  "domHints": {
+    "selectors": [
+      "#know-your-goals"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

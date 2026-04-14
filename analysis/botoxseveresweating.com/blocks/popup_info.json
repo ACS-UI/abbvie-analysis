@@ -1,0 +1,26 @@
+{
+  "blockId": "popup_info",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Popup Information",
+  "description": "Additional details about the Hyperhidrosis Disease Severity Scale provided in a popup.",
+  "domHints": {
+    "selectors": [
+      "#divHyperhidrosisPopUp"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

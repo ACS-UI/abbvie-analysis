@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_assess_symptoms",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "CTA: Assess Symptoms",
+  "description": "Call-to-action button encouraging users to assess their symptoms.",
+  "domHints": {
+    "selectors": [
+      ".abbv-button-plain.fybp-assess-link"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

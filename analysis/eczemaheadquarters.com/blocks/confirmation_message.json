@@ -1,0 +1,26 @@
+{
+  "blockId": "confirmation_message",
+  "templateIds": [
+    "tpl_45"
+  ],
+  "name": "Confirmation Message",
+  "description": "This section provides a thank-you message and additional information to the user.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text p"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_45 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

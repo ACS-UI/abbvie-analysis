@@ -1,0 +1,84 @@
+{
+  "entryUrl": "https://www.duopahcp.com/",
+  "discoveredAt": "2026-04-13T12:37:27.337Z",
+  "urls": [
+    {
+      "url": "https://www.duopahcp.com/",
+      "normalised": "https://www.duopahcp.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopahcp.com/content/dam/duopahcp/pdf/DuoConnect%20Annotated%20enrollment%20form%208-2020%20-%20Print%20&amp;%20Digital.pdf",
+      "normalised": "https://www.duopahcp.com/content/dam/duopahcp/pdf/DuoConnect%20Annotated%20enrollment%20form%208-2020%20-%20Print%20&amp;%20Digital.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopahcp.com/content/dam/duopahcp/pdf/DuopaRXFORM.pdf",
+      "normalised": "https://www.duopahcp.com/content/dam/duopahcp/pdf/DuopaRXFORM.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopahcp.com/content/dam/duopahcp/pdf/Patient%20Welcome%20Sheet.pdf",
+      "normalised": "https://www.duopahcp.com/content/dam/duopahcp/pdf/Patient%20Welcome%20Sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopahcp.com/content/dam/duopahcp/pdf/DailyTracker.pdf",
+      "normalised": "https://www.duopahcp.com/content/dam/duopahcp/pdf/DailyTracker.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopahcp.com/content/dam/duopahcp/pdf/DuopaRXFORM-Annotated.pdf",
+      "normalised": "https://www.duopahcp.com/content/dam/duopahcp/pdf/DuopaRXFORM-Annotated.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopahcp.com/content/dam/duopahcp/pdf/PatientDecisionBrochure.pdf",
+      "normalised": "https://www.duopahcp.com/content/dam/duopahcp/pdf/PatientDecisionBrochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopahcp.com/content/dam/duopahcp/pdf/CarryingCaseBrochure.pdf",
+      "normalised": "https://www.duopahcp.com/content/dam/duopahcp/pdf/CarryingCaseBrochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopahcp.com/sitemap",
+      "normalised": "https://www.duopahcp.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopahcp.com/telemedicine-resources",
+      "normalised": "https://www.duopahcp.com/telemedicine-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "bySource": {
+      "sitemap": 8,
+      "crawl": 2,
+      "manual": 0
+    }
+  }
+}

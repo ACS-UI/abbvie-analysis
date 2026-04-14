@@ -1,0 +1,27 @@
+{
+  "blockId": "action_cards_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_4"
+  ],
+  "name": "Action Cards Section",
+  "description": "Contains actionable cards for users to explore more about DURYSTA®.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(5) > div.columns > div > div > table"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

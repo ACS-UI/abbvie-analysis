@@ -1,0 +1,30 @@
+{
+  "blockId": "primary_header",
+  "templateIds": [
+    "tpl_84",
+    "tpl_92",
+    "tpl_272",
+    "tpl_290",
+    "tpl_310"
+  ],
+  "name": "Primary Header",
+  "description": "Displays the main navigation and branding elements.",
+  "domHints": {
+    "selectors": [
+      ".nav-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_84 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

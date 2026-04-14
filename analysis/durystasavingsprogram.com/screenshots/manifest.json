@@ -1,0 +1,134 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".abbv-header-content-container"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".durysta-hero"
+    },
+    {
+      "relativePath": "eligibility_section__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".durysta-eligibility"
+    },
+    {
+      "relativePath": "terms_conditions__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".durysta-terms"
+    },
+    {
+      "relativePath": "quick_links__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".durysta-quick-links"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "modals__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "sitemap_section__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".vuity-sitemap-section"
+    },
+    {
+      "relativePath": "faq_cta__default.png",
+      "sourceUrl": "https://www.durystasavingsprogram.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:42.179Z",
+      "selector": ".sign-up-section.faq-banner-bottom-container"
+    }
+  ]
+}

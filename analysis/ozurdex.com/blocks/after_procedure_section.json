@@ -1,0 +1,26 @@
+{
+  "blockId": "after_procedure_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "After the Procedure",
+  "description": "Describes the post-procedure steps and what to expect.",
+  "domHints": {
+    "selectors": [
+      ".flex-container.after-procedure"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

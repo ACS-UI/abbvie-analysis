@@ -1,0 +1,32 @@
+{
+  "blockId": "cta_back_button",
+  "templateIds": [
+    "tpl_13",
+    "tpl_26",
+    "tpl_40",
+    "tpl_42",
+    "tpl_43",
+    "tpl_44",
+    "tpl_47"
+  ],
+  "name": "CTA Back Button",
+  "description": "Provides a button to navigate back to the previous page or section.",
+  "domHints": {
+    "selectors": [
+      ".cta.parbase a"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

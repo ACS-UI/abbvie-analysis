@@ -1,0 +1,26 @@
+{
+  "blockId": "main_hero",
+  "templateIds": [
+    "tpl_290"
+  ],
+  "name": "Hero Section",
+  "description": "The prominent hero section with an image and introductory text.",
+  "domHints": {
+    "selectors": [
+      "div#container-e605c6d666"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_290 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

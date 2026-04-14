@@ -1,0 +1,26 @@
+{
+  "blockId": "secondary_story_grid",
+  "templateIds": [
+    "tpl_250"
+  ],
+  "name": "Secondary Story Grid",
+  "description": "A grid layout displaying additional stories or features.",
+  "domHints": {
+    "selectors": [
+      "div.dashboardcards.medium-theme-stroke"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_250 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

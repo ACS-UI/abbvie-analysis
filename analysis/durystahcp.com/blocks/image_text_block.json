@@ -1,0 +1,27 @@
+{
+  "blockId": "image_text_block",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Image and Text Block",
+  "description": "This block displays an image alongside text content.",
+  "domHints": {
+    "selectors": [
+      ".image-text-v2",
+      ".abbv-image-text-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

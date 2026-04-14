@@ -1,0 +1,27 @@
+{
+  "blockId": "recognition_facts",
+  "templateIds": [
+    "tpl_204",
+    "tpl_265"
+  ],
+  "name": "Recognition Facts",
+  "description": "Highlights key achievements and recognitions.",
+  "domHints": {
+    "selectors": [
+      ".grid-row__col-with-4 > .dashboardcards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_204 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

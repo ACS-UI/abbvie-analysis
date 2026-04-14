@@ -1,0 +1,26 @@
+{
+  "blockId": "rich_text_information",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Rich Text Information",
+  "description": "Informational text about the patient assessment tool and its background.",
+  "domHints": {
+    "selectors": [
+      ".coming-soon-wrapper"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

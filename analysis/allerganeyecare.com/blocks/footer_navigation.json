@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_navigation",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Footer Navigation",
+  "description": "Provides additional navigation options and links to resources.",
+  "domHints": {
+    "selectors": [
+      ".scroll_head"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

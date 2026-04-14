@@ -1,0 +1,29 @@
+{
+  "blockId": "lead_content",
+  "templateIds": [
+    "tpl_138",
+    "tpl_186",
+    "tpl_256",
+    "tpl_308"
+  ],
+  "name": "Lead Content",
+  "description": "Primary content area introducing the page's main topic.",
+  "domHints": {
+    "selectors": [
+      "div.nav-bar__primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_138 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

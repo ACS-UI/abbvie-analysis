@@ -1,0 +1,26 @@
+{
+  "blockId": "coverage_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Coverage Section",
+  "description": "Provides information about insurance coverage and availability of INFeD.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.why-infed-legacy-section-3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

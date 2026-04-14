@@ -1,0 +1,26 @@
+{
+  "blockId": "legacy_of_balance",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Legacy of Balance Section",
+  "description": "Details the legacy and benefits of INFeD with supporting visuals.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.why-infed-legacy-section-1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

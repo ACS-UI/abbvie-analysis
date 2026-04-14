@@ -1,0 +1,26 @@
+{
+  "blockId": "vitamins_table",
+  "templateIds": [
+    "tpl_23"
+  ],
+  "name": "Vitamins Table",
+  "description": "Displays information about various vitamins and their benefits.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.tertiary-wrapper:nth-of-type(1) .container_table"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

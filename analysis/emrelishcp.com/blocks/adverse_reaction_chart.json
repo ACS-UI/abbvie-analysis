@@ -1,0 +1,26 @@
+{
+  "blockId": "adverse_reaction_chart",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Adverse Reaction Chart",
+  "description": "Displays a visual representation of adverse reactions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text-v2 picture img"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

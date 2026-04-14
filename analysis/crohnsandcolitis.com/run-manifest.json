@@ -1,0 +1,235 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:44:49.538Z",
+  "completedAt": "2026-04-13T16:16:39.906Z",
+  "input": {
+    "url": "https://www.crohnsandcolitis.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/crohnsandcolitis.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Homepage and General Overview",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Crohn's Disease Overview",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Ulcerative Colitis Overview",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Biologics for Crohn's Disease",
+        "source": "llm_identify",
+        "blockCount": 4,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Targeted Treatments for Crohn's Disease",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "UC Severity and Progression",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Treatment Options for Ulcerative Colitis",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Introduction to Ulcerative Colitis",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Search Results Page",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Sign Up and Resources Access",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Find a Gastroenterologist",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Living with Ulcerative Colitis",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Sitemap for Ulcerative Colitis",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Crohn's Disease Sitemap",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "Stress and IBD",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 5
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "Impact Tool for IBD",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "What Is Crohns Disease — group 17",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "Support And Resources — group 18",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_18",
+        "humanName": "Sitemap — group 19",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_19",
+        "humanName": "Treatment Options — group 20",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_20",
+        "humanName": "Impact Of Ibd — group 21",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_21",
+        "humanName": "Causes — group 22",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_22",
+        "humanName": "Site Map — group 23",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 5
+      },
+      {
+        "templateId": "tpl_23",
+        "humanName": "Find A Gastroenterologist — group 24",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_24",
+        "humanName": "Diet And Exercise — group 25",
+        "source": "llm_identify",
+        "blockCount": 3,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_25",
+        "humanName": "Appointment Preparation Page",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_26",
+        "humanName": "Ulcerative Colitis Symptoms",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_27",
+        "humanName": "Crohn's Symptoms Overview",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_28",
+        "humanName": "Causes of Crohn's Disease",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      }
+    ]
+  }
+}

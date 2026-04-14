@@ -1,0 +1,27 @@
+{
+  "blockId": "patient_resources",
+  "templateIds": [
+    "tpl_4",
+    "tpl_7"
+  ],
+  "name": "Patient Resources",
+  "description": "Downloadable resources for patients to learn more about the product.",
+  "domHints": {
+    "selectors": [
+      ".ozurdex-hcp-patients-flex"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

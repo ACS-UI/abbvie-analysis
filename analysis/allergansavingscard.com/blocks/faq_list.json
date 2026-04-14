@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_list",
+  "templateIds": [
+    "tpl_246"
+  ],
+  "name": "FAQ List",
+  "description": "Displays frequently asked questions and their answers.",
+  "domHints": {
+    "selectors": [
+      "ul#linklist-6db1ce8f88"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_246 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_dialogs",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Modal Dialogs",
+  "description": "Pop-up dialogs for additional information or actions, such as external link warnings.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

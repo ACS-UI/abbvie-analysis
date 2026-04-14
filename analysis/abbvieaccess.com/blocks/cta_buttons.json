@@ -1,0 +1,29 @@
+{
+  "blockId": "cta_buttons",
+  "templateIds": [
+    "tpl_1",
+    "tpl_4",
+    "tpl_13",
+    "tpl_14"
+  ],
+  "name": "CTA Buttons",
+  "description": "Call-to-action buttons for quick navigation to support tools and resources.",
+  "domHints": {
+    "selectors": [
+      ".abbvieaccess-primaryHeaderNav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "sidebar_promo",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Sidebar Promotion",
+  "description": "Promotes additional content or resources in the sidebar.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.bg-color-natual-light"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

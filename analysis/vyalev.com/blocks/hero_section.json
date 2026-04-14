@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent introductory section highlighting key information about the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.hero--home"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

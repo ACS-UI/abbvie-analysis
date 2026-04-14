@@ -1,0 +1,26 @@
+{
+  "blockId": "milestones_section",
+  "templateIds": [
+    "tpl_309"
+  ],
+  "name": "Milestones Section",
+  "description": "A timeline of significant events and achievements.",
+  "domHints": {
+    "selectors": [
+      ".milestones"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_309 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

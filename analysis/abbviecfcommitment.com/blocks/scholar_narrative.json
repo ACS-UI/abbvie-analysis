@@ -1,0 +1,26 @@
+{
+  "blockId": "scholar_narrative",
+  "templateIds": [
+    "tpl_39"
+  ],
+  "name": "Scholar Narrative",
+  "description": "Contains the personal narrative and aspirations of the scholar.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.grid__2-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_39 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

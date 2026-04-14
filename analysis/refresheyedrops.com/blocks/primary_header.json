@@ -1,0 +1,26 @@
+{
+  "blockId": "primary_header",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Primary Header",
+  "description": "Contains the main branding logo and navigation elements.",
+  "domHints": {
+    "selectors": [
+      ".l-header-inner_wrapper"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

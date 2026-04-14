@@ -1,0 +1,26 @@
+{
+  "blockId": "main_title",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Main Title",
+  "description": "Title and introduction to the page content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

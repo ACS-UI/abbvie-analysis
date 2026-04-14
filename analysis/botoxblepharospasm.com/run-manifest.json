@@ -1,0 +1,39 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:32:56.639Z",
+  "completedAt": "2026-04-13T16:35:59.487Z",
+  "input": {
+    "url": "https://www.botoxblepharospasm.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/botoxblepharospasm.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Unknown Error",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      }
+    ]
+  }
+}

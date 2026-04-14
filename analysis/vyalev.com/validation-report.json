@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.vyalev.com",
+  "normalisedUrl": "https://www.vyalev.com/",
+  "finalUrlAfterRedirects": "https://www.vyalev.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:14:28.595Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "diet_lifestyle_callout",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Diet and Lifestyle Callout",
+  "description": "Provides information about diet and lifestyle changes for EPI management.",
+  "domHints": {
+    "selectors": [
+      ".callout--large-image"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

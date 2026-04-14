@@ -1,0 +1,26 @@
+{
+  "blockId": "mrd_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "MRD Section",
+  "description": "Details about Minimal Residual Disease and its implications.",
+  "domHints": {
+    "selectors": [
+      ".borderbox-highlight__mrd"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "year_2018",
+  "templateIds": [
+    "tpl_309"
+  ],
+  "name": "Year 2018 Milestones",
+  "description": "Highlights and achievements from the year 2018.",
+  "domHints": {
+    "selectors": [
+      "#2018"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_309 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,28 @@
+{
+  "blockId": "intro_columns",
+  "templateIds": [
+    "tpl_1",
+    "tpl_4",
+    "tpl_11"
+  ],
+  "name": "Introduction Columns",
+  "description": "Provides an introductory message about affordability and treatment.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-padding-top-20"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

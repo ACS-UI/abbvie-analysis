@@ -1,0 +1,32 @@
+{
+  "blockId": "scholar_profile",
+  "templateIds": [
+    "tpl_12",
+    "tpl_35",
+    "tpl_36",
+    "tpl_37",
+    "tpl_39",
+    "tpl_45",
+    "tpl_46"
+  ],
+  "name": "Scholar Profile",
+  "description": "Section showcasing the scholar's image and introductory information.",
+  "domHints": {
+    "selectors": [
+      ".grid__2-col--40-60"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

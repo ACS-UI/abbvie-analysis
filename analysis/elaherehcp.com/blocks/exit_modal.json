@@ -1,0 +1,28 @@
+{
+  "blockId": "exit_modal",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3",
+    "tpl_6"
+  ],
+  "name": "Exit Modal",
+  "description": "Modal dialog displayed when attempting to exit the page.",
+  "domHints": {
+    "selectors": [
+      "cmp-modal[type='exit']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

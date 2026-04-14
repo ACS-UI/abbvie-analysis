@@ -1,0 +1,29 @@
+{
+  "blockId": "immunology_section",
+  "templateIds": [
+    "tpl_271",
+    "tpl_272"
+  ],
+  "name": "Immunology Section",
+  "description": "Highlights the company's focus on immunology with text and image.",
+  "domHints": {
+    "selectors": [
+      "div#title-e0e2729c78",
+      "div#text-36c7d36ad6",
+      "a#button-4734b02f17"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_271 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

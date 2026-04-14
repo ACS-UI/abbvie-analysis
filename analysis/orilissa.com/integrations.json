@@ -1,0 +1,26 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+          "https://www.orilissa.com/",
+          "https://www.orilissa.com/search-results",
+          "https://www.orilissa.com/savings-card",
+          "https://www.orilissa.com/find-an-obgyn",
+          "https://www.orilissa.com/site-map"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:45:04.359Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_terms_conditions",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Hero Section - Terms and Conditions",
+  "description": "Displays the main title and introductory text for the Terms and Conditions page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.vuity-hero-banner-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

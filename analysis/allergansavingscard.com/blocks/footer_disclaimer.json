@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_disclaimer",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "Footer Disclaimer",
+  "description": "Legal and trademark information in the footer.",
+  "domHints": {
+    "selectors": [
+      "#text-9ba799af3c"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

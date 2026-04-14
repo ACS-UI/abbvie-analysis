@@ -1,0 +1,26 @@
+{
+  "blockId": "filter_accordion",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Filter Accordion",
+  "description": "Accordion for filtering options in search results.",
+  "domHints": {
+    "selectors": [
+      ".filter-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

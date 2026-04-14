@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.refresheyedrops.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:44:12.490Z",
+      "selector": ".b-header_utility"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.refresheyedrops.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:44:12.490Z",
+      "selector": ".l-header-inner_wrapper"
+    },
+    {
+      "relativePath": "hero_carousel__default.png",
+      "sourceUrl": "https://www.refresheyedrops.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:44:12.490Z",
+      "selector": ".b-hero_carousel_simple"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.refresheyedrops.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:44:12.490Z",
+      "selector": "#main-navigation"
+    },
+    {
+      "relativePath": "search_bar__default.png",
+      "sourceUrl": "https://www.refresheyedrops.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:44:12.490Z",
+      "selector": ".b-search_input"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.refresheyedrops.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:44:12.490Z",
+      "selector": "footer"
+    }
+  ]
+}

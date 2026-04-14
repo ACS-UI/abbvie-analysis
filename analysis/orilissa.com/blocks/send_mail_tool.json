@@ -1,0 +1,28 @@
+{
+  "blockId": "send_mail_tool",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Send Mail Tool",
+  "description": "Provides a form for users to share the page content via email.",
+  "domHints": {
+    "selectors": [
+      ".abbv-send-mail.ori-send-email",
+      ".send-email-form",
+      ".abbv-send-email-form"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

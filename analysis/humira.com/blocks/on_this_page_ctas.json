@@ -1,0 +1,26 @@
+{
+  "blockId": "on_this_page_ctas",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "On This Page CTAs",
+  "description": "Links to specific sections of the page for quick navigation.",
+  "domHints": {
+    "selectors": [
+      ".humira-anchor-links-cost"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

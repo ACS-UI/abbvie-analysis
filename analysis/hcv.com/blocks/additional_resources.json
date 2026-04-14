@@ -1,0 +1,26 @@
+{
+  "blockId": "additional_resources",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Additional Resources",
+  "description": "Provides links and information for further reading and resources.",
+  "domHints": {
+    "selectors": [
+      ".flex-card-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

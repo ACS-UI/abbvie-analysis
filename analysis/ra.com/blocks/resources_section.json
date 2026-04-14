@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_section",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Resources Section",
+  "description": "Highlights tools and resources for managing RA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.abv-custom-bgcolor-light-blue"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

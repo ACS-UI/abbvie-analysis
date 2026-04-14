@@ -1,0 +1,103 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Page layout group 1",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Artritis Reumatoide — group 2",
+      "source": "llm_identify",
+      "blockCount": 13,
+      "proposedCount": 13
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Condicion — group 3",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Artritis Juvenil Idiopatica — group 4",
+      "source": "llm_identify",
+      "blockCount": 12,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Colitis Ulcerativa — group 5",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Cronhs Pediatrica — group 6",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Hidradenitis Supurativa — group 7",
+      "source": "llm_identify",
+      "blockCount": 14,
+      "proposedCount": 14
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Artritis Psoriasica — group 8",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 13
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Cubierta Y Acceso — group 9",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Cronhs — group 10",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Psoriasis En Placas — group 11",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Colitis Ulcerativa Pediatrica — group 12",
+      "source": "llm_identify",
+      "blockCount": 13,
+      "proposedCount": 13
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Espondilitis Anquilosante — group 13",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Uveitis No Infecciosa — group 14",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 12
+    }
+  ],
+  "generatedAt": "2026-04-13T16:19:08.026Z"
+}

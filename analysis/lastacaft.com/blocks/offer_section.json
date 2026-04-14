@@ -1,0 +1,26 @@
+{
+  "blockId": "offer_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Offer Section",
+  "description": "Promotes a coupon for LASTACAFT® product.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-offer-contain"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "content_tabs",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Content Tabs",
+  "description": "Organizes detailed content into tabs for better navigation.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

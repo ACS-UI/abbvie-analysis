@@ -1,0 +1,26 @@
+{
+  "blockId": "link_list_navigation",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Link List Navigation",
+  "description": "Provides quick links to sections within the page for easy navigation.",
+  "domHints": {
+    "selectors": [
+      ".section-navbar.abbv-link-list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

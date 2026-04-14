@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Call to Action Section",
+  "description": "Encourages users to take specific actions, such as visiting a program or taking a quiz.",
+  "domHints": {
+    "selectors": [
+      ".about_box_col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

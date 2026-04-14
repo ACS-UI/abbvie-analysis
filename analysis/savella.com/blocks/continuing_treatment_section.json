@@ -1,0 +1,26 @@
+{
+  "blockId": "continuing_treatment_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Continuing Treatment Section",
+  "description": "Offers guidance on continuing treatment with Savella.",
+  "domHints": {
+    "selectors": [
+      ".continuing-treatment-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

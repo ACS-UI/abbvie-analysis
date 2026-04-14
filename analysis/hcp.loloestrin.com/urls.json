@@ -1,0 +1,84 @@
+{
+  "entryUrl": "https://hcp.loloestrin.com/",
+  "discoveredAt": "2026-04-13T15:22:36.799Z",
+  "urls": [
+    {
+      "url": "https://hcp.loloestrin.com/",
+      "normalised": "https://hcp.loloestrin.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.loloestrin.com/hcp-resources",
+      "normalised": "https://hcp.loloestrin.com/hcp-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.loloestrin.com/why-loloestrinfe",
+      "normalised": "https://hcp.loloestrin.com/why-loloestrinfe",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.loloestrin.com/hcp-resources/formulary-coverage",
+      "normalised": "https://hcp.loloestrin.com/hcp-resources/formulary-coverage",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.loloestrin.com/is-lo-loestrin-fe-right-for-her",
+      "normalised": "https://hcp.loloestrin.com/is-lo-loestrin-fe-right-for-her",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.loloestrin.com/hcp-resources/support-for-your-practice",
+      "normalised": "https://hcp.loloestrin.com/hcp-resources/support-for-your-practice",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.loloestrin.com/sitemap",
+      "normalised": "https://hcp.loloestrin.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.loloestrin.com/abbv-tab-1199648406-1",
+      "normalised": "https://hcp.loloestrin.com/abbv-tab-1199648406-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.loloestrin.com/abbv-tab-1199648406-2",
+      "normalised": "https://hcp.loloestrin.com/abbv-tab-1199648406-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.loloestrin.com/abbv-tab-1199648406-0",
+      "normalised": "https://hcp.loloestrin.com/abbv-tab-1199648406-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "bySource": {
+      "sitemap": 1,
+      "crawl": 9,
+      "manual": 0
+    }
+  }
+}

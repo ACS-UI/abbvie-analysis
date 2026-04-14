@@ -1,0 +1,27 @@
+{
+  "blockId": "main_region_14",
+  "templateIds": [
+    "tpl_36",
+    "tpl_43"
+  ],
+  "name": "main region 14",
+  "description": "Major content region in main (div). Preview: 2024 The inaugural class of Advancing Leaders in Migraine begins, providing a specialized training program for Neurology…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(15)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_36. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

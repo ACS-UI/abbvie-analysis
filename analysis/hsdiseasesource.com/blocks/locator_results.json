@@ -1,0 +1,26 @@
+{
+  "blockId": "locator_results",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Locator Results",
+  "description": "Displays the results of the specialist search in a list and map format.",
+  "domHints": {
+    "selectors": [
+      ".DLResults"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

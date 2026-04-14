@@ -1,0 +1,26 @@
+{
+  "blockId": "icon_grid_spread",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Icon Grid - How Hep C is Spread",
+  "description": "Visual grid explaining how Hepatitis C is transmitted.",
+  "domHints": {
+    "selectors": [
+      ".hep-c-icon-grid"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

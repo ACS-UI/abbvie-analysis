@@ -1,0 +1,26 @@
+{
+  "blockId": "before_starting_treatment",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Before Starting Treatment",
+  "description": "Details the steps and considerations before starting treatment.",
+  "domHints": {
+    "selectors": [
+      "#before-you-start"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

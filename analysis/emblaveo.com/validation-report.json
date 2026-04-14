@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.emblaveo.com",
+  "normalisedUrl": "https://www.emblaveo.com/",
+  "finalUrlAfterRedirects": "https://www.emblaveo.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:19:53.686Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

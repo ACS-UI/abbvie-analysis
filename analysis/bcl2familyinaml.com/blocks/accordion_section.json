@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Accordion Section",
+  "description": "Interactive accordion elements for detailed information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

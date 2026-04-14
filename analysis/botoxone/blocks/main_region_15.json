@@ -1,0 +1,27 @@
+{
+  "blockId": "main_region_15",
+  "templateIds": [
+    "tpl_36",
+    "tpl_43"
+  ],
+  "name": "main region 15",
+  "description": "Major content region in main (div). Preview: “The most important thing that we can do is to help people who are suffering.” Dr Mitchell Brin Chief Scientific Officer…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(16)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_36. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

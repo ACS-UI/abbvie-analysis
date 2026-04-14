@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_columns",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Introduction Columns",
+  "description": "Provides an introduction to the patient care resources and organization mission.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container > .abbv-row:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

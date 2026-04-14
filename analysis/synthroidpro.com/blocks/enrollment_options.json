@@ -1,0 +1,26 @@
+{
+  "blockId": "enrollment_options",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Enrollment Options",
+  "description": "Provides options for patient enrollment in the Synthroid Delivers Program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

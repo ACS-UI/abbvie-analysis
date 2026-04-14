@@ -1,0 +1,26 @@
+{
+  "blockId": "next_page_cta",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Next Page Call-to-Action",
+  "description": "Provides a link to the next related page about symptoms of uterine fibroids.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.ori-x-margin-top-64"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

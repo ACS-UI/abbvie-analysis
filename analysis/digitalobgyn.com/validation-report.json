@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.digitalobgyn.com/",
+  "normalisedUrl": "https://www.digitalobgyn.com/",
+  "finalUrlAfterRedirects": "https://www.digitalobgyn.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:05:16.438Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

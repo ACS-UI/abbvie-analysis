@@ -1,0 +1,26 @@
+{
+  "blockId": "pert_guidelines",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "PERT Guidelines",
+  "description": "Details the guidelines for PERT usage and management.",
+  "domHints": {
+    "selectors": [
+      ".epi-text-blocks"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,34 @@
+{
+  "blockId": "footer",
+  "templateIds": [
+    "tpl_1",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11"
+  ],
+  "name": "Footer",
+  "description": "The footer section containing company information, legal disclaimers, and additional links.",
+  "domHints": {
+    "selectors": [
+      ".footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

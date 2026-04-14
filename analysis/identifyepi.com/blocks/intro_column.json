@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_column",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Introduction Column",
+  "description": "Provides introductory content about considering EPI in diagnoses.",
+  "domHints": {
+    "selectors": [
+      ".epi-below-header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

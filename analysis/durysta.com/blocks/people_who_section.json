@@ -1,0 +1,26 @@
+{
+  "blockId": "people_who_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "People Who Section",
+  "description": "Highlights the types of people who may benefit from DURYSTA, with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(2) .columns > div > div > table"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

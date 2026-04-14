@@ -1,0 +1,26 @@
+{
+  "blockId": "main_navigation",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Main Navigation",
+  "description": "Provides access to primary site sections.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-primary-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "pert_information",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "PERT Information",
+  "description": "Highlights information about Pancreatic Enzyme Replacement Therapy (PERT).",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.page-marq__container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

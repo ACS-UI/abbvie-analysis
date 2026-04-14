@@ -1,0 +1,374 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#background-container-1172876384"
+    },
+    {
+      "relativePath": "mechanism_of_action__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#background-container-230145784"
+    },
+    {
+      "relativePath": "injection_technique__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-flex-container.ozurdex-hcp-technique"
+    },
+    {
+      "relativePath": "reimbursement_support__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-flex-container.ozurdex-hcp-reimbursement"
+    },
+    {
+      "relativePath": "resources_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-flex-container.patient-details"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "link_list_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".ozurdex-sticky-menu"
+    },
+    {
+      "relativePath": "helpful_practice_tools__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".resources-helpful"
+    },
+    {
+      "relativePath": "brochure_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".brochure-injection"
+    },
+    {
+      "relativePath": "ordering_support__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".support-ordering-wrap"
+    },
+    {
+      "relativePath": "patient_discussion__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".patient-discussion-wrap"
+    },
+    {
+      "relativePath": "accordion_faqs__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".resources-accordion"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/reimbursement-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "reimbursement_support_intro__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/reimbursement-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-flex-container.ozurdex-allergan"
+    },
+    {
+      "relativePath": "reimbursement_support_details__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/reimbursement-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-flex-container.ozurdex-what-you-can"
+    },
+    {
+      "relativePath": "contact_information__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/reimbursement-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-flex-container.ozurdex-contact"
+    },
+    {
+      "relativePath": "highlighted_links__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/mechanism-of-action",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".ozurdex-sticky-menu"
+    },
+    {
+      "relativePath": "novadur_technology__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/mechanism-of-action",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#novadur-technology"
+    },
+    {
+      "relativePath": "patented_applicator__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/mechanism-of-action",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".ozurdex-hcp-intravitreal"
+    },
+    {
+      "relativePath": "patient_resources__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/mechanism-of-action",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".ozurdex-hcp-patients-flex"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/clinical-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "sticky_navigation__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/clinical-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".ozurdex-sticky-menu"
+    },
+    {
+      "relativePath": "study_design_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/clinical-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#study-design"
+    },
+    {
+      "relativePath": "efficacy_outcomes__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/clinical-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".abbv-flex-container.ozurdex-hcp-outcome"
+    },
+    {
+      "relativePath": "results_overall__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/clinical-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#randomized-patients"
+    },
+    {
+      "relativePath": "pseudophakic_patients__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/clinical-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#pseudophakic-patients"
+    },
+    {
+      "relativePath": "phakic_patients__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/clinical-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#phakic-patients"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".sitemap-list-wrap"
+    },
+    {
+      "relativePath": "content_highlights__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/about-ozurdex",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".ozurdex-sticky-menu"
+    },
+    {
+      "relativePath": "macular_edema_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/about-ozurdex",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#macular-edema"
+    },
+    {
+      "relativePath": "pathophysiology_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/about-ozurdex",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#pathophysiology"
+    },
+    {
+      "relativePath": "targeting_inflammation_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/about-ozurdex",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#targeting"
+    },
+    {
+      "relativePath": "clinical_trials_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/about-ozurdex",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": ".ozurdex-hcp-gray-container"
+    },
+    {
+      "relativePath": "introducing_ozurdex_section__default.png",
+      "sourceUrl": "https://hcp.ozurdex.com/about-ozurdex",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:19.888Z",
+      "selector": "#introducing"
+    }
+  ]
+}

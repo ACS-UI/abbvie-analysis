@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_treatment_options",
+  "templateIds": [
+    "tpl_38"
+  ],
+  "name": "Treatment Options Accordion",
+  "description": "Presents expandable sections for detailed treatment options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_38 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

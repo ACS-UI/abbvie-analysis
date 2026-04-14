@@ -1,0 +1,26 @@
+{
+  "blockId": "adverse_reactions_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Adverse Reactions Section",
+  "description": "Detailed information about adverse reactions from clinical trials.",
+  "domHints": {
+    "selectors": [
+      ".adverse-reactions-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

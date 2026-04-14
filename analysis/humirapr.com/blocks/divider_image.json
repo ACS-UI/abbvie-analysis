@@ -1,0 +1,26 @@
+{
+  "blockId": "divider_image",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Divider Image",
+  "description": "Visual divider separating content sections.",
+  "domHints": {
+    "selectors": [
+      "section.divider"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

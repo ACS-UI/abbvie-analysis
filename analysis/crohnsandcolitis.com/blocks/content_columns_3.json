@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns_3",
+  "templateIds": [
+    "tpl_25"
+  ],
+  "name": "Content Columns - Expectations",
+  "description": "Information about setting treatment expectations.",
+  "domHints": {
+    "selectors": [
+      "#tewd"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_about_biomarkers",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "CTA About Biomarkers",
+  "description": "Offers quick facts about biomarkers for users.",
+  "domHints": {
+    "selectors": [
+      ".nsclc-biomarkers-columns .abbv-learn-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,28 @@
+{
+  "blockId": "video_player_module",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Video Player Module",
+  "description": "Displays a video player featuring a patient testimony, with options for playback and a transcript link.",
+  "domHints": {
+    "selectors": [
+      ".video-player.parbase",
+      ".abbv-video-player",
+      ".abbv-video-container.aspect-ratio-16-9"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "utility_navigation",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Utility Navigation",
+  "description": "Provides quick access to important links such as prescribing information, medication guide, and language selection.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

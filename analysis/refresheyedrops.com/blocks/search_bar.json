@@ -1,0 +1,26 @@
+{
+  "blockId": "search_bar",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Search Bar",
+  "description": "Provides a search functionality for finding products or information.",
+  "domHints": {
+    "selectors": [
+      ".b-search_input"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

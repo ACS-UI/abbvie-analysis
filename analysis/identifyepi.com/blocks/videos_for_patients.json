@@ -1,0 +1,26 @@
+{
+  "blockId": "videos_for_patients",
+  "templateIds": [
+    "tpl_23"
+  ],
+  "name": "Videos for Your Patients",
+  "description": "Section providing videos to help patients understand EPI.",
+  "domHints": {
+    "selectors": [
+      ".epi-education-patients-videos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

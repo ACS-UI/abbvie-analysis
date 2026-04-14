@@ -1,0 +1,50 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_13",
+    "tpl_14",
+    "tpl_15",
+    "tpl_17",
+    "tpl_18",
+    "tpl_20",
+    "tpl_21",
+    "tpl_22",
+    "tpl_24",
+    "tpl_25",
+    "tpl_26",
+    "tpl_27",
+    "tpl_28",
+    "tpl_29",
+    "tpl_30",
+    "tpl_31",
+    "tpl_32"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Contains links for utility navigation such as sponsored links and healthcare professional site.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

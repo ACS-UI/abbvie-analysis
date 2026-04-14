@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.refresheyedrops.com",
+  "normalisedUrl": "https://www.refresheyedrops.com/",
+  "finalUrlAfterRedirects": "https://www.refresheyedrops.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:34:00.006Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "proceed_cta",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Proceed CTA",
+  "description": "Provides a call-to-action button for users to proceed to the external savings program site.",
+  "domHints": {
+    "selectors": [
+      ".abbv-button-primary",
+      ".abbv-cancel-btn"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

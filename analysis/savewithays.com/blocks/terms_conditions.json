@@ -1,0 +1,27 @@
+{
+  "blockId": "terms_conditions",
+  "templateIds": [
+    "tpl_0",
+    "tpl_5"
+  ],
+  "name": "Terms and Conditions",
+  "description": "Displays the terms and conditions of the program.",
+  "domHints": {
+    "selectors": [
+      ".allergan-terms-conditions"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

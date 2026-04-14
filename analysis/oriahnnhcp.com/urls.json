@@ -1,0 +1,728 @@
+{
+  "entryUrl": "https://www.oriahnnhcp.com/",
+  "discoveredAt": "2026-04-13T15:29:53.388Z",
+  "urls": [
+    {
+      "url": "https://www.oriahnnhcp.com/",
+      "normalised": "https://www.oriahnnhcp.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter-optimized.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter-optimized.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-letter-medical-necessity-optimized.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-letter-medical-necessity-optimized.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-letter-medical-necessity-instruction-guide-optimized.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-letter-medical-necessity-instruction-guide-optimized.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter-instruction-guide-optimized.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter-instruction-guide-optimized.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-prior-authorization-instruction-guide-optimized.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-prior-authorization-instruction-guide-optimized.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter-instruction-guide.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter-instruction-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-prior-authorization-instruction-guide.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-prior-authorization-instruction-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-brand-story.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-brand-story.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-ehr-brochure.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-ehr-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/product-fact-sheet.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/product-fact-sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/summary-relevant-codes.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/summary-relevant-codes.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/digital-compendium.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/digital-compendium.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-core-leave-behind.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-core-leave-behind.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-patient-welcome.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-patient-welcome.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/oriahnn-pi.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/oriahnn-pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-trial-start-enrollment-prescription-form.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-trial-start-enrollment-prescription-form.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/US-ORIA-220115_OriahnnInterimDigitalPriorAuthorizationFlashcard.pdf",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/US-ORIA-220115_OriahnnInterimDigitalPriorAuthorizationFlashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-hemoglobin",
+      "normalised": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-hemoglobin",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/contact-a-rep",
+      "normalised": "https://www.oriahnnhcp.com/contact-a-rep",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/search-results",
+      "normalised": "https://www.oriahnnhcp.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/safety-adverse-reactions/safety-adverse-reactions-flexbox",
+      "normalised": "https://www.oriahnnhcp.com/safety-adverse-reactions/safety-adverse-reactions-flexbox",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/resources",
+      "normalised": "https://www.oriahnnhcp.com/resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-subgroup1",
+      "normalised": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-subgroup1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-subgroup",
+      "normalised": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-subgroup",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-amenorrhea",
+      "normalised": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-amenorrhea",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-primary-endpoint",
+      "normalised": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-primary-endpoint",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/access",
+      "normalised": "https://www.oriahnnhcp.com/access",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/efficacy",
+      "normalised": "https://www.oriahnnhcp.com/efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/safety-adverse-reactions",
+      "normalised": "https://www.oriahnnhcp.com/safety-adverse-reactions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/efficacy/efficacy-baseline",
+      "normalised": "https://www.oriahnnhcp.com/efficacy/efficacy-baseline",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/patient-stories",
+      "normalised": "https://www.oriahnnhcp.com/patient-stories",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/site-map",
+      "normalised": "https://www.oriahnnhcp.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/dosing-information/dosing-information-flexbox",
+      "normalised": "https://www.oriahnnhcp.com/dosing-information/dosing-information-flexbox",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/patient-support-and-savings",
+      "normalised": "https://www.oriahnnhcp.com/patient-support-and-savings",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/patient-counseling",
+      "normalised": "https://www.oriahnnhcp.com/patient-counseling",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/sitemap",
+      "normalised": "https://www.oriahnnhcp.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/patient-education",
+      "normalised": "https://www.oriahnnhcp.com/patient-education",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/patient-profiles",
+      "normalised": "https://www.oriahnnhcp.com/patient-profiles",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/digi-sign-enrollment",
+      "normalised": "https://www.oriahnnhcp.com/digi-sign-enrollment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/dosing-information",
+      "normalised": "https://www.oriahnnhcp.com/dosing-information",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/support-for-your-practice",
+      "normalised": "https://www.oriahnnhcp.com/support-for-your-practice",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-baseline",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-baseline",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-letter-medical-necessity.docx",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-letter-medical-necessity.docx",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/support-for-your-practice/savings-and-support",
+      "normalised": "https://www.oriahnnhcp.com/support-for-your-practice/savings-and-support",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/support-for-your-pratice/savings-and-support",
+      "normalised": "https://www.oriahnnhcp.com/support-for-your-pratice/savings-and-support",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/patient-support-and-savings/savings-and-support",
+      "normalised": "https://www.oriahnnhcp.com/patient-support-and-savings/savings-and-support",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/brand-story",
+      "normalised": "https://www.oriahnnhcp.com/brand-story",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter.docx",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-appeals-letter.docx",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/support-for-your-pratice",
+      "normalised": "https://www.oriahnnhcp.com/support-for-your-pratice",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/digi-sign-enrollment/enrollment-confirmation",
+      "normalised": "https://www.oriahnnhcp.com/digi-sign-enrollment/enrollment-confirmation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1599355144-6",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1599355144-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1599355144-1",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1599355144-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-825330364-0",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-825330364-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-184061788-0",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-184061788-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-850279081-1",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-850279081-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-850279081-3",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-850279081-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1763272280-0",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1763272280-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1599355144-0",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1599355144-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-878908232-2",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-878908232-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-850279081-0",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-850279081-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-363082231-1",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-363082231-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1763272280-3",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1763272280-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-363082231-4",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-363082231-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-4",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-878908232-0",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-878908232-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-363082231-3",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-363082231-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-878908232-3",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-878908232-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-184061788-1",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-184061788-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1599355144-2",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1599355144-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-2",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-3",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1599355144-4",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1599355144-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1763272280-4",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1763272280-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-5",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-363082231-0",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-363082231-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-0",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-878908232-1",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-878908232-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1599355144-7",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1599355144-7",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1599355144-5",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1599355144-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-184061788-0",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-184061788-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-850279081-1",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-850279081-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-7",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-7",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-850279081-3",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-850279081-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-184061788-1",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-184061788-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-878908232-0",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-878908232-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-1",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-850279081-0",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-850279081-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-6",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-1599355144-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1599355144-3",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1599355144-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1763272280-1",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1763272280-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-363082231-2",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-363082231-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-1763272280-2",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-1763272280-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/abbv-tab-850279081-2",
+      "normalised": "https://www.oriahnnhcp.com/abbv-tab-850279081-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-878908232-1",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-878908232-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-prior-authorization.xlsx",
+      "normalised": "https://www.oriahnnhcp.com/content/dam/elagolixhcp/pdf/hcp-prior-authorization.xlsx",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-850279081-2",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-850279081-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-878908232-2",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-878908232-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-878908232-3",
+      "normalised": "https://www.oriahnnhcp.com/clinical-trial-data/abbv-tab-878908232-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 102,
+    "bySource": {
+      "sitemap": 43,
+      "crawl": 59,
+      "manual": 0
+    }
+  }
+}

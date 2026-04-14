@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_demo_video",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Demo Video Modal",
+  "description": "A modal to play informational videos.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.demovideo"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

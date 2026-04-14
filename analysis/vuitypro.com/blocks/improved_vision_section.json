@@ -1,0 +1,26 @@
+{
+  "blockId": "improved_vision_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Improved Vision Section",
+  "description": "Details about improved vision outcomes from the study.",
+  "domHints": {
+    "selectors": [
+      ".vuitypro-improved-vision-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

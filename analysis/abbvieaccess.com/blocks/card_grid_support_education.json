@@ -1,0 +1,26 @@
+{
+  "blockId": "card_grid_support_education",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Card Grid: Support & Education",
+  "description": "Displays cards with information and links about support and education resources.",
+  "domHints": {
+    "selectors": [
+      ".abbvieaccess-flex-cards-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

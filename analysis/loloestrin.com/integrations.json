@@ -1,0 +1,27 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.loloestrin.com/savings-card",
+          "https://www.loloestrin.com/get-the-facts/keeping-your-routine-between-the-seasons",
+          "https://www.loloestrin.com/lo-loestrin-site-map",
+          "https://www.loloestrin.com/",
+          "https://www.loloestrin.com/search-results",
+          "https://www.loloestrin.com/lo-loestrin-faqs",
+          "https://www.loloestrin.com/estrogen-pop-quiz"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:33:40.752Z"
+}

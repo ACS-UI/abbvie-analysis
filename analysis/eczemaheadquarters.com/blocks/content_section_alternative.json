@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_alternative",
+  "templateIds": [
+    "tpl_21"
+  ],
+  "name": "Content Section: Consider Another Alternative",
+  "description": "Discusses alternative methods like relaxation and stress management.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.home-remedies-titles:contains('Consider another alternative')"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_21 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

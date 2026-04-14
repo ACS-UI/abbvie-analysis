@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section_2",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "CTA Section 2",
+  "description": "Call-to-action section providing information about treatment options.",
+  "domHints": {
+    "selectors": [
+      ".flexbox-container__home-cta-callouts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

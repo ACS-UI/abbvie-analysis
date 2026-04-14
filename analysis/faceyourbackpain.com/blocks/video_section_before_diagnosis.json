@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section_before_diagnosis",
+  "templateIds": [
+    "tpl_18"
+  ],
+  "name": "Video Section - Before Diagnosis",
+  "description": "Section featuring a video and information about patient experiences before diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".fybp-video-before-diagnosis"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_18 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

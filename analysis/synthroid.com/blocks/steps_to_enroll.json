@@ -1,0 +1,26 @@
+{
+  "blockId": "steps_to_enroll",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Steps to Enroll",
+  "description": "Outlines the process for enrolling in the Synthroid Delivers Program.",
+  "domHints": {
+    "selectors": [
+      ".large-ol.large-ol--secondary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

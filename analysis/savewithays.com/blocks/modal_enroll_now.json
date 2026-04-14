@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_enroll_now",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Enroll Now Modal",
+  "description": "A modal for users to enroll in the program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.enrollnow"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "thank_you_message",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Thank You Message",
+  "description": "Displays a thank-you message and additional information about the Optometry Jumpstart program.",
+  "domHints": {
+    "selectors": [
+      ".allergan-jump-start-top-thankyou"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,28 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_4"
+  ],
+  "name": "Hero Section",
+  "description": "Highlights the main message and visual for the homepage, including a welcome message and savings program details.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.ozurdex-home-hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

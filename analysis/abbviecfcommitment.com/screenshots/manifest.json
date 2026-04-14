@@ -1,0 +1,1064 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-244389776"
+    },
+    {
+      "relativePath": "healthy_routines_cta__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-141009478"
+    },
+    {
+      "relativePath": "recipe_cards__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".container__card-wrapper"
+    },
+    {
+      "relativePath": "cf_scholarship_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-1511933654"
+    },
+    {
+      "relativePath": "get_involved_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-345208420"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".footer-container"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "content_section_epi__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-751537124"
+    },
+    {
+      "relativePath": "columns_vitamins_and_healthy_eating__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-row-container.primary-wrapper"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "main_content_intro__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/healthy-eating",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "a.abbv-skip-to-main-content"
+    },
+    {
+      "relativePath": "image_text_block__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/healthy-eating",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-image-text-v2"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/healthy-eating",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/college-and-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-rich-text.base-wrapper"
+    },
+    {
+      "relativePath": "tips_list__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/college-and-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-2067861003"
+    },
+    {
+      "relativePath": "meal_prep_suggestions__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/college-and-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".container--narrow.mobile-wrapper--bottom"
+    },
+    {
+      "relativePath": "recipe_spotlight__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/college-and-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-1563558532"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/college-and-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/college-and-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/exercise",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "section_beyond_working_out__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/exercise",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-852750985"
+    },
+    {
+      "relativePath": "section_different_exercises__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/exercise",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-1472056351"
+    },
+    {
+      "relativePath": "section_tips_avoiding_fatigue__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/exercise",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-230274268"
+    },
+    {
+      "relativePath": "calorie_cost_table__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/exercise",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".container_table--exercise"
+    },
+    {
+      "relativePath": "section_hydration_tips__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/exercise",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-2040386356"
+    },
+    {
+      "relativePath": "additional_tips__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/cf-winter-recipes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "a.abbv-skip-to-main-content"
+    },
+    {
+      "relativePath": "disclaimer_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/cf-winter-recipes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-rich-text-common .disclaimer"
+    },
+    {
+      "relativePath": "modal_bio__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/cf-winter-recipes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-modal.SusanBioModal"
+    },
+    {
+      "relativePath": "nutrition_information__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/recipes/dinner/curried-chicken-casserole",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".recipe__nutritional-information-list"
+    },
+    {
+      "relativePath": "ingredients_list__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/recipes/dinner/curried-chicken-casserole",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".recipe__ingredient-box"
+    },
+    {
+      "relativePath": "instructions_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/recipes/dinner/curried-chicken-casserole",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".recipes_instructions-box"
+    },
+    {
+      "relativePath": "related_recipes__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/recipes/dinner/curried-chicken-casserole",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".recipe__related-box"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/samantha-m",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "scholar_intro__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/samantha-m",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".grid__2-col--40-60"
+    },
+    {
+      "relativePath": "scholar_details__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/samantha-m",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.container_round-top"
+    },
+    {
+      "relativePath": "intro_paragraph__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/vacationing-with-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-471641166"
+    },
+    {
+      "relativePath": "planning_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/vacationing-with-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-220468888"
+    },
+    {
+      "relativePath": "qa_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/resources/qa-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-accordion.abc"
+    },
+    {
+      "relativePath": "understanding_cf__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/resources/qa-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-accordion-container:nth-of-type(1)"
+    },
+    {
+      "relativePath": "image_text_section_1__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/resources/qa-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".medium-scale-img-left"
+    },
+    {
+      "relativePath": "image_text_section_2__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/resources/qa-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".medium-scale-img-right"
+    },
+    {
+      "relativePath": "content_section_1__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/summer-party-tips",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-430810447"
+    },
+    {
+      "relativePath": "content_section_2__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/summer-party-tips",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-1992239799"
+    },
+    {
+      "relativePath": "content_section_3__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/summer-party-tips",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".grid__primary-block--mb-0"
+    },
+    {
+      "relativePath": "scholar_profile__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/kate-m",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".grid__2-col--40-60"
+    },
+    {
+      "relativePath": "scholar_quote__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/kate-m",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-rich-text-common p.ff-roboto-bold"
+    },
+    {
+      "relativePath": "cta_back_button__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/irvin-a",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".cta.parbase a"
+    },
+    {
+      "relativePath": "profile_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/irvin-a",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.grid__2-col--40-60"
+    },
+    {
+      "relativePath": "quote_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/irvin-a",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-rich-text-common p.ff-roboto-bold"
+    },
+    {
+      "relativePath": "achievements_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/irvin-a",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.container_round-top"
+    },
+    {
+      "relativePath": "artwork_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/irvin-a",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.container_round-top img"
+    },
+    {
+      "relativePath": "recipe_cards_row_1__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/spice-up-cf-dinner",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-row-container.primary-wrapper.card_row:nth-of-type(1)"
+    },
+    {
+      "relativePath": "variety_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/spice-up-cf-dinner",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-302857234"
+    },
+    {
+      "relativePath": "healthy_eating_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/spice-up-cf-dinner",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-1185216574"
+    },
+    {
+      "relativePath": "footer_legal_text__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/spice-up-cf-dinner",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "info_cards__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".grid__3-col--info-item"
+    },
+    {
+      "relativePath": "key_dates__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".application-status"
+    },
+    {
+      "relativePath": "spotlight_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".grid__spotlight"
+    },
+    {
+      "relativePath": "contest_rules__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#contest-rules"
+    },
+    {
+      "relativePath": "testimonial_katie__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".background__container-pattern-bottom-left"
+    },
+    {
+      "relativePath": "testimonial_olivia__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".background__container-pattern-center-right"
+    },
+    {
+      "relativePath": "faq_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".container-scholarship-faq"
+    },
+    {
+      "relativePath": "recipe_intro__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/recipes/snacks/yummy-sweet-potato-bites",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-rich-text-common > h1"
+    },
+    {
+      "relativePath": "intro_content__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/cooking-tips-tricks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.base-wrapper"
+    },
+    {
+      "relativePath": "tips_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/cooking-tips-tricks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-1739403389"
+    },
+    {
+      "relativePath": "external_habits__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/cooking-tips-tricks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".grid__primary-block-reverse"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/cooking-tips-tricks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "cf_organizations_intro__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/get-involved",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-row-container .abbv-col-12"
+    },
+    {
+      "relativePath": "great_strides_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/get-involved",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-2032040547"
+    },
+    {
+      "relativePath": "boomer_esiason_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/get-involved",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-2032075702"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-rich-text.sitemap-cf"
+    },
+    {
+      "relativePath": "nutrient_rich_foods__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/planning-shopping",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.base-wrapper"
+    },
+    {
+      "relativePath": "vitamins_table__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/planning-shopping",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.tertiary-wrapper:nth-of-type(1) .container_table"
+    },
+    {
+      "relativePath": "vitamins_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-guide/staying-healthy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-1633127556"
+    },
+    {
+      "relativePath": "recipe_tips__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/recipes/dinner/chicken-tortilla-soup",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".recipe__tip-box"
+    },
+    {
+      "relativePath": "instructions_box__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/recipes/snacks/banana-muffins",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".recipes_instructions-box"
+    },
+    {
+      "relativePath": "tabs_navigation__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/recipes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-tabs"
+    },
+    {
+      "relativePath": "recipes_grid__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/recipes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-grid"
+    },
+    {
+      "relativePath": "content_intro__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/summer-nutrition-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.base-wrapper > .rich-text"
+    },
+    {
+      "relativePath": "focus_areas__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/nutrition-tips/summer-nutrition-cystic-fibrosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.color-blocks"
+    },
+    {
+      "relativePath": "nutrition_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-960953334"
+    },
+    {
+      "relativePath": "dietary_reference_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": "#background-container-1441195364"
+    },
+    {
+      "relativePath": "key_dates_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".application-status"
+    },
+    {
+      "relativePath": "celebration_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.grid__spotlight"
+    },
+    {
+      "relativePath": "rules_and_eligibility__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.container--excerpt"
+    },
+    {
+      "relativePath": "intro_section__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.base-wrapper.container--narrow"
+    },
+    {
+      "relativePath": "scholar_profiles__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.scholar-tabs-scholars"
+    },
+    {
+      "relativePath": "profile_summary__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/tovah-d",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.grid__2-col--40-60"
+    },
+    {
+      "relativePath": "achievements_list__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/tovah-d",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.container_round-top .list"
+    },
+    {
+      "relativePath": "scholar_achievements__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/sierra-l",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.container_round-top .abbv-rich-text-common ul.list"
+    },
+    {
+      "relativePath": "cta_back__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/sophia-k",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".cta.parbase"
+    },
+    {
+      "relativePath": "scholar_statement__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/sophia-k",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-rich-text-common"
+    },
+    {
+      "relativePath": "scholar_artwork__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/sophia-k",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".container_round-top"
+    },
+    {
+      "relativePath": "modal_component__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/sophia-k",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "profile_story__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/ashley-s",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-rich-text-common > p"
+    },
+    {
+      "relativePath": "modal_artwork__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/ashley-s",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-modal.scholar-profile-modal"
+    },
+    {
+      "relativePath": "scholar_narrative__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/alihamza-r",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.grid__2-col"
+    },
+    {
+      "relativePath": "profile_bio__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/liam-h",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-rich-text-common"
+    },
+    {
+      "relativePath": "personal_story__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/lola-f",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container > .rich-text"
+    },
+    {
+      "relativePath": "scholar_story__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sophia-k",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.grid__2-col.container--narrow .rich-text"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/reagan-b",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:23.248Z",
+      "selector": ".abbv-container.grid__2-col"
+    }
+  ]
+}

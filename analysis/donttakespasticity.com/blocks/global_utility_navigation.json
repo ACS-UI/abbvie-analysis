@@ -1,0 +1,27 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick access to utility links like 'Find a Specialist'.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

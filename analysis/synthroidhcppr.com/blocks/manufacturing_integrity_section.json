@@ -1,0 +1,27 @@
+{
+  "blockId": "manufacturing_integrity_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Manufacturing Integrity Section",
+  "description": "Details about AbbVie's commitment to manufacturing quality and integrity.",
+  "domHints": {
+    "selectors": [
+      "#gmp-quality",
+      ".abbv-container.synthroid-tout-1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

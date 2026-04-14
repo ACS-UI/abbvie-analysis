@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Resource Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 12,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Contact Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    }
+  ],
+  "generatedAt": "2026-04-13T15:35:56.500Z"
+}

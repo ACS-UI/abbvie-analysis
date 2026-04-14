@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_more_info",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Accordion - More Info",
+  "description": "Expandable section providing additional details about complications.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion-single"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

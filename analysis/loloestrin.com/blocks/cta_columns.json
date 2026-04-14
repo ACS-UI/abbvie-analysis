@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_columns",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Call-to-Action Columns",
+  "description": "Three-column layout providing quick links to Meet Lo Loestrin, Estrogen Quiz, and Savings.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container > .abbv-row:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

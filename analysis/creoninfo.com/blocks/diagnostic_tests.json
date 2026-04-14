@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnostic_tests",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Diagnostic Tests",
+  "description": "Explains the main tests used for diagnosing EPI.",
+  "domHints": {
+    "selectors": [
+      ".flexbox__card-group"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

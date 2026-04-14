@@ -1,0 +1,26 @@
+{
+  "blockId": "enzyme_cards",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Enzyme Cards",
+  "description": "Displays cards with information about the three main digestive enzymes: Lipase, Amylase, and Protease.",
+  "domHints": {
+    "selectors": [
+      ".flexbox__card-group"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

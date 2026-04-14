@@ -1,0 +1,27 @@
+{
+  "blockId": "pseudophakic_patients",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Pseudophakic Patients",
+  "description": "Details the efficacy outcomes for pseudophakic patients.",
+  "domHints": {
+    "selectors": [
+      "#pseudophakic-patients",
+      ".abbv-flex-container.ozurdex-hcp-pseudophakic-patients"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

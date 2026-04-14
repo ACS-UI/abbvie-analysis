@@ -1,0 +1,68 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.abbviecfcommitment.com/",
+          "https://www.abbviecfcommitment.com/nutrition-guide",
+          "https://www.abbviecfcommitment.com/nutrition-guide/healthy-eating",
+          "https://www.abbviecfcommitment.com/nutrition-tips/college-and-cystic-fibrosis",
+          "https://www.abbviecfcommitment.com/nutrition-guide/exercise",
+          "https://www.abbviecfcommitment.com/nutrition-tips/cf-winter-recipes",
+          "https://www.abbviecfcommitment.com/recipes/dinner/curried-chicken-casserole",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/samantha-m",
+          "https://www.abbviecfcommitment.com/nutrition-tips/vacationing-with-cystic-fibrosis",
+          "https://www.abbviecfcommitment.com/resources/qa-resources",
+          "https://www.abbviecfcommitment.com/nutrition-tips/summer-party-tips",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/megane-w",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/kate-m",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/irvin-a",
+          "https://www.abbviecfcommitment.com/nutrition-tips/spice-up-cf-dinner",
+          "https://www.abbviecfcommitment.com/cfscholarship",
+          "https://www.abbviecfcommitment.com/recipes/dinner/beef-taquitos",
+          "https://www.abbviecfcommitment.com/recipes/snacks/yummy-sweet-potato-bites",
+          "https://www.abbviecfcommitment.com/recipes/dinner/baked-potato-soup",
+          "https://www.abbviecfcommitment.com/nutrition-guide/cooking-tips-tricks",
+          "https://www.abbviecfcommitment.com/get-involved",
+          "https://www.abbviecfcommitment.com/site-map",
+          "https://www.abbviecfcommitment.com/recipes/breakfast/bacon-cheese-quiche",
+          "https://www.abbviecfcommitment.com/nutrition-tips/planning-shopping",
+          "https://www.abbviecfcommitment.com/nutrition-guide/staying-healthy",
+          "https://www.abbviecfcommitment.com/recipes/dinner/chicken-tortilla-soup",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/madison-l",
+          "https://www.abbviecfcommitment.com/recipes/snacks/banana-muffins",
+          "https://www.abbviecfcommitment.com/recipes/breakfast/banoffee-stuffed-french-toast",
+          "https://www.abbviecfcommitment.com/recipes",
+          "https://www.abbviecfcommitment.com/nutrition-tips/summer-nutrition-cystic-fibrosis",
+          "https://www.abbviecfcommitment.com/resources",
+          "https://www.abbviecfcommitment.com/cfscholarship/about",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/tovah-d",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/sierra-l",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/sophia-k",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/victoria-m",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/ashley-s",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/alihamza-r",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/liam-h",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/mackenzie-a",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/lola-f",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/samantha-p",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sophia-k",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/mikayla-p",
+          "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/reagan-b"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:48:35.057Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_presentation_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Clinical Presentation Section",
+  "description": "Provides detailed information on the clinical presentation of HS.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.mb3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

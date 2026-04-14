@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_safety_information",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Footer Safety Information",
+  "description": "Displays important safety information and disclaimers about the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-inline-use-isi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

@@ -1,0 +1,28 @@
+{
+  "blockId": "immunology_section",
+  "templateIds": [
+    "tpl_256",
+    "tpl_263",
+    "tpl_308"
+  ],
+  "name": "Immunology Section",
+  "description": "Highlights the immunology focus area with an image and description.",
+  "domHints": {
+    "selectors": [
+      "#container-a9a9fe74b6 .grid-row:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_256 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

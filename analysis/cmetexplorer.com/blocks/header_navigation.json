@@ -1,0 +1,26 @@
+{
+  "blockId": "header_navigation",
+  "templateIds": [
+    "tpl_179"
+  ],
+  "name": "Header Navigation",
+  "description": "Primary site navigation and branding, including logo and main menu.",
+  "domHints": {
+    "selectors": [
+      "header.nav-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_179 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

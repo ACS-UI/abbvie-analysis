@@ -1,0 +1,26 @@
+{
+  "blockId": "tumor_analysis",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Tumor Analysis",
+  "description": "Section showcasing exploratory tumor analysis data.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

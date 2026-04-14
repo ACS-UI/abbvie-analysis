@@ -1,0 +1,26 @@
+{
+  "blockId": "share_story_cta",
+  "templateIds": [
+    "tpl_22"
+  ],
+  "name": "Share Your Story CTA",
+  "description": "Encourages users to share their eczema stories via email or phone.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.text-align-center"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_22 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

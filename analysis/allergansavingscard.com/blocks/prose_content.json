@@ -1,0 +1,26 @@
+{
+  "blockId": "prose_content",
+  "templateIds": [
+    "tpl_123"
+  ],
+  "name": "Prose Content",
+  "description": "Main article or story content presented in paragraphs.",
+  "domHints": {
+    "selectors": [
+      ".cmp-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_123 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

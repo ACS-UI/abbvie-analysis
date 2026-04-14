@@ -1,0 +1,53 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.epkinlyhcp.com/",
+          "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/fl-patient-brochure-spanish.pdf",
+          "https://www.epkinlyhcp.com/2l-fl",
+          "https://www.epkinlyhcp.com/important-safety-information",
+          "https://www.epkinlyhcp.com/study-design",
+          "https://www.epkinlyhcp.com/crs-icans-management",
+          "https://www.epkinlyhcp.com/site-map",
+          "https://www.epkinlyhcp.com/mechanism-of-action",
+          "https://www.epkinlyhcp.com/terms-conditions",
+          "https://www.epkinlyhcp.com/contact-us",
+          "https://www.epkinlyhcp.com/dlbcl/clinical-trial-results",
+          "https://www.epkinlyhcp.com/3l-fl/dosing-administration",
+          "https://www.epkinlyhcp.com/register",
+          "https://www.epkinlyhcp.com/dlbcl",
+          "https://www.epkinlyhcp.com/3l-fl/adverse-reactions",
+          "https://www.epkinlyhcp.com/order",
+          "https://www.epkinlyhcp.com/3l-fl/study-design",
+          "https://www.epkinlyhcp.com/adverse-reactions",
+          "https://www.epkinlyhcp.com/3l-fl/crs-icans-events",
+          "https://www.epkinlyhcp.com/2l-fl/adverse-reactions",
+          "https://www.epkinlyhcp.com/3l-fl/treatment-landscape",
+          "https://www.epkinlyhcp.com/2l-fl/clinical-trial-results",
+          "https://www.epkinlyhcp.com/2l-fl/study-design",
+          "https://www.epkinlyhcp.com/dlbcl/crs-icans-events",
+          "https://www.epkinlyhcp.com/2l-fl/crs-icans-events",
+          "https://www.epkinlyhcp.com/dlbcl/study-design",
+          "https://www.epkinlyhcp.com/3l-fl/clinical-trial-results",
+          "https://www.epkinlyhcp.com/contact-a-rep",
+          "https://www.epkinlyhcp.com/3l-fl",
+          "https://www.epkinlyhcp.com/dlbcl/adverse-reactions",
+          "https://www.epkinlyhcp.com/2l-fl/dosing-administration",
+          "https://www.epkinlyhcp.com/dlbcl/dosing-administration",
+          "https://www.epkinlyhcp.com/dlbcl/treatment-landscape"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T12:41:11.312Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "primary_navigation",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Primary Navigation",
+  "description": "The main site navigation menu for accessing primary sections.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-primary-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

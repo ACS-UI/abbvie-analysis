@@ -1,0 +1,26 @@
+{
+  "blockId": "quote_section",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Quote Section",
+  "description": "Highlights a motivational quote and its significance to the scholar.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text-common p.ff-roboto-bold"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Quote"
+}

@@ -1,0 +1,36 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_2",
+    "tpl_4",
+    "tpl_5",
+    "tpl_7",
+    "tpl_10",
+    "tpl_11",
+    "tpl_12",
+    "tpl_13",
+    "tpl_14",
+    "tpl_15",
+    "tpl_16"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick access to global links such as sponsorship and social media.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "copay_terms_modal",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Co-pay Terms Modal",
+  "description": "Displays detailed terms and conditions for the co-pay program.",
+  "domHints": {
+    "selectors": [
+      "cmp-modal#copay-terms"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

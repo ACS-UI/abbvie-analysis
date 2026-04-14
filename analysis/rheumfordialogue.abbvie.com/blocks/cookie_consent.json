@@ -1,0 +1,26 @@
+{
+  "blockId": "cookie_consent",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Cookie Consent",
+  "description": "Cookie consent settings link in the footer.",
+  "domHints": {
+    "selectors": [
+      "#ot-sdk-btn1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

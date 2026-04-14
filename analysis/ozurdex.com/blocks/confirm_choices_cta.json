@@ -1,0 +1,26 @@
+{
+  "blockId": "confirm_choices_cta",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Confirm Choices CTA",
+  "description": "Call-to-action button for confirming cookie preferences.",
+  "domHints": {
+    "selectors": [
+      "a.abbv-button-primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

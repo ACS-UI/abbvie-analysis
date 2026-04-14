@@ -1,0 +1,26 @@
+{
+  "blockId": "search_results",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Search Results",
+  "description": "Displays the results of the user's search query.",
+  "domHints": {
+    "selectors": [
+      ".search-results-coveo"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

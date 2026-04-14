@@ -1,0 +1,133 @@
+{
+  "entryUrl": "https://www.elahere.com/",
+  "discoveredAt": "2026-04-13T16:30:35.941Z",
+  "urls": [
+    {
+      "url": "https://www.elahere.com/",
+      "normalised": "https://www.elahere.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/results",
+      "normalised": "https://www.elahere.com/results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/sign-up/",
+      "normalised": "https://www.elahere.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/eye-care",
+      "normalised": "https://www.elahere.com/eye-care",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/about/is-elahere-right-for-me",
+      "normalised": "https://www.elahere.com/about/is-elahere-right-for-me",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/elahere-stories",
+      "normalised": "https://www.elahere.com/resources/elahere-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/elahere-stories/transcripts/jennifer",
+      "normalised": "https://www.elahere.com/resources/elahere-stories/transcripts/jennifer",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "normalised": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/safety",
+      "normalised": "https://www.elahere.com/safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/starting-elahere",
+      "normalised": "https://www.elahere.com/starting-elahere",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/elahere-support-services",
+      "normalised": "https://www.elahere.com/resources/elahere-support-services",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/elahere-stories/transcripts/cindy",
+      "normalised": "https://www.elahere.com/resources/elahere-stories/transcripts/cindy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/helpful-downloads",
+      "normalised": "https://www.elahere.com/resources/helpful-downloads",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/elahere-stories/transcripts/heidi",
+      "normalised": "https://www.elahere.com/resources/elahere-stories/transcripts/heidi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/discussion-guide-builder",
+      "normalised": "https://www.elahere.com/resources/discussion-guide-builder",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/helpful-downloads.html",
+      "normalised": "https://www.elahere.com/resources/helpful-downloads.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elahere.com/resources/advocacy-groups",
+      "normalised": "https://www.elahere.com/resources/advocacy-groups",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    }
+  ],
+  "stats": {
+    "total": 17,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 17,
+      "manual": 0
+    }
+  }
+}

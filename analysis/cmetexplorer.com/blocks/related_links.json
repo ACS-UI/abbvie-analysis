@@ -1,0 +1,31 @@
+{
+  "blockId": "related_links",
+  "templateIds": [
+    "tpl_26",
+    "tpl_80",
+    "tpl_133",
+    "tpl_200",
+    "tpl_206",
+    "tpl_217"
+  ],
+  "name": "Related Links",
+  "description": "Provides links to related pages and resources.",
+  "domHints": {
+    "selectors": [
+      "ul#linklist-cdb31ddaac"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_26 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

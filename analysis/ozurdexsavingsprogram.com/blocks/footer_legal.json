@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_legal",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Footer Legal Text",
+  "description": "Displays copyright and legal disclaimers.",
+  "domHints": {
+    "selectors": [
+      ".abbv-legal-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

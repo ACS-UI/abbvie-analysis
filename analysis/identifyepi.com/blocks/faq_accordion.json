@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_accordion",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "FAQ Accordion",
+  "description": "Displays frequently asked questions and their answers in an expandable format.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

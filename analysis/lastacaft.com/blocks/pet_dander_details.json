@@ -1,0 +1,26 @@
+{
+  "blockId": "pet_dander_details",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Pet Dander Details",
+  "description": "Information about pet dander and its impact on allergies.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-pet-details"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

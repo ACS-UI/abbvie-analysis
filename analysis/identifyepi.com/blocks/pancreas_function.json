@@ -1,0 +1,26 @@
+{
+  "blockId": "pancreas_function",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Pancreas Function",
+  "description": "Describes the functions of the pancreas and its role in EPI.",
+  "domHints": {
+    "selectors": [
+      ".what-is-epi-box-radius"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

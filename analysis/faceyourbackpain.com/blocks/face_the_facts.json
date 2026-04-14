@@ -1,0 +1,28 @@
+{
+  "blockId": "face_the_facts",
+  "templateIds": [
+    "tpl_2",
+    "tpl_3",
+    "tpl_16"
+  ],
+  "name": "Face the Facts Section",
+  "description": "Highlights facts about smoking and its impact on AS and nr-axSpA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.fybp-bg-color-lavendar-gray"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

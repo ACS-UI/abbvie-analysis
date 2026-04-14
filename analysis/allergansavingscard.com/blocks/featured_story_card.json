@@ -1,0 +1,29 @@
+{
+  "blockId": "featured_story_card",
+  "templateIds": [
+    "tpl_16",
+    "tpl_128",
+    "tpl_133",
+    "tpl_136"
+  ],
+  "name": "Featured Story Card",
+  "description": "Highlighted story with an image, title, and description.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory.card-dashboard.card-medium"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

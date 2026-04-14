@@ -1,0 +1,26 @@
+{
+  "blockId": "digestion_carousel",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Digestion Carousel",
+  "description": "Interactive carousel showing how EPI affects digestion.",
+  "domHints": {
+    "selectors": [
+      ".epi-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

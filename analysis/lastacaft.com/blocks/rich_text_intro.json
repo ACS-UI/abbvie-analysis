@@ -1,0 +1,26 @@
+{
+  "blockId": "rich_text_intro",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides an introductory explanation about eye allergies.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-eye-itch-allergans"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

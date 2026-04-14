@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_list",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Sitemap List",
+  "description": "Displays a list of links representing the site's structure.",
+  "domHints": {
+    "selectors": [
+      ".sitemap-list-wrap"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

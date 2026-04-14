@@ -1,0 +1,31 @@
+{
+  "blockId": "footer",
+  "templateIds": [
+    "tpl_1",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6"
+  ],
+  "name": "Footer",
+  "description": "Contains site-wide links such as terms of use, privacy policy, and contact information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer",
+      ".abbv-footer-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "science_story_card",
+  "templateIds": [
+    "tpl_146",
+    "tpl_201"
+  ],
+  "name": "Science Story Card",
+  "description": "Highlights a story related to Science with an image and description.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory.card-dashboard.card-medium"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_146 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

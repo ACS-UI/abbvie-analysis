@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_primary_links",
+  "templateIds": [
+    "tpl_270"
+  ],
+  "name": "Footer Primary Links",
+  "description": "Primary navigation links in the footer.",
+  "domHints": {
+    "selectors": [
+      ".list-footer-primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_270 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

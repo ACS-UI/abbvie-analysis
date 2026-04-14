@@ -1,0 +1,34 @@
+{
+  "blockId": "recommended_topics",
+  "templateIds": [
+    "tpl_4",
+    "tpl_5",
+    "tpl_10",
+    "tpl_12",
+    "tpl_15",
+    "tpl_17",
+    "tpl_25",
+    "tpl_26",
+    "tpl_27"
+  ],
+  "name": "Recommended Topics",
+  "description": "Suggests related topics and resources for further reading.",
+  "domHints": {
+    "selectors": [
+      ".recommended-topics"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

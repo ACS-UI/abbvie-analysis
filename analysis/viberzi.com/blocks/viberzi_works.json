@@ -1,0 +1,26 @@
+{
+  "blockId": "viberzi_works",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "How VIBERZI Works",
+  "description": "Explains the mechanism of action of VIBERZI in the body.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.viberzi-works-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

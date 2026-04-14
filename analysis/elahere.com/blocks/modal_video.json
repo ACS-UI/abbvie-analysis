@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_video",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Video Modal",
+  "description": "Handles video playback in a modal window.",
+  "domHints": {
+    "selectors": [
+      "cmp-modal[type='video']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

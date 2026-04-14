@@ -1,0 +1,26 @@
+{
+  "blockId": "comorbidity_cards",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Comorbidity Cards",
+  "description": "Interactive cards highlighting different comorbidity categories.",
+  "domHints": {
+    "selectors": [
+      ".hs-content-modal-cards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,31 @@
+{
+  "blockId": "cta_button",
+  "templateIds": [
+    "tpl_1",
+    "tpl_6",
+    "tpl_8",
+    "tpl_9",
+    "tpl_11",
+    "tpl_15"
+  ],
+  "name": "CTA Button",
+  "description": "Provides a call-to-action button for user interaction.",
+  "domHints": {
+    "selectors": [
+      ".abbv-button-primary.abbv-cancel-btn"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

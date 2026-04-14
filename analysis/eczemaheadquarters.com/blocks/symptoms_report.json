@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_report",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Symptoms Report",
+  "description": "Details about eczema symptoms and their variations.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title h2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,30 @@
+{
+  "blockId": "guidecontainerform",
+  "templateIds": [
+    "tpl_76",
+    "tpl_77",
+    "tpl_78",
+    "tpl_79",
+    "tpl_84"
+  ],
+  "name": "Form / subscription",
+  "description": "Email capture, subscribe, or lead form (may include captcha).",
+  "domHints": {
+    "selectors": [
+      "#guideContainerForm"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "fields",
+        "type": "custom",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Form on tpl_76. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

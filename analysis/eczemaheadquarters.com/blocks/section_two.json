@@ -1,0 +1,26 @@
+{
+  "blockId": "section_two",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Second Content Section",
+  "description": "Explores the second topic with relevant headings and supporting text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.eqh-learning-partnering-second-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

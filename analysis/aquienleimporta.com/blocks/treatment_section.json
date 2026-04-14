@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Treatment Section",
+  "description": "Describes available treatments for Hepatitis C.",
+  "domHints": {
+    "selectors": [
+      "#sec5"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

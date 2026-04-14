@@ -1,0 +1,28 @@
+{
+  "entryUrl": "https://www.requestfrm.com/",
+  "discoveredAt": "2026-04-13T16:26:48.573Z",
+  "urls": [
+    {
+      "url": "https://www.requestfrm.com/",
+      "normalised": "https://www.requestfrm.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.requestfrm.com/sitemap",
+      "normalised": "https://www.requestfrm.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "bySource": {
+      "sitemap": 1,
+      "crawl": 1,
+      "manual": 0
+    }
+  }
+}

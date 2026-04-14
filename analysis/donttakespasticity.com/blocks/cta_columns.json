@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_columns",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Call-to-Action Columns",
+  "description": "Presents two main CTAs side by side for user interaction.",
+  "domHints": {
+    "selectors": [
+      ".botox-main-banner-bts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

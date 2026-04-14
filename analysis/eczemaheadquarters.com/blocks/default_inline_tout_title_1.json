@@ -1,0 +1,26 @@
+{
+  "blockId": "default_inline_tout_title_1",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Default Inline Tout - Eczema & Other Conditions",
+  "description": "Displays a title section for the default inline tout content related to eczema and other conditions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.divider-title.margin-bottom-80.abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

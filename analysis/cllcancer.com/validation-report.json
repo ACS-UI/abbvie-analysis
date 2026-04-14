@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.cllcancer.com/",
+  "normalisedUrl": "https://www.cllcancer.com/",
+  "finalUrlAfterRedirects": "https://www.cllcancer.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:05:12.242Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

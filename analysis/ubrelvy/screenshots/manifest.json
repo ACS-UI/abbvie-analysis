@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "header nav"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "[role='main'] > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/challenge",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/treating-migraine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "[role='main'] > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "main_region_5__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/treating-migraine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "[role='main'] > div:nth-of-type(6)"
+    },
+    {
+      "relativePath": "main_region_6__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/treating-migraine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "[role='main'] > div:nth-of-type(7)"
+    },
+    {
+      "relativePath": "background_container_1715847909__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/real-patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "#background-container-1715847909"
+    },
+    {
+      "relativePath": "slider_text__default.png",
+      "sourceUrl": "https://www.ubrelvy.com/why-ubrelvy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:14:35.732Z",
+      "selector": "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_6",
+    "tpl_10",
+    "tpl_11"
+  ],
+  "name": "Call to Action Section",
+  "description": "Provides quick links to important resources and tools.",
+  "domHints": {
+    "selectors": [
+      ".abbvieaccess-primaryHeaderNav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

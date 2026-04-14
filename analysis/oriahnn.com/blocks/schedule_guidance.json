@@ -1,0 +1,26 @@
+{
+  "blockId": "schedule_guidance",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Schedule Guidance",
+  "description": "Provides additional tips for maintaining a consistent medication schedule.",
+  "domHints": {
+    "selectors": [
+      ".four-box-clock .abbv-col-2 img[alt='Clock Icon.']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

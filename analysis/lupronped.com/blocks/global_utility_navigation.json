@@ -1,0 +1,32 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick access to utility links such as prescribing information and medication guide.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

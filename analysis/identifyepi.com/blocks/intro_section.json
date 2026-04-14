@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_section",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Introduction Section",
+  "description": "Provides an introductory overview of the topic with a title and supporting text.",
+  "domHints": {
+    "selectors": [
+      ".epi-first-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

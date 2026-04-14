@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_categories_links",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "FAQ Categories Links",
+  "description": "Links to different FAQ categories, providing quick navigation to specific topics.",
+  "domHints": {
+    "selectors": [
+      ".faq-page-links"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

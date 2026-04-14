@@ -1,0 +1,26 @@
+{
+  "blockId": "oncology_section",
+  "templateIds": [
+    "tpl_257"
+  ],
+  "name": "Oncology Section",
+  "description": "Highlights the oncology focus and initiatives.",
+  "domHints": {
+    "selectors": [
+      "div#container-a84e551985 div.grid-row:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_257 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

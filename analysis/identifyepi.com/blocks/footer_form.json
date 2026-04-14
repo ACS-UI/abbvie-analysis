@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_form",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Footer Form",
+  "description": "Embedded form for user interaction or data submission.",
+  "domHints": {
+    "selectors": [
+      ".forms-embed"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

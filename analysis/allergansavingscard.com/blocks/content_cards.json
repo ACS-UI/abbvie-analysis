@@ -1,0 +1,37 @@
+{
+  "blockId": "content_cards",
+  "templateIds": [
+    "tpl_32",
+    "tpl_37",
+    "tpl_84",
+    "tpl_91",
+    "tpl_182",
+    "tpl_188",
+    "tpl_207",
+    "tpl_212",
+    "tpl_232",
+    "tpl_256",
+    "tpl_288"
+  ],
+  "name": "Content Cards",
+  "description": "Displays content in card format with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory",
+      ".dashboardcards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_32 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "who_should_get_tested",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Who Should Get Tested",
+  "description": "Lists the groups of people recommended for Hep C testing.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.who-should-get-tested"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

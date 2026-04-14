@@ -1,0 +1,27 @@
+{
+  "blockId": "content_grid",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4"
+  ],
+  "name": "Content Grid",
+  "description": "Displays a grid of dynamically loaded content cards.",
+  "domHints": {
+    "selectors": [
+      ".abbv-grid.abbvieaccess-homegrid"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_tout_experience",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Inline Tout: Sharing Your Experience",
+  "description": "Encourages users to share their eczema experience with their doctor, with visuals and a call-to-action.",
+  "domHints": {
+    "selectors": [
+      "div.personalization-inline-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

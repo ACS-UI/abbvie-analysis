@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_icons",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Symptoms Icons",
+  "description": "Icons and descriptions of CLL symptoms.",
+  "domHints": {
+    "selectors": [
+      ".flexbox-container__image-graphics"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

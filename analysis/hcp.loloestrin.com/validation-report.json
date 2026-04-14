@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://hcp.loloestrin.com",
+  "normalisedUrl": "https://hcp.loloestrin.com/",
+  "finalUrlAfterRedirects": "https://hcp.loloestrin.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:22:36.797Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

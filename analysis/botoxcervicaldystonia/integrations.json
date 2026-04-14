@@ -1,0 +1,28 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.botoxcervicaldystonia.com/",
+          "https://www.botoxcervicaldystonia.com/sitemap",
+          "https://www.botoxcervicaldystonia.com/find-a-botox-specialist",
+          "https://www.botoxcervicaldystonia.com/botox-reviews-and-stories",
+          "https://www.botoxcervicaldystonia.com/why-botox",
+          "https://www.botoxcervicaldystonia.com/savings-and-support",
+          "https://www.botoxcervicaldystonia.com/about-cervical-dystonia",
+          "https://www.botoxcervicaldystonia.com/search-results"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T12:22:05.171Z"
+}

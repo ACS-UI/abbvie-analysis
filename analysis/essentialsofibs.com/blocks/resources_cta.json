@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_cta",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Resources CTA",
+  "description": "Encourages users to explore all available resources.",
+  "domHints": {
+    "selectors": [
+      "#background-container-627836090"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

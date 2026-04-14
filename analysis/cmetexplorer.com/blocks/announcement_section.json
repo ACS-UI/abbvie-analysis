@@ -1,0 +1,26 @@
+{
+  "blockId": "announcement_section",
+  "templateIds": [
+    "tpl_263"
+  ],
+  "name": "Announcement Section",
+  "description": "Highlights the acquisition of Capstan Therapeutics with a headline and call-to-action.",
+  "domHints": {
+    "selectors": [
+      "#container-98cff35673"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_263 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

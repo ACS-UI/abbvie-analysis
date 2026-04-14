@@ -1,0 +1,26 @@
+{
+  "blockId": "tabs_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Tabs Section",
+  "description": "Organizes content into tabs for easy navigation between topics like benefits and FAQs.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs--deliver"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

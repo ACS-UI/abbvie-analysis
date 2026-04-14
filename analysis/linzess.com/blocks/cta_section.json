@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Call to Action Section",
+  "description": "Encourages users to take action, such as learning how Linzess can help.",
+  "domHints": {
+    "selectors": [
+      ".linzess-help-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

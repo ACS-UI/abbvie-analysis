@@ -1,0 +1,26 @@
+{
+  "blockId": "mission_columns",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Mission Columns",
+  "description": "Displays key aspects of the mission in a column layout.",
+  "domHints": {
+    "selectors": [
+      ".mission-columns"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

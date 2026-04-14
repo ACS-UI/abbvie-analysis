@@ -1,0 +1,26 @@
+{
+  "blockId": "survey_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Survey Section",
+  "description": "Encourages users to complete a survey to prepare for their medical appointments.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abv-row-right-to-left"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

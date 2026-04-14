@@ -1,0 +1,36 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.hsdiseasesource.com/hs-comorbidities",
+          "https://www.hsdiseasesource.com/sitemap",
+          "https://www.hsdiseasesource.com/",
+          "https://www.hsdiseasesource.com/search-results",
+          "https://www.hsdiseasesource.com/locate-an-hs-specialist",
+          "https://www.hsdiseasesource.com/hs-diagnosis-criteria",
+          "https://www.hsdiseasesource.com/personalization",
+          "https://www.hsdiseasesource.com/events-and-organizations",
+          "https://www.hsdiseasesource.com/resources",
+          "https://www.hsdiseasesource.com/hs-treatment-options",
+          "https://www.hsdiseasesource.com/multi-disciplinary-care-team",
+          "https://www.hsdiseasesource.com/hs-signs-and-symptoms",
+          "https://www.hsdiseasesource.com/hs-progression",
+          "https://www.hsdiseasesource.com/hs-differential-diagnosis",
+          "https://www.hsdiseasesource.com/hs-disease-staging",
+          "https://www.hsdiseasesource.com/hs-case-studies"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:01:05.442Z"
+}

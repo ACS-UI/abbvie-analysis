@@ -1,0 +1,28 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.savella.com/savella-savingscard",
+          "https://www.savella.com/sign-up",
+          "https://www.savella.com/search-results",
+          "https://www.savella.com/",
+          "https://www.savella.com/why-savella",
+          "https://www.savella.com/fibromyalgia-basics",
+          "https://www.savella.com/savings-and-resources",
+          "https://www.savella.com/sitemap"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:26:06.769Z"
+}

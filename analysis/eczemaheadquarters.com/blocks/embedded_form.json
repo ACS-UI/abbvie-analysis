@@ -1,0 +1,26 @@
+{
+  "blockId": "embedded_form",
+  "templateIds": [
+    "tpl_25"
+  ],
+  "name": "Embedded Form",
+  "description": "Displays a form for user input or interaction.",
+  "domHints": {
+    "selectors": [
+      ".cmp-formsembed-widget"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

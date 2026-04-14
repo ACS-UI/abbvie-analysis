@@ -1,0 +1,26 @@
+{
+  "blockId": "elahere_videos_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "ELAHERE Videos Section",
+  "description": "Introduces videos related to ELAHERE and its treatment.",
+  "domHints": {
+    "selectors": [
+      "main > div#prophylactic-medications > div#elahere-videos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

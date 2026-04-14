@@ -1,0 +1,26 @@
+{
+  "blockId": "discussion_guide_banner",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Discussion Guide Banner",
+  "description": "Encourages users to build a discussion guide for talking to their doctor.",
+  "domHints": {
+    "selectors": [
+      "main > div.container.theme-barely-coral > div.row:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

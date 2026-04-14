@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_buttons",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "CTA Buttons",
+  "description": "Provides call-to-action links for further engagement.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.on-this-page"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

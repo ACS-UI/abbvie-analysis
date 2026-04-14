@@ -1,0 +1,27 @@
+{
+  "blockId": "cta_back",
+  "templateIds": [
+    "tpl_36",
+    "tpl_46"
+  ],
+  "name": "Back Button CTA",
+  "description": "Provides a button to navigate back to the previous page or section.",
+  "domHints": {
+    "selectors": [
+      ".cta.parbase"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_36 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

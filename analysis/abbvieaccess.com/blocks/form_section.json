@@ -1,0 +1,26 @@
+{
+  "blockId": "form_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Form Section",
+  "description": "Section containing the registration form for email updates.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.abbvieaccess-RAR-formsection"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

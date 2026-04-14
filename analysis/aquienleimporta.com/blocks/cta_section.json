@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Call to Action Section",
+  "description": "Encourages users to take action, such as seeking medical advice.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.hepc-hazte"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

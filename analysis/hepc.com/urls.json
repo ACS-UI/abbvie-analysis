@@ -1,0 +1,245 @@
+{
+  "entryUrl": "https://www.hepc.com/",
+  "discoveredAt": "2026-04-13T15:46:50.757Z",
+  "urls": [
+    {
+      "url": "https://www.hepc.com/",
+      "normalised": "https://www.hepc.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/your-doctor-discussion-guide-undiaognosed.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/your-doctor-discussion-guide-undiaognosed.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/your-doctor-discussion-guide-diaognosed.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/your-doctor-discussion-guide-diaognosed.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/diagnosed-doctor-discussion-guide.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/diagnosed-doctor-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/undiagnosed-doctor-discussion-guide.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/undiagnosed-doctor-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/undiagnosed-discussion-guide.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/undiagnosed-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/diagnosed-discussion-guide.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/diagnosed-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/hep-c-patient-brochure.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/hep-c-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/doctor-discussion-guide.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/doctor-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/understanding-hep-c-brochure.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/understanding-hep-c-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/content/dam/hepc/pdf/hep-c-patient-unbranded-brochure.pdf",
+      "normalised": "https://www.hepc.com/content/dam/hepc/pdf/hep-c-patient-unbranded-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hepc.com/how-hep-c-transmitted",
+      "normalised": "https://www.hepc.com/how-hep-c-transmitted",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/living-with-hep-c",
+      "normalised": "https://www.hepc.com/living-with-hep-c",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/hep-c-cure",
+      "normalised": "https://www.hepc.com/hep-c-cure",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/sitemap",
+      "normalised": "https://www.hepc.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/hepatitis-c-symptoms",
+      "normalised": "https://www.hepc.com/hepatitis-c-symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/living-with-hep-c/video-transcript-12",
+      "normalised": "https://www.hepc.com/living-with-hep-c/video-transcript-12",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/understanding-hepatitis-c",
+      "normalised": "https://www.hepc.com/understanding-hepatitis-c",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/search-results",
+      "normalised": "https://www.hepc.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/treating-hep-c",
+      "normalised": "https://www.hepc.com/treating-hep-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/diagnosed-with-hepatitis-c",
+      "normalised": "https://www.hepc.com/diagnosed-with-hepatitis-c",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/site-map",
+      "normalised": "https://www.hepc.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/hep-c-support-resources",
+      "normalised": "https://www.hepc.com/hep-c-support-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/living-with-hep-c/video-transcript",
+      "normalised": "https://www.hepc.com/living-with-hep-c/video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/personalization",
+      "normalised": "https://www.hepc.com/personalization",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/hep-c-myths-facts",
+      "normalised": "https://www.hepc.com/hep-c-myths-facts",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/find-hep-c-doctor",
+      "normalised": "https://www.hepc.com/find-hep-c-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/find-hep-c-specialist",
+      "normalised": "https://www.hepc.com/find-hep-c-specialist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/talk-doctor-about-hep-c",
+      "normalised": "https://www.hepc.com/talk-doctor-about-hep-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/living-with-hep-c2",
+      "normalised": "https://www.hepc.com/living-with-hep-c2",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/talk-to-hep-c-specialist",
+      "normalised": "https://www.hepc.com/talk-to-hep-c-specialist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/understanding-hepatitis-c/hepatitis-c-symptoms",
+      "normalised": "https://www.hepc.com/understanding-hepatitis-c/hepatitis-c-symptoms",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hepc.com/treating-hep-c/find-hep-c-doctor",
+      "normalised": "https://www.hepc.com/treating-hep-c/find-hep-c-doctor",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 33,
+    "bySource": {
+      "sitemap": 19,
+      "crawl": 14,
+      "manual": 0
+    }
+  }
+}

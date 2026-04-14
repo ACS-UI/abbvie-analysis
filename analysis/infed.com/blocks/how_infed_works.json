@@ -1,0 +1,26 @@
+{
+  "blockId": "how_infed_works",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "How INFeD Works Section",
+  "description": "Explains the mechanism of action of INFeD with step-by-step visuals.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.why-infed-legacy-section-2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

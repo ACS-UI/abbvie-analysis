@@ -1,0 +1,26 @@
+{
+  "blockId": "info_poll",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Interactive Info Poll",
+  "description": "Engages users with a quick poll about their experience with Hep C.",
+  "domHints": {
+    "selectors": [
+      ".abbv-info-tree"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

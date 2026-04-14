@@ -1,0 +1,26 @@
+{
+  "blockId": "finding_a_section",
+  "templateIds": [
+    "tpl_27"
+  ],
+  "name": "Finding A Section",
+  "description": "Explores the impact of eczema on sleep and productivity.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title h2.text-22"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_27 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

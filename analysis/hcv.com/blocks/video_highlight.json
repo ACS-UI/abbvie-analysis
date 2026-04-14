@@ -1,0 +1,26 @@
+{
+  "blockId": "video_highlight",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Video Highlight",
+  "description": "Showcases highlighted videos with descriptions and links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2.flex-card-container.first-bigger"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

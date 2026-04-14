@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_popup",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Modal Popup",
+  "description": "Provides additional information or notifications in a modal format.",
+  "domHints": {
+    "selectors": [
+      "#remediationModal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

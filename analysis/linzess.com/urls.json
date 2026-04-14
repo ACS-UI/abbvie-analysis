@@ -1,0 +1,609 @@
+{
+  "entryUrl": "https://www.linzess.com/",
+  "discoveredAt": "2026-04-13T15:14:28.778Z",
+  "urls": [
+    {
+      "url": "https://www.linzess.com/",
+      "normalised": "https://www.linzess.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support",
+      "normalised": "https://www.linzess.com/savings-and-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/faqs",
+      "normalised": "https://www.linzess.com/savings-and-support/faqs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/search-results",
+      "normalised": "https://www.linzess.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/understanding-constipation#typesofconstipation",
+      "normalised": "https://www.linzess.com/understanding-constipation",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/getting-on-same-page-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/getting-on-same-page-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/julie-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/julie-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/dr-lucak-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/dr-lucak-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/nan-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/nan-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/reminder-terms-conditions",
+      "normalised": "https://www.linzess.com/reminder-terms-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-card",
+      "normalised": "https://www.linzess.com/savings-card",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/reminder-terms-conditions",
+      "normalised": "https://www.linzess.com/savings-and-support/reminder-terms-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/reminder-terms-conditions",
+      "normalised": "https://www.linzess.com/starting-linzess/reminder-terms-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/from-the-gut/reminder-terms-conditions",
+      "normalised": "https://www.linzess.com/savings-and-support/from-the-gut/reminder-terms-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/find-relief/gutcheck",
+      "normalised": "https://www.linzess.com/find-relief/gutcheck",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/sitemap",
+      "normalised": "https://www.linzess.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/page-not-found",
+      "normalised": "https://www.linzess.com/page-not-found",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/elaine-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/elaine-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/could-it-be-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/could-it-be-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/seeking-the-right-treatment-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/seeking-the-right-treatment-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/setting-expectations-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/setting-expectations-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/from-the-gut",
+      "normalised": "https://www.linzess.com/savings-and-support/from-the-gut",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/how-to-take-linzess",
+      "normalised": "https://www.linzess.com/starting-linzess/how-to-take-linzess",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/finding-relief-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/finding-relief-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess#howlinzesscanhelp",
+      "normalised": "https://www.linzess.com/why-linzess",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/healthy-routines/tackling-ibs-c-triggers",
+      "normalised": "https://www.linzess.com/starting-linzess/healthy-routines/tackling-ibs-c-triggers",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences/dian-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences/dian-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/resources",
+      "normalised": "https://www.linzess.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/wellness-tips/make-a-game-plan-for-ibs-c",
+      "normalised": "https://www.linzess.com/starting-linzess/wellness-tips/make-a-game-plan-for-ibs-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/find-relief#talktoadoctor",
+      "normalised": "https://www.linzess.com/find-relief",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/wellness-tips/is-your-pantry-fodmap-friendly",
+      "normalised": "https://www.linzess.com/starting-linzess/wellness-tips/is-your-pantry-fodmap-friendly",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/wellness-tips/5-holiday-low-fodmap-recipes",
+      "normalised": "https://www.linzess.com/starting-linzess/wellness-tips/5-holiday-low-fodmap-recipes",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/healthy-routines/keeping-in-touch-with-your-doctor",
+      "normalised": "https://www.linzess.com/starting-linzess/healthy-routines/keeping-in-touch-with-your-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-stories/nan-transcripts-1",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-stories/nan-transcripts-1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/healthy-routines/otc-and-prescription-treatments",
+      "normalised": "https://www.linzess.com/starting-linzess/healthy-routines/otc-and-prescription-treatments",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "normalised": "https://www.linzess.com/starting-linzess/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/wellness-tips/good-for-your-gut-flavorful-food-swaps",
+      "normalised": "https://www.linzess.com/starting-linzess/wellness-tips/good-for-your-gut-flavorful-food-swaps",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/espanol",
+      "normalised": "https://www.linzess.com/espanol",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-stories/nan-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-stories/nan-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-stories/dian-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-stories/dian-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-stories/dr-lucak-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-stories/dr-lucak-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-stories/julie-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-stories/julie-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/find-relief/talk-to-a-doctor",
+      "normalised": "https://www.linzess.com/find-relief/talk-to-a-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-stories/elaine-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-stories/elaine-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-stories/setting-expectations-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-stories/setting-expectations-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/understanding-constipation/tips-for-managing-constipation",
+      "normalised": "https://www.linzess.com/understanding-constipation/tips-for-managing-constipation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "normalised": "https://www.linzess.com/savings-and-support/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/healthy-routines/otc-and-prescription-treatments",
+      "normalised": "https://www.linzess.com/savings-and-support/healthy-routines/otc-and-prescription-treatments",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/wellness-tips/5-holiday-low-fodmap-recipes",
+      "normalised": "https://www.linzess.com/savings-and-support/wellness-tips/5-holiday-low-fodmap-recipes",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/healthy-routines/tackling-ibs-c-triggers",
+      "normalised": "https://www.linzess.com/savings-and-support/healthy-routines/tackling-ibs-c-triggers",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/healthy-routines/keeping-in-touch-with-your-doctor",
+      "normalised": "https://www.linzess.com/savings-and-support/healthy-routines/keeping-in-touch-with-your-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-experiences",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-experiences",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/wellness-tips/make-a-game-plan-for-ibs-c",
+      "normalised": "https://www.linzess.com/savings-and-support/wellness-tips/make-a-game-plan-for-ibs-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/wellness-tips/is-your-pantry-fodmap-friendly",
+      "normalised": "https://www.linzess.com/savings-and-support/wellness-tips/is-your-pantry-fodmap-friendly",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/wellness-tips",
+      "normalised": "https://www.linzess.com/starting-linzess/wellness-tips",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess/healthy-routines",
+      "normalised": "https://www.linzess.com/starting-linzess/healthy-routines",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/wellness-tips/good-for-your-gut-flavorful-food-swaps",
+      "normalised": "https://www.linzess.com/savings-and-support/wellness-tips/good-for-your-gut-flavorful-food-swaps",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-stories",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-stories",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/healthy-routines",
+      "normalised": "https://www.linzess.com/savings-and-support/healthy-routines",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/linzess-savings-program",
+      "normalised": "https://www.linzess.com/savings-and-support/linzess-savings-program",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/linzess-patient-stories/Nan-transcripts",
+      "normalised": "https://www.linzess.com/why-linzess/linzess-patient-stories/Nan-transcripts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/how-to-take-linzess",
+      "normalised": "https://www.linzess.com/savings-and-support/how-to-take-linzess",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/community-resources",
+      "normalised": "https://www.linzess.com/savings-and-support/community-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/wellness-tips",
+      "normalised": "https://www.linzess.com/savings-and-support/wellness-tips",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/community-support",
+      "normalised": "https://www.linzess.com/savings-and-support/community-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/porquelinzess",
+      "normalised": "https://www.linzess.com/porquelinzess",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/abbv-tab-684595948-0",
+      "normalised": "https://www.linzess.com/abbv-tab-684595948-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/legal-policy",
+      "normalised": "https://www.linzess.com/legal-policy",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/tiposdeestrenimiento",
+      "normalised": "https://www.linzess.com/tiposdeestrenimiento",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-card/terms",
+      "normalised": "https://www.linzess.com/savings-card/terms",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/consejosparamanejarelestrenimiento",
+      "normalised": "https://www.linzess.com/consejosparamanejarelestrenimiento",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-and-support/abbv-tab-684595948-0",
+      "normalised": "https://www.linzess.com/savings-and-support/abbv-tab-684595948-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/spanishgutcheck",
+      "normalised": "https://www.linzess.com/spanishgutcheck",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/find-relief/abbv-tab-684595948-0",
+      "normalised": "https://www.linzess.com/find-relief/abbv-tab-684595948-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/starting-linzess",
+      "normalised": "https://www.linzess.com/starting-linzess",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-card/savings",
+      "normalised": "https://www.linzess.com/savings-card/savings",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/savings-card/activate",
+      "normalised": "https://www.linzess.com/savings-card/activate",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/find-relief/how-to-take-linzess",
+      "normalised": "https://www.linzess.com/find-relief/how-to-take-linzess",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/how-linzess-can-help",
+      "normalised": "https://www.linzess.com/why-linzess/how-linzess-can-help",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/understanding-constipation/what-is-ibs-c",
+      "normalised": "https://www.linzess.com/understanding-constipation/what-is-ibs-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/understanding-constipation/constipation-treatment-options",
+      "normalised": "https://www.linzess.com/understanding-constipation/constipation-treatment-options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/side-effects-of-linzess",
+      "normalised": "https://www.linzess.com/why-linzess/side-effects-of-linzess",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/understanding-constipation/types-of-constipation",
+      "normalised": "https://www.linzess.com/understanding-constipation/types-of-constipation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/why-linzess/how-linzess-works",
+      "normalised": "https://www.linzess.com/why-linzess/how-linzess-works",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzess.com/understanding-constipation/what-is-cic",
+      "normalised": "https://www.linzess.com/understanding-constipation/what-is-cic",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 85,
+    "bySource": {
+      "sitemap": 63,
+      "crawl": 22,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_columns",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Symptoms Columns",
+  "description": "Lists and explains symptoms associated with the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-margin-top-40.abbv-margin-bottom-40"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

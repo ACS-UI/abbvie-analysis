@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides a brief introduction and context about the page.",
+  "domHints": {
+    "selectors": [
+      "#find-out-if-durysta-is-right-for-you-when-you-meet-with-your-care-provider"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_links",
+  "templateIds": [
+    "tpl_6",
+    "tpl_8"
+  ],
+  "name": "Footer Links",
+  "description": "Contains links to legal, privacy, and contact information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

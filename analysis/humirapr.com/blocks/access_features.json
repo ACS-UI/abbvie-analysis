@@ -1,0 +1,26 @@
+{
+  "blockId": "access_features",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Access Features Section",
+  "description": "Showcases features and benefits available to patients.",
+  "domHints": {
+    "selectors": [
+      ".have-access"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

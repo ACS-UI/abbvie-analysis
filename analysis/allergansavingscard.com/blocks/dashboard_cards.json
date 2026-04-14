@@ -1,0 +1,36 @@
+{
+  "blockId": "dashboard_cards",
+  "templateIds": [
+    "tpl_38",
+    "tpl_45",
+    "tpl_65",
+    "tpl_97",
+    "tpl_102",
+    "tpl_117",
+    "tpl_129",
+    "tpl_162",
+    "tpl_187",
+    "tpl_202",
+    "tpl_261"
+  ],
+  "name": "Dashboard Cards",
+  "description": "Displays key metrics or highlights in a card format.",
+  "domHints": {
+    "selectors": [
+      "div.dashboardcards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_38 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "fill_in_the_blank_section",
+  "templateIds": [
+    "tpl_22"
+  ],
+  "name": "Fill in the Blank Section",
+  "description": "Contains a video and text about personal eczema experiences.",
+  "domHints": {
+    "selectors": [
+      "#fill-in-the-blank",
+      ".abbv-video-player.video-2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_22 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "new_hcv_providers",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "New HCV Providers Section",
+  "description": "Provides information and resources for new HCV providers.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1454065931 .abbv-row-container.hcv-provider .abbv-col:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,77 @@
+{
+  "entryUrl": "https://www.botoxblepharospasm.com/",
+  "discoveredAt": "2026-04-13T16:32:58.557Z",
+  "urls": [
+    {
+      "url": "https://www.botoxblepharospasm.com/",
+      "normalised": "https://www.botoxblepharospasm.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxblepharospasm.com/about",
+      "normalised": "https://www.botoxblepharospasm.com/about",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxblepharospasm.com/why-botox",
+      "normalised": "https://www.botoxblepharospasm.com/why-botox",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxblepharospasm.com/treatment",
+      "normalised": "https://www.botoxblepharospasm.com/treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxblepharospasm.com/savings",
+      "normalised": "https://www.botoxblepharospasm.com/savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxblepharospasm.com/sitemap",
+      "normalised": "https://www.botoxblepharospasm.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxblepharospasm.com/FindADoctor",
+      "normalised": "https://www.botoxblepharospasm.com/FindADoctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxblepharospasm.com/cdn-cgi/l/email-protection#f096919283b0919292869995de939f9d",
+      "normalised": "https://www.botoxblepharospasm.com/cdn-cgi/l/email-protection",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.botoxblepharospasm.com/Savings",
+      "normalised": "https://www.botoxblepharospasm.com/Savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 9,
+      "manual": 0
+    }
+  }
+}

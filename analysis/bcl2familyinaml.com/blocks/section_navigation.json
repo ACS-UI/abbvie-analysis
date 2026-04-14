@@ -1,0 +1,26 @@
+{
+  "blockId": "section_navigation",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Section Navigation",
+  "description": "Provides navigation links to various sections of the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-section-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

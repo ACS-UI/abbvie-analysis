@@ -1,0 +1,224 @@
+{
+  "entryUrl": "https://www.synthroidhcppr.com/",
+  "discoveredAt": "2026-04-13T15:14:28.622Z",
+  "urls": [
+    {
+      "url": "https://www.synthroidhcppr.com/",
+      "normalised": "https://www.synthroidhcppr.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/prescribing",
+      "normalised": "https://www.synthroidhcppr.com/prescribing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/dosing",
+      "normalised": "https://www.synthroidhcppr.com/dosing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/sitemap",
+      "normalised": "https://www.synthroidhcppr.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/contact-a-representative",
+      "normalised": "https://www.synthroidhcppr.com/contact-a-representative",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/references",
+      "normalised": "https://www.synthroidhcppr.com/references",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/protect-the-script",
+      "normalised": "https://www.synthroidhcppr.com/protect-the-script",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/clinical-scenarios",
+      "normalised": "https://www.synthroidhcppr.com/clinical-scenarios",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-0",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-1",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-3",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-5",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-2",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-6",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-4",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-10",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-10",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-1",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-4",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-3",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-7",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-7",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-5",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-7",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-7",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-8",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-8",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-0",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-10",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-10",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-9",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-9",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-2",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-6",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-534922752-8",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-534922752-8",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroidhcppr.com/abbv-tab-523592958-9",
+      "normalised": "https://www.synthroidhcppr.com/abbv-tab-523592958-9",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 30,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 30,
+      "manual": 0
+    }
+  }
+}

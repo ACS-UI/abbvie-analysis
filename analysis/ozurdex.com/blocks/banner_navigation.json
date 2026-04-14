@@ -1,0 +1,26 @@
+{
+  "blockId": "banner_navigation",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Banner Navigation",
+  "description": "Secondary navigation links displayed in a horizontal banner.",
+  "domHints": {
+    "selectors": [
+      ".ozurdex-banner-nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

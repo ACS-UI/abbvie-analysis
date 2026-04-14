@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section_2",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Video Section 2",
+  "description": "Another video section with tips for discussing symptoms with a gastroenterologist.",
+  "domHints": {
+    "selectors": [
+      "div[data-trigger-for='abbv-accordion-blade-1']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

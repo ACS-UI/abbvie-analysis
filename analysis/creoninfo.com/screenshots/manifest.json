@@ -1,0 +1,364 @@
+{
+  "entries": [
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "breadcrumb_navigation__default.png",
+      "sourceUrl": "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".breadcrumb__list"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".titles.parbase .abbv-title"
+    },
+    {
+      "relativePath": "video_transcript__default.png",
+      "sourceUrl": "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".transcript-container"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.creoninfo.com/creon-complete",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.creoninfo.com/creon-complete",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.creoninfo.com/creon-complete",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "personalized_resources__default.png",
+      "sourceUrl": "https://www.creoninfo.com/creon-complete",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-row-container.mt9"
+    },
+    {
+      "relativePath": "support_features__default.png",
+      "sourceUrl": "https://www.creoninfo.com/creon-complete",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-row-container.mt6"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.creoninfo.com/creon-complete",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-video-player"
+    },
+    {
+      "relativePath": "next_best_message__default.png",
+      "sourceUrl": "https://www.creoninfo.com/creon-complete",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".grid__next-best-message"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.creoninfo.com/creon-complete",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.creoninfo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "cta_banner__default.png",
+      "sourceUrl": "https://www.creoninfo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-savings-banner"
+    },
+    {
+      "relativePath": "card_grid__default.png",
+      "sourceUrl": "https://www.creoninfo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".flexbox__card-group"
+    },
+    {
+      "relativePath": "info_tree__default.png",
+      "sourceUrl": "https://www.creoninfo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-info-tree"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.creoninfo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "accordion_conditions__default.png",
+      "sourceUrl": "https://www.creoninfo.com/associated-conditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "pert_information__default.png",
+      "sourceUrl": "https://www.creoninfo.com/treating-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-container.page-marq__container"
+    },
+    {
+      "relativePath": "enzyme_cards__default.png",
+      "sourceUrl": "https://www.creoninfo.com/treating-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".flexbox__card-group"
+    },
+    {
+      "relativePath": "spotlight_section__default.png",
+      "sourceUrl": "https://www.creoninfo.com/treating-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".spotlight--content-highlight"
+    },
+    {
+      "relativePath": "diet_lifestyle_callout__default.png",
+      "sourceUrl": "https://www.creoninfo.com/treating-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".callout--large-image"
+    },
+    {
+      "relativePath": "signup_cta__default.png",
+      "sourceUrl": "https://www.creoninfo.com/treating-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".cta-m-full__container"
+    },
+    {
+      "relativePath": "faq_accordion__default.png",
+      "sourceUrl": "https://www.creoninfo.com/treating-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "tabs_videos__default.png",
+      "sourceUrl": "https://www.creoninfo.com/videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": "div.abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.creoninfo.com/videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": "footer .abbv-footer-content"
+    },
+    {
+      "relativePath": "diagnosis_information__default.png",
+      "sourceUrl": "https://www.creoninfo.com/epi-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".page-marq__grid"
+    },
+    {
+      "relativePath": "symptoms_quiz_cta__default.png",
+      "sourceUrl": "https://www.creoninfo.com/epi-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".grid__next-best-message--regal-blue-section"
+    },
+    {
+      "relativePath": "diagnostic_tests__default.png",
+      "sourceUrl": "https://www.creoninfo.com/epi-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".flexbox__card-group"
+    },
+    {
+      "relativePath": "additional_resources__default.png",
+      "sourceUrl": "https://www.creoninfo.com/epi-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".spotlight--image-blue"
+    },
+    {
+      "relativePath": "epi_quiz_section__default.png",
+      "sourceUrl": "https://www.creoninfo.com/doctor-discussion-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".remember-section"
+    },
+    {
+      "relativePath": "discussion_guide_cta__default.png",
+      "sourceUrl": "https://www.creoninfo.com/doctor-discussion-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".callout--cta-m-full"
+    },
+    {
+      "relativePath": "questions_section__default.png",
+      "sourceUrl": "https://www.creoninfo.com/doctor-discussion-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:46:25.739Z",
+      "selector": ".question-section"
+    }
+  ]
+}

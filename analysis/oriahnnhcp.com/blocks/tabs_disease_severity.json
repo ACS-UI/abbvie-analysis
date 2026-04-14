@@ -1,0 +1,27 @@
+{
+  "blockId": "tabs_disease_severity",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Disease Severity Tabs",
+  "description": "Interactive tabs for disease severity subgroups, allowing users to view specific data categories.",
+  "domHints": {
+    "selectors": [
+      "#abbv-tab-1599355144-0",
+      ".abbv-tabs.Oriahnn-disease"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

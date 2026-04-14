@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_benefit_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Patient Benefit Section",
+  "description": "Highlights patient benefits with supporting imagery and text.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1832134064"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

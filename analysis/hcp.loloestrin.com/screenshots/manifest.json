@@ -1,0 +1,484 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "header nav"
+    },
+    {
+      "relativePath": "columns__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "[role='main'] > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "[role='main'] > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "main_region_5__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "[role='main'] > div:nth-of-type(6)"
+    },
+    {
+      "relativePath": "main_region_6__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "[role='main'] > div:nth-of-type(7)"
+    },
+    {
+      "relativePath": "carousel_region_0__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "header > div.abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "header > div.abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_error__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "section[role='main'] > div.columns > div.abbv-row-container.abbv-title-banner"
+    },
+    {
+      "relativePath": "error_message__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "section[role='main'] > div.container > div.abbv-container.error-container"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "div[role='region'][aria-label='Important Safety Information'] > div.abbv-inline-use"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "button.abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_hcp_certification__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "div.abbv-modal.wolhcp"
+    },
+    {
+      "relativePath": "modal_site_leaving__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "div.abbv-modal.siteLeaving"
+    },
+    {
+      "relativePath": "safety_bar__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "div.safety-bar > div.abbv-safety-bar"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/why-loloestrinfe",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-row-container.abbv-title-banner"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/why-loloestrinfe",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-flex-container.abbv-right-fixed-nav"
+    },
+    {
+      "relativePath": "info_columns__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/why-loloestrinfe",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-row-container.pattern-two-column"
+    },
+    {
+      "relativePath": "modal_cta__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/why-loloestrinfe",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-row-container.modal-cta-row"
+    },
+    {
+      "relativePath": "amenorrhea_section__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/why-loloestrinfe",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".orange-box-two.incidenceBox"
+    },
+    {
+      "relativePath": "breakthrough_bleeding__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/why-loloestrinfe",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-rich-text.abbv-efects"
+    },
+    {
+      "relativePath": "clinical_study_highlights__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/why-loloestrinfe",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-row-container.data-cols-small"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/formulary-coverage",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header_navigation__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/formulary-coverage",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "cta_buttons_row__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/formulary-coverage",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-right-fixed-nav"
+    },
+    {
+      "relativePath": "formulary_lookup__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/formulary-coverage",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-formulary-zipcode"
+    },
+    {
+      "relativePath": "coverage_highlights__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/formulary-coverage",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".widely-covered-columns"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/formulary-coverage",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "patient_profiles_tabs__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/is-lo-loestrin-fe-right-for-her",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-tabs.is-loloright-tabs"
+    },
+    {
+      "relativePath": "patient_profile_grace__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/is-lo-loestrin-fe-right-for-her",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "#abbv-tab-1199648406-0"
+    },
+    {
+      "relativePath": "patient_profile_zara__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/is-lo-loestrin-fe-right-for-her",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "#abbv-tab-1199648406-1"
+    },
+    {
+      "relativePath": "patient_profile_maya__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/is-lo-loestrin-fe-right-for-her",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "#abbv-tab-1199648406-2"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/is-lo-loestrin-fe-right-for-her",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-accordion.is-loloright-accordian"
+    },
+    {
+      "relativePath": "global_utility_nav__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/support-for-your-practice",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "cta_row__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/support-for-your-practice",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-support-for-your-practice-resources"
+    },
+    {
+      "relativePath": "resources_grid__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/support-for-your-practice",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-flex-container.abbv-support-for-your-practice-resources"
+    },
+    {
+      "relativePath": "savings_program__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/support-for-your-practice",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": "#savings-card"
+    },
+    {
+      "relativePath": "contact_section__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/support-for-your-practice",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-speak-to-abbvie"
+    },
+    {
+      "relativePath": "important_safety_info__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/hcp-resources/support-for-your-practice",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "sitemap_list__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".sitemap-main-list"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "footer_legal_text__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://hcp.loloestrin.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:47.289Z",
+      "selector": ".abbv-back-to-top"
+    }
+  ]
+}

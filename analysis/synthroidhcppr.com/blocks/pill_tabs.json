@@ -1,0 +1,26 @@
+{
+  "blockId": "pill_tabs",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Pill Tabs",
+  "description": "Interactive tabs showcasing Synthroid pill details and dosages.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs.synthroid-pill-tabs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

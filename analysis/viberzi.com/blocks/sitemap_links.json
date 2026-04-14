@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_links",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Sitemap Links",
+  "description": "Displays a list of links to all major site sections for easy navigation.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.sitemap"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

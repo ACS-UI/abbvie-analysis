@@ -1,0 +1,244 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_chrome__default.png",
+      "sourceUrl": "https://www.durysta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "header"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.durysta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://www.durysta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://www.durysta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://www.durysta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://www.durysta.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "header__default.png",
+      "sourceUrl": "https://www.durysta.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "header"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.durysta.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(1) > div.columns > div > div > h1#about-durysta"
+    },
+    {
+      "relativePath": "non_drop_section__default.png",
+      "sourceUrl": "https://www.durysta.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(2) > div.columns > div > div > picture"
+    },
+    {
+      "relativePath": "testimonial_section__default.png",
+      "sourceUrl": "https://www.durysta.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(3) > h3#what-others-are-saying"
+    },
+    {
+      "relativePath": "why_consider_section__default.png",
+      "sourceUrl": "https://www.durysta.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(4) > h3#why-consider-durysta"
+    },
+    {
+      "relativePath": "action_cards_section__default.png",
+      "sourceUrl": "https://www.durysta.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(5) > div.columns > div > div > table"
+    },
+    {
+      "relativePath": "isi_fragment__default.png",
+      "sourceUrl": "https://www.durysta.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(6) > div.fragment"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.durysta.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.durysta.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "header"
+    },
+    {
+      "relativePath": "sitemap_title__default.png",
+      "sourceUrl": "https://www.durysta.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div > h1#site-map"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.durysta.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div > div.columns > div > div"
+    },
+    {
+      "relativePath": "primary_footer__default.png",
+      "sourceUrl": "https://www.durysta.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.durysta.com/talk-with-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "#find-out-if-durysta-is-right-for-you-when-you-meet-with-your-care-provider"
+    },
+    {
+      "relativePath": "three_card_grid__default.png",
+      "sourceUrl": "https://www.durysta.com/talk-with-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "#talk-with-your-doctor"
+    },
+    {
+      "relativePath": "faq_section__default.png",
+      "sourceUrl": "https://www.durysta.com/talk-with-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": ".faq"
+    },
+    {
+      "relativePath": "action_cards__default.png",
+      "sourceUrl": "https://www.durysta.com/talk-with-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "#talk-with-your-doctor"
+    },
+    {
+      "relativePath": "people_who_section__default.png",
+      "sourceUrl": "https://www.durysta.com/why-durysta",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(2) .columns > div > div > table"
+    },
+    {
+      "relativePath": "video_cards_section__default.png",
+      "sourceUrl": "https://www.durysta.com/why-durysta",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:21:38.367Z",
+      "selector": "main > div:nth-of-type(3) .columns > div > div > table"
+    }
+  ]
+}

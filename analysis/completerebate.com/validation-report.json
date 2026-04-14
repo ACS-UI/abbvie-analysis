@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.completerebate.com/",
+  "normalisedUrl": "https://www.completerebate.com/",
+  "finalUrlAfterRedirects": "https://www.completerebate.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:22:06.073Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

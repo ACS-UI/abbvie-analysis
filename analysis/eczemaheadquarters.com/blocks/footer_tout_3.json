@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_tout_3",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Footer Tout 3",
+  "description": "Highlights the third recommended topic with an image, text, and call-to-action.",
+  "domHints": {
+    "selectors": [
+      "div.target-rcmd-footertout-three"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

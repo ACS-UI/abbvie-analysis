@@ -1,0 +1,26 @@
+{
+  "blockId": "find_eye_doctor_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Find Eye Doctor Section",
+  "description": "Information and links to help users find an eye doctor.",
+  "domHints": {
+    "selectors": [
+      "#find-eye-doctor"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

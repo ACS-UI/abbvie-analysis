@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.psoriasis.com/",
+  "normalisedUrl": "https://www.psoriasis.com/",
+  "finalUrlAfterRedirects": "https://www.psoriasis.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:00:57.569Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "quiz_intro",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Quiz Introduction",
+  "description": "Introductory text and context for the heavy periods quiz.",
+  "domHints": {
+    "selectors": [
+      ".quiz-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

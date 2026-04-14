@@ -1,0 +1,259 @@
+{
+  "entryUrl": "https://www.essentialsofibs.com/",
+  "discoveredAt": "2026-04-13T15:45:07.209Z",
+  "urls": [
+    {
+      "url": "https://www.essentialsofibs.com/",
+      "normalised": "https://www.essentialsofibs.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Treatment-Onboarding-Counseling-Guide.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Treatment-Onboarding-Counseling-Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Summary-of-Treatment-Options-for-IBS-D.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Summary-of-Treatment-Options-for-IBS-D.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Interactive-Booth.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Interactive-Booth.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Patient-MOD-Handout.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Patient-MOD-Handout.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Summary-of-Treatment-Options-for-IBS-C.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Summary-of-Treatment-Options-for-IBS-C.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Patient-Discussion-Guide.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Patient-Discussion-Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Symptom-Tracker.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Symptom-Tracker.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/ACG_Clinical_Guideline__Management_of_Irritable.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/ACG_Clinical_Guideline__Management_of_Irritable.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Screening-Checklist.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Screening-Checklist.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Patient-Diary.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Patient-Diary.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Patient-BSFS-Chart.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/Patient-BSFS-Chart.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Diagnostic-Pathway.pdf",
+      "normalised": "https://www.essentialsofibs.com/content/dam/essentialsofibs/pdf/IBS-Diagnostic-Pathway.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/search-results",
+      "normalised": "https://www.essentialsofibs.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/science/burden",
+      "normalised": "https://www.essentialsofibs.com/science/burden",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/science",
+      "normalised": "https://www.essentialsofibs.com/science",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/contactmymsl",
+      "normalised": "https://www.essentialsofibs.com/contactmymsl",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/resources",
+      "normalised": "https://www.essentialsofibs.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/science/impactofibsd",
+      "normalised": "https://www.essentialsofibs.com/science/impactofibsd",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/sitemap",
+      "normalised": "https://www.essentialsofibs.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/diagnosis",
+      "normalised": "https://www.essentialsofibs.com/diagnosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/science/pathophysiology",
+      "normalised": "https://www.essentialsofibs.com/science/pathophysiology",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/management",
+      "normalised": "https://www.essentialsofibs.com/management",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/science/impactofibsc",
+      "normalised": "https://www.essentialsofibs.com/science/impactofibsc",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/hearfromtheexperts",
+      "normalised": "https://www.essentialsofibs.com/hearfromtheexperts",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-991403662-1",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-991403662-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-1122132330-0",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-1122132330-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-109286327-0",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-109286327-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-1122132330-2",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-1122132330-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-109286327-1",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-109286327-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-1318888536-3",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-1318888536-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-1122132330-1",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-1122132330-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-1318888536-2",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-1318888536-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-991403662-2",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-991403662-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.essentialsofibs.com/abbv-tab-991403662-0",
+      "normalised": "https://www.essentialsofibs.com/abbv-tab-991403662-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 35,
+    "bySource": {
+      "sitemap": 14,
+      "crawl": 21,
+      "manual": 0
+    }
+  }
+}

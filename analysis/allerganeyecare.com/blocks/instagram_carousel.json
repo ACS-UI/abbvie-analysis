@@ -1,0 +1,26 @@
+{
+  "blockId": "instagram_carousel",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Instagram Carousel",
+  "description": "Carousel showcasing products and related content.",
+  "domHints": {
+    "selectors": [
+      ".common-instagram-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

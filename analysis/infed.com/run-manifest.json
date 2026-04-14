@@ -1,0 +1,74 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:12:03.819Z",
+  "completedAt": "2026-04-13T16:16:04.730Z",
+  "input": {
+    "url": "https://www.infed.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/infed.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Why Infed",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "About ID and IDA",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Dosing and Administration",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "References",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Sitemap",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      }
+    ]
+  }
+}

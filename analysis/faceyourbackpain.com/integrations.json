@@ -1,0 +1,40 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.faceyourbackpain.com/",
+          "https://www.faceyourbackpain.com/get-more-information",
+          "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+          "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diagnosis",
+          "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+          "https://www.faceyourbackpain.com/sitemap",
+          "https://www.faceyourbackpain.com/ankylosing-spondylitis-resources",
+          "https://www.faceyourbackpain.com/search-results",
+          "https://www.faceyourbackpain.com/take-the-quiz",
+          "https://www.faceyourbackpain.com/find-rheumatologist",
+          "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories/before-diagnosis-transcript",
+          "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diet-and-exercise",
+          "https://www.faceyourbackpain.com/site-map",
+          "https://www.faceyourbackpain.com/doctor-discussion-guide",
+          "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-in-women-vs-men",
+          "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa",
+          "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-treatment",
+          "https://www.faceyourbackpain.com/why-a-rheumatologist",
+          "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories",
+          "https://www.faceyourbackpain.com/thank_you_page"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:02:04.714Z"
+}

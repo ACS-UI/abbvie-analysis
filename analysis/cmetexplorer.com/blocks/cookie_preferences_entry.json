@@ -1,0 +1,28 @@
+{
+  "blockId": "cookie_preferences_entry",
+  "templateIds": [
+    "tpl_108",
+    "tpl_259"
+  ],
+  "name": "Cookie / consent entry",
+  "description": "Cookie banner or preference center (OneTrust / CMP). Markup is often injected client-side after this HTML.",
+  "domHints": {
+    "selectors": [
+      "#onetrust-consent-sdk",
+      "#onetrust-banner-sdk"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "custom",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Consent UI on tpl_108. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

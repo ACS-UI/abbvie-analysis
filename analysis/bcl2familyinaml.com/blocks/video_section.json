@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Video Section",
+  "description": "Embedded video content explaining key concepts.",
+  "domHints": {
+    "selectors": [
+      "#background-container-2002360258"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "dosage_calculation",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Dosage Calculation Section",
+  "description": "Information and cards related to dosage and AIBW calculations.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "important_safety_info",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Important Safety Information",
+  "description": "Displays safety information, warnings, and contraindications for Lo Loestrin Fe.",
+  "domHints": {
+    "selectors": [
+      ".abbv-inline-use-isi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

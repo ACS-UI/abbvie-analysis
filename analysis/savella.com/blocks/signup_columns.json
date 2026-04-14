@@ -1,0 +1,26 @@
+{
+  "blockId": "signup_columns",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Sign Up Columns",
+  "description": "Two-column layout with information about SAVELLA on the left and a sign-up form on the right.",
+  "domHints": {
+    "selectors": [
+      ".signup-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

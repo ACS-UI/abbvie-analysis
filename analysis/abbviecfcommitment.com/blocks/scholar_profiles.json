@@ -1,0 +1,26 @@
+{
+  "blockId": "scholar_profiles",
+  "templateIds": [
+    "tpl_33"
+  ],
+  "name": "Scholar Profiles",
+  "description": "Displays profiles of the 2025 scholars with images and links to their stories.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.scholar-tabs-scholars"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_33 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

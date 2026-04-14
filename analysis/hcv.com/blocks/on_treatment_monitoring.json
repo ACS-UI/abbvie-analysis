@@ -1,0 +1,26 @@
+{
+  "blockId": "on_treatment_monitoring",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "On-Treatment Monitoring Section",
+  "description": "Content section providing resources and information about on-treatment monitoring.",
+  "domHints": {
+    "selectors": [
+      "#background-container-302999601"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

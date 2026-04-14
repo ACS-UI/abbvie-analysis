@@ -1,0 +1,26 @@
+{
+  "blockId": "discussion_guide_cta",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Discussion Guide CTA",
+  "description": "A call-to-action section for downloading the discussion guide PDF.",
+  "domHints": {
+    "selectors": [
+      "div.cmp-card.-banner"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

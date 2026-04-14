@@ -1,0 +1,26 @@
+{
+  "blockId": "statistics_section",
+  "templateIds": [
+    "tpl_188"
+  ],
+  "name": "Statistics Section",
+  "description": "Shows key statistics and recognitions in a visually engaging format.",
+  "domHints": {
+    "selectors": [
+      ".dashboard-card-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_188 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

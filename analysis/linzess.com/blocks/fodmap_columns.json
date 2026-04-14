@@ -1,0 +1,26 @@
+{
+  "blockId": "fodmap_columns",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "FODMAP Columns",
+  "description": "Displays information about different FODMAP categories in a multi-column layout.",
+  "domHints": {
+    "selectors": [
+      ".linzess-get-the-most-columns"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

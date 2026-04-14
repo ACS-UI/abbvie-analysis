@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.abbviecfcommitment.com/",
+  "normalisedUrl": "https://www.abbviecfcommitment.com/",
+  "finalUrlAfterRedirects": "https://www.abbviecfcommitment.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:22:02.100Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

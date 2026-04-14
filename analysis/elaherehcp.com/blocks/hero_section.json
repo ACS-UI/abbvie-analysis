@@ -1,0 +1,32 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7"
+  ],
+  "name": "Hero Section",
+  "description": "The main hero section highlighting the key message of the page.",
+  "domHints": {
+    "selectors": [
+      "cmp-hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

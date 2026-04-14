@@ -1,0 +1,26 @@
+{
+  "blockId": "product_links",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Product Links Section",
+  "description": "Showcases links to specific product pages with images.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

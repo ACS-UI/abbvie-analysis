@@ -1,0 +1,26 @@
+{
+  "blockId": "efficacy_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Efficacy Section",
+  "description": "Presents efficacy data and analysis for the treatment.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.efficacy-in-patients-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

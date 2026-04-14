@@ -1,0 +1,26 @@
+{
+  "blockId": "refill_reminder",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Refill Reminder",
+  "description": "Encourages patients to verify their Synthroid prescription during refills.",
+  "domHints": {
+    "selectors": [
+      ".synthroid-refill"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

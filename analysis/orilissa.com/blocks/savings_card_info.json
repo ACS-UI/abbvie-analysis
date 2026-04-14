@@ -1,0 +1,26 @@
+{
+  "blockId": "savings_card_info",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Savings Card Information",
+  "description": "Provides details about the Orilissa Savings Card, including eligibility and benefits.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.margin-bottom-40"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

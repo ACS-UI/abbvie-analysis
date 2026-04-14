@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_1",
+      "humanName": "FAQs Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Sitemap",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 12,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Safety Page",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Efficacy Page",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Access Prescribing",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Innovation Page",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    }
+  ],
+  "generatedAt": "2026-04-13T15:46:32.750Z"
+}

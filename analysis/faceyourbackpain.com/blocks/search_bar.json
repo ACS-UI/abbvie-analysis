@@ -1,0 +1,26 @@
+{
+  "blockId": "search_bar",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Search Bar",
+  "description": "Search functionality for the site.",
+  "domHints": {
+    "selectors": [
+      "#header-search"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Search"
+}

@@ -1,0 +1,28 @@
+{
+  "blockId": "achievements_list",
+  "templateIds": [
+    "tpl_34",
+    "tpl_36",
+    "tpl_44"
+  ],
+  "name": "Achievements List",
+  "description": "Lists the scholar's achievements and accolades.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.container_round-top .list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_34 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

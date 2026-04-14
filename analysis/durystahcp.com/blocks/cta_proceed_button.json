@@ -1,0 +1,27 @@
+{
+  "blockId": "cta_proceed_button",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Proceed Button CTA",
+  "description": "Provides a call-to-action button to proceed to an external privacy policy page.",
+  "domHints": {
+    "selectors": [
+      ".cta",
+      ".abbv-button-primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

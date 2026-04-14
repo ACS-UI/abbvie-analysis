@@ -1,0 +1,27 @@
+{
+  "blockId": "resources_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Resources Section",
+  "description": "Offers downloadable resources for practices and patients.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.patient-details",
+      ".abbv-flex-item.ozurdex-hcp-promos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "dedicated_access_info",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Dedicated Access Information",
+  "description": "Details the services provided by Field Reimbursement Managers.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.frm-form-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "main_navigation",
+  "templateIds": [
+    "tpl_1",
+    "tpl_10"
+  ],
+  "name": "Main Navigation",
+  "description": "The main navigation menu for the 'About Severe Underarm Sweating' section.",
+  "domHints": {
+    "selectors": [
+      ".about_nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

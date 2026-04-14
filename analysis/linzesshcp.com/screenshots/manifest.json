@@ -1,0 +1,234 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-cic-safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-cic-safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-cic-safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".inner-page-banner-img"
+    },
+    {
+      "relativePath": "cic_safety_intro__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-cic-safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".cic-safety-title-desc-section"
+    },
+    {
+      "relativePath": "adverse_reactions_section__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-cic-safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".cic-adverse-reaction-section"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-cic-safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-cic-safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/ibs-c-moa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "main_content_section__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/ibs-c-moa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".ibsc-moa-main-container"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/ibs-c-moa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "indications_section__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".all-indications-container"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".abbv-rich-text.abbv-rich-text-common h1"
+    },
+    {
+      "relativePath": "dosing_information_columns__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".dosing-indications-columns"
+    },
+    {
+      "relativePath": "dosing_schedule__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".dosing-schedule-columns"
+    },
+    {
+      "relativePath": "clinical_considerations__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".clinical-considerations"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-ibs-c-safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": "header > .abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "section_navigation__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-ibs-c-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".abbv-section-navigation"
+    },
+    {
+      "relativePath": "pivotal_studies_section_one__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-ibs-c-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".pivotal-studies-section-one"
+    },
+    {
+      "relativePath": "pivotal_studies_section_two__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-ibs-c-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".pivotal-studies-section-two"
+    },
+    {
+      "relativePath": "pivotal_studies_section_three__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-ibs-c-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".pivotal-studies-section-three"
+    },
+    {
+      "relativePath": "clinical_trial_design__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-ibs-c-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".clincal-train-info-section"
+    },
+    {
+      "relativePath": "overall_symptoms_section__default.png",
+      "sourceUrl": "https://www.linzesshcp.com/linzess-ibs-c-efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:06.982Z",
+      "selector": ".overall-symptoms-container"
+    }
+  ]
+}

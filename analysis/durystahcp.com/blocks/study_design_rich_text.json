@@ -1,0 +1,28 @@
+{
+  "blockId": "study_design_rich_text",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Study Design Rich Text",
+  "description": "Displays detailed information about the study design and efficacy endpoints.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-rich-text",
+      "div.rich-text",
+      "div.abbv-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

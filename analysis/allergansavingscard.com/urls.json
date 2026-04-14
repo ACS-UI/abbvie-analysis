@@ -1,0 +1,2499 @@
+{
+  "entryUrl": "https://www.abbvie.com/allergan.html",
+  "discoveredAt": "2026-04-13T16:23:48.320Z",
+  "urls": [
+    {
+      "url": "https://www.abbvie.com/allergan.html",
+      "normalised": "https://www.abbvie.com/allergan.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/",
+      "normalised": "https://www.abbvie.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/pipeline.html",
+      "normalised": "https://www.abbvie.com/science/pipeline.html",
+      "source": "crawl",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/abbvies-code-of-conduct.html",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/abbvies-code-of-conduct.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/liz-shea.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/liz-shea.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/alberto-colzi.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/alberto-colzi.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/jeffrey-stewart.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/jeffrey-stewart.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/tracie-haas.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/tracie-haas.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/jason-smith.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/jason-smith.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us.html",
+      "normalised": "https://www.abbvie.com/join-us.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment/allergan-ous-disclosures.html",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment/allergan-ous-disclosures.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/nicholas-donoghoe.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/nicholas-donoghoe.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/jerome-bouyer.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/jerome-bouyer.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center.html",
+      "normalised": "https://www.abbvie.com/contact-center.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/roopal-thakkar.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/roopal-thakkar.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/partner-with-us.html",
+      "normalised": "https://www.abbvie.com/science/partner-with-us.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/protecting-human-rights-and-workplace-safety.html",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/protecting-human-rights-and-workplace-safety.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/nisha-patel-burns.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/nisha-patel-burns.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science.html",
+      "normalised": "https://www.abbvie.com/science.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/scott-reents.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/scott-reents.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-principles/positions-views.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-principles/positions-views.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/jag-dosanjh.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/jag-dosanjh.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/perry-siatis.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/perry-siatis.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/azita-saleki-gerhardt.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/azita-saleki-gerhardt.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-principles.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-principles.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment/abbvie-inquiry.html",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment/abbvie-inquiry.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/accessibility-statement.html",
+      "normalised": "https://www.abbvie.com/accessibility-statement.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/dave-purdue.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/dave-purdue.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/linda-ray.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/linda-ray.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-jonathon-sedgwick.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-jonathon-sedgwick.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/key-facts.html",
+      "normalised": "https://www.abbvie.com/who-we-are/key-facts.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients.html",
+      "normalised": "https://www.abbvie.com/patients.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/wulff-erik-von-borcke.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/wulff-erik-von-borcke.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/terms-of-use.html",
+      "normalised": "https://www.abbvie.com/terms-of-use.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are.html",
+      "normalised": "https://www.abbvie.com/who-we-are.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/inside-dream-initiative.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/inside-dream-initiative.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/living-with-an-illness.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/living-with-an-illness.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/latif-akintade.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/latif-akintade.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-support.html",
+      "normalised": "https://www.abbvie.com/patients/patient-support.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/timothy-richmond.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/timothy-richmond.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/demetris-crum.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/demetris-crum.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/responsible-supply-chain/supplier-resources.html",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/responsible-supply-chain/supplier-resources.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/what-does-it-take-to-discover-a-new-medicine.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/what-does-it-take-to-discover-a-new-medicine.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-principles/positions-views/our-commitment-to-ethical-and-responsible-use-of-animals-in-research.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-principles/positions-views/our-commitment-to-ethical-and-responsible-use-of-animals-in-research.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability.html",
+      "normalised": "https://www.abbvie.com/sustainability.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/rae-livingston.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/rae-livingston.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-sean-mcewen.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-sean-mcewen.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-matt-widman.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-matt-widman.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/nicole-mowad-nassar.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/nicole-mowad-nassar.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment/frequently-asked-questions-physician-and-other-payments.html",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment/frequently-asked-questions-physician-and-other-payments.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/responsible-supply-chain.html",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/responsible-supply-chain.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/breaking-the-rules-of-science-to-treat-cancer.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/breaking-the-rules-of-science-to-treat-cancer.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity/impact-through-inclusion.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity/impact-through-inclusion.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity.html",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/site-map.html",
+      "normalised": "https://www.abbvie.com/site-map.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment.html",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/policies-disclosures.html",
+      "normalised": "https://www.abbvie.com/who-we-are/policies-disclosures.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/thomas-hudson.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/thomas-hudson.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-leaders/sanjay-narayan.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-leaders/sanjay-narayan.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/products.html",
+      "normalised": "https://www.abbvie.com/patients/products.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/policies-disclosures/protecting-data.html",
+      "normalised": "https://www.abbvie.com/who-we-are/policies-disclosures/protecting-data.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/day-in-life-meet-engineer-promoting-diversity-within-manufacturing.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/day-in-life-meet-engineer-promoting-diversity-within-manufacturing.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/stronger-together-convergence-minds-and-data.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/stronger-together-convergence-minds-and-data.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/day-in-the-life-creating-impact-with-nonprofit-partners.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/day-in-the-life-creating-impact-with-nonprofit-partners.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-darin-messina.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-darin-messina.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/chembeads-improving-artificial-intelligence-through-human-ingenuity.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/chembeads-improving-artificial-intelligence-through-human-ingenuity.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/a-history-discovery-why-we-focus-on-eye-cares-toughest-diseases.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/a-history-discovery-why-we-focus-on-eye-cares-toughest-diseases.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/starting-with-a-spark-an-inside-look-at-environmental-sustainability.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/starting-with-a-spark-an-inside-look-at-environmental-sustainability.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/they-wont-back-down.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/they-wont-back-down.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/green-chemistry-cleaner-faster-chemical-reactions.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/green-chemistry-cleaner-faster-chemical-reactions.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/make-complicated-simple-inside-world-human-factors-engineers.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/make-complicated-simple-inside-world-human-factors-engineers.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/real-world-data-rounds-out-value-picture-drugs.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/real-world-data-rounds-out-value-picture-drugs.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/living-with-unknowns-alzheimers-disease.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/living-with-unknowns-alzheimers-disease.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/the-power-love-in-ibd.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/the-power-love-in-ibd.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/everyones-talking-about-data-science.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/everyones-talking-about-data-science.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/the-math-of-migraine.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/the-math-of-migraine.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/striving-for-patient-centricity-down-to-the-packaging.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/striving-for-patient-centricity-down-to-the-packaging.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/unlocking-the-next-level-of-protein-degradation.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/unlocking-the-next-level-of-protein-degradation.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/day-in-life-meet-director-clearing-path-for-patient-access.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/day-in-life-meet-director-clearing-path-for-patient-access.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/the-hardest-hit-how-nonprofits-rise-to-challenge-covid-19.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/the-hardest-hit-how-nonprofits-rise-to-challenge-covid-19.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/how-uterine-fibroids-feel-to-patient-who-is-also-doctor.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/how-uterine-fibroids-feel-to-patient-who-is-also-doctor.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-linda-scarazzini.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-linda-scarazzini.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/how-abbvie-is-bringing-antiviral-expertise-to-covid-19-battle.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/how-abbvie-is-bringing-antiviral-expertise-to-covid-19-battle.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/precision-medicine-its-not-just-for-oncology-anymore.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/precision-medicine-its-not-just-for-oncology-anymore.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/chasing-the-value-of-a-walk-down-the-aisle.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/chasing-the-value-of-a-walk-down-the-aisle.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/the-blueprint-of-you-unlocking-potential-whole-genome-sequencing.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/the-blueprint-of-you-unlocking-potential-whole-genome-sequencing.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/shining-light-on-glaucoma-and-eye-health.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/shining-light-on-glaucoma-and-eye-health.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/btk-protein-good-bad-and-ugly.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/btk-protein-good-bad-and-ugly.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/eye-care-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/eye-care-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/how-medicinal-chemists-are-creating-new-weapons-against-autoimmune-diseases.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/how-medicinal-chemists-are-creating-new-weapons-against-autoimmune-diseases.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/then-and-now-renaissance-in-blood-cancer-treatment.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/then-and-now-renaissance-in-blood-cancer-treatment.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/the-story-behind-our-50-billion-rd-investment.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/the-story-behind-our-50-billion-rd-investment.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/can-unlocking-one-million-genomes.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/can-unlocking-one-million-genomes.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/hepatitis-c-mysterious-virus-that-met-its-match.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/hepatitis-c-mysterious-virus-that-met-its-match.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/trapped-in-your-own-skin.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/trapped-in-your-own-skin.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/aesthetics-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/aesthetics-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/patient-support-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/patient-support-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/partnerships-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/partnerships-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/why-isnt-medicine-one-size-fits-all.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/why-isnt-medicine-one-size-fits-all.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/rebuilding-puerto-rico-one-community-health-center-at-a-time.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/rebuilding-puerto-rico-one-community-health-center-at-a-time.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/day-in-life-government-affairs-director-educates-and-empowers.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/day-in-life-government-affairs-director-educates-and-empowers.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/neuroscience-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/neuroscience-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/eedi-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/eedi-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/abbvie-volunteers-return-to-serving.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/abbvie-volunteers-return-to-serving.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/navigating-ulcerative-colitis-as-a-child.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/navigating-ulcerative-colitis-as-a-child.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/advancing-a-public-health-approach-to-patient-safety.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/advancing-a-public-health-approach-to-patient-safety.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/injecting-hope-one-vaccine-at-a-time.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/injecting-hope-one-vaccine-at-a-time.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/a-journey-of-sight-progress.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/a-journey-of-sight-progress.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/oncology-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/oncology-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/immunology-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/immunology-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/connecting-patients-with-care-3-lessons-learned-during-covid-19.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/connecting-patients-with-care-3-lessons-learned-during-covid-19.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/how-patient-voices-are-changing-medicine.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/how-patient-voices-are-changing-medicine.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/abbvie-rebuilds-north-chicagos-middle-school-inspiring-students-to-reach-higher.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/abbvie-rebuilds-north-chicagos-middle-school-inspiring-students-to-reach-higher.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/three-factors-that-drove-transformational-integration-abbvie-allergan.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/three-factors-that-drove-transformational-integration-abbvie-allergan.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-shuhong-zhang.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-shuhong-zhang.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/more-than-skin-deep-3-lessons-for-expanding-equity-in-dermatology.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/more-than-skin-deep-3-lessons-for-expanding-equity-in-dermatology.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/making-it-migraine-friendly-why-were-reimagining-workplace.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/making-it-migraine-friendly-why-were-reimagining-workplace.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/putting-our-people-first-abbvies-family-benefits.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/putting-our-people-first-abbvies-family-benefits.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/discovery-files-vision-for-blood-cancer-patients.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/discovery-files-vision-for-blood-cancer-patients.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/going-inside-prison-walls-to-help-eliminate-hepatitis-c.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/going-inside-prison-walls-to-help-eliminate-hepatitis-c.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/finding-hope-in-a-pandemic--a-conversation-with-two-hepatitis-c-.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/finding-hope-in-a-pandemic--a-conversation-with-two-hepatitis-c-.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/why-delivering-science-based-targets-are-key-to-sustainable-grow.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/why-delivering-science-based-targets-are-key-to-sustainable-grow.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/life-after-stroke-living-with-and-researching-spasticity.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/life-after-stroke-living-with-and-researching-spasticity.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/lessons-from-a-lifelong-journey-with-psoriasis.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/lessons-from-a-lifelong-journey-with-psoriasis.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/voices-abbvie-reflecting-on-decade-impact.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/voices-abbvie-reflecting-on-decade-impact.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/digital-science-lab.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/digital-science-lab.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/sharpening-focus-on-eye-diseases-caused-by-diabetes.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/sharpening-focus-on-eye-diseases-caused-by-diabetes.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/three-ways-ai-is-changing-drug-discovery-at-abbvie.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/three-ways-ai-is-changing-drug-discovery-at-abbvie.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/working-at-abbvie-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/working-at-abbvie-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/sustainability-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/sustainability-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/growing-sustainably-through-innovation-how-abbvie-takes-action.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/growing-sustainably-through-innovation-how-abbvie-takes-action.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/ensuring-patients-around-world-get-medicines-during-covid-19.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/ensuring-patients-around-world-get-medicines-during-covid-19.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/childhood-cancer-patients-and-their-families-find-a-home-away-from-home.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/childhood-cancer-patients-and-their-families-find-a-home-away-from-home.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/can-we-find-cures-faster.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/can-we-find-cures-faster.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/navigating-the-hidden-side-of-cancer.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/navigating-the-hidden-side-of-cancer.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/ambassadors-in-action.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/ambassadors-in-action.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/philanthropy-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/philanthropy-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-nicholas-donoghoe.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-nicholas-donoghoe.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/new-microsite-clinic-brings-healthcare-to-chicago-southwest-side.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/new-microsite-clinic-brings-healthcare-to-chicago-southwest-side.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-edrice-simmons.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-edrice-simmons.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/meet-the-arch-a-time-saving-tool-for-researchers-focused-on-finding-cures.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/meet-the-arch-a-time-saving-tool-for-researchers-focused-on-finding-cures.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/synthetic-control-arm-end-placebos.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/synthetic-control-arm-end-placebos.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/immunologys-next-frontier.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/immunologys-next-frontier.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/real-world-evidence-uncovers-gaps-in-IBD-care.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/real-world-evidence-uncovers-gaps-in-IBD-care.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/advice-from-scientist-turned-physician-turned-robot-builder-be-curious.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/advice-from-scientist-turned-physician-turned-robot-builder-be-curious.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/transforming-cancer-care-from-the-inside-out.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/transforming-cancer-care-from-the-inside-out.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/time-is-hours.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/time-is-hours.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/working-parents-2023-finding-comfort-in-community.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/working-parents-2023-finding-comfort-in-community.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/brand-partnerships.html",
+      "normalised": "https://www.abbvie.com/who-we-are/brand-partnerships.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/change-from-within.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/change-from-within.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/abbvie-research-collaborative.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/abbvie-research-collaborative.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/why-you-cant-wait-with-rheumatoid-arthritis.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/why-you-cant-wait-with-rheumatoid-arthritis.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/empowering-innovation-through-the-abbvie-foundation-health-equit.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/empowering-innovation-through-the-abbvie-foundation-health-equit.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/virology-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/virology-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/two-lives-converging-in-the-fight-against-parkinsons.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/two-lives-converging-in-the-fight-against-parkinsons.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/a-legacy-of-leadership-in-mental-health.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/a-legacy-of-leadership-in-mental-health.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/an-innovative-approach-to-improve-maternal-health.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/an-innovative-approach-to-improve-maternal-health.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/the-persistence-lab-podcasts.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/the-persistence-lab-podcasts.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/not-good-enough-behind-the-drive-to-give-cancer-patients-more-time.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/not-good-enough-behind-the-drive-to-give-cancer-patients-more-time.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/science-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/science-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/access-to-investigational-drugs-policy.html",
+      "normalised": "https://www.abbvie.com/who-we-are/access-to-investigational-drugs-policy.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-johanna-corbin.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-johanna-corbin.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/serving-communities-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/serving-communities-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/real-people-real-inspiration-joes-story.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/real-people-real-inspiration-joes-story.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/shedding-light-upon-a-misunderstood-skin-condition-hidradenitis.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/shedding-light-upon-a-misunderstood-skin-condition-hidradenitis.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/a-molecular-behavior-chart-speeding-up-research-with-predictive-analytics.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/a-molecular-behavior-chart-speeding-up-research-with-predictive-analytics.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/profile-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/profile-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/resilient-reality-the-emotional-toll-of-ovarian-cancer.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/resilient-reality-the-emotional-toll-of-ovarian-cancer.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/brand-partnerships/cubs.html",
+      "normalised": "https://www.abbvie.com/who-we-are/brand-partnerships/cubs.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/how-the-parkinsons-disease-community-is-shaping-the-future.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/how-the-parkinsons-disease-community-is-shaping-the-future.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/recognizing-the-mental-health-impact-of-chronic-skin-disease.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/recognizing-the-mental-health-impact-of-chronic-skin-disease.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/the-value-of-education-from-a-dim-reality-to-a-bright-future.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/the-value-of-education-from-a-dim-reality-to-a-bright-future.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/little-patients-big-impact.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/little-patients-big-impact.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/company-stories.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/company-stories.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/much-more-than-itchy-skin-breaking-down-complexities-atopic-dermatitis.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/much-more-than-itchy-skin-breaking-down-complexities-atopic-dermatitis.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/decoding-immune-systems-secrets-inside-the-discovery-of-a-new-medicine.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/decoding-immune-systems-secrets-inside-the-discovery-of-a-new-medicine.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/celebrating-abbvies-2025-working-parents-caregivers.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/celebrating-abbvies-2025-working-parents-caregivers.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/one-veterans-journey-and-abbvies-commitment-to-mental-health-research.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/one-veterans-journey-and-abbvies-commitment-to-mental-health-research.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/elevating-health-care-for-all.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/elevating-health-care-for-all.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/5-ways-abbvie-work-to-deliver-medicines-in-half-the-time.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/5-ways-abbvie-work-to-deliver-medicines-in-half-the-time.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/five-reasons-why-small-cell-lung-cancer-is-tough-to-treat.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/five-reasons-why-small-cell-lung-cancer-is-tough-to-treat.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/specialized-research-in-chaotic-systems-sparcs.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/specialized-research-in-chaotic-systems-sparcs.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/how-abbvies-integrated-operations-help-prevent-drug-shortages.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/how-abbvies-integrated-operations-help-prevent-drug-shortages.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/ready-set-launch-abbvie-opens-new-facility-in-the-bay-area.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/ready-set-launch-abbvie-opens-new-facility-in-the-bay-area.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/more-than-a-stiff-neck-the-impact-of-living-with-cervical-dyston.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/more-than-a-stiff-neck-the-impact-of-living-with-cervical-dyston.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/how-employee-resource-groups-create-meaningful-impact-at-abbvie.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/how-employee-resource-groups-create-meaningful-impact-at-abbvie.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/expert-insights-the-promise-of-genetic-medicine-and-abbvies-role-in-research.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/expert-insights-the-promise-of-genetic-medicine-and-abbvies-role-in-research.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/abbvies-2024-working-parents-finding-purpose-in-adversity.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/abbvies-2024-working-parents-finding-purpose-in-adversity.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/our-stories/five-technologies-supporting-progress-in-challenging-diseases.html",
+      "normalised": "https://www.abbvie.com/who-we-are/our-stories/five-technologies-supporting-progress-in-challenging-diseases.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/independent-educational-grants.html",
+      "normalised": "https://www.abbvie.com/science/independent-educational-grants.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/andrew-campbell.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/andrew-campbell.html",
+      "source": "sitemap",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-innovation.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-innovation.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/lab-to-life.html",
+      "normalised": "https://www.abbvie.com/science/our-people/lab-to-life.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-focus.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-focus.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/partner-with-us/partnering-days.html",
+      "normalised": "https://www.abbvie.com/science/partner-with-us/partnering-days.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/raymond-votzmeyer.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/raymond-votzmeyer.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people.html",
+      "normalised": "https://www.abbvie.com/science/our-people.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/independent-educational-grants/grants-and-contribution-disclosures.html",
+      "normalised": "https://www.abbvie.com/science/independent-educational-grants/grants-and-contribution-disclosures.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-focus/eye-care.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-focus/eye-care.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/eleni-lagkadinou.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/eleni-lagkadinou.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/linda-scarazzini.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/linda-scarazzini.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/wolfram-nothaft.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/wolfram-nothaft.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/darin-messina.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/darin-messina.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/science-in-60-seconds.html",
+      "normalised": "https://www.abbvie.com/science/our-people/science-in-60-seconds.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-innovation/genomics.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-innovation/genomics.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/publications.html",
+      "normalised": "https://www.abbvie.com/science/publications.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/shuhong-zhang.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/shuhong-zhang.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-innovation/therapeutic-modalities-and-platforms.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-innovation/therapeutic-modalities-and-platforms.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-focus/neuroscience.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-focus/neuroscience.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/michael-foley.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/michael-foley.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/primal-kaur.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/primal-kaur.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-focus/oncology.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-focus/oncology.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/jonathon-sedgwick.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/jonathon-sedgwick.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/lab-of-the-future.html",
+      "normalised": "https://www.abbvie.com/science/our-people/lab-of-the-future.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/brand-partnerships/major-league-baseball.html",
+      "normalised": "https://www.abbvie.com/who-we-are/brand-partnerships/major-league-baseball.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/discovery-files.html",
+      "normalised": "https://www.abbvie.com/science/our-people/discovery-files.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-innovation/precision-medicine.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-innovation/precision-medicine.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/behind-the-science.html",
+      "normalised": "https://www.abbvie.com/science/our-people/behind-the-science.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/philip-hajduk.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/philip-hajduk.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-focus/aesthetics.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-focus/aesthetics.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/independent-educational-grants/requestor-training-guide.html",
+      "normalised": "https://www.abbvie.com/science/independent-educational-grants/requestor-training-guide.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-innovation/patient-focused-drug-development.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-innovation/patient-focused-drug-development.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/daejin-abidoye.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/daejin-abidoye.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/rd-sites.html",
+      "normalised": "https://www.abbvie.com/science/rd-sites.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/partner-with-us/abbvie-ventures/abbvie-ventures-portfolio.html",
+      "normalised": "https://www.abbvie.com/science/partner-with-us/abbvie-ventures/abbvie-ventures-portfolio.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/clinical-trials.html",
+      "normalised": "https://www.abbvie.com/science/clinical-trials.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-focus/other-specialties.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-focus/other-specialties.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-focus/immunology.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-focus/immunology.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/community-of-science.html",
+      "normalised": "https://www.abbvie.com/science/our-people/community-of-science.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/independent-educational-grants/how-to-apply.html",
+      "normalised": "https://www.abbvie.com/science/independent-educational-grants/how-to-apply.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/opportunities/corporate.html",
+      "normalised": "https://www.abbvie.com/join-us/opportunities/corporate.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-innovation/ai-and-data-convergence.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-innovation/ai-and-data-convergence.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-support/patient-assistance/income-criteria.html",
+      "normalised": "https://www.abbvie.com/patients/patient-support/patient-assistance/income-criteria.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/product-quality-and-safety.html",
+      "normalised": "https://www.abbvie.com/patients/product-quality-and-safety.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/opportunities/commercial.html",
+      "normalised": "https://www.abbvie.com/join-us/opportunities/commercial.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-support/patient-assistance/savings-card.html",
+      "normalised": "https://www.abbvie.com/patients/patient-support/patient-assistance/savings-card.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/independent-educational-grants/request-types.html",
+      "normalised": "https://www.abbvie.com/science/independent-educational-grants/request-types.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/opportunities/research-and-development.html",
+      "normalised": "https://www.abbvie.com/join-us/opportunities/research-and-development.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/opportunities.html",
+      "normalised": "https://www.abbvie.com/join-us/opportunities.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/clinical-trials/investigator-initiated-studies.html",
+      "normalised": "https://www.abbvie.com/science/clinical-trials/investigator-initiated-studies.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-support/patient-assistance/online-application-overview.html",
+      "normalised": "https://www.abbvie.com/patients/patient-support/patient-assistance/online-application-overview.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-people/our-rd-leaders/christopher-boone.html",
+      "normalised": "https://www.abbvie.com/science/our-people/our-rd-leaders/christopher-boone.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-support/patient-assistance/online-application-frequently-asked-questions.html",
+      "normalised": "https://www.abbvie.com/patients/patient-support/patient-assistance/online-application-frequently-asked-questions.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-support/patient-assistance.html",
+      "normalised": "https://www.abbvie.com/patients/patient-support/patient-assistance.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-support/patient-assistance/eligibility-criteria.html",
+      "normalised": "https://www.abbvie.com/patients/patient-support/patient-assistance/eligibility-criteria.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-support/patient-assistance/available-programs.html",
+      "normalised": "https://www.abbvie.com/patients/patient-support/patient-assistance/available-programs.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-support/patient-assistance/patient-assistance-frequently-asked-questions.html",
+      "normalised": "https://www.abbvie.com/patients/patient-support/patient-assistance/patient-assistance-frequently-asked-questions.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/partner-with-us/abbvie-ventures.html",
+      "normalised": "https://www.abbvie.com/science/partner-with-us/abbvie-ventures.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/the-case-for-big-bets.html",
+      "normalised": "https://www.abbvie.com/science/the-case-for-big-bets.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/areas-of-innovation/data-convergence.html",
+      "normalised": "https://www.abbvie.com/science/areas-of-innovation/data-convergence.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/abbvie-research-collaborative-migraine.html",
+      "normalised": "https://www.abbvie.com/science/abbvie-research-collaborative-migraine.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/abbvie-research-collaborative-endometrosis.html",
+      "normalised": "https://www.abbvie.com/science/abbvie-research-collaborative-endometrosis.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/bay-area-opportunities.html",
+      "normalised": "https://www.abbvie.com/join-us/bay-area-opportunities.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/abbvie-pride.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/abbvie-pride.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/reasonable-accommodations.html",
+      "normalised": "https://www.abbvie.com/join-us/reasonable-accommodations.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/tunisia.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/tunisia.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/croatia.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/croatia.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/algeria.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/algeria.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/south-africa-and-sub-saharan-africa.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/south-africa-and-sub-saharan-africa.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/environmental-social-and-governance/resources.html",
+      "normalised": "https://www.abbvie.com/sustainability/environmental-social-and-governance/resources.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/why-abbvie.html",
+      "normalised": "https://www.abbvie.com/join-us/why-abbvie.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/abbvie-foundation/addressing-systemic-barriers.html",
+      "normalised": "https://www.abbvie.com/sustainability/abbvie-foundation/addressing-systemic-barriers.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/asian-leadership-network.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/asian-leadership-network.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/environmental-social-and-governance.html",
+      "normalised": "https://www.abbvie.com/sustainability/environmental-social-and-governance.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/veterans.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/veterans.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/internships.html",
+      "normalised": "https://www.abbvie.com/join-us/internships.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/benefits.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/benefits.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/slovenia.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/slovenia.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/opportunities/allergan-aesthetics.html",
+      "normalised": "https://www.abbvie.com/join-us/opportunities/allergan-aesthetics.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/student-programs.html",
+      "normalised": "https://www.abbvie.com/join-us/student-programs.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/cerevel.html",
+      "normalised": "https://www.abbvie.com/cerevel.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/celsius-therapeutics.html",
+      "normalised": "https://www.abbvie.com/celsius-therapeutics.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/nimbletherapeutics.html",
+      "normalised": "https://www.abbvie.com/nimbletherapeutics.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/capstan-therapeutics.html",
+      "normalised": "https://www.abbvie.com/capstan-therapeutics.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/women-leaders-in-action.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/women-leaders-in-action.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/student-and-new-graduates/new-graduates-and-entry-level-positions.html",
+      "normalised": "https://www.abbvie.com/join-us/student-and-new-graduates/new-graduates-and-entry-level-positions.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/mitokinin.html",
+      "normalised": "https://www.abbvie.com/mitokinin.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/immunogen.html",
+      "normalised": "https://www.abbvie.com/immunogen.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/equal-employment-opportunity-employer.html",
+      "normalised": "https://www.abbvie.com/join-us/equal-employment-opportunity-employer.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/abbvie-foundation/innovative-impact.html",
+      "normalised": "https://www.abbvie.com/sustainability/abbvie-foundation/innovative-impact.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/opportunities/operations.html",
+      "normalised": "https://www.abbvie.com/join-us/opportunities/operations.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/learning-and-development.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/learning-and-development.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/well-being-in-the-workplace.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/well-being-in-the-workplace.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/student-and-new-graduates.html",
+      "normalised": "https://www.abbvie.com/join-us/student-and-new-graduates.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/black-business-network.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/black-business-network.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/serbia.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/serbia.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/environmental-social-and-governance/human-capital-management.html",
+      "normalised": "https://www.abbvie.com/sustainability/environmental-social-and-governance/human-capital-management.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/abbvie-foundation.html",
+      "normalised": "https://www.abbvie.com/sustainability/abbvie-foundation.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/ability-at-abbvie.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/ability-at-abbvie.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/bosnia-and-herzegovina.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/bosnia-and-herzegovina.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/disaster-relief.html",
+      "normalised": "https://www.abbvie.com/sustainability/disaster-relief.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/postdoctoral-program.html",
+      "normalised": "https://www.abbvie.com/join-us/postdoctoral-program.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/ahora-hispanic-latino.html",
+      "normalised": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/ahora-hispanic-latino.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/environmental-social-and-governance/environmental-sustainability.html",
+      "normalised": "https://www.abbvie.com/sustainability/environmental-social-and-governance/environmental-sustainability.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/aliada-therapeutics.html",
+      "normalised": "https://www.abbvie.com/aliada-therapeutics.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/lithuania.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/lithuania.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/allergan-labeling.html",
+      "normalised": "https://www.abbvie.com/allergan-labeling.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/romania.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/romania.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/estonia.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/estonia.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/partnerships-chicago-cubs.html",
+      "normalised": "https://www.abbvie.com/partnerships-chicago-cubs.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/lebanon.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/lebanon.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/accessibility-statement/declaracion-de-accessibilidad.html",
+      "normalised": "https://www.abbvie.com/accessibility-statement/declaracion-de-accessibilidad.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/latvia.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/latvia.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/united-arab-emirates.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/united-arab-emirates.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contactus.html",
+      "normalised": "https://www.abbvie.com/contactus.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/contact-center/locations/saudi-arabia.html",
+      "normalised": "https://www.abbvie.com/contact-center/locations/saudi-arabia.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/social-media-community-guidelines.html",
+      "normalised": "https://www.abbvie.com/social-media-community-guidelines.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patents.html",
+      "normalised": "https://www.abbvie.com/patents.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/philanthropy/employee-engagement.html",
+      "normalised": "https://www.abbvie.com/sustainability/philanthropy/employee-engagement.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/opportunities/student-programs.html",
+      "normalised": "https://www.abbvie.com/join-us/opportunities/student-programs.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/philanthropy/philanthropic-programs.html",
+      "normalised": "https://www.abbvie.com/sustainability/philanthropy/philanthropic-programs.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/sustainability/philanthropy.html",
+      "normalised": "https://www.abbvie.com/sustainability/philanthropy.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/cdn-cgi/l/email-protection#25514449404b51444654504c564c514c4a4b65444747534c400b464a48",
+      "normalised": "https://www.abbvie.com/cdn-cgi/l/email-protection",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.abbvie.com/landing/a-history-of-impact.html",
+      "normalised": "https://www.abbvie.com/landing/a-history-of-impact.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/pipeline.html?utm_medium=psearch&amp;utm_campaign=corprepppp_2023&amp;utm_source=google&amp;utm_content=igp&amp;utm_term=research-dev&amp;cid=ppc_CV388fdb1654d244169c71e7b4f7ff04c4&amp;gclid=CjwKCAiAmZGrBhAnEiwAo9qHiRTJmfLpf-WzbqgcZlNiwz2UdRnluEZxPLyuGDeX0dpeP5qTxHPTMRoCdLAQAvD_BwE&amp;gclsrc=aw.ds",
+      "normalised": "https://www.abbvie.com/science/pipeline.html?utm_medium=psearch&amp;utm_campaign=corprepppp_2023&amp;utm_source=google&amp;utm_content=igp&amp;utm_term=research-dev&amp;cid=ppc_CV388fdb1654d244169c71e7b4f7ff04c4&amp;gclid=CjwKCAiAmZGrBhAnEiwAo9qHiRTJmfLpf-WzbqgcZlNiwz2UdRnluEZxPLyuGDeX0dpeP5qTxHPTMRoCdLAQAvD_BwE&amp;gclsrc=aw.ds",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/MLB.html",
+      "normalised": "https://www.abbvie.com/MLB.html",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/coronavirus.html",
+      "normalised": "https://www.abbvie.com/coronavirus.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/latest-earnings.html",
+      "normalised": "https://www.abbvie.com/latest-earnings.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/covid-19crf.html",
+      "normalised": "https://www.abbvie.com/covid-19crf.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/termsofuse.html",
+      "normalised": "https://www.abbvie.com/termsofuse.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/privacy.html",
+      "normalised": "https://www.abbvie.com/privacy.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/societal-impact/week-of-possibilities.html",
+      "normalised": "https://www.abbvie.com/societal-impact/week-of-possibilities.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/join-us/alentacquisition@abbvie.com",
+      "normalised": "https://www.abbvie.com/join-us/alentacquisition@abbvie.com",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/GPOpharm@abbvie.com",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/GPOpharm@abbvie.com",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/EyeCareOrders@allergan.com",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/EyeCareOrders@allergan.com",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/IR-Botox_Orders@allergan.com",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/IR-Botox_Orders@allergan.com",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/Lilettasupport@abbvie.com",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/Lilettasupport@abbvie.com",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/operating-with-integrity/btxrxorders@abbvie.com",
+      "normalised": "https://www.abbvie.com/who-we-are/operating-with-integrity/btxrxorders@abbvie.com",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.abbvie.com/esg-report.html",
+      "normalised": "https://www.abbvie.com/esg-report.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.abbvie.com/privacy-inquiry.html",
+      "normalised": "https://www.abbvie.com/privacy-inquiry.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.abbvie.com/privacy-policies.html",
+      "normalised": "https://www.abbvie.com/privacy-policies.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/for-clinical-investigators.html",
+      "normalised": "https://www.abbvie.com/for-clinical-investigators.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/we-are-transparent.html",
+      "normalised": "https://www.abbvie.com/we-are-transparent.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/our-science/our-rd-leaders/jonathon-sedgwick.html",
+      "normalised": "https://www.abbvie.com/our-science/our-rd-leaders/jonathon-sedgwick.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/additional-information.html",
+      "normalised": "https://www.abbvie.com/additional-information.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/science/our-rd-leaders.html",
+      "normalised": "https://www.abbvie.com/science/our-rd-leaders.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/we-prioritize-your-security.html",
+      "normalised": "https://www.abbvie.com/we-prioritize-your-security.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/our-science/our-rd-leaders/darin-messina.html",
+      "normalised": "https://www.abbvie.com/our-science/our-rd-leaders/darin-messina.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/we-honor-your-choices.html",
+      "normalised": "https://www.abbvie.com/we-honor-your-choices.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/content/abbvie-com2/us/en/who-we-are/our-stories/are-your-needs-represented-in-clinical-trials",
+      "normalised": "https://www.abbvie.com/content/abbvie-com2/us/en/who-we-are/our-stories/are-your-needs-represented-in-clinical-trials",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/content/abbvie-com2/us/en/who-we-are/our-stories/partners-scale-efforts-to-advance-racial-equity",
+      "normalised": "https://www.abbvie.com/content/abbvie-com2/us/en/who-we-are/our-stories/partners-scale-efforts-to-advance-racial-equity",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/content/abbvie-com2/us/en/who-we-are/our-stories/inside-the-biology-of-aging",
+      "normalised": "https://www.abbvie.com/content/abbvie-com2/us/en/who-we-are/our-stories/inside-the-biology-of-aging",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/our-science/our-rd-leaders/shuhong-zhang.html",
+      "normalised": "https://www.abbvie.com/our-science/our-rd-leaders/shuhong-zhang.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/our-science/our-rd-leaders/linda-scarazzini.html",
+      "normalised": "https://www.abbvie.com/our-science/our-rd-leaders/linda-scarazzini.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/patients/patient-assistance.html",
+      "normalised": "https://www.abbvie.com/patients/patient-assistance.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvie.com/who-we-are/equity-equality-inclusion-diversity/commitment-to-racial-justice.html",
+      "normalised": "https://www.abbvie.com/who-we-are/equity-equality-inclusion-diversity/commitment-to-racial-justice.html",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 355,
+    "bySource": {
+      "sitemap": 307,
+      "crawl": 48,
+      "manual": 0
+    }
+  }
+}

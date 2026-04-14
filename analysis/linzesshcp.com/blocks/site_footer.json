@@ -1,0 +1,48 @@
+{
+  "blockId": "site_footer",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11",
+    "tpl_12",
+    "tpl_13",
+    "tpl_14",
+    "tpl_15",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_19",
+    "tpl_20",
+    "tpl_21",
+    "tpl_22"
+  ],
+  "name": "Site footer",
+  "description": "Footer links, legal, social, and ancillary navigation.",
+  "domHints": {
+    "selectors": [
+      "footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Footer on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

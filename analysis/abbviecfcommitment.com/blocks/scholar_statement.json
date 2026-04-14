@@ -1,0 +1,26 @@
+{
+  "blockId": "scholar_statement",
+  "templateIds": [
+    "tpl_36"
+  ],
+  "name": "Scholar Statement",
+  "description": "Contains the detailed statement and aspirations of the scholar.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_36 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

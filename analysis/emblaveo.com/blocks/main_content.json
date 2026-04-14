@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Main Content",
+  "description": "Contains the primary content of the page, including the customer service form and contact information.",
+  "domHints": {
+    "selectors": [
+      "a.abbv-skip-to-main-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

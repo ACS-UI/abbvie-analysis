@@ -1,0 +1,26 @@
+{
+  "blockId": "available_dosing_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Available Dosing Section",
+  "description": "Explains the dosing options available for Savella.",
+  "domHints": {
+    "selectors": [
+      ".available-dosing-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

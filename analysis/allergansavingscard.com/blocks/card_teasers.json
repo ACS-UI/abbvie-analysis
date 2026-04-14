@@ -1,0 +1,26 @@
+{
+  "blockId": "card_teasers",
+  "templateIds": [
+    "tpl_105"
+  ],
+  "name": "Card Teasers",
+  "description": "Cards showcasing featured content or stories.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_105 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

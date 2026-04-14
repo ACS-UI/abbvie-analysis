@@ -1,0 +1,26 @@
+{
+  "blockId": "image_text_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Image and Text Section",
+  "description": "Displays an image of the wellness book alongside descriptive text.",
+  "domHints": {
+    "selectors": [
+      ".fybp-register-book"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

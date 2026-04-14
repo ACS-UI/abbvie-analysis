@@ -1,0 +1,26 @@
+{
+  "blockId": "enrollment_cta",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Enrollment Call-to-Action",
+  "description": "Encourages users to enroll in the Nurse Ambassador Program through various methods.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1320445305"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

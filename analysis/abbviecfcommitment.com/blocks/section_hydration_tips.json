@@ -1,0 +1,26 @@
+{
+  "blockId": "section_hydration_tips",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Hydration Tips Section",
+  "description": "Emphasizes the importance of staying hydrated during exercise.",
+  "domHints": {
+    "selectors": [
+      "#background-container-2040386356"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

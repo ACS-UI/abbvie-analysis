@@ -1,0 +1,29 @@
+{
+  "blockId": "story_cards",
+  "templateIds": [
+    "tpl_93",
+    "tpl_191",
+    "tpl_221"
+  ],
+  "name": "Story Cards",
+  "description": "Displays featured stories or articles in a card format with images and brief descriptions.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory",
+      "div.dashboardcards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_93 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

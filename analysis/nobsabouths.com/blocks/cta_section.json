@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Call-to-Action Section",
+  "description": "Provides a prominent call-to-action for downloading a booklet.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.olp-columns-reverse"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

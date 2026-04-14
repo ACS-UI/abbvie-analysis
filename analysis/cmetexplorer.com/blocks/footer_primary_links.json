@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_primary_links",
+  "templateIds": [
+    "tpl_256",
+    "tpl_263"
+  ],
+  "name": "Footer Primary Links",
+  "description": "Primary links in the footer for navigation.",
+  "domHints": {
+    "selectors": [
+      "#linklist-6e667b971a"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_256 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

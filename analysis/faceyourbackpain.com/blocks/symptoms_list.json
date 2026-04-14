@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_list",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Symptoms List",
+  "description": "Details specific symptoms and causes of the conditions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.fybp-bullet-indt"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,34 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_2",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11"
+  ],
+  "name": "Hero Section",
+  "description": "The main visual and textual introduction of the page, highlighting the key message.",
+  "domHints": {
+    "selectors": [
+      "section > div.columns.parbase > div.abbv-row-container > div.abbv-row > div.abbv-col > div.rich-text > div.abbv-rich-text.text-center.mt-10"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "healthy_routines_cta",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Healthy Routines CTA",
+  "description": "Provides information and a call-to-action for healthy routines.",
+  "domHints": {
+    "selectors": [
+      "#background-container-141009478"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

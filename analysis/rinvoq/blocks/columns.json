@@ -1,0 +1,52 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_2",
+    "tpl_9",
+    "tpl_11",
+    "tpl_12",
+    "tpl_28",
+    "tpl_46",
+    "tpl_54",
+    "tpl_66",
+    "tpl_69",
+    "tpl_76",
+    "tpl_77",
+    "tpl_78",
+    "tpl_80",
+    "tpl_84",
+    "tpl_89",
+    "tpl_100",
+    "tpl_110",
+    "tpl_111",
+    "tpl_115",
+    "tpl_117",
+    "tpl_119",
+    "tpl_121",
+    "tpl_140",
+    "tpl_141",
+    "tpl_146",
+    "tpl_151",
+    "tpl_159"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: $('.doctorList').bind(\"DOMNodeInserted\",function(){ $(this).find('ul li .directions-to').attr(\"target\", \"new-modal\"); })…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(16)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

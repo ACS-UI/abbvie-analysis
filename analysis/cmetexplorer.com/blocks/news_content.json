@@ -1,0 +1,26 @@
+{
+  "blockId": "news_content",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "News Content",
+  "description": "Main content area displaying the detailed news article.",
+  "domHints": {
+    "selectors": [
+      "#wd_printable_content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_8",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "main region 8",
+  "description": "Major content region in main (div). Preview: Myths vs Facts A thyroid-stimulating hormone (TSH) test is just one way to determine if you’re managing your hypothyroid…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(9)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_6. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

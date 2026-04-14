@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_windows",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Modal Windows",
+  "description": "Displays modal dialogs for additional information or actions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

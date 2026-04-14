@@ -1,0 +1,27 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.vuitypro.com/faqs",
+          "https://www.vuitypro.com/sitemap",
+          "https://www.vuitypro.com/",
+          "https://www.vuitypro.com/safety",
+          "https://www.vuitypro.com/efficacy",
+          "https://www.vuitypro.com/access-and-prescribing",
+          "https://www.vuitypro.com/innovation"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:46:32.812Z"
+}

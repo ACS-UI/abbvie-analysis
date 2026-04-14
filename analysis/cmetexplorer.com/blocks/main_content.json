@@ -1,0 +1,80 @@
+{
+  "blockId": "main_content",
+  "templateIds": [
+    "tpl_6",
+    "tpl_28",
+    "tpl_32",
+    "tpl_36",
+    "tpl_37",
+    "tpl_60",
+    "tpl_64",
+    "tpl_66",
+    "tpl_67",
+    "tpl_72",
+    "tpl_77",
+    "tpl_89",
+    "tpl_106",
+    "tpl_110",
+    "tpl_114",
+    "tpl_119",
+    "tpl_124",
+    "tpl_125",
+    "tpl_128",
+    "tpl_131",
+    "tpl_135",
+    "tpl_136",
+    "tpl_150",
+    "tpl_155",
+    "tpl_158",
+    "tpl_163",
+    "tpl_168",
+    "tpl_171",
+    "tpl_174",
+    "tpl_176",
+    "tpl_177",
+    "tpl_179",
+    "tpl_184",
+    "tpl_195",
+    "tpl_196",
+    "tpl_198",
+    "tpl_199",
+    "tpl_213",
+    "tpl_215",
+    "tpl_218",
+    "tpl_219",
+    "tpl_221",
+    "tpl_224",
+    "tpl_237",
+    "tpl_244",
+    "tpl_248",
+    "tpl_249",
+    "tpl_251",
+    "tpl_260",
+    "tpl_275",
+    "tpl_278",
+    "tpl_297",
+    "tpl_300",
+    "tpl_301",
+    "tpl_305"
+  ],
+  "name": "Main Content",
+  "description": "The main content area with detailed information and links.",
+  "domHints": {
+    "selectors": [
+      ".root.responsivegrid"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

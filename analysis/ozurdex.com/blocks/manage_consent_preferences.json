@@ -1,0 +1,26 @@
+{
+  "blockId": "manage_consent_preferences",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Manage Consent Preferences",
+  "description": "Allows users to manage their cookie consent preferences.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-rich-text > h2:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

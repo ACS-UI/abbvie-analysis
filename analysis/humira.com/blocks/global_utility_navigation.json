@@ -1,0 +1,29 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_3"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick access to utility links like conditions, safety information, and professional resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

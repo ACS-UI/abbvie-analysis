@@ -1,0 +1,33 @@
+{
+  "blockId": "main_region_3",
+  "templateIds": [
+    "tpl_2",
+    "tpl_3",
+    "tpl_6",
+    "tpl_8",
+    "tpl_12",
+    "tpl_13",
+    "tpl_14",
+    "tpl_18"
+  ],
+  "name": "main region 3",
+  "description": "Major content region in main (div). Preview: Adult patients with IBS-C had demonstrated improvement in both abdominal pain and frequency of CSBMs1 Improved CSBM freq…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,48 @@
+{
+  "blockId": "main_region_3",
+  "templateIds": [
+    "tpl_2",
+    "tpl_6",
+    "tpl_14",
+    "tpl_29",
+    "tpl_30",
+    "tpl_34",
+    "tpl_49",
+    "tpl_54",
+    "tpl_58",
+    "tpl_60",
+    "tpl_62",
+    "tpl_73",
+    "tpl_74",
+    "tpl_77",
+    "tpl_78",
+    "tpl_80",
+    "tpl_88",
+    "tpl_104",
+    "tpl_108",
+    "tpl_111",
+    "tpl_112",
+    "tpl_126",
+    "tpl_154"
+  ],
+  "name": "main region 3",
+  "description": "Major content region in main (div). Preview: Select Important Safety Information RINVOQ may cause serious side effects, including: Serious Infections, Cancer and Imm…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

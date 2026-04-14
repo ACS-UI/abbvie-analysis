@@ -1,0 +1,26 @@
+{
+  "blockId": "contact_rep_cta",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Contact Representative CTA",
+  "description": "Encourages users to contact a sales representative for more information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.bg-color-pink.md-my-30"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,54 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.creonhcp.com/",
+          "https://www.creonhcp.com/symptoms-of-epi",
+          "https://www.creonhcp.com/managing-epi",
+          "https://www.creonhcp.com/dosing-administration",
+          "https://www.creonhcp.com/understanding-epi",
+          "https://www.creonhcp.com/patient-support",
+          "https://www.creonhcp.com/creon-videos/dosing-160-315lb-patients-transcript",
+          "https://www.creonhcp.com/site-map",
+          "https://www.creonhcp.com/formulary-lookup",
+          "https://www.creonhcp.com/sitemap",
+          "https://www.creonhcp.com/creon-videos/epi-differential-diagnosis-transcript",
+          "https://www.creonhcp.com/mechanism-of-action",
+          "https://www.creonhcp.com/access-coverage",
+          "https://www.creonhcp.com/creon-videos/symptoms-features-epi-transcript",
+          "https://www.creonhcp.com/resources",
+          "https://www.creonhcp.com/creon-videos/dosing-cp-py-patient-transcript",
+          "https://www.creonhcp.com/search-results",
+          "https://www.creonhcp.com/cp-or-pancreatectomy",
+          "https://www.creonhcp.com/safety-data",
+          "https://www.creonhcp.com/discussion-guide",
+          "https://www.creonhcp.com/diagnosing-epi",
+          "https://www.creonhcp.com/underlying-conditions",
+          "https://www.creonhcp.com/efficacy",
+          "https://www.creonhcp.com/about-creon",
+          "https://www.creonhcp.com/dosing-calculator",
+          "https://www.creonhcp.com/contact-a-rep",
+          "https://www.creonhcp.com/creon-videos/collaborative-epi-management-transcript",
+          "https://www.creonhcp.com/creon-videos/optimizing-epi-management-transcript",
+          "https://www.creonhcp.com/dosing-epi",
+          "https://www.creonhcp.com/creon-starting-dose",
+          "https://www.creonhcp.com/treatment-tracker",
+          "https://www.creonhcp.com/creon-videos/communication-diagnosing-epi-transcript",
+          "https://www.creonhcp.com/challenges-to-diagnosis",
+          "https://www.creonhcp.com/creon-patient-support"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T12:31:53.221Z"
+}

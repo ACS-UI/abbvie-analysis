@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_navigation",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Footer Navigation",
+  "description": "Contains footer links and additional navigation options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

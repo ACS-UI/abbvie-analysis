@@ -1,0 +1,26 @@
+{
+  "blockId": "intermediate_vision_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Intermediate Vision Section",
+  "description": "Details about intermediate vision improvements.",
+  "domHints": {
+    "selectors": [
+      ".vuitipro-intermediate-vision-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

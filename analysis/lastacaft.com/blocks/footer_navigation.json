@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_navigation",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Footer Navigation",
+  "description": "Contains footer links for site policies and additional resources.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-footer-menu"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

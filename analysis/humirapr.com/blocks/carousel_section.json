@@ -1,0 +1,26 @@
+{
+  "blockId": "carousel_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Carousel Section",
+  "description": "Displays a carousel of images or content.",
+  "domHints": {
+    "selectors": [
+      "section.slider-section-main"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cindy_story",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Cindy's Story Section",
+  "description": "Highlights Cindy's story with a video and transcript link.",
+  "domHints": {
+    "selectors": [
+      "#cindy-story"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

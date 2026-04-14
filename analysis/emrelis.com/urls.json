@@ -1,0 +1,42 @@
+{
+  "entryUrl": "https://www.emrelis.com/",
+  "discoveredAt": "2026-04-13T15:19:53.965Z",
+  "urls": [
+    {
+      "url": "https://www.emrelis.com/",
+      "normalised": "https://www.emrelis.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelis.com/sitemap",
+      "normalised": "https://www.emrelis.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelis.com/copayterms",
+      "normalised": "https://www.emrelis.com/copayterms",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelis.com/sign-up",
+      "normalised": "https://www.emrelis.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "bySource": {
+      "sitemap": 1,
+      "crawl": 3,
+      "manual": 0
+    }
+  }
+}

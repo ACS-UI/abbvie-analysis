@@ -1,0 +1,26 @@
+{
+  "blockId": "talk_to_doctor_content",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Talk to a Doctor Content",
+  "description": "Provides information and tips for discussing symptoms with a doctor.",
+  "domHints": {
+    "selectors": [
+      "#talktoadoctor"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

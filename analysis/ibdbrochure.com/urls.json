@@ -1,0 +1,21 @@
+{
+  "entryUrl": "https://www.ibdbrochure.com/sign-up",
+  "discoveredAt": "2026-04-13T16:23:40.099Z",
+  "urls": [
+    {
+      "url": "https://www.ibdbrochure.com/sign-up",
+      "normalised": "https://www.ibdbrochure.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 1,
+      "manual": 0
+    }
+  }
+}

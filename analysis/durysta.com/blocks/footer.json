@@ -1,0 +1,26 @@
+{
+  "blockId": "footer",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Footer",
+  "description": "The footer section containing additional links and information.",
+  "domHints": {
+    "selectors": [
+      "footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

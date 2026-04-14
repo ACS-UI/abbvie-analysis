@@ -1,0 +1,26 @@
+{
+  "blockId": "content_accordion",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Content Accordion",
+  "description": "Accordion sections providing detailed information about adverse reactions and management.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

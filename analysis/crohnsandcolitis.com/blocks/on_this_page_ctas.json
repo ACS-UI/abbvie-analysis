@@ -1,0 +1,32 @@
+{
+  "blockId": "on_this_page_ctas",
+  "templateIds": [
+    "tpl_4",
+    "tpl_6",
+    "tpl_17",
+    "tpl_21",
+    "tpl_24",
+    "tpl_27",
+    "tpl_28"
+  ],
+  "name": "On This Page CTAs",
+  "description": "Provides quick links to sections within the page for easy navigation.",
+  "domHints": {
+    "selectors": [
+      ".on-this-page"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

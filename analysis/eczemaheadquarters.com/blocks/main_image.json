@@ -1,0 +1,26 @@
+{
+  "blockId": "main_image",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Main Image",
+  "description": "Displays a visual representation related to the page's topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container .abbv-col-5 .abbv-image-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

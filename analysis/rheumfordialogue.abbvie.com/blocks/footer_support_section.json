@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_support_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Footer Support Section",
+  "description": "Contains support-related links in the footer.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-vertical:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

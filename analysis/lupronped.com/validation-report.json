@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.lupronped.com",
+  "normalisedUrl": "https://www.lupronped.com/",
+  "finalUrlAfterRedirects": "https://www.lupronped.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:26:28.855Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

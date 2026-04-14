@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_main",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Hero Section",
+  "description": "Main visual and text introduction to the page's content.",
+  "domHints": {
+    "selectors": [
+      "section.arthritis-hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

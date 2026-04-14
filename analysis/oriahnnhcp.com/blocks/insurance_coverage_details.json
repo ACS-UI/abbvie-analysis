@@ -1,0 +1,26 @@
+{
+  "blockId": "insurance_coverage_details",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Insurance Coverage Details",
+  "description": "Provides detailed information and disclaimers about insurance coverage.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.orihcp-pie-below-smll-txt"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,28 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_4",
+    "tpl_5",
+    "tpl_13"
+  ],
+  "name": "Call-to-Action Section",
+  "description": "Encourages users to take specific actions, such as learning more or contacting support.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.center-container--gray-bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

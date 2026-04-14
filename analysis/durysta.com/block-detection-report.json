@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Durysta Homepage",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Durysta About Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Durysta Sitemap",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Durysta Doctor Discussion",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Durysta Why Section",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    }
+  ],
+  "generatedAt": "2026-04-13T15:29:50.565Z"
+}

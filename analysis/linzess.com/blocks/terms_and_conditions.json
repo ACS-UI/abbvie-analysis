@@ -1,0 +1,26 @@
+{
+  "blockId": "terms_and_conditions",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Terms and Conditions",
+  "description": "Displays the terms and conditions for the savings program.",
+  "domHints": {
+    "selectors": [
+      ".footnote"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

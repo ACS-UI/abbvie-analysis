@@ -1,0 +1,1554 @@
+{
+  "entryUrl": "https://www.abbvieeyecare.com/",
+  "discoveredAt": "2026-04-13T15:42:48.422Z",
+  "urls": [
+    {
+      "url": "https://www.abbvieeyecare.com/",
+      "normalised": "https://www.abbvieeyecare.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/images/images.zip",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/images/images.zip",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pa2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pa2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pa1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pa1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pc1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pc1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ra2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ra2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ra3.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ra3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ra4.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ra4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ra1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ra1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/rs2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/rs2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/rs3.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/rs3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/tra1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/tra1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/tra2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/tra2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/tra3.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/tra3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pta1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pta1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pta2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/pta2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/res1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/res1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/res2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/res2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/res4.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/res4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/res5.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/res5.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/track2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/track2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/track3.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/track3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/track1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/track1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/track4.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/track4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/oog.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/oog.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-3.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-4.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-5.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-5.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-6.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/gd-6.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/medd.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/medd.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Medication-Instructions-Spanish.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Medication-Instructions-Spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Uveitis-Patient-Education-Sheet.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Uveitis-Patient-Education-Sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/_Cover%20My%20Meds_GeneralOverview.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/_Cover%20My%20Meds_GeneralOverview.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/UNB65721_v3ImportanceofTakingYourMeds.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/UNB65721_v3ImportanceofTakingYourMeds.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/CoverMyMeds_GeneralOverview.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/CoverMyMeds_GeneralOverview.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/cover-my-meds-startup.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/cover-my-meds-startup.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/prf-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/prf-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Allergan%20EyeCue%20EFT%20Enrollment%20Form%20Update_STE-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Allergan%20EyeCue%20EFT%20Enrollment%20Form%20Update_STE-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Cover%20My%20Meds%20Start-Up%20Guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Cover%20My%20Meds%20Start-Up%20Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/OZX%20Physician%20Reimb%20Request%20Form_STE-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/OZX%20Physician%20Reimb%20Request%20Form_STE-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Allergan%20EC%20Overview%20FC_HR1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Allergan%20EC%20Overview%20FC_HR1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Update_STE-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Update_STE-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Enrollment_Form_Update_STE-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Enrollment_Form_Update_STE-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/US-MULT-220315.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/US-MULT-220315.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Request_Form_STE-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Request_Form_STE-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Enrollment_Form%20Update_STE-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Enrollment_Form%20Update_STE-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/016502-Allergan-EyeCue-EFT.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/016502-Allergan-EyeCue-EFT.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/016137_FC_HR1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/016137_FC_HR1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/PA_GeneralOverview.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/PA_GeneralOverview.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/OZURDEX-Ordering-and-Support-Reference-Card-Current-PI.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/OZURDEX-Ordering-and-Support-Reference-Card-Current-PI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ozurdex-ordering-guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/ozurdex-ordering-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/presbyopia-questionnaire.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/presbyopia-questionnaire.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/lastacaft-product-education.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/lastacaft-product-education.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/PA_CoverMyMeds.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/PA_CoverMyMeds.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/PARx-Solutions_Guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/PARx-Solutions_Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/OZURDEX-ORDERING_GUIDE.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/OZURDEX-ORDERING_GUIDE.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/at-your-service-enrollment-flashcard.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/at-your-service-enrollment-flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/How%20To%20Order%20OZURDEX%20Flashcard%20PI%20Redirect%20(1).pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/How%20To%20Order%20OZURDEX%20Flashcard%20PI%20Redirect%20(1).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Refresh%20Product%20Education.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/Refresh%20Product%20Education.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/US_RFS_240088_Hang_Chart_Xtra_Gel_Drops.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/US_RFS_240088_Hang_Chart_Xtra_Gel_Drops.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/US_RFS_240236_Hang_Chart_with_Xtra_and_Gel_Drops.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/ecp/US_RFS_240236_Hang_Chart_with_Xtra_and_Gel_Drops.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Ozurdex-injection-technique-guide-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Ozurdex-injection-technique-guide-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/vuity-access-flashcard-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/vuity-access-flashcard-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/patient-product-identification-sheet.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/patient-product-identification-sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/copay-estimator-flashcard.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/copay-estimator-flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/green-bottle-dosing-diary.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/green-bottle-dosing-diary.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/durysta-savings-program-tear-sheet.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/durysta-savings-program-tear-sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/durysta-patient-brochure-digital.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/durysta-patient-brochure-digital.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/ozurdex3.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/ozurdex3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/ozurdex2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/ozurdex2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/ozurdex1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/ozurdex1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/ozurdex4.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/ozurdex4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/r3.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/r3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/r2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/r2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/v2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/v2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/v3.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/v3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/v1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/v1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/xe1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/xe1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/xs1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/xs1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/flashcard-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/flashcard-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Copay-Estimator-Flashcard-US-MULT-220315.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Copay-Estimator-Flashcard-US-MULT-220315.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/016137_Allergan_EC_Overview_FC_HR1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/016137_Allergan_EC_Overview_FC_HR1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/014666_Jim_single-PG_HR.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/014666_Jim_single-PG_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/OZURDEX%20Ordering%20and%20Support%20Reference%20Card_Current%20PI.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/OZURDEX%20Ordering%20and%20Support%20Reference%20Card_Current%20PI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/alphagan-patient-brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/alphagan-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Glaucoma-Patient-Fulfillment-Tear-Sheet.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Glaucoma-Patient-Fulfillment-Tear-Sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Lastacaft-Product-Education.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Lastacaft-Product-Education.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Lumigan-Patient-Brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Lumigan-Patient-Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Diabetic-Macular-Edema-Patient-Brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Diabetic-Macular-Edema-Patient-Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Ozurdex-Injection-Technique-Guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Ozurdex-Injection-Technique-Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Retinal-Vein-Occlusion-Patient-Brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Retinal-Vein-Occlusion-Patient-Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Uveitis-Patient-Brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Uveitis-Patient-Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Restasis-Patient-Brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Restasis-Patient-Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Vijity-Access-Flashcard.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Vijity-Access-Flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Vuity-Upscript-Patient-Flashcard.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Vuity-Upscript-Patient-Flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/My-Vuity-Points-Flashcard-Mva.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/My-Vuity-Points-Flashcard-Mva.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Vuity-access-%20flashcard.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Vuity-access-%20flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Vuity-access-flashcard.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Vuity-access-flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/UpScript-flashcard-update.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/UpScript-flashcard-update.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Patient-brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Retinal-Vein-Occlusion-Patient-Brochure-Spanish.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Retinal-Vein-Occlusion-Patient-Brochure-Spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Diabetic-Macular-Edema-Patient-Brochure-spanish.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Diabetic-Macular-Edema-Patient-Brochure-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Uveitis-Patient-Brochure-spanish.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Uveitis-Patient-Brochure-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/US-VUI-230133%20UpScript%20Flashcard%20Update%20(2).pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/US-VUI-230133%20UpScript%20Flashcard%20Update%20(2).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/COPAY%20ESTIMATOR%20FLASHCARD.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/COPAY%20ESTIMATOR%20FLASHCARD.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/DME%20Patient%20Brochure%20-%20Spanish.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/DME%20Patient%20Brochure%20-%20Spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/RVO%20Patient%20Brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/RVO%20Patient%20Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Uveitis%20Patient%20Brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Uveitis%20Patient%20Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Xen%20Patient%20Brochure%20-%20English.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Xen%20Patient%20Brochure%20-%20English.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/COVERAGE%20LEAVE%20BEHIND%20FLASHCARD.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/COVERAGE%20LEAVE%20BEHIND%20FLASHCARD.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/PATIENT%20TO%20PHARMACY%20TEAR%20SHEET.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/PATIENT%20TO%20PHARMACY%20TEAR%20SHEET.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/LUMIGAN%20DISPENSE%20AS%20WRITTEN.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/LUMIGAN%20DISPENSE%20AS%20WRITTEN.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/LOW%20INCOME%20SUBSIDY%20SHEET.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/LOW%20INCOME%20SUBSIDY%20SHEET.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Ozurdex-injection-technique-guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Ozurdex-injection-technique-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/US_RFS_240088_Hang_Chart_Xtra_Gel_Drops.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/US_RFS_240088_Hang_Chart_Xtra_Gel_Drops.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/COVERAGE_LEAVE_BEHIND_FLASHCARD%20v2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/COVERAGE_LEAVE_BEHIND_FLASHCARD%20v2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/COVERMYMEDS%20STARTUP%20GUIDE.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/COVERMYMEDS%20STARTUP%20GUIDE.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Refresh%20Product%20Education%20(1).pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Refresh%20Product%20Education%20(1).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Refresh%20Product%20Education.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Refresh%20Product%20Education.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/REFRESH_Product_Guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/REFRESH_Product_Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Uveitis_Patient_Brochure-Spanish.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/Uveitis_Patient_Brochure-Spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/XEN%20Patient%20Brochure%20Spanish.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/XEN%20Patient%20Brochure%20Spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/patient-fulfillment-tear-sheet.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/product-information/patient-fulfillment-tear-sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/UNB65719_%20v3%20Medication%20Instructions%20for%20Glaucoma%20Patients.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/UNB65719_%20v3%20Medication%20Instructions%20for%20Glaucoma%20Patients.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/CDT150356-%20v1%20Prescription%20and%20Refill%20Help%20Guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/CDT150356-%20v1%20Prescription%20and%20Refill%20Help%20Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/UNB116083_v2%20Pharmacy%20Call%20Back%20Help%20Guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/UNB116083_v2%20Pharmacy%20Call%20Back%20Help%20Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/medication-patients.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/medication-patients.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/pharmacy-guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/pharmacy-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/prescription-guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/prescription-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track3.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track4.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track5.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track5.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track6.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/track6.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/dry1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/dry1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/dry2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/dry2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/retina5.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/retina5.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/retina4.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/retina4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/retina7.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/retina7.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/retina6.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/retina6.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/LeaveBehind_Update_STE.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/LeaveBehind_Update_STE.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/UNB65722_v3-medication-instructions-spanish.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/UNB65722_v3-medication-instructions-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Uveitis-Patient-Education-Sheet.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Uveitis-Patient-Education-Sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Physician_Reimb_Request_Form_STE-1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Physician_Reimb_Request_Form_STE-1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Allergan_ECOverview_FC_HR1.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Allergan_ECOverview_FC_HR1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/US-MULT-211597-Pharmacy-Level.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/US-MULT-211597-Pharmacy-Level.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Presbyopia-Questionnaire.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Presbyopia-Questionnaire.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Glaucoma-101-Tech-Brochure.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Glaucoma-101-Tech-Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Copay-Estimator-Flashcard.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Copay-Estimator-Flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Glaucoma-Patient-Fulfillment-Tearpad.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Glaucoma-Patient-Fulfillment-Tearpad.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Patient-Advocacy-Guide.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Patient-Advocacy-Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Understanding-Glaucoma-Patient-Out-Of-Pocket-Medication-Costs.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Understanding-Glaucoma-Patient-Out-Of-Pocket-Medication-Costs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/At-Your-Service-Enrollment-Flashcard.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/At-Your-Service-Enrollment-Flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/uveitis-patient-brochure_spanish.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/uveitis-patient-brochure_spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/understanding-medication_r0_access.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/understanding-medication_r0_access.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Patient-Advocacy-Guide_r2.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/Patient-Advocacy-Guide_r2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/flashcard-ays-enrollment-qr-code.pdf",
+      "normalised": "https://www.abbvieeyecare.com/content/dam/abbvieeyecare/pdf/office-resources/flashcard-ays-enrollment-qr-code.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/prescribing-information",
+      "normalised": "https://www.abbvieeyecare.com/prescribing-information",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-0",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/contact-us",
+      "normalised": "https://www.abbvieeyecare.com/contact-us",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/techalliance",
+      "normalised": "https://www.abbvieeyecare.com/techalliance",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/techalliance/terminology",
+      "normalised": "https://www.abbvieeyecare.com/techalliance/terminology",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/search-results",
+      "normalised": "https://www.abbvieeyecare.com/search-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/for-eye-care-providers",
+      "normalised": "https://www.abbvieeyecare.com/for-eye-care-providers",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-4",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-8",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-8",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/office-resources",
+      "normalised": "https://www.abbvieeyecare.com/office-resources",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-2",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-6",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/ecp/refer-a-colleague",
+      "normalised": "https://www.abbvieeyecare.com/ecp/refer-a-colleague",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/optometry-jumpstart",
+      "normalised": "https://www.abbvieeyecare.com/optometry-jumpstart",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-1",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-5",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/registration/thank-you",
+      "normalised": "https://www.abbvieeyecare.com/registration/thank-you",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/product-support-and-samples",
+      "normalised": "https://www.abbvieeyecare.com/product-support-and-samples",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/registration",
+      "normalised": "https://www.abbvieeyecare.com/registration",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-7",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-7",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-9",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-9",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-340708570-3",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-340708570-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/patientcareresources/patient-savings",
+      "normalised": "https://www.abbvieeyecare.com/patientcareresources/patient-savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/patientcareresources/patient-assistance",
+      "normalised": "https://www.abbvieeyecare.com/patientcareresources/patient-assistance",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/product-information",
+      "normalised": "https://www.abbvieeyecare.com/product-information",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/patientcareresources",
+      "normalised": "https://www.abbvieeyecare.com/patientcareresources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/page-not-found",
+      "normalised": "https://www.abbvieeyecare.com/page-not-found",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/ecp",
+      "normalised": "https://www.abbvieeyecare.com/ecp",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/system-error",
+      "normalised": "https://www.abbvieeyecare.com/system-error",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/ecp/jumpstart_1",
+      "normalised": "https://www.abbvieeyecare.com/ecp/jumpstart_1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/techalliance/office-resources",
+      "normalised": "https://www.abbvieeyecare.com/techalliance/office-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/ecp/thank-you",
+      "normalised": "https://www.abbvieeyecare.com/ecp/thank-you",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/ecp/jumpstart",
+      "normalised": "https://www.abbvieeyecare.com/ecp/jumpstart",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/site-map",
+      "normalised": "https://www.abbvieeyecare.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/sitemap",
+      "normalised": "https://www.abbvieeyecare.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/techalliance/helpful-links",
+      "normalised": "https://www.abbvieeyecare.com/techalliance/helpful-links",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/terminology",
+      "normalised": "https://www.abbvieeyecare.com/terminology",
+      "source": "sitemap",
+      "httpStatus": 500,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/terminology/terminology",
+      "normalised": "https://www.abbvieeyecare.com/terminology/terminology",
+      "source": "sitemap",
+      "httpStatus": 500,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-5",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-4",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-980496578-2",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-980496578-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-980496578-1",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-980496578-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-8",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-8",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1194677743-2",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1194677743-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-6",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-9",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-9",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-0",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1194677743-0",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1194677743-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1194677743-3",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1194677743-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-7",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-7",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-980496578-4",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-980496578-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-2",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/-1/product-information#xen",
+      "normalised": "https://www.abbvieeyecare.com/-1/product-information",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-3",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-980496578-0",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-980496578-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1194677743-1",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1194677743-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/patient/patient-assistance",
+      "normalised": "https://www.abbvieeyecare.com/patient/patient-assistance",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1097472534-1",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1097472534-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-980496578-3",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-980496578-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieeyecare.com/abbv-tab-1194677743-4",
+      "normalised": "https://www.abbvieeyecare.com/abbv-tab-1194677743-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 220,
+    "bySource": {
+      "sitemap": 175,
+      "crawl": 45,
+      "manual": 0
+    }
+  }
+}

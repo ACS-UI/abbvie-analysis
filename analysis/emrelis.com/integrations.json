@@ -1,0 +1,24 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.emrelis.com/",
+          "https://www.emrelis.com/sitemap",
+          "https://www.emrelis.com/copayterms",
+          "https://www.emrelis.com/sign-up"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:25:30.010Z"
+}

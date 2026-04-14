@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_6",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "main region 6",
+  "description": "Major content region in main (div). Preview: How soon do you follow up with patients after CREON treatment initiation? Within the first month Between 1 and 6 months …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(7)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_17. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

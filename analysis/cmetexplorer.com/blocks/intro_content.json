@@ -1,0 +1,27 @@
+{
+  "blockId": "intro_content",
+  "templateIds": [
+    "tpl_252",
+    "tpl_255"
+  ],
+  "name": "Introduction Content",
+  "description": "Text and buttons introducing the page's purpose.",
+  "domHints": {
+    "selectors": [
+      "div#container-bda50f47d9"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_252 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

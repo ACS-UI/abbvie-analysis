@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_contact_medical_affairs",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Modal: Contact Medical Affairs",
+  "description": "A modal dialog for contacting medical affairs.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.wolMedInfo"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

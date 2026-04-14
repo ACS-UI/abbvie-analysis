@@ -1,0 +1,26 @@
+{
+  "blockId": "diet_tips",
+  "templateIds": [
+    "tpl_28"
+  ],
+  "name": "Diet Tips",
+  "description": "Offers specific dietary tips and considerations for EPI patients.",
+  "domHints": {
+    "selectors": [
+      "#background-container-9517152"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_28 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

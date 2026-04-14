@@ -1,0 +1,95 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:15:01.712Z",
+  "completedAt": "2026-04-13T16:23:45.354Z",
+  "input": {
+    "url": "https://www.hcv.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/hcv.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Living with HCV",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Awareness Content",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Resources Content",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Management Content",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Screening Content",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Provider Resources",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Search Results",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "External Link Modal",
+        "source": "llm_identify",
+        "blockCount": 4,
+        "proposedCount": 4
+      }
+    ]
+  }
+}

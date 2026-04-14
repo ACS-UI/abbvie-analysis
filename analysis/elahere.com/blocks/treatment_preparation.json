@@ -1,0 +1,27 @@
+{
+  "blockId": "treatment_preparation",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Treatment Preparation",
+  "description": "Explains the preparations and precautions before each dose.",
+  "domHints": {
+    "selectors": [
+      "#how-treatment-is-given",
+      "#before-you-start"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

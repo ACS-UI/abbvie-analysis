@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_prose",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Main Content Prose",
+  "description": "Provides detailed information about the medical offerings and mission.",
+  "domHints": {
+    "selectors": [
+      "a.abbv-skip-to-main-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

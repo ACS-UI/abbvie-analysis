@@ -1,0 +1,26 @@
+{
+  "blockId": "breadcrumb_navigation",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Breadcrumb Navigation",
+  "description": "Displays the current page's position within the website hierarchy.",
+  "domHints": {
+    "selectors": [
+      "header.abbv-header-utility-navigation_mobile_home"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

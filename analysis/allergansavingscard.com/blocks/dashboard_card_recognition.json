@@ -1,0 +1,26 @@
+{
+  "blockId": "dashboard_card_recognition",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Recognition Dashboard Card",
+  "description": "Displays recognition statistics and achievements.",
+  "domHints": {
+    "selectors": [
+      "div.dashboard-card-facts > div.content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

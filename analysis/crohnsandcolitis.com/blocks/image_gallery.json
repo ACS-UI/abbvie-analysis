@@ -1,0 +1,26 @@
+{
+  "blockId": "image_gallery",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Image Gallery",
+  "description": "Showcases a series of images related to the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flex-wrap-wrap"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

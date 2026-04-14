@@ -1,0 +1,89 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Page layout group 1",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 12
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Log In — group 2",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Sitemap — group 3",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Completeterms — group 4",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Mobile Terms Conditions — group 5",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Botox Account Sign Up — group 6",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Botox Complete — group 7",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Confirmation — group 8",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Reset Password — group 9",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Botox Complete Sign Up — group 10",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Frequently Asked Questions — group 11",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Cost And Coverage — group 12",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Confirmation — group 13",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Account — group 14",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    }
+  ],
+  "generatedAt": "2026-04-13T12:28:53.588Z"
+}

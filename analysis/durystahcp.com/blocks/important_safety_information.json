@@ -1,0 +1,29 @@
+{
+  "blockId": "important_safety_information",
+  "templateIds": [
+    "tpl_13",
+    "tpl_14",
+    "tpl_16",
+    "tpl_19"
+  ],
+  "name": "Important Safety Information",
+  "description": "Provides critical safety information about the product.",
+  "domHints": {
+    "selectors": [
+      "div[role='region'][aria-label='Important Safety Information']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "highlight_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Highlight Section",
+  "description": "Highlights key statistics or information about EPI.",
+  "domHints": {
+    "selectors": [
+      ".epi-shape"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

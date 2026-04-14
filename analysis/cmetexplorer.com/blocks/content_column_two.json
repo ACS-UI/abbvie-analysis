@@ -1,0 +1,26 @@
+{
+  "blockId": "content_column_two",
+  "templateIds": [
+    "tpl_54"
+  ],
+  "name": "Content Column Two",
+  "description": "Highlights a featured story with an image and description.",
+  "domHints": {
+    "selectors": [
+      "#container-71b0445bcc .grid-row__col-with-3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_54 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

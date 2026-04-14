@@ -1,0 +1,112 @@
+{
+  "entryUrl": "https://www.botoxseveresweating.com/",
+  "discoveredAt": "2026-04-13T16:36:02.622Z",
+  "urls": [
+    {
+      "url": "https://www.botoxseveresweating.com/",
+      "normalised": "https://www.botoxseveresweating.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/what_is",
+      "normalised": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/what_is",
+      "source": "crawl",
+      "httpStatus": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/Home/index",
+      "normalised": "https://www.botoxseveresweating.com/Home/index",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/FAQ",
+      "normalised": "https://www.botoxseveresweating.com/FAQ",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/Site_map",
+      "normalised": "https://www.botoxseveresweating.com/Site_map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/Can_botox_help/results",
+      "normalised": "https://www.botoxseveresweating.com/Can_botox_help/results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/Can_botox_help/treatment_experience",
+      "normalised": "https://www.botoxseveresweating.com/Can_botox_help/treatment_experience",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/how_diagnosed",
+      "normalised": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/how_diagnosed",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/Can_botox_help/how_works",
+      "normalised": "https://www.botoxseveresweating.com/Can_botox_help/how_works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/Can_botox_help/is_botox_right_for_me",
+      "normalised": "https://www.botoxseveresweating.com/Can_botox_help/is_botox_right_for_me",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/find_a_dermatologist",
+      "normalised": "https://www.botoxseveresweating.com/find_a_dermatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/Can_botox_help/savings_insurance",
+      "normalised": "https://www.botoxseveresweating.com/Can_botox_help/savings_insurance",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/cdn-cgi/l/email-protection#aceaedeeffeccdcecedac5c982cfc3c1",
+      "normalised": "https://www.botoxseveresweating.com/cdn-cgi/l/email-protection",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.botoxseveresweating.com/contact_us",
+      "normalised": "https://www.botoxseveresweating.com/contact_us",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 14,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 14,
+      "manual": 0
+    }
+  }
+}

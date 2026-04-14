@@ -1,0 +1,26 @@
+{
+  "blockId": "doctor_cta",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Doctor CTA",
+  "description": "Guides users to find a doctor experienced in EPI.",
+  "domHints": {
+    "selectors": [
+      ".epi-gray-block .cta a[href='/find-an-epi-doctor']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

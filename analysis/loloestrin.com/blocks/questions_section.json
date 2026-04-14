@@ -1,0 +1,26 @@
+{
+  "blockId": "questions_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Questions Section",
+  "description": "Answers common questions about the savings program and provides contact information.",
+  "domHints": {
+    "selectors": [
+      ".savings-card-question"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

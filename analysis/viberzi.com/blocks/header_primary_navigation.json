@@ -1,0 +1,26 @@
+{
+  "blockId": "header_primary_navigation",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Primary site header and navigation",
+  "description": "Branding, primary IA, and navigation (may include mega-menu or mobile patterns).",
+  "domHints": {
+    "selectors": [
+      "header nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "navigation",
+        "type": "custom",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Header chrome on tpl_1. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Header"
+}

@@ -1,0 +1,29 @@
+{
+  "blockId": "main_region_12",
+  "templateIds": [
+    "tpl_11",
+    "tpl_15",
+    "tpl_16",
+    "tpl_18"
+  ],
+  "name": "main region 12",
+  "description": "Major content region in main (div). Preview: You may also be interested in: .abbv-image-text-v1-871842269-large { display: inline-block; } Ways to Save Injection Sup…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(13)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_11. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Unknown Error",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    }
+  ],
+  "generatedAt": "2026-04-13T16:35:59.472Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_1",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Content Section 1",
+  "description": "Section highlighting fruits, vegetables, and savory snacks.",
+  "domHints": {
+    "selectors": [
+      "#background-container-430810447"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

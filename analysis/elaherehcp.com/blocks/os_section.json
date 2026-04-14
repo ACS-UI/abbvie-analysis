@@ -1,0 +1,26 @@
+{
+  "blockId": "os_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "OS Section",
+  "description": "Section detailing the overall survival data.",
+  "domHints": {
+    "selectors": [
+      "#os"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

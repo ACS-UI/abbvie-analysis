@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosing_uc_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Diagnosing UC Section",
+  "description": "Describes the diagnostic process for ulcerative colitis.",
+  "domHints": {
+    "selectors": [
+      "#diagnosinguc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

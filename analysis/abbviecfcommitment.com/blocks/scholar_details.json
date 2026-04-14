@@ -1,0 +1,27 @@
+{
+  "blockId": "scholar_details",
+  "templateIds": [
+    "tpl_7",
+    "tpl_12"
+  ],
+  "name": "Scholar Details",
+  "description": "Displays detailed information about the scholar's achievements and story.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.container_round-top"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

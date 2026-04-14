@@ -1,0 +1,33 @@
+{
+  "blockId": "breadcrumb_navigation",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11"
+  ],
+  "name": "Breadcrumb Navigation",
+  "description": "Displays the user's current location within the site and provides links to higher-level pages.",
+  "domHints": {
+    "selectors": [
+      ".breadcrumb__list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

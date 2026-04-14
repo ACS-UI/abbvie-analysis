@@ -1,0 +1,26 @@
+{
+  "blockId": "promo_drawer",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Promo Drawer",
+  "description": "Promotional drawer with details about NTAP designation.",
+  "domHints": {
+    "selectors": [
+      ".abbv-promo-drawer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

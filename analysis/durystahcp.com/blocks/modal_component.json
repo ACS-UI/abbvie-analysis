@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_component",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Modal Component",
+  "description": "Interactive modal dialogs for user actions like navigating to external sites or providing additional information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

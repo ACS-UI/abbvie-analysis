@@ -1,0 +1,119 @@
+{
+  "entryUrl": "https://www.vuity.com/",
+  "discoveredAt": "2026-04-13T15:37:15.343Z",
+  "urls": [
+    {
+      "url": "https://www.vuity.com/",
+      "normalised": "https://www.vuity.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/frequently-asked-questions",
+      "normalised": "https://www.vuity.com/frequently-asked-questions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/sitemap",
+      "normalised": "https://www.vuity.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/what-is-presbyopia",
+      "normalised": "https://www.vuity.com/what-is-presbyopia",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/find-a-doctor",
+      "normalised": "https://www.vuity.com/find-a-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/about-presbyopia",
+      "normalised": "https://www.vuity.com/about-presbyopia",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/cost",
+      "normalised": "https://www.vuity.com/cost",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/about-vuity",
+      "normalised": "https://www.vuity.com/about-vuity",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/email-verification",
+      "normalised": "https://www.vuity.com/email-verification",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/termsandconditions",
+      "normalised": "https://www.vuity.com/termsandconditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/your-account-exist",
+      "normalised": "https://www.vuity.com/your-account-exist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/introducing-vuity",
+      "normalised": "https://www.vuity.com/introducing-vuity",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/terms-and-conditions",
+      "normalised": "https://www.vuity.com/terms-and-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/www.myvuitypoints.com/signin",
+      "normalised": "https://www.vuity.com/www.myvuitypoints.com/signin",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuity.com/modals/terms-and-conditions",
+      "normalised": "https://www.vuity.com/modals/terms-and-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 15,
+    "bySource": {
+      "sitemap": 8,
+      "crawl": 7,
+      "manual": 0
+    }
+  }
+}

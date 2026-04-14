@@ -1,0 +1,33 @@
+{
+  "blockId": "footer_section",
+  "templateIds": [
+    "tpl_105",
+    "tpl_121",
+    "tpl_137",
+    "tpl_144",
+    "tpl_213",
+    "tpl_253",
+    "tpl_308",
+    "tpl_312"
+  ],
+  "name": "Footer Section",
+  "description": "Contains site footer with additional navigation and information.",
+  "domHints": {
+    "selectors": [
+      "#navigation-02c5d0b073"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_105 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

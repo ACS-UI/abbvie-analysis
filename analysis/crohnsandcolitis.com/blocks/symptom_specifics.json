@@ -1,0 +1,26 @@
+{
+  "blockId": "symptom_specifics",
+  "templateIds": [
+    "tpl_27"
+  ],
+  "name": "Symptom Specifics",
+  "description": "Detailed information about Crohn's symptoms.",
+  "domHints": {
+    "selectors": [
+      "#cs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_27 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

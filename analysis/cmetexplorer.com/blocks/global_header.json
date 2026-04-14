@@ -1,0 +1,71 @@
+{
+  "blockId": "global_header",
+  "templateIds": [
+    "tpl_10",
+    "tpl_18",
+    "tpl_37",
+    "tpl_47",
+    "tpl_49",
+    "tpl_51",
+    "tpl_52",
+    "tpl_56",
+    "tpl_64",
+    "tpl_72",
+    "tpl_73",
+    "tpl_77",
+    "tpl_79",
+    "tpl_80",
+    "tpl_94",
+    "tpl_96",
+    "tpl_97",
+    "tpl_100",
+    "tpl_102",
+    "tpl_103",
+    "tpl_110",
+    "tpl_121",
+    "tpl_125",
+    "tpl_141",
+    "tpl_143",
+    "tpl_159",
+    "tpl_163",
+    "tpl_169",
+    "tpl_172",
+    "tpl_176",
+    "tpl_178",
+    "tpl_214",
+    "tpl_219",
+    "tpl_241",
+    "tpl_246",
+    "tpl_250",
+    "tpl_253",
+    "tpl_255",
+    "tpl_258",
+    "tpl_277",
+    "tpl_279",
+    "tpl_281",
+    "tpl_290",
+    "tpl_294",
+    "tpl_297",
+    "tpl_312"
+  ],
+  "name": "Global Header",
+  "description": "Contains the main navigation and branding elements for the site.",
+  "domHints": {
+    "selectors": [
+      "header.nav-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

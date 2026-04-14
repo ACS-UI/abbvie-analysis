@@ -1,0 +1,26 @@
+{
+  "blockId": "submission_notice",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Submission Notice",
+  "description": "Provides important legal and informational notices related to form submission.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.submit-notice-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,56 @@
+{
+  "entryUrl": "https://www.botoxpediatricspasticity.com/",
+  "discoveredAt": "2026-04-13T16:32:32.509Z",
+  "urls": [
+    {
+      "url": "https://www.botoxpediatricspasticity.com/",
+      "normalised": "https://www.botoxpediatricspasticity.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxpediatricspasticity.com/about-spasticity",
+      "normalised": "https://www.botoxpediatricspasticity.com/about-spasticity",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxpediatricspasticity.com/sitemap",
+      "normalised": "https://www.botoxpediatricspasticity.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxpediatricspasticity.com/about-botox",
+      "normalised": "https://www.botoxpediatricspasticity.com/about-botox",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxpediatricspasticity.com/about-treatment",
+      "normalised": "https://www.botoxpediatricspasticity.com/about-treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxpediatricspasticity.com/savings-support",
+      "normalised": "https://www.botoxpediatricspasticity.com/savings-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 6,
+      "manual": 0
+    }
+  }
+}

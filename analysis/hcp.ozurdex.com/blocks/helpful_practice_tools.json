@@ -1,0 +1,26 @@
+{
+  "blockId": "helpful_practice_tools",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Helpful Practice Tools",
+  "description": "Highlights tools and training resources for practitioners.",
+  "domHints": {
+    "selectors": [
+      ".resources-helpful"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

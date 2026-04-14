@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_section",
+  "templateIds": [
+    "tpl_33"
+  ],
+  "name": "Introduction Section",
+  "description": "Introduces the 2025 Scholars with a heading and descriptive text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.base-wrapper.container--narrow"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_33 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

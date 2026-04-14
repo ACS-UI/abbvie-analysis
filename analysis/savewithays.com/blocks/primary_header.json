@@ -1,0 +1,29 @@
+{
+  "blockId": "primary_header",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_6",
+    "tpl_7"
+  ],
+  "name": "Primary Header",
+  "description": "Contains the main branding, navigation, and logo.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

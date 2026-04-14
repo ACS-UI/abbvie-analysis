@@ -1,0 +1,27 @@
+{
+  "blockId": "story_highlights",
+  "templateIds": [
+    "tpl_148",
+    "tpl_204"
+  ],
+  "name": "Story Highlights",
+  "description": "Highlights key stories or features in a card layout.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_148 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

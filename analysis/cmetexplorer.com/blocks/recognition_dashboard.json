@@ -1,0 +1,27 @@
+{
+  "blockId": "recognition_dashboard",
+  "templateIds": [
+    "tpl_21"
+  ],
+  "name": "Recognition Dashboard",
+  "description": "Displays key recognition statistics.",
+  "domHints": {
+    "selectors": [
+      "div.dashboard-card-facts",
+      "div.content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_21 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

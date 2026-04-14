@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_3",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Content Section 3",
+  "description": "Patient testimonial and related information.",
+  "domHints": {
+    "selectors": [
+      ".patient-msg-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Quote"
+}

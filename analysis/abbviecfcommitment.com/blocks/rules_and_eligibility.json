@@ -1,0 +1,26 @@
+{
+  "blockId": "rules_and_eligibility",
+  "templateIds": [
+    "tpl_32"
+  ],
+  "name": "Rules and Eligibility",
+  "description": "Details the program rules and eligibility criteria.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.container--excerpt"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_32 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

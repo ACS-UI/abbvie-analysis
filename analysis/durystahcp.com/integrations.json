@@ -1,0 +1,28 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.durystahcp.com/",
+          "https://www.durystahcp.com/resources",
+          "https://www.durystahcp.com/clinical-data",
+          "https://www.durystahcp.com/when-to-use",
+          "https://www.durystahcp.com/sitemap",
+          "https://www.durystahcp.com/site-modols/patientsite_requestrep",
+          "https://www.durystahcp.com/site-modols",
+          "https://www.durystahcp.com/faq"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:33:13.572Z"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "product_cards",
+  "templateIds": [
+    "tpl_0",
+    "tpl_6"
+  ],
+  "name": "Product Cards",
+  "description": "Showcases individual product information with images and links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.allergan-ays-brands"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

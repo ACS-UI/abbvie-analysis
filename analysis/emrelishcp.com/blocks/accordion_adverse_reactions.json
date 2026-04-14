@@ -1,0 +1,27 @@
+{
+  "blockId": "accordion_adverse_reactions",
+  "templateIds": [
+    "tpl_5",
+    "tpl_10"
+  ],
+  "name": "Accordion: Adverse Reactions",
+  "description": "Expandable sections detailing specific adverse reactions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

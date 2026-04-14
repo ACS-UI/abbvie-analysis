@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_terms_conditions",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Accordion - Terms and Conditions",
+  "description": "Accordion component detailing program terms and conditions.",
+  "domHints": {
+    "selectors": [
+      "#TermsAndConditions"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

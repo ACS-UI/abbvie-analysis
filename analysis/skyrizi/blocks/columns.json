@@ -1,0 +1,53 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_1",
+    "tpl_3",
+    "tpl_4",
+    "tpl_7",
+    "tpl_11",
+    "tpl_14",
+    "tpl_15",
+    "tpl_17",
+    "tpl_18",
+    "tpl_21",
+    "tpl_22",
+    "tpl_26",
+    "tpl_29",
+    "tpl_30",
+    "tpl_31",
+    "tpl_33",
+    "tpl_36",
+    "tpl_40",
+    "tpl_41",
+    "tpl_46",
+    "tpl_47",
+    "tpl_50",
+    "tpl_52",
+    "tpl_88",
+    "tpl_92",
+    "tpl_97",
+    "tpl_98"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: .abbv-image-text-v1-117132110-large { display: inline-block; } Results with SKYRIZI See if SKYRIZI is right for you .abb…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)",
+      "[role='main'] > div:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_1. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

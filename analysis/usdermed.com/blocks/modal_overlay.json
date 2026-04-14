@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_overlay",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Modal Overlay",
+  "description": "Displays modal dialogs for user interactions or information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

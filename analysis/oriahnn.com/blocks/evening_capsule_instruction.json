@@ -1,0 +1,26 @@
+{
+  "blockId": "evening_capsule_instruction",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Evening Capsule Instruction",
+  "description": "Details for taking the evening dose of the medication.",
+  "domHints": {
+    "selectors": [
+      ".four-box-moon .abbv-col-2 img[alt='Evening Icon.']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

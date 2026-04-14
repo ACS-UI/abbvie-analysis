@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.savewithays.com/",
+  "normalisedUrl": "https://www.savewithays.com/",
+  "finalUrlAfterRedirects": "https://www.savewithays.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:24:23.867Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

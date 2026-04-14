@@ -1,0 +1,30 @@
+{
+  "blockId": "primary_navigation",
+  "templateIds": [
+    "tpl_3",
+    "tpl_5",
+    "tpl_6",
+    "tpl_9",
+    "tpl_11"
+  ],
+  "name": "Primary Navigation",
+  "description": "Main navigation links for the site, including submenus.",
+  "domHints": {
+    "selectors": [
+      ".nav_float"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

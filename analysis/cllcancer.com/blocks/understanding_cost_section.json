@@ -1,0 +1,26 @@
+{
+  "blockId": "understanding_cost_section",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Understanding Cost Section",
+  "description": "Explains the financial considerations of CLL treatment.",
+  "domHints": {
+    "selectors": [
+      "#understanding-treatment-cost"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_take_quiz",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "CTA: Take the Quiz",
+  "description": "Encourages users to take a symptom quiz.",
+  "domHints": {
+    "selectors": [
+      ".abbv-col-6 .abbv-container:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

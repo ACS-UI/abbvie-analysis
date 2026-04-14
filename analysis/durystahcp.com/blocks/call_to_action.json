@@ -1,0 +1,27 @@
+{
+  "blockId": "call_to_action",
+  "templateIds": [
+    "tpl_18"
+  ],
+  "name": "Call to Action",
+  "description": "Provides a button for users to proceed to an external page.",
+  "domHints": {
+    "selectors": [
+      ".cta",
+      ".abbv-button-primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_18 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

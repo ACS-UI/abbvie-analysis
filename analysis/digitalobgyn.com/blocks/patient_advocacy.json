@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_advocacy",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Patient Advocacy Section",
+  "description": "Provides information and resources related to patient advocacy for endometriosis and uterine fibroids.",
+  "domHints": {
+    "selectors": [
+      "#patient-advocacy"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

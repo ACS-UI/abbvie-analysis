@@ -1,0 +1,26 @@
+{
+  "blockId": "five_reasons_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Five Reasons Section",
+  "description": "Encourages users to ask their doctor about low-dose birth control with supporting visuals and text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.lolo-five-reasons-why"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

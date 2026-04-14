@@ -1,0 +1,26 @@
+{
+  "blockId": "scholar_story",
+  "templateIds": [
+    "tpl_45"
+  ],
+  "name": "Scholar Story",
+  "description": "Contains the personal story and narrative of the scholar.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.grid__2-col.container--narrow .rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_45 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

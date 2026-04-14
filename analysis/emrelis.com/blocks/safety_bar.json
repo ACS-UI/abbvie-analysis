@@ -1,0 +1,26 @@
+{
+  "blockId": "safety_bar",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Safety Bar",
+  "description": "Displays a collapsible safety information bar at the bottom of the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-safety-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

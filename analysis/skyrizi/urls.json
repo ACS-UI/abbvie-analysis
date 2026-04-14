@@ -1,0 +1,1302 @@
+{
+  "entryUrl": "https://www.skyrizi.com/",
+  "discoveredAt": "2026-04-13T11:06:42.649Z",
+  "urls": [
+    {
+      "url": "https://www.skyrizi.com/",
+      "normalised": "https://www.skyrizi.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis",
+      "normalised": "https://www.skyrizi.com/psoriasis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns",
+      "normalised": "https://www.skyrizi.com/crohns",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/signup",
+      "normalised": "https://www.skyrizi.com/signup",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/search-results",
+      "normalised": "https://www.skyrizi.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/login",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/login",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/forgot-password",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/forgot-password",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/about-skyrizi-complete",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/about-skyrizi-complete",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/nurse-ambassador",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/nurse-ambassador",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/landing/mms-opt-terms-and-conditions",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/landing/mms-opt-terms-and-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/stay-on-track-with-skyrizi-treatment",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/stay-on-track-with-skyrizi-treatment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/managing-treatment/preparing-for-skyrizi",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/managing-treatment/preparing-for-skyrizi",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/managing-treatment/insurance-101",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/managing-treatment/insurance-101",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/managing-treatment/share-your-story",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/managing-treatment/share-your-story",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/how-to-inject",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/how-to-inject",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/gastro/ways-to-save#tandcs",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/gastro/ways-to-save",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/save-on-skyrizi-costs",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/save-on-skyrizi-costs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/crohns/infusion-support",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/crohns/infusion-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/landing/living-with-psoriasis",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/landing/living-with-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/landing/living-with-psoriatic-arthritis",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/landing/living-with-psoriatic-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-resources-to-stay-on-track/obi-training-video-transcript",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-resources-to-stay-on-track/obi-training-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-resources-to-stay-on-track",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-resources-to-stay-on-track",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-about-skyrizi-complete",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-about-skyrizi-complete",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-ways-to-save",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-ways-to-save",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/managing-treatment/living-with-your-condition",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/managing-treatment/living-with-your-condition",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/crohns/obi-support",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/crohns/obi-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-resources-to-stay-on-track/infusion-training-video-transcript",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/landing/crohns-resources-to-stay-on-track/infusion-training-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/preparing-for-skyrizi",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/preparing-for-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/gastro/about-skyrizi-complete",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/gastro/about-skyrizi-complete",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/gastro/infusion-support",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/gastro/infusion-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/share-your-story",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/share-your-story",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/living-with-your-condition",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/living-with-your-condition",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/insurance-101",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/insurance-101",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/gastro/obi-support",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/gastro/obi-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/gastro/resources-to-stay-on-track",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/gastro/resources-to-stay-on-track",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/living-with-psoriasis",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/living-with-psoriasis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/living-with-psoriatic-arthritis",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/living-with-psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/about-skyrizi/dosing-and-taking-skyrizi",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/about-skyrizi/dosing-and-taking-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/cost-and-savings",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/cost-and-savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/sitemap",
+      "normalised": "https://www.skyrizi.com/psoriasis/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/cost-and-savings",
+      "normalised": "https://www.skyrizi.com/crohns/cost-and-savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/talk-to-doctor/partner-with-your-doctor",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/talk-to-doctor/partner-with-your-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-crohns-disease/crohns-treatment-goals",
+      "normalised": "https://www.skyrizi.com/crohns/about-crohns-disease/crohns-treatment-goals",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/plaque-psoriasis/what-is-plaque-psoriasis",
+      "normalised": "https://www.skyrizi.com/psoriasis/plaque-psoriasis/what-is-plaque-psoriasis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/talk-to-doctor/how-to-talk-to-your-doctor",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/talk-to-doctor/how-to-talk-to-your-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/plaque-psoriasis/causes",
+      "normalised": "https://www.skyrizi.com/psoriasis/plaque-psoriasis/causes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/about-skyrizi/how-skyrizi-works",
+      "normalised": "https://www.skyrizi.com/psoriasis/about-skyrizi/how-skyrizi-works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/oral-treatment-for-psoriasis",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/oral-treatment-for-psoriasis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/plaque-psoriasis/symptoms",
+      "normalised": "https://www.skyrizi.com/psoriasis/plaque-psoriasis/symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-crohns-disease/what-is-crohns-disease",
+      "normalised": "https://www.skyrizi.com/crohns/about-crohns-disease/what-is-crohns-disease",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/talk-to-dermatologist/find-a-dermatologist",
+      "normalised": "https://www.skyrizi.com/psoriasis/talk-to-dermatologist/find-a-dermatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/skyrizi-vs-other-injections",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/skyrizi-vs-other-injections",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/asking-about-skyrizi/how-to-talk-to-your-doctor",
+      "normalised": "https://www.skyrizi.com/crohns/asking-about-skyrizi/how-to-talk-to-your-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-ulcerative-colitis/what-is-ulcerative-colitis",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-ulcerative-colitis/what-is-ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/before-and-after-pictures",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/before-and-after-pictures",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-skyrizi/side-effects",
+      "normalised": "https://www.skyrizi.com/crohns/about-skyrizi/side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-skyrizi/dosing",
+      "normalised": "https://www.skyrizi.com/crohns/about-skyrizi/dosing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/skyrizi-results",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/skyrizi-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/plaque-psoriasis/inflammation-and-psoriasis",
+      "normalised": "https://www.skyrizi.com/psoriasis/plaque-psoriasis/inflammation-and-psoriasis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/about-skyrizi/what-is-skyrizi",
+      "normalised": "https://www.skyrizi.com/psoriasis/about-skyrizi/what-is-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/insurance-comparison-chart",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/insurance-comparison-chart",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/about-psa/symptoms",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/about-psa/symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/skyrizi-results/efficacy",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/skyrizi-results/efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/about-skyrizi/what-is-skyrizi",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/about-skyrizi/what-is-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/about-skyrizi/side-effects-and-safety",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/about-skyrizi/side-effects-and-safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-skyrizi/how-skyrizi-works",
+      "normalised": "https://www.skyrizi.com/crohns/about-skyrizi/how-skyrizi-works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/asking-about-skyrizi/find-a-gastroenterologist",
+      "normalised": "https://www.skyrizi.com/crohns/asking-about-skyrizi/find-a-gastroenterologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/gastro/ambassador",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/gastro/ambassador",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/about-skyrizi/how-skyrizi-works",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/about-skyrizi/how-skyrizi-works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-skyrizi/what-is-skyrizi",
+      "normalised": "https://www.skyrizi.com/crohns/about-skyrizi/what-is-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/about-psa/psoriasis-and-psoriatic-arthritis",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/about-psa/psoriasis-and-psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/what-is-skyrizi",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/what-is-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/asking-about-skyrizi/find-a-gastroenterologist",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/asking-about-skyrizi/find-a-gastroenterologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-ulcerative-colitis/goals-for-treating-uc",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-ulcerative-colitis/goals-for-treating-uc",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/side-effects",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/about-psa/what-is-psoriatic-arthritis",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/about-psa/what-is-psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/sitemap",
+      "normalised": "https://www.skyrizi.com/crohns/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/cost-and-savings",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/cost-and-savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/sitemap",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/talk-to-doctor/find-a-doctor",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/talk-to-doctor/find-a-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/skyrizi-results/real-patient-stories",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/skyrizi-results/real-patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/about-psa/what-causes-psa",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/about-psa/what-causes-psa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/skyrizi-results",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/skyrizi-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/sitemap",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/asking-about-skyrizi/partner-with-your-gastroenterologist",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/asking-about-skyrizi/partner-with-your-gastroenterologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/how-skyrizi-works",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/how-skyrizi-works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/dosing",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/dosing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/asking-about-skyrizi/uc-impact-assessment",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/asking-about-skyrizi/uc-impact-assessment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/important-safety-information",
+      "normalised": "https://www.skyrizi.com/important-safety-information",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/rebate",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/rebate",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/gastro/rebate",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/gastro/rebate",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/gina-seeks-answers",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/gina-seeks-answers",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/steves-journey-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/steves-journey-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/rebate/login",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/rebate/login",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/enrollment",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/enrollment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/kevins-connection-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/kevins-connection-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/amy-gets-her-answers",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/amy-gets-her-answers",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/alisha-finds-clearer-skin",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/alisha-finds-clearer-skin",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/about-skyrizi/how-skyrizi-works/skyrizi-science-story-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis/about-skyrizi/how-skyrizi-works/skyrizi-science-story-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-400580732-2",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-400580732-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/abbv-tab-1149882772-1",
+      "normalised": "https://www.skyrizi.com/crohns/abbv-tab-1149882772-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/kevins-advocacy-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/kevins-advocacy-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/amys-happy",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/amys-happy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1831893757-0",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1831893757-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-video-robbe-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-video-robbe-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/kathryn-change-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/kathryn-change-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/kathryn-improvements-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/kathryn-improvements-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/will-gets-the-right-diagnosis",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/will-gets-the-right-diagnosis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-video-paul-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-video-paul-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/how-skyrizi-works/moa-video-transcript",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/how-skyrizi-works/moa-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-crohns-disease/abbv-tab-1717860526-0",
+      "normalised": "https://www.skyrizi.com/crohns/about-crohns-disease/abbv-tab-1717860526-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1831893757-1",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1831893757-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/kevins-journey-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/kevins-journey-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/talk-to-doctor/partner-with-your-doctor/dr-ackerman-derm-visit",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/talk-to-doctor/partner-with-your-doctor/dr-ackerman-derm-visit",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/about-skyrizi/how-skyrizi-works/psa-moa-video-transcript",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/about-skyrizi/how-skyrizi-works/psa-moa-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1742073124-0",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1742073124-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-video-brenda-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-video-brenda-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/kathryn-taking-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/kathryn-taking-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/selina-speaks-up",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/selina-speaks-up",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/jonathan-talking-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/jonathan-talking-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/seans-journey-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/seans-journey-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/shonda-taking-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/shonda-taking-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/talk-to-dermatologist/how-to-talk-to-your-doctor",
+      "normalised": "https://www.skyrizi.com/psoriasis/talk-to-dermatologist/how-to-talk-to-your-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-skyrizi/how-skyrizi-works/moa-video-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/about-skyrizi/how-skyrizi-works/moa-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-video-jordan-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-video-jordan-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/rebate/sign-up",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/rebate/sign-up",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/shonda-change-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/shonda-change-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/gastro/",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/gastro",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/talk-to-doctor/",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/talk-to-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/kade-change-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/kade-change-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/skyrizi-vs-other-injections/patient-testimonials-paul",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/skyrizi-vs-other-injections/patient-testimonials-paul",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-400580732-3",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-400580732-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/abbv-tab-1149882772-2",
+      "normalised": "https://www.skyrizi.com/crohns/abbv-tab-1149882772-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1742073124-1",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1742073124-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/jonathan-experience-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/jonathan-experience-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/shonda-improvements-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/shonda-improvements-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/discover-more-of-kades-story-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/discover-more-of-kades-story-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1742073124-2",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1742073124-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-400580732-0",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-400580732-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/gina-celebrates",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/gina-celebrates",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/jonathan-crohns-symptoms-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/skyrizi-results/patient-stories/jonathan-crohns-symptoms-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/skyrizi-results/real-patient-stories/dealing-with-uncontrolled-symptoms-video-transcript",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/skyrizi-results/real-patient-stories/dealing-with-uncontrolled-symptoms-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-crohns-disease/what-is-crohns-disease/endoscopic-improvement-transcript",
+      "normalised": "https://www.skyrizi.com/crohns/about-crohns-disease/what-is-crohns-disease/endoscopic-improvement-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/abbv-tab-1149882772-3",
+      "normalised": "https://www.skyrizi.com/crohns/abbv-tab-1149882772-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/skyrizi-complete/save-on-skyrizi-costs?cid=olm_br_imm_ps_soe_ttd_vnt_hsc_0164_202110",
+      "normalised": "https://www.skyrizi.com/skyrizi-complete/save-on-skyrizi-costs?cid=olm_br_imm_ps_soe_ttd_vnt_hsc_0164_202110",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-400580732-1",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-400580732-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/covid19",
+      "normalised": "https://www.skyrizi.com/covid19",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-crohns-disease/abbv-tab-1717860526-1",
+      "normalised": "https://www.skyrizi.com/crohns/about-crohns-disease/abbv-tab-1717860526-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-crohns-disease/",
+      "normalised": "https://www.skyrizi.com/crohns/about-crohns-disease",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/about-skyrizi/",
+      "normalised": "https://www.skyrizi.com/psoriasis/about-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1694165004-2",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1694165004-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-testimonial-allen-transcript",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/patient-testimonial-allen-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/abbv-tab-370133709-3",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/abbv-tab-370133709-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1831893757-2",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1831893757-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/abbv-tab-370133709-1",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/abbv-tab-370133709-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1705868650-0",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1705868650-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/coronavirusgov",
+      "normalised": "https://www.skyrizi.com/coronavirusgov",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/abbv-tab-370133709-2",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/abbv-tab-370133709-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-ulcerative-colitis/abbv-tab-2138674406-0",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-ulcerative-colitis/abbv-tab-2138674406-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1263765901-1",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1263765901-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1694165004-1",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1694165004-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1705868650-1",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1705868650-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/alisha-and-brett-scalp-psoriasis",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/skyrizi-patient-stories/alisha-and-brett-scalp-psoriasis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1263765901-0",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1263765901-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-ulcerative-colitis/abbv-tab-2138674406-1",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-ulcerative-colitis/abbv-tab-2138674406-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/skyrizi-results/real-patient-stories/working-toward-treatment-goals-video-transcript",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/skyrizi-results/real-patient-stories/working-toward-treatment-goals-video-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1694165004-0",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1694165004-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1705868650-2",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/abbv-tab-1705868650-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/savings-card-terms#tandcs",
+      "normalised": "https://www.skyrizi.com/savings-card-terms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/skyrizi-vs-other-biologics",
+      "normalised": "https://www.skyrizi.com/psoriasis/psoriasis-treatment/skyrizi-vs-other-biologics",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/crohns/about-skyrizi/",
+      "normalised": "https://www.skyrizi.com/crohns/about-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi/",
+      "normalised": "https://www.skyrizi.com/ulcerative-colitis/about-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriatic-arthritis/about-skyrizi/",
+      "normalised": "https://www.skyrizi.com/psoriatic-arthritis/about-skyrizi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1705868650-2",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1705868650-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1705868650-0",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1705868650-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1705868650-1",
+      "normalised": "https://www.skyrizi.com/psoriasis-psoriatic-arthritis/skyrizi-results/abbv-tab-1705868650-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 184,
+    "bySource": {
+      "sitemap": 61,
+      "crawl": 123,
+      "manual": 0
+    }
+  }
+}

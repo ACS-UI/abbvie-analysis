@@ -1,0 +1,28 @@
+{
+  "blockId": "footer_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_6",
+    "tpl_11"
+  ],
+  "name": "Footer Navigation",
+  "description": "Provides links to various site sections and resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

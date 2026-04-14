@@ -1,0 +1,26 @@
+{
+  "blockId": "header_logo",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Header Logo",
+  "description": "Displays the site logo and links to the homepage.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-left a img"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

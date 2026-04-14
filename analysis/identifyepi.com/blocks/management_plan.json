@@ -1,0 +1,26 @@
+{
+  "blockId": "management_plan",
+  "templateIds": [
+    "tpl_32"
+  ],
+  "name": "Management Plan",
+  "description": "Highlights the comprehensive management plan for EPI.",
+  "domHints": {
+    "selectors": [
+      ".epi-management-plan"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_32 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

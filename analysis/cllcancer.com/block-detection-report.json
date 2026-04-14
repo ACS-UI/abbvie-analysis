@@ -1,0 +1,103 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Homepage Overview",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Registration Form",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Prognosis Information",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Search Results",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Living with CLL",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Sitemap",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Treatment Options",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Find a Provider",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Goals of Therapy - Minimal Residual Disease (MRD)",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "What is CLL?",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Goals of Therapy",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Support Resources",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Site Map",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Cost of Treatment",
+      "source": "llm_identify",
+      "blockCount": 12,
+      "proposedCount": 12
+    }
+  ],
+  "generatedAt": "2026-04-13T16:19:13.662Z"
+}

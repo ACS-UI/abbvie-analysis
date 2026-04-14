@@ -1,0 +1,26 @@
+{
+  "blockId": "insurance_information",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Insurance Information Section",
+  "description": "Provides details about understanding and managing health insurance.",
+  "domHints": {
+    "selectors": [
+      ".health-insurance"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

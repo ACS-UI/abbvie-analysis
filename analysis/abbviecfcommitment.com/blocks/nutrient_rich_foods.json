@@ -1,0 +1,26 @@
+{
+  "blockId": "nutrient_rich_foods",
+  "templateIds": [
+    "tpl_23"
+  ],
+  "name": "Nutrient-Rich Foods",
+  "description": "Explains how to shop for nutrient-rich foods and their benefits.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.base-wrapper"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "form_submission",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Form Submission",
+  "description": "Hosts the iframe for the vulnerability submission form.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.vulnerability-submition-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

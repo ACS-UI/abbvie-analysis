@@ -1,0 +1,119 @@
+{
+  "entryUrl": "https://www.digitalobgyn.com/",
+  "discoveredAt": "2026-04-13T16:05:16.440Z",
+  "urls": [
+    {
+      "url": "https://www.digitalobgyn.com/",
+      "normalised": "https://www.digitalobgyn.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/resources#patient-advocacy",
+      "normalised": "https://www.digitalobgyn.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/sitemap",
+      "normalised": "https://www.digitalobgyn.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/find-my-msl",
+      "normalised": "https://www.digitalobgyn.com/find-my-msl",
+      "source": "crawl",
+      "httpStatus": 0,
+      "contentType": null
+    },
+    {
+      "url": "https://www.digitalobgyn.com/endometriosis",
+      "normalised": "https://www.digitalobgyn.com/endometriosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/featured-experts",
+      "normalised": "https://www.digitalobgyn.com/featured-experts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/featured-speakers",
+      "normalised": "https://www.digitalobgyn.com/featured-speakers",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/bonehealth",
+      "normalised": "https://www.digitalobgyn.com/bonehealth",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/uterinefibroids",
+      "normalised": "https://www.digitalobgyn.com/uterinefibroids",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/abbv-tab-1146940357-4",
+      "normalised": "https://www.digitalobgyn.com/abbv-tab-1146940357-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/abbv-tab-1146940357-0",
+      "normalised": "https://www.digitalobgyn.com/abbv-tab-1146940357-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/abbv-tab-1146940357-5",
+      "normalised": "https://www.digitalobgyn.com/abbv-tab-1146940357-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/abbv-tab-1146940357-3",
+      "normalised": "https://www.digitalobgyn.com/abbv-tab-1146940357-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/abbv-tab-1146940357-2",
+      "normalised": "https://www.digitalobgyn.com/abbv-tab-1146940357-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.digitalobgyn.com/abbv-tab-1146940357-1",
+      "normalised": "https://www.digitalobgyn.com/abbv-tab-1146940357-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 15,
+    "bySource": {
+      "sitemap": 3,
+      "crawl": 12,
+      "manual": 0
+    }
+  }
+}

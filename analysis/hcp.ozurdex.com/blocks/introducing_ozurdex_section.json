@@ -1,0 +1,26 @@
+{
+  "blockId": "introducing_ozurdex_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Introducing Ozurdex Section",
+  "description": "Details on introducing Ozurdex to patients and its benefits.",
+  "domHints": {
+    "selectors": [
+      "#introducing"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

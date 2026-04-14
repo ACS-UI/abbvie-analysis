@@ -1,0 +1,26 @@
+{
+  "blockId": "differential_diagnoses",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Differential Diagnoses",
+  "description": "Details various differential diagnoses for HS.",
+  "domHints": {
+    "selectors": [
+      ".card-caption-dark-grey"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

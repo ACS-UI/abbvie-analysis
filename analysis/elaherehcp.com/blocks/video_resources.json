@@ -1,0 +1,26 @@
+{
+  "blockId": "video_resources",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Video Resources",
+  "description": "Cards showcasing individual videos with descriptions and thumbnails.",
+  "domHints": {
+    "selectors": [
+      ".cmp-row.cmp-row--equal-height.cmp-row--tablet-2col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

@@ -1,0 +1,32 @@
+{
+  "blockId": "profile_section",
+  "templateIds": [
+    "tpl_13",
+    "tpl_26",
+    "tpl_38",
+    "tpl_40",
+    "tpl_42",
+    "tpl_43",
+    "tpl_44"
+  ],
+  "name": "Profile Section",
+  "description": "Displays the scholar's profile image, name, and introductory details.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.grid__2-col--40-60"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

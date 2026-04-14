@@ -1,0 +1,147 @@
+{
+  "entryUrl": "https://www.elaherehcp.com/",
+  "discoveredAt": "2026-04-13T16:31:34.822Z",
+  "urls": [
+    {
+      "url": "https://www.elaherehcp.com/",
+      "normalised": "https://www.elaherehcp.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "normalised": "https://www.elaherehcp.com/efficacy/mirasol-study-data",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "normalised": "https://www.elaherehcp.com/support-resources/elahere-videos",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/support-resources/access-assistance",
+      "normalised": "https://www.elaherehcp.com/support-resources/access-assistance",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "normalised": "https://www.elaherehcp.com/dosing/preparation-administration",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/efficacy/additional-data",
+      "normalised": "https://www.elaherehcp.com/efficacy/additional-data",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/efficacy/single-arm-study-design",
+      "normalised": "https://www.elaherehcp.com/efficacy/single-arm-study-design",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/efficacy/mirasol-study-design",
+      "normalised": "https://www.elaherehcp.com/efficacy/mirasol-study-design",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/efficacy/patient-reported-outcomes",
+      "normalised": "https://www.elaherehcp.com/efficacy/patient-reported-outcomes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/request-a-rep",
+      "normalised": "https://www.elaherehcp.com/request-a-rep",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/support-resources/resource-library",
+      "normalised": "https://www.elaherehcp.com/support-resources/resource-library",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/dosing/dose-modifications",
+      "normalised": "https://www.elaherehcp.com/dosing/dose-modifications",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/support-resources/faqs",
+      "normalised": "https://www.elaherehcp.com/support-resources/faqs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/eye-care",
+      "normalised": "https://www.elaherehcp.com/eye-care",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/fra-and-elahere/why-testing-matters",
+      "normalised": "https://www.elaherehcp.com/fra-and-elahere/why-testing-matters",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/fra-and-elahere/how-to-test",
+      "normalised": "https://www.elaherehcp.com/fra-and-elahere/how-to-test",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/safety/",
+      "normalised": "https://www.elaherehcp.com/safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/fra-and-elahere/what-results-mean",
+      "normalised": "https://www.elaherehcp.com/fra-and-elahere/what-results-mean",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.elaherehcp.com/safety/single-arm-study-safety",
+      "normalised": "https://www.elaherehcp.com/safety/single-arm-study-safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html"
+    }
+  ],
+  "stats": {
+    "total": 19,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 19,
+      "manual": 0
+    }
+  }
+}

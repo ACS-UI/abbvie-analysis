@@ -1,0 +1,27 @@
+{
+  "blockId": "main_region_5",
+  "templateIds": [
+    "tpl_17",
+    "tpl_23"
+  ],
+  "name": "main region 5",
+  "description": "Major content region in main (div). Preview: .abbv-image-text-v1-1743422995-large { display: inline-block; } CREON should be taken with every meal and snack, with su…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(6)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_17. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

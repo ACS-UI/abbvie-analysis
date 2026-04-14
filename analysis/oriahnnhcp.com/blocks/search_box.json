@@ -1,0 +1,26 @@
+{
+  "blockId": "search_box",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Search Box",
+  "description": "Allows users to search for content within the site.",
+  "domHints": {
+    "selectors": [
+      "#header-search"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Search"
+}

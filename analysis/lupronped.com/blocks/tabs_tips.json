@@ -1,0 +1,26 @@
+{
+  "blockId": "tabs_tips",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Tabs for Tips",
+  "description": "Tabbed interface for tips before, during, and after doctor visits.",
+  "domHints": {
+    "selectors": [
+      ".tabs-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Site Map Section",
+  "description": "Lists links to all major pages of the site for easy navigation.",
+  "domHints": {
+    "selectors": [
+      ".vuity-sitemap-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

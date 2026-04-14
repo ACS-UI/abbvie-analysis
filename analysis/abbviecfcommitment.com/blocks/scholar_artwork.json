@@ -1,0 +1,28 @@
+{
+  "blockId": "scholar_artwork",
+  "templateIds": [
+    "tpl_36",
+    "tpl_37",
+    "tpl_45"
+  ],
+  "name": "Scholar Artwork",
+  "description": "Showcases the artwork of the scholar.",
+  "domHints": {
+    "selectors": [
+      ".container_round-top"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_36 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

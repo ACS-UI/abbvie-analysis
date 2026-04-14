@@ -1,0 +1,3535 @@
+{
+  "entryUrl": "https://www.rxabbvie.com/",
+  "discoveredAt": "2026-04-13T16:28:37.326Z",
+  "urls": [
+    {
+      "url": "https://www.rxabbvie.com/",
+      "normalised": "https://www.rxabbvie.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/artia_ifu_173P0040i_t4.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/artia_ifu_173P0040i_t4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/blephamide-ointment_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/blephamide-ointment_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/imbruvica_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/imbruvica_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/carafate-oral-suspension_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/carafate-oral-suspension_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/162052-juvederm-ultra-dfu-may-2016.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/162052-juvederm-ultra-dfu-may-2016.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice-lap_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice-lap_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alphaganp_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alphaganp_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180128-VANIQA-USPI-73326US11.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180128-VANIQA-USPI-73326US11.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_belt.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_belt.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/estrace_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/estrace_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strxthick_ifu_173p0059b_t4.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strxthick_ifu_173p0059b_t4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volbella_uh_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volbella_uh_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-150mg1ml-syringe_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-150mg1ml-syringe_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/liletta_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/liletta_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/06-2018-Armour-Thyroid-PI-final.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/06-2018-Armour-Thyroid-PI-final.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/liletta_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/liletta_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/oriahnn_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/oriahnn_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Oxytrol-10-2017.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Oxytrol-10-2017.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20160525-ACULAR-LS-USPI-71654US15.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20160525-ACULAR-LS-USPI-71654US15.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/namenda-xr_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/namenda-xr_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vraylar_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vraylar_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/restasis_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/restasis_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupron3_75mg.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupron3_75mg.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-plus_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-plus_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_ifu_obi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_ifu_obi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/emrelis_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/emrelis_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alocril_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alocril_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/gengraf-cap.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/gengraf-cap.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-180mg2ml-syringe_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-180mg2ml-syringe_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/depakote_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/depakote_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/kybella_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/kybella_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-8-Viibryd(vilazodone)-USPI-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-8-Viibryd(vilazodone)-USPI-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/pred-g_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/pred-g_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-360mg2.4ml-syringe_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-360mg2.4ml-syringe_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice-bps_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice-bps_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavyret_PIL.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavyret_PIL.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/taytulla_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/taytulla_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_minibroch_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_minibroch_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_minibroch.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_minibroch.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180606-PRED-FORTE-v1-1USPI180.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180606-PRED-FORTE-v1-1USPI180.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_recon.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_recon.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Microzide_PI_October-2011.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Microzide_PI_October-2011.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-ACTIGALL-USPI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-ACTIGALL-USPI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_minibroch.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_minibroch.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lumigan_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lumigan_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/L3716.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/L3716.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/synthroid.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/synthroid.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_acadapter.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_acadapter.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/durysta_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/durysta_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/namzaric_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/namzaric_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-10-07-NDA-019429-Fiorinal-w-Codeine-PI-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-10-07-NDA-019429-Fiorinal-w-Codeine-PI-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/crinone_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/crinone_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20170729-LUMIGAN-0-01%-USPI-71807US15.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20170729-LUMIGAN-0-01%-USPI-71807US15.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/venclexta.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/venclexta.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180622-BLEPHAMIDE-Ointment-v1-0USPI0313.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180622-BLEPHAMIDE-Ointment-v1-0USPI0313.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/urso_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/urso_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/04-2018-Asacol-HD-USPI-final.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/04-2018-Asacol-HD-USPI-final.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humira_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humira_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-360mg4ml-syringe_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-360mg4ml-syringe_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pil.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pil.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volux-xc_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volux-xc_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_cbpack.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_cbpack.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronuro_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronuro_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20151015-Combigan-USPI-72060US15.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20151015-Combigan-USPI-72060US15.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-salineimplants_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-salineimplants_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Sarafem_USPI_clean-final-word_Jan-2017.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Sarafem_USPI_clean-final-word_Jan-2017.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/emblaveo_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/emblaveo_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronuro_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronuro_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volbellla-xc_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volbellla-xc_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/revolve_manual.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/revolve_manual.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/infed_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/infed_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/revolve-envi-600_qrg.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/revolve-envi-600_qrg.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/fml-ointment_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/fml-ointment_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/oriahnn_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/oriahnn_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20170718-BLEPHAMIDE-Suspension-USPI-71735US12.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20170718-BLEPHAMIDE-Suspension-USPI-71735US12.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_pi_cre.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_pi_cre.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox-cosmetic_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox-cosmetic_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/combigan_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/combigan_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180205-KYBELLA-USPI-73179US10.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180205-KYBELLA-USPI-73179US10.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/teflaro_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/teflaro_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-pen_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-pen_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/AVAGE-Cream_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/AVAGE-Cream_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi_rus.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi_rus.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/gengraf-oral.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/gengraf-oral.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alphagan_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alphagan_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ifu_truetear_professional.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ifu_truetear_professional.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/pred-forte_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/pred-forte_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Alora_Final_Label_11_2018.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Alora_Final_Label_11_2018.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_pt_cklst.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_pt_cklst.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_aug.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_aug.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/oxytrol_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/oxytrol_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/synthroid_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/synthroid_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-vollure-xc_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-vollure-xc_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/venclyxto_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/venclyxto_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_pump_manual.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_pump_manual.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_consent.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_consent.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/kaletratabpi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/kaletratabpi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-06-Thyrolar-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-06-Thyrolar-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ozurdex_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ozurdex_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_carrying_accessory_vyafuserpump.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_carrying_accessory_vyafuserpump.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice_ifu..pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice_ifu..pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ktab.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ktab.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/imbruvica_pil.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/imbruvica_pil.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_svest.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_svest.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RESTASIS_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RESTASIS_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/armour_thyroid_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/armour_thyroid_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20160202-LASTACAFT-USPI-72468US13.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20160202-LASTACAFT-USPI-72468US13.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Atelvia-PI-rev04-2015-Allergan_Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Atelvia-PI-rev04-2015-Allergan_Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dfu_xen_glaucoma_treatment_system_us_feb2017.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dfu_xen_glaucoma_treatment_system_us_feb2017.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-plus_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-plus_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/qulipta_pil.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/qulipta_pil.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/AquaDeks.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/AquaDeks.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/qulipta_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/qulipta_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_PI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_PI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RAPAFLO-PLR-06-2017-(003).pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RAPAFLO-PLR-06-2017-(003).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/imbruvica_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/imbruvica_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viekirapak_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viekirapak_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronpediatric_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronpediatric_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/162053-juvederm-ultra-xc-dfu-may-2016.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/162053-juvederm-ultra-xc-dfu-may-2016.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-and-inspira-dfu-l034rev12.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-and-inspira-dfu-l034rev12.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-voluma-xc_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-voluma-xc_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Fiorinal_Capsule-06-2018_clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Fiorinal_Capsule-06-2018_clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/atelvia_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/atelvia_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humira_CHI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humira_CHI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180622-POLYTRIM-USPI-1-0USPI7824.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180622-POLYTRIM-USPI-1-0USPI7824.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ocuflox_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ocuflox_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/cui-saline_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/cui-saline_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/m723rev05.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/m723rev05.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/monurol_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/monurol_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-plux-xc_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-plux-xc_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_port.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_port.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-xc_lip_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-xc_lip_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/OCUFLOX_pi-(1).pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/OCUFLOX_pi-(1).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viberzi_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viberzi_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RECTIV-PI-11-2016.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RECTIV-PI-11-2016.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20171222-BETAGAN-71602US15.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20171222-BETAGAN-71602US15.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_recon_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_recon_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_lvest.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_lvest.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Dalvance_Final_PI_10_2018.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Dalvance_Final_PI_10_2018.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-11-Final-PI-INFED-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-11-Final-PI-INFED-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rinvoq_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rinvoq_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-xc_fwf_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-xc_fwf_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/01-11-2019-Delzicol(mesalamine)-v1-2USPI5853-final.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/01-11-2019-Delzicol(mesalamine)-v1-2USPI5853-final.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/moderiba_PI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/moderiba_PI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/xen_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/xen_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Restasis-MultiDose_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Restasis-MultiDose_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_medguide_chi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_medguide_chi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/blephamide-suspension_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/blephamide-suspension_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rectiv_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rectiv_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-180mg1.2ml-syringe_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi-180mg1.2ml-syringe_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_cklst_mand.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_cklst_mand.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20190620-BOTOX-100-and-200-Units-v3-0USPI1145-v2-0MG1145.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20190620-BOTOX-100-and-200-Units-v3-0USPI1145-v2-0MG1145.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Teflaro-USPI-09_2019-2.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Teflaro-USPI-09_2019-2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_dev_ID_card.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_dev_ID_card.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/web-ready-pdf-m150-rev-h-allergan-dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/web-ready-pdf-m150-rev-h-allergan-dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/venclexta_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/venclexta_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_minibroch_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_minibroch_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/oriahnn_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/oriahnn_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/biapi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/biapi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RVLenv_crd_173G0064a_T3.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RVLenv_crd_173G0064a_T3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ifu_truetear_patient.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ifu_truetear_patient.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Directions-for-Use-Natrelle-133S-and-133-Plus-Tissue-Expanders%20(1).pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Directions-for-Use-Natrelle-133S-and-133-Plus-Tissue-Expanders%20(1).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-10-07%20ANDA%2040148%20NORCO%20PI%20Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-10-07%20ANDA%2040148%20NORCO%20PI%20Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_port.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_port.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/norvirtab_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/norvirtab_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/truetear_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/truetear_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volbella_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volbella_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rinvoq_pi_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rinvoq_pi_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Femhrt_Final_PI_11_2017.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Femhrt_Final_PI_11_2017.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/teveten.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/teveten.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/durysta_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/durysta_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_cpack.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_cpack.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupron3month11_25mg.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupron3month11_25mg.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-01-10-CELEXA-(citalopram)-USPI-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-01-10-CELEXA-(citalopram)-USPI-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/venclexta_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/venclexta_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NamendaXR-rev-Oct-2016-clean__.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NamendaXR-rev-Oct-2016-clean__.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/acular-ls_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/acular-ls_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/fetzima_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/fetzima_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humira.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humira.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-01-10-LEXAPRO-(escitalopram)-USPI-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-01-10-LEXAPRO-(escitalopram)-USPI-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/technivie_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/technivie_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ZYMAXID_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ZYMAXID_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_dtf.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_dtf.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-22501-Lo-Loestrin-Fe-PI-CLEAN-08-2017_ver1.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-22501-Lo-Loestrin-Fe-PI-CLEAN-08-2017_ver1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/avycaz_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/avycaz_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ozurdex_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ozurdex_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Zemplarcappi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Zemplarcappi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rinvoq_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rinvoq_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/celexa_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/celexa_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20170829-LATISSE-USPI-72303US17.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20170829-LATISSE-USPI-72303US17.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viekiraxr_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viekiraxr_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/technivie_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/technivie_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strperf_ifu_173p0051c_t4.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strperf_ifu_173p0051c_t4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-re-steriliizable-silicone-sizers_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-re-steriliizable-silicone-sizers_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronuro_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronuro_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dalvance_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dalvance_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirapen_PIL_CHI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirapen_PIL_CHI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/162055-juvederm-ultra-plus-xc-dfu-may-2016.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/162055-juvederm-ultra-plus-xc-dfu-may-2016.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/pred-mild_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/pred-mild_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-204426-Taytulla-PI-8_2017-ver-4.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-204426-Taytulla-PI-8_2017-ver-4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_medguide_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_medguide_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/namenda_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/namenda_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RVL600_ifu_173R0065d_T4c.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/RVL600_ifu_173R0065d_T4c.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirasyringe_PIL_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirasyringe_PIL_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/urso_pi..pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/urso_pi..pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ultanepi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ultanepi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rapaflo_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rapaflo_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Ubrelvy_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Ubrelvy_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-silicone-sizers-biocell_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-silicone-sizers-biocell_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/m722rev06.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/m722rev06.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-04-Androderm-USPI-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-04-Androderm-USPI-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_hcp_vyafuserpump.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_hcp_vyafuserpump.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-01-10-LEXAPRO-(escitalopram)-USPI-Clean%20(1).pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-01-10-LEXAPRO-(escitalopram)-USPI-Clean%20(1).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_fittedbelt.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_fittedbelt.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/emrelis_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/emrelis_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20190213-ACUVAIL-USPI-v2-0USPI3507-(Clean).pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20190213-ACUVAIL-USPI-v2-0USPI3507-(Clean).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Canasa-NDA-021252-PI_PPI-07-2017-clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Canasa-NDA-021252-PI_PPI-07-2017-clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vuity_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vuity_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/170615-jvd-vollure-dfu_st.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/170615-jvd-vollure-dfu_st.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-vollure-xc_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-vollure-xc_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180615-FML-FORTE-USPI-1-0USPI228.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180615-FML-FORTE-USPI-1-0USPI228.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/polytrim_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/polytrim_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/revolve-envi-600_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/revolve-envi-600_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/163207-juvederm-voluma-xc-dfu-oct-2016.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/163207-juvederm-voluma-xc-dfu-oct-2016.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_fittedvest.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_fittedvest.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-voluma-xc_chn_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-voluma-xc_chn_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Enablex_PI_09-2016.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Enablex_PI_09-2016.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aerochamberplus_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aerochamberplus_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice-thick_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice-thick_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_minibroch_mand.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_minibroch_mand.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Crinone_PI_June_2017.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Crinone_PI_June_2017.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20190626-BOTOX-Cosmetic-Insert-72715US10-Med-Guide-v2-0MG1145.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20190626-BOTOX-Cosmetic-Insert-72715US10-Med-Guide-v2-0MG1145.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/m920_04_sizer.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/m920_04_sizer.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180615-FML-Ointment-USPI-v1-0USPI0316.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180615-FML-Ointment-USPI-v1-0USPI0316.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_bcharger.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_bcharger.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_KOR.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_KOR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Flutter.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Flutter.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Gelnique10_03_2019_Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Gelnique10_03_2019_Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/orilissa_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/orilissa_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/orilissa_pi_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/orilissa_pi_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/synthroid_chi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/synthroid_chi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/carafate-tablets_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/carafate-tablets_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Final-Clean-Namenda-USPI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Final-Clean-Namenda-USPI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavik.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavik.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirasyringe_PIL_CHI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirasyringe_PIL_CHI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-06-URSO-USPI-clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-06-URSO-USPI-clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/simcor_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/simcor_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/l3571rev05.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/l3571rev05.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_RUS.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_RUS.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aerochamberplus-sm_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aerochamberplus-sm_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/diamond_glow_manual.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/diamond_glow_manual.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_pi_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_pi_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_solution.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_ifu_solution.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skinvive_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skinvive_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-Jan-Namzaric-USPI-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-Jan-Namzaric-USPI-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirapen_PIL_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirapen_PIL_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_lb_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_lb_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/abbvie_instr_jtube_mrisupp.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/abbvie_instr_jtube_mrisupp.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_pi_chi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_pi_chi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Final_labeling_text_SAPHRIS-clean-02-2017.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Final_labeling_text_SAPHRIS-clean-02-2017.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vraylar_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vraylar_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-Carafate-Tablets-USPI-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-Carafate-Tablets-USPI-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humiracordavis.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humiracordavis.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_ifu_obi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_ifu_obi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Avycaz_Final_PI_CBE-0_10_2019.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Avycaz_Final_PI_CBE-0_10_2019.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_pi_chi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_pi_chi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dep3_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dep3_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/coolsculpting_manual.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/coolsculpting_manual.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/abbvie_instr_pegtube.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/abbvie_instr_pegtube.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ldoc-04108rev03.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ldoc-04108rev03.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/acular_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/acular_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/coolsculptingelite_manual.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/coolsculptingelite_manual.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/canasa_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/canasa_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/depakote.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/depakote.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alloderm_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alloderm_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aerochamberplus_sm_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aerochamberplus_sm_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_aug_mand.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_aug_mand.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_cklst.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_cklst.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/keller-funnel-ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/keller-funnel-ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viibryd_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viibryd_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_pat_vyafuserpump.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_pat_vyafuserpump.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dep2_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dep2_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/l3473-01rev04.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/l3473-01rev04.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Nephro-Vite-Rx-PI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Nephro-Vite-Rx-PI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-plus-xc_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-plus-xc_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180515-OZURDEX-USPI-v1-0USPI3348.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180515-OZURDEX-USPI-v1-0USPI3348.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lo-loestrin-fe_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lo-loestrin-fe_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/fml-forte_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/fml-forte_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/cooltone_manual.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/cooltone_manual.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/zemplarivpi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/zemplarivpi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/keller-funnel_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/keller-funnel_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/pred-g-suspension_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/pred-g-suspension_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_hpack.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_hpack.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_aug_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_aug_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/162054-juvederm-ultra-plus-dfu-may-2016.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/162054-juvederm-ultra-plus-dfu-may-2016.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/advicor.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/advicor.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vyalev_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_inspira_sus_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_inspira_sus_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-voluma-xc_chk_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-voluma-xc_chk_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/luprongyne_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/luprongyne_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180622-ALOCRIL-USPI-v1-0USPI8842-v1-0PPI8842.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180622-ALOCRIL-USPI-v1-0USPI8842-v1-0PPI8842.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/abbvie_mrisupp.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/abbvie_mrisupp.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/tevetenHCT.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/tevetenHCT.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Final_labeling_text_10-2018-AR-updates-LINZESS-clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Final_labeling_text_10-2018-AR-updates-LINZESS-clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_recon_mand.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_recon_mand.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_fvest.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/duopa_ifu_fvest.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Directions-for-Use-Natrelle-133S-and-133-Plus-Tissue-Expanders.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Directions-for-Use-Natrelle-133S-and-133-Plus-Tissue-Expanders.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/restasis-multidose_pi.pdf.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/restasis-multidose_pi.pdf.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_lb_mand.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_lb_mand.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/imbruvica_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/imbruvica_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Savella_PI_clean_December_2017.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Savella_PI_clean_December_2017.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/latisse_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/latisse_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aquadeks_bspi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aquadeks_bspi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_chi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_chi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/172995-volbella-xc-dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/172995-volbella-xc-dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/thyrolar_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/thyrolar_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lo-loestrin-fe_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lo-loestrin-fe_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice-perf_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strattice-perf_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/bps_ifu_121P0479d_t4.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/bps_ifu_121P0479d_t4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/bystolic_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/bystolic_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/survanta_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/survanta_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-siliconeimplants_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-siliconeimplants_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humira_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humira_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavyret_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavyret_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/truetear-pro_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/truetear-pro_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/saline-dfu-m712rev08.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/saline-dfu-m712rev08.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aerochamberplus_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/aerochamberplus_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/10092019-FETZIMA-v2_0USPI2220-v2_0MG2220-(clean).pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/10092019-FETZIMA-v2_0USPI2220-v2_0MG2220-(clean).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_minibroch_mand.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_minibroch_mand.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/acuvail_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/acuvail_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vicoprofen.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vicoprofen.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavyret_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavyret_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/androgel1_62_PI_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/androgel1_62_PI_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vaniqa_pi..pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vaniqa_pi..pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pil_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pil_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180606-PRED-G-Ointment-USPI-v1-1USPI0066.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180606-PRED-G-Ointment-USPI-v1-1USPI0066.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skinvive_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skinvive_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ultanenovaplus_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ultanenovaplus_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dep2.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dep2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lumigan_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lumigan_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi..pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi..pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/1-2018-Bentyl(dicyclomine-HCL)-USPI-final.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/1-2018-Bentyl(dicyclomine-HCL)-USPI-final.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alleoderm_rtm_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/alleoderm_rtm_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-Final-PI-Condylox-Gel-clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-Final-PI-Condylox-Gel-clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/savella_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/savella_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-022573-Generess-Fe-05-2018-PI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-022573-Generess-Fe-05-2018-PI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/saphris_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/saphris_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/tridione_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/tridione_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ESTRACE-(estradiol)-Cream-USPI-Jun2018-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ESTRACE-(estradiol)-Cream-USPI-Jun2018-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lexapro_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lexapro_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viekiraxr_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/viekiraxr_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/cui-injection_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/cui-injection_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/orilissa_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/orilissa_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/TEST-FILE_DO-NOT-USE.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/TEST-FILE_DO-NOT-USE.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronpediatric.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/lupronpediatric.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/betagan_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/betagan_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/actigall_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/actigall_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rvl_ifu_l00-7037e_t1.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/rvl_ifu_l00-7037e_t1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_viet.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_viet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/tricorpi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/tricorpi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-voluma-xc_temple_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-voluma-xc_temple_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/technivie_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/technivie_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180615-FML-Suspension-USPI-v1-0USPI211.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180615-FML-Suspension-USPI-v1-0USPI211.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/revolve_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/revolve_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/nephro-vite-rx_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/nephro-vite-rx_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-Carafate-Oral-Susp-USPI-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-05-Carafate-Oral-Susp-USPI-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_pt_cklst_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_pt_cklst_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volbella_lp_aug_pr_ln_pt_lb.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volbella_lp_aug_pr_ln_pt_lb.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/condylox_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/condylox_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-410-dfu-l3717rev04.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-410-dfu-l3717rev04.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20170829-BLEPH-10-USPI-71736US14.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20170829-BLEPH-10-USPI-71736US14.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Pylera-Final-PI-10_2018.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/Pylera-Final-PI-10_2018.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-21490-clean-Femcon-Fe_August_2017.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-21490-clean-Femcon-Fe_August_2017.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strlap_ifu_173p0029e_t6.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/strlap_ifu_173p0029e_t6.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/synthroid_rus.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/synthroid_rus.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/trilipix_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/trilipix_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-04-19_Monurol_PI_clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-04-19_Monurol_PI_clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volux-xc_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-volux-xc_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/avage_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/avage_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/kaletratab_medguide.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/kaletratab_medguide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-203667-Minastrin-24-Fe-clean_August_2017.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-203667-Minastrin-24-Fe-clean_August_2017.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/actonel_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/actonel_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox-cosmetic_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox-cosmetic_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_rus.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_rus.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/artia_ifu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/artia_ifu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_medguide_cre.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/elahere_medguide_cre.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-06-Estrostep-FE-USPI-clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2018-06-Estrostep-FE-USPI-clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi_chi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi_chi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/zemplarcappi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/zemplarcappi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-xc_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/juvederm-ultra-xc_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/botox_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vraylar_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/vraylar_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/abbvie_instr_njtube.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/abbvie_instr_njtube.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180724-PRED-G-Suspension-USPI-v1-2USPI0106-Annual-Reportable.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/20180724-PRED-G-Suspension-USPI-v1-2USPI0106-Annual-Reportable.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/bleph-10_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/bleph-10_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_pi_rus.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/skyrizi_pi_rus.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/fml-suspension_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/fml-suspension_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/trilipix_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/trilipix_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-020616-draft-Kadian-PI-clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/NDA-020616-draft-Kadian-PI-clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/linzess_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavyret_PIL_SPA.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/mavyret_PIL_SPA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/restasis-multidose_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/restasis-multidose_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_cklst_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_saline_pt_cklst_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirasyringe_PIL.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/humirasyringe_PIL.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_pt_cklst_mand.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle_silicone_pt_cklst_mand.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_CHI.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/creon_pi_CHI.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ACTONEL-PI-rev-01-2018-clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ACTONEL-PI-rev-01-2018-clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/str_ifu_121p0295i_t4.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/str_ifu_121p0295i_t4.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/qulipta_pi_spa.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/qulipta_pi_spa.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-fill_dfu.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/natrelle-fill_dfu.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/acuvail_pi..pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/acuvail_pi..pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dep3.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/dep3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-01-Bystolic-USPI-Redline-Clean.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/2019-01-Bystolic-USPI-Redline-Clean.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi_viet.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/ubrelvy_pi_viet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/zymaxid_pi.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/pdf/zymaxid_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/lo-loestrin-fe_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/lo-loestrin-fe_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/humira_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/humira_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/liletta_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/liletta_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/orilissa_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/orilissa_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/oriahnn_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/oriahnn_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/rinvoq_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/rinvoq_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/skyrizi_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/skyrizi_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/qulipta_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/qulipta_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/viberzi_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/viberzi_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/venclexta_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/venclexta_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/rinvoq_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/rinvoq_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_chi_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_chi_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_rus_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_rus_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_spa_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_spa_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/humira_spa_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/humira_spa_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vuity_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vuity_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/lupronped_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/lupronped_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/botox-therapeutic_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/botox-therapeutic_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/mavyet_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/mavyet_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_rus_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_rus_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_chi_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_chi_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_kor_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_kor_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_port_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/creon_port_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vuity_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vuity_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/skyrizi_chi_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/skyrizi_chi_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/skyrizi_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/skyrizi_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/skyrizi_rus_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/skyrizi_rus_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/venclexta_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/venclexta_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/lupronped_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/lupronped_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/mavyret_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/mavyret_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/qulipta_rus_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/qulipta_rus_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/synthroid_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/synthroid_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/liletta_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/liletta_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/qulipta_chi_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/qulipta_chi_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/synthroid_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/synthroid_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/duopa_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/duopa_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vraylar_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vraylar_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/orilissa_spa_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/orilissa_spa_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/botox-cosmetic_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/botox-cosmetic_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/qulipta_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/qulipta_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_spa_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_spa_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/lo-loestrin_spa_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/lo-loestrin_spa_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_rus_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_rus_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_vie_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_vie_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_chi_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/ubrelvy_chi_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/botox-therapeutic_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/botox-therapeutic_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/synthroid_rus_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/synthroid_rus_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/synthroid_chi_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/synthroid_chi_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vyalev_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vyalev_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/kybella_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/kybella_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vyalev_spa_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vyalev_spa_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_vie_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/linzess_vie_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/destination_pdf.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/destination_pdf.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/source_pdf.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/source_pdf.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/emrelis_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/emrelis_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/elahere_spa_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/elahere_spa_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/elahere_chi_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/elahere_chi_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/mavyret_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/mavyret_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/duopa_sp_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/duopa_sp_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/elahere_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/elahere_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vraylar_ecbs.pdf",
+      "normalised": "https://www.rxabbvie.com/content/dam/rxabbvie/cbs/vraylar_ecbs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/rxabbvie/en-us",
+      "normalised": "https://www.rxabbvie.com/content/rxabbvie/en-us",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rxabbvie.com/content/rxabbvie/en-us/sitemap",
+      "normalised": "https://www.rxabbvie.com/content/rxabbvie/en-us/sitemap",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 503,
+    "bySource": {
+      "sitemap": 502,
+      "crawl": 1,
+      "manual": 0
+    }
+  }
+}

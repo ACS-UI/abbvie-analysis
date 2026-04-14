@@ -1,0 +1,26 @@
+{
+  "blockId": "quick_links",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Quick Links",
+  "description": "Provides quick access to resources for patients and healthcare professionals.",
+  "domHints": {
+    "selectors": [
+      ".durysta-quick-links"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

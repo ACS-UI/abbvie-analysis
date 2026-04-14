@@ -1,0 +1,21 @@
+{
+  "entryUrl": "https://www.amlexpertconnect.com/",
+  "discoveredAt": "2026-04-13T16:21:46.828Z",
+  "urls": [
+    {
+      "url": "https://www.amlexpertconnect.com/",
+      "normalised": "https://www.amlexpertconnect.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 1,
+      "manual": 0
+    }
+  }
+}

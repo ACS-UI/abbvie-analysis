@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_paragraph",
+  "templateIds": [
+    "tpl_309"
+  ],
+  "name": "Introduction Paragraph",
+  "description": "Provides an introductory explanation about the site's purpose.",
+  "domHints": {
+    "selectors": [
+      "#text-bd1b216d24"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_309 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

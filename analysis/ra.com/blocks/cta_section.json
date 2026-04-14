@@ -1,0 +1,32 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_5",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_12"
+  ],
+  "name": "Call-to-Action Section",
+  "description": "Encourages user actions like taking surveys or exploring resources.",
+  "domHints": {
+    "selectors": [
+      ".cta.parbase"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

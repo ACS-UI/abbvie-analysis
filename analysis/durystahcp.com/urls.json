@@ -1,0 +1,189 @@
+{
+  "entryUrl": "https://www.durystahcp.com/",
+  "discoveredAt": "2026-04-13T15:18:46.336Z",
+  "urls": [
+    {
+      "url": "https://www.durystahcp.com/",
+      "normalised": "https://www.durystahcp.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/content/dam/durystahcp/en_us/pdf/DURYSTA_Patient_Enrollment_Form.pdf",
+      "normalised": "https://www.durystahcp.com/content/dam/durystahcp/en_us/pdf/DURYSTA_Patient_Enrollment_Form.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.durystahcp.com/resources",
+      "normalised": "https://www.durystahcp.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/study_design",
+      "normalised": "https://www.durystahcp.com/site-modols/study_design",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/homepage-hero",
+      "normalised": "https://www.durystahcp.com/site-modols/homepage-hero",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/patient-testimony-video",
+      "normalised": "https://www.durystahcp.com/site-modols/patient-testimony-video",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/trainingcta",
+      "normalised": "https://www.durystahcp.com/site-modols/trainingcta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/clinical-data",
+      "normalised": "https://www.durystahcp.com/clinical-data",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/patient_site",
+      "normalised": "https://www.durystahcp.com/site-modols/patient_site",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/logo",
+      "normalised": "https://www.durystahcp.com/site-modols/logo",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/reimbursementcta",
+      "normalised": "https://www.durystahcp.com/site-modols/reimbursementcta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/prescibing_information",
+      "normalised": "https://www.durystahcp.com/site-modols/prescibing_information",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/durysta-savings-program",
+      "normalised": "https://www.durystahcp.com/site-modols/durysta-savings-program",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/aboutabbvie",
+      "normalised": "https://www.durystahcp.com/site-modols/aboutabbvie",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/when-to-use",
+      "normalised": "https://www.durystahcp.com/when-to-use",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/about-durysta",
+      "normalised": "https://www.durystahcp.com/about-durysta",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/sitemap",
+      "normalised": "https://www.durystahcp.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/patientsite_requestrep",
+      "normalised": "https://www.durystahcp.com/site-modols/patientsite_requestrep",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols",
+      "normalised": "https://www.durystahcp.com/site-modols",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/privacy-policy",
+      "normalised": "https://www.durystahcp.com/site-modols/privacy-policy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/terms-of-use",
+      "normalised": "https://www.durystahcp.com/site-modols/terms-of-use",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/faq",
+      "normalised": "https://www.durystahcp.com/faq",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/site-modols/Contact-us",
+      "normalised": "https://www.durystahcp.com/site-modols/Contact-us",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/abbv-tab-19240181-1",
+      "normalised": "https://www.durystahcp.com/abbv-tab-19240181-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystahcp.com/abbv-tab-19240181-0",
+      "normalised": "https://www.durystahcp.com/abbv-tab-19240181-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 25,
+    "bySource": {
+      "sitemap": 18,
+      "crawl": 7,
+      "manual": 0
+    }
+  }
+}

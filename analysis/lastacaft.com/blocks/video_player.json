@@ -1,0 +1,26 @@
+{
+  "blockId": "video_player",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Video Player",
+  "description": "Embedded video player showcasing product information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-video-player.lastacaft-videos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

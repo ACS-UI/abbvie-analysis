@@ -1,0 +1,27 @@
+{
+  "blockId": "profile_card",
+  "templateIds": [
+    "tpl_85"
+  ],
+  "name": "Profile Card",
+  "description": "A card highlighting a specific story or profile, including an image and description.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory",
+      "div.card-content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_85 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

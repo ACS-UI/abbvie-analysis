@@ -1,0 +1,327 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Homepage and Personalization",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Sign-Up Page",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Search Results",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Eczema Comorbidities",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Types of Eczema",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Causes of Eczema",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Severity and Impact",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Homepage Experience",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 3
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Footer Touts - Personalized",
+      "source": "llm_identify",
+      "blockCount": 1,
+      "proposedCount": 16
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Inline Touts",
+      "source": "llm_identify",
+      "blockCount": 17,
+      "proposedCount": 17
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Default Inline Touts",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 2
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Default Footer Touts",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "What Is Eczema",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Eczema Symptoms and Pictures",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_14",
+      "humanName": "Eczema Experience Tool",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_15",
+      "humanName": "Scratch Cycle Video Transcript",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_16",
+      "humanName": "Doctor Partnership Guide",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_17",
+      "humanName": "Eczema Itch Insights",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_18",
+      "humanName": "Trigger Words Activity",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_19",
+      "humanName": "Dermatologist Reacts Activity",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_20",
+      "humanName": "Understanding Eczema Overview",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_21",
+      "humanName": "Home Remedies",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_22",
+      "humanName": "Living With Eczema Stories",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_23",
+      "humanName": "Sitemap",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_24",
+      "humanName": "Eczema Specialist Locator",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_25",
+      "humanName": "Doctor Discussion Guide",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_26",
+      "humanName": "Thank You Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_27",
+      "humanName": "Invisible Impact Article",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_28",
+      "humanName": "Eczema Emotional Health",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_29",
+      "humanName": "Stay Tuned Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_30",
+      "humanName": "Personalized Homepage",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_31",
+      "humanName": "Eczema Diet Insights",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_32",
+      "humanName": "Stress and Eczema",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_33",
+      "humanName": "VOC Survey Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_34",
+      "humanName": "Eczema Treatment Options",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_35",
+      "humanName": "Eczema Routine Guide",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_36",
+      "humanName": "Winter Eczema Insights",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_37",
+      "humanName": "Treatment Video Transcript",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_38",
+      "humanName": "Eczema Treatment Overview",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_39",
+      "humanName": "Supporting Eczema Teens",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_40",
+      "humanName": "Connect With Us",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_41",
+      "humanName": "Eczema Stories Transcript",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_42",
+      "humanName": "Specialist Locator Tool",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_43",
+      "humanName": "Support and Resources",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_44",
+      "humanName": "Learnings from the Lab",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_45",
+      "humanName": "Sign-Up Confirmation",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    }
+  ],
+  "generatedAt": "2026-04-13T16:32:29.264Z"
+}

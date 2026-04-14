@@ -1,0 +1,33 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.cllcancer.com/",
+          "https://www.cllcancer.com/register",
+          "https://www.cllcancer.com/cll-prognosis",
+          "https://www.cllcancer.com/search-results",
+          "https://www.cllcancer.com/living-with-cll",
+          "https://www.cllcancer.com/sitemap",
+          "https://www.cllcancer.com/cll-treatments",
+          "https://www.cllcancer.com/find-a-provider",
+          "https://www.cllcancer.com/what-is-cll",
+          "https://www.cllcancer.com/cll-goals-of-therapy",
+          "https://www.cllcancer.com/cll-support",
+          "https://www.cllcancer.com/site-map",
+          "https://www.cllcancer.com/cost-of-cll-treatment"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:19:13.679Z"
+}

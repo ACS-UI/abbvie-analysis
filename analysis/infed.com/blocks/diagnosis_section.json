@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosis_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Diagnosis Section",
+  "description": "Details diagnostic methods for identifying ID and IDA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.abbv-siab.diagnosis-id-and-ida"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

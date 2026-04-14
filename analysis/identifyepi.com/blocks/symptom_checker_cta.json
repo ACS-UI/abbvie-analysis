@@ -1,0 +1,27 @@
+{
+  "blockId": "symptom_checker_cta",
+  "templateIds": [
+    "tpl_2",
+    "tpl_30"
+  ],
+  "name": "Symptom Checker CTA",
+  "description": "Call-to-action encouraging users to use the symptom checker tool.",
+  "domHints": {
+    "selectors": [
+      ".epi-sys"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "features_columns",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Features Columns",
+  "description": "Highlights key features and benefits in a two-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.lastacaft-fast-acting"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

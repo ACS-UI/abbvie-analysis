@@ -1,0 +1,26 @@
+{
+  "blockId": "bone_health_101",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Bone Health 101",
+  "description": "Section introducing the basics of bone health with educational videos.",
+  "domHints": {
+    "selectors": [
+      ".wh-digitalobgyn-bone-categories"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

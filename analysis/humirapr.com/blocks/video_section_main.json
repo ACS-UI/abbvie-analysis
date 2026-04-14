@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section_main",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Video Section Main",
+  "description": "Includes a video explaining the treatment.",
+  "domHints": {
+    "selectors": [
+      "section.video-section-main"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

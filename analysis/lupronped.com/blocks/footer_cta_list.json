@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_cta_list",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Footer CTA List",
+  "description": "Provides additional links to explore related topics and resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer__cta-list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

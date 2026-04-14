@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_intro",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Main Content Introduction",
+  "description": "Provides an introduction and context for the page's purpose, including a headline and descriptive text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container .abbv-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

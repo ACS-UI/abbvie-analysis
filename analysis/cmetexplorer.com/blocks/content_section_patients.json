@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_patients",
+  "templateIds": [
+    "tpl_88"
+  ],
+  "name": "Content Section: Patients",
+  "description": "Focuses on patient support and related services.",
+  "domHints": {
+    "selectors": [
+      "div#container-93176dcf17"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_88 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

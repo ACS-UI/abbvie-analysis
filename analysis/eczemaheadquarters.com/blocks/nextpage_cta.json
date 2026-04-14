@@ -1,0 +1,27 @@
+{
+  "blockId": "nextpage_cta",
+  "templateIds": [
+    "tpl_24",
+    "tpl_34"
+  ],
+  "name": "Next Page CTA",
+  "description": "Call-to-action encouraging users to find an eczema specialist.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.nextpage-cta"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_24 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

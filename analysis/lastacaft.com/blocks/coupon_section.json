@@ -1,0 +1,26 @@
+{
+  "blockId": "coupon_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Coupon Section",
+  "description": "Highlights a coupon offer with a call-to-action to save on the product.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-offer-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

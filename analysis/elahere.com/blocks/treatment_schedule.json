@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_schedule",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Treatment Schedule",
+  "description": "Outlines the typical infusion schedule and related information.",
+  "domHints": {
+    "selectors": [
+      "#how-treatment-is-given"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

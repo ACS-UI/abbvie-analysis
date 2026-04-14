@@ -1,0 +1,117 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Agent Unassigned",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Wellness",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Patient Experience",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Support Program",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Understanding Constipation",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Why Linzess",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Savings Support",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Usage Information",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Community Support",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Search Results",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Educational Content",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Legal Disclaimer",
+      "source": "llm_identify",
+      "blockCount": 1,
+      "proposedCount": 1
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Language Selection",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_14",
+      "humanName": "Doctor Guidance",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_15",
+      "humanName": "Getting Started",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    }
+  ],
+  "generatedAt": "2026-04-13T15:33:35.603Z"
+}

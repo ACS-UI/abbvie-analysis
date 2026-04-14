@@ -1,0 +1,26 @@
+{
+  "blockId": "link_list_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Link List Section",
+  "description": "Provides quick links to key sections of the website.",
+  "domHints": {
+    "selectors": [
+      ".ozurdex-sticky-menu"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

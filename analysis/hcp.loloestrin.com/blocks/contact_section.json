@@ -1,0 +1,26 @@
+{
+  "blockId": "contact_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Contact Section",
+  "description": "Provides contact options for speaking with representatives or requesting visits.",
+  "domHints": {
+    "selectors": [
+      ".abbv-speak-to-abbvie"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

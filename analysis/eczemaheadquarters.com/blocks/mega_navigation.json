@@ -1,0 +1,30 @@
+{
+  "blockId": "mega_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_15",
+    "tpl_22",
+    "tpl_38",
+    "tpl_41"
+  ],
+  "name": "Mega Navigation",
+  "description": "Contains the primary navigation menu with expandable sections.",
+  "domHints": {
+    "selectors": [
+      "header .abbv-header-primary-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

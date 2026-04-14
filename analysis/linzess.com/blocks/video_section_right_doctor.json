@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section_right_doctor",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Video Section - Right Doctor",
+  "description": "Highlights the importance of finding the right doctor with embedded video content.",
+  "domHints": {
+    "selectors": [
+      ".flexbox-video-cards--single"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

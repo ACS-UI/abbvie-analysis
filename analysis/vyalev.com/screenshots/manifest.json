@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.vyalev.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:44.085Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.vyalev.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:44.085Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.vyalev.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:44.085Z",
+      "selector": ".abbv-background-container.hero--home"
+    },
+    {
+      "relativePath": "information_section__default.png",
+      "sourceUrl": "https://www.vyalev.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:44.085Z",
+      "selector": "#background-container-1390740564"
+    },
+    {
+      "relativePath": "patient_education_section__default.png",
+      "sourceUrl": "https://www.vyalev.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:44.085Z",
+      "selector": "#background-container-1412561203"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.vyalev.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:44.085Z",
+      "selector": ".abbv-inline-use-isi"
+    }
+  ]
+}

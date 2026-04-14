@@ -1,0 +1,26 @@
+{
+  "blockId": "legs_carousel",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Legs Carousel",
+  "description": "Carousel showcasing eczema symptoms on legs.",
+  "domHints": {
+    "selectors": [
+      "#legs-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

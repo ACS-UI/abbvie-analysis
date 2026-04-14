@@ -1,0 +1,29 @@
+{
+  "blockId": "content_intro",
+  "templateIds": [
+    "tpl_5",
+    "tpl_39",
+    "tpl_44"
+  ],
+  "name": "Content Introduction",
+  "description": "Provides an introduction to the topic with a heading and brief description.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container .abbv-col-7 .abbv-title",
+      "div.abbv-rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

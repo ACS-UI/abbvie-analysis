@@ -1,0 +1,31 @@
+{
+  "blockId": "main_region_9",
+  "templateIds": [
+    "tpl_11",
+    "tpl_15",
+    "tpl_16",
+    "tpl_18",
+    "tpl_21",
+    "tpl_22"
+  ],
+  "name": "main region 9",
+  "description": "Major content region in main (div). Preview: Prefilled Syringe Maya, an experienced SKYRIZI patient, gives step-by-step instructions on using the SKYRIZI prefilled s…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(10)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_11. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

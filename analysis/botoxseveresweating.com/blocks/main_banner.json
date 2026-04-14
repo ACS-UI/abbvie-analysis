@@ -1,0 +1,26 @@
+{
+  "blockId": "main_banner",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Main Banner",
+  "description": "Displays the main promotional content with key treatment results and visuals.",
+  "domHints": {
+    "selectors": [
+      ".banner.treatment_banner_bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "boomer_esiason_section",
+  "templateIds": [
+    "tpl_20"
+  ],
+  "name": "Boomer Esiason Section",
+  "description": "Details about the Boomer Esiason Foundation with an image and call-to-action.",
+  "domHints": {
+    "selectors": [
+      "#background-container-2032075702"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_20 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

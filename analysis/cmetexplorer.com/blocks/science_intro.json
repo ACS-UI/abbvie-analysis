@@ -1,0 +1,26 @@
+{
+  "blockId": "science_intro",
+  "templateIds": [
+    "tpl_146"
+  ],
+  "name": "Science Introduction",
+  "description": "Introduces the Science section with a brief paragraph.",
+  "domHints": {
+    "selectors": [
+      "#text-d1c761a76a"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_146 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

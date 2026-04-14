@@ -1,0 +1,26 @@
+{
+  "blockId": "cf_commitment_section",
+  "templateIds": [
+    "tpl_29"
+  ],
+  "name": "CF Commitment Section",
+  "description": "Highlights AbbVie's commitment to cystic fibrosis patients.",
+  "domHints": {
+    "selectors": [
+      ".epi-resources-last-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_29 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

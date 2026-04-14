@@ -1,0 +1,26 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Provides quick access to utility links and navigation.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

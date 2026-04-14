@@ -1,0 +1,414 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_navigation__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".nav_float"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".banner"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".isi_bg"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".footer"
+    },
+    {
+      "relativePath": "floating_isi__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#divFloatingISI"
+    },
+    {
+      "relativePath": "modal_popup__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#remediationModal"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/what_is",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_nav"
+    },
+    {
+      "relativePath": "content_intro__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/what_is",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".banner_txt"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/what_is",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_txt_bg"
+    },
+    {
+      "relativePath": "cta_boxes__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/what_is",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_box_col"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/what_is",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".footer"
+    },
+    {
+      "relativePath": "isi_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/what_is",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".isi_bg"
+    },
+    {
+      "relativePath": "faq_hero_banner__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/FAQ",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".banner.faq_banner_bg"
+    },
+    {
+      "relativePath": "faq_accordion__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/FAQ",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".glossymenu"
+    },
+    {
+      "relativePath": "cta_columns__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/FAQ",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_box_col"
+    },
+    {
+      "relativePath": "safety_information__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/FAQ",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#divPageISI"
+    },
+    {
+      "relativePath": "global_header__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Site_map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".warrp > .logo"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Site_map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".nav_float"
+    },
+    {
+      "relativePath": "sitemap_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Site_map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".sitemap"
+    },
+    {
+      "relativePath": "main_banner__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".banner.treatment_banner_bg"
+    },
+    {
+      "relativePath": "treatment_results_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".banner-treatment"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".isi_bg"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/treatment_experience",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".nav_float"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/treatment_experience",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".banner-treatment-experience"
+    },
+    {
+      "relativePath": "consultation_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/how_diagnosed",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_col:nth-of-type(1)"
+    },
+    {
+      "relativePath": "preparation_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/how_diagnosed",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_width_col .about_col:nth-of-type(1)"
+    },
+    {
+      "relativePath": "treatment_options__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/how_diagnosed",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#aAboutServere"
+    },
+    {
+      "relativePath": "popup_info__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/about_severe_underarm_sweating/how_diagnosed",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#divHyperhidrosisPopUp"
+    },
+    {
+      "relativePath": "how_botox_works__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/how_works",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#aAboutServere"
+    },
+    {
+      "relativePath": "sweat_explanation__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/how_works",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".can_banner_txt:nth-of-type(2)"
+    },
+    {
+      "relativePath": "cta_quiz__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/how_works",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_box_col:nth-of-type(1)"
+    },
+    {
+      "relativePath": "cta_find_doctor__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/how_works",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_box_col:nth-of-type(2)"
+    },
+    {
+      "relativePath": "cta_results__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/how_works",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_box_col:nth-of-type(3)"
+    },
+    {
+      "relativePath": "quiz_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/is_botox_right_for_me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#divQuizQuestions"
+    },
+    {
+      "relativePath": "quiz_results__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/is_botox_right_for_me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#divQuizResult"
+    },
+    {
+      "relativePath": "search_form__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/find_a_dermatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#fadAdvanceSearchForm"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/find_a_dermatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#searchResults"
+    },
+    {
+      "relativePath": "terms_modal__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/find_a_dermatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": "#termsCondition"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/savings_insurance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".logo"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/savings_insurance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".about_box_col"
+    },
+    {
+      "relativePath": "information_section__default.png",
+      "sourceUrl": "https://www.botoxseveresweating.com/Can_botox_help/savings_insurance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:43:37.829Z",
+      "selector": ".experience_left"
+    }
+  ]
+}

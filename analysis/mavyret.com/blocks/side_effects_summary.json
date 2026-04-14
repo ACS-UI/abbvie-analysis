@@ -1,0 +1,26 @@
+{
+  "blockId": "side_effects_summary",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Side Effects Summary",
+  "description": "Provides an overview of common side effects.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.content-row--side-effects"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

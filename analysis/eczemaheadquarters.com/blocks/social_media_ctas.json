@@ -1,0 +1,26 @@
+{
+  "blockId": "social_media_ctas",
+  "templateIds": [
+    "tpl_40"
+  ],
+  "name": "Social Media CTAs",
+  "description": "Links to follow the site on social media platforms.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.social-networks"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_40 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "primary_cta",
+  "templateIds": [
+    "tpl_37"
+  ],
+  "name": "Primary Call to Action",
+  "description": "A section with a call-to-action button encouraging user interaction.",
+  "domHints": {
+    "selectors": [
+      "div.nav-bar__primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_37 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,46 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:14:28.398Z",
+  "completedAt": "2026-04-13T15:17:29.702Z",
+  "input": {
+    "url": "https://www.synthroidpro.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/synthroidpro.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_1",
+        "humanName": "Information Page",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Home Page",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      }
+    ]
+  }
+}

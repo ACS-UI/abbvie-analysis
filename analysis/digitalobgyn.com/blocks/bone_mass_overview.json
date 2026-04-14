@@ -1,0 +1,26 @@
+{
+  "blockId": "bone_mass_overview",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Bone Mass Overview",
+  "description": "Section explaining the concept of bone mass with related videos.",
+  "domHints": {
+    "selectors": [
+      ".wh-digi-bone-mass-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

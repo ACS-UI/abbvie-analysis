@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_profiles",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Patient Profiles",
+  "description": "Section showcasing hypothetical patient profiles with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.synthroid-tout-2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

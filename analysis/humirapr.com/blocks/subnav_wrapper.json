@@ -1,0 +1,28 @@
+{
+  "blockId": "subnav_wrapper",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_5"
+  ],
+  "name": "Subnavigation Wrapper",
+  "description": "Displays additional navigation links and branding for larger screens.",
+  "domHints": {
+    "selectors": [
+      "header > div.subnav-wrapper"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

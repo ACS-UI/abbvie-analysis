@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_external_links",
+  "templateIds": [
+    "tpl_270"
+  ],
+  "name": "Footer External Links",
+  "description": "External links section in the footer.",
+  "domHints": {
+    "selectors": [
+      "#linklist-016660de49"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_270 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

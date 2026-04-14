@@ -1,0 +1,26 @@
+{
+  "blockId": "image_text_columns",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Image and Text Columns",
+  "description": "Displays images and accompanying text in a column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-keep-columns"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

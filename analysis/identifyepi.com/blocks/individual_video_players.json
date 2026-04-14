@@ -1,0 +1,26 @@
+{
+  "blockId": "individual_video_players",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Individual Video Players",
+  "description": "Displays additional video players for individual video content.",
+  "domHints": {
+    "selectors": [
+      ".epi-watch-individual-practice-videos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

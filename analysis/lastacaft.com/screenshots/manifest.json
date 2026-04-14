@@ -1,0 +1,464 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-header-content-container"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-image-text.lastacaft-hero-home"
+    },
+    {
+      "relativePath": "image_grid_ctas__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-image-grid-container"
+    },
+    {
+      "relativePath": "why_choose_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-why-choose-container"
+    },
+    {
+      "relativePath": "testimonials_carousel__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-carousel.lastacaft-testimonials"
+    },
+    {
+      "relativePath": "savings_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-savings-container"
+    },
+    {
+      "relativePath": "faqs_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-faqs-container"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.lastacaft.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.lastacaft.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "faq_accordion__default.png",
+      "sourceUrl": "https://www.lastacaft.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-accordion.lastacaft-faq-accordian"
+    },
+    {
+      "relativePath": "still_have_questions__default.png",
+      "sourceUrl": "https://www.lastacaft.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-rich-text.faqs-hr"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.lastacaft.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "rich_text_intro__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-eye-itch-allergans"
+    },
+    {
+      "relativePath": "allergens_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-allergans-to-know"
+    },
+    {
+      "relativePath": "pollen_details__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-pollen-details"
+    },
+    {
+      "relativePath": "grass_details__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-grass-details"
+    },
+    {
+      "relativePath": "ragweed_details__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-ragweed-details"
+    },
+    {
+      "relativePath": "pet_dander_details__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-pet-details"
+    },
+    {
+      "relativePath": "tips_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-tips-desktop"
+    },
+    {
+      "relativePath": "mobile_tips_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-tips-mobile"
+    },
+    {
+      "relativePath": "pollen_tracker__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-pollen-tracker"
+    },
+    {
+      "relativePath": "offer_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-offer-contain"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.lastacaft.com/understanding-eye-allergies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.lastacaft.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-row-container.lastacaft-max-wd-1490.lastacaft-for-relief-container"
+    },
+    {
+      "relativePath": "video_player__default.png",
+      "sourceUrl": "https://www.lastacaft.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-video-player.lastacaft-videos"
+    },
+    {
+      "relativePath": "cta_buttons__default.png",
+      "sourceUrl": "https://www.lastacaft.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-button-primary.lastacaft-btn-icn"
+    },
+    {
+      "relativePath": "how_it_works__default.png",
+      "sourceUrl": "https://www.lastacaft.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-row-container.lastacaft-how-does-it-work"
+    },
+    {
+      "relativePath": "social_media_links__default.png",
+      "sourceUrl": "https://www.lastacaft.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".social-logos"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.lastacaft.com/about",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-footer-menu"
+    },
+    {
+      "relativePath": "about_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/doc",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-container.lastacaft-about-doc-section"
+    },
+    {
+      "relativePath": "features_columns__default.png",
+      "sourceUrl": "https://www.lastacaft.com/doc",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-row-container.lastacaft-fast-acting"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/doc",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".cta.parbase"
+    },
+    {
+      "relativePath": "faq_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/doc",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-container.lastacaft-faq"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.lastacaft.com/where-to-buy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-retail-description"
+    },
+    {
+      "relativePath": "retailer_grid__default.png",
+      "sourceUrl": "https://www.lastacaft.com/where-to-buy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-retail-options"
+    },
+    {
+      "relativePath": "coupon_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/where-to-buy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-offer-section"
+    },
+    {
+      "relativePath": "social_links__default.png",
+      "sourceUrl": "https://www.lastacaft.com/where-to-buy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".social-logos"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.lastacaft.com/savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "coupon_cta_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-container.lastacaft-coupon-container"
+    },
+    {
+      "relativePath": "form_section__default.png",
+      "sourceUrl": "https://www.lastacaft.com/savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-container.lastacaft-coupon-form"
+    },
+    {
+      "relativePath": "modal_component__default.png",
+      "sourceUrl": "https://www.lastacaft.com/savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.lastacaft.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-sitemap-content"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.lastacaft.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".lastacaft-footer-menu"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.lastacaft.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:18:32.239Z",
+      "selector": ".abbv-legal-text"
+    }
+  ]
+}

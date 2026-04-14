@@ -1,0 +1,26 @@
+{
+  "blockId": "site_logo",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Site Logo",
+  "description": "Displays the site logo linking to the homepage.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-left a img"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

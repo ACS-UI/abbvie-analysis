@@ -1,0 +1,39 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:14:28.398Z",
+  "completedAt": "2026-04-13T15:17:34.673Z",
+  "input": {
+    "url": "https://www.vyalevhcp.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/vyalevhcp.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Agent Unassigned Template",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "speaker_program_cta",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Speaker Program CTA",
+  "description": "Promotes an educational speaker program webinar with a call-to-action link.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.rounded-border-5.bg-color-pink.hidden"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "image_text_section_1",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Image and Text Section 1",
+  "description": "Section with an image and accompanying text on the left.",
+  "domHints": {
+    "selectors": [
+      ".medium-scale-img-left"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

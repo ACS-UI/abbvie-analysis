@@ -1,0 +1,26 @@
+{
+  "blockId": "personalized_ctas_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Personalized CTAs Section",
+  "description": "This section highlights personalized call-to-action elements for the homepage.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-rich-text.divider-title.margin-bottom-65.margin-mobile-bottom-35.abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

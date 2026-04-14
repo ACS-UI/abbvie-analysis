@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_options_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Treatment Options Section",
+  "description": "Lists treatment options with supporting icons.",
+  "domHints": {
+    "selectors": [
+      ".botox-treatment-options"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

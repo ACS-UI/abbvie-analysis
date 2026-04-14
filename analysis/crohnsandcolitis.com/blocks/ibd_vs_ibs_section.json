@@ -1,0 +1,27 @@
+{
+  "blockId": "ibd_vs_ibs_section",
+  "templateIds": [
+    "tpl_7",
+    "tpl_16"
+  ],
+  "name": "IBD vs IBS Section",
+  "description": "Explains the differences between IBD and IBS.",
+  "domHints": {
+    "selectors": [
+      "#ibdvsibs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

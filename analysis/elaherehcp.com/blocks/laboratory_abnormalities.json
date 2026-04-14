@@ -1,0 +1,26 @@
+{
+  "blockId": "laboratory_abnormalities",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Laboratory Abnormalities Section",
+  "description": "Details laboratory abnormalities observed in the study.",
+  "domHints": {
+    "selectors": [
+      "#laboratory-abnormalities"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

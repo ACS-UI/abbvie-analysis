@@ -1,0 +1,26 @@
+{
+  "blockId": "card_grid_section",
+  "templateIds": [
+    "tpl_290"
+  ],
+  "name": "Card Grid Section",
+  "description": "Displays multiple cards with content previews and links.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_290 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,119 @@
+{
+  "entryUrl": "https://www.burdenofad.com/",
+  "discoveredAt": "2026-04-13T16:16:06.784Z",
+  "urls": [
+    {
+      "url": "https://www.burdenofad.com/",
+      "normalised": "https://www.burdenofad.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/content/dam/burdenofad/docs/eczema-assesment.pdf",
+      "normalised": "https://www.burdenofad.com/content/dam/burdenofad/docs/eczema-assesment.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.burdenofad.com/sitemap",
+      "normalised": "https://www.burdenofad.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+      "normalised": "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/patient-reported-outcomes",
+      "normalised": "https://www.burdenofad.com/patient-reported-outcomes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/site-map",
+      "normalised": "https://www.burdenofad.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/mechanism-of-disease",
+      "normalised": "https://www.burdenofad.com/mechanism-of-disease",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/resources",
+      "normalised": "https://www.burdenofad.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/abbv-tab-1515683508-0",
+      "normalised": "https://www.burdenofad.com/abbv-tab-1515683508-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/abbv-tab-1956594288-1",
+      "normalised": "https://www.burdenofad.com/abbv-tab-1956594288-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/abbv-tab-1515683508-1",
+      "normalised": "https://www.burdenofad.com/abbv-tab-1515683508-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/abbv-tab-1956594288-2",
+      "normalised": "https://www.burdenofad.com/abbv-tab-1956594288-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/abbv-tab-1956594288-0",
+      "normalised": "https://www.burdenofad.com/abbv-tab-1956594288-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/abbv-tab-1515683508-2",
+      "normalised": "https://www.burdenofad.com/abbv-tab-1515683508-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.burdenofad.com/abbv-tab-1515683508-3",
+      "normalised": "https://www.burdenofad.com/abbv-tab-1515683508-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 15,
+    "bySource": {
+      "sitemap": 2,
+      "crawl": 13,
+      "manual": 0
+    }
+  }
+}

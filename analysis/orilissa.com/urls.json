@@ -1,0 +1,616 @@
+{
+  "entryUrl": "https://www.orilissa.com/",
+  "discoveredAt": "2026-04-13T15:31:42.563Z",
+  "urls": [
+    {
+      "url": "https://www.orilissa.com/",
+      "normalised": "https://www.orilissa.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/search-results",
+      "normalised": "https://www.orilissa.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/savings-card",
+      "normalised": "https://www.orilissa.com/savings-card",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/find-an-obgyn",
+      "normalised": "https://www.orilissa.com/find-an-obgyn",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/site-map",
+      "normalised": "https://www.orilissa.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/emails/video-emails/6122699813001",
+      "normalised": "https://www.orilissa.com/emails/video-emails/6122699813001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+      "normalised": "https://www.orilissa.com/insurance-and-savings/co-pay-card",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/insurance-and-savings/coverage",
+      "normalised": "https://www.orilissa.com/insurance-and-savings/coverage",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/insurance-and-savings/orilissa-complete",
+      "normalised": "https://www.orilissa.com/insurance-and-savings/orilissa-complete",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/insurance-and-savings",
+      "normalised": "https://www.orilissa.com/insurance-and-savings",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/insurance-and-savings/co-pay-card/co-pay-card-video-transcript",
+      "normalised": "https://www.orilissa.com/insurance-and-savings/co-pay-card/co-pay-card-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/angela-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/angela-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/meghan-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/meghan-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/how-orilissa-works",
+      "normalised": "https://www.orilissa.com/about/how-orilissa-works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/doctor-shepherd-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/doctor-shepherd-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/joanna-video-transcript/meghan-video-transcript1",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/joanna-video-transcript/meghan-video-transcript1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/advocacy-inspiration-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/advocacy-inspiration-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/how-to-take-orilissa",
+      "normalised": "https://www.orilissa.com/about/how-to-take-orilissa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/hannah-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/hannah-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/kat-video-transcript/meghan-video-transcript1",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/kat-video-transcript/meghan-video-transcript1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/emily-s-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/emily-s-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/sara-s-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/sara-s-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/darby-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/darby-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/group-testimonial-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/group-testimonial-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/gillian-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/gillian-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/kat-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/kat-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/endo-advocacy-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/endo-advocacy-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/talking-to-your-gyn",
+      "normalised": "https://www.orilissa.com/talking-to-your-gyn",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/safety-information",
+      "normalised": "https://www.orilissa.com/safety-information",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/cost",
+      "normalised": "https://www.orilissa.com/cost",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about-endometriosis",
+      "normalised": "https://www.orilissa.com/about-endometriosis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/prepare-for-your-visit",
+      "normalised": "https://www.orilissa.com/about/prepare-for-your-visit",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/tools-and-support/app-download/app-preview-video-transcript",
+      "normalised": "https://www.orilissa.com/tools-and-support/app-download/app-preview-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/tools-and-support/personalized-support",
+      "normalised": "https://www.orilissa.com/tools-and-support/personalized-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/tools-and-support/ori-for-me",
+      "normalised": "https://www.orilissa.com/tools-and-support/ori-for-me",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/tools-and-support",
+      "normalised": "https://www.orilissa.com/tools-and-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/tools-and-support/app-download",
+      "normalised": "https://www.orilissa.com/tools-and-support/app-download",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/side-effects-and-safety-considerations",
+      "normalised": "https://www.orilissa.com/about/side-effects-and-safety-considerations",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/nurse-judy-and-sarah-video-transcript/nurse-judy-and-sarah-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/nurse-judy-and-sarah-video-transcript/nurse-judy-and-sarah-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about",
+      "normalised": "https://www.orilissa.com/about",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/what-is-orilissa",
+      "normalised": "https://www.orilissa.com/about/what-is-orilissa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/doctor-shepherd-and-angela-video-transcript/meghan-video-transcript1",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/doctor-shepherd-and-angela-video-transcript/meghan-video-transcript1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/joanna-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/joanna-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/dr-shepard-angela-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/dr-shepard-angela-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/doctor-shepherd-and-angela-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/doctor-shepherd-and-angela-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/doctor-miller-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/doctor-miller-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/kellyn-p-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/kellyn-p-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about-endometriosis/what-is-endometriosis",
+      "normalised": "https://www.orilissa.com/about-endometriosis/what-is-endometriosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/kat-video-transcript2",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/kat-video-transcript2",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/clinical-trials",
+      "normalised": "https://www.orilissa.com/about/clinical-trials",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/amy-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/amy-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/cassandra-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/cassandra-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/joanna-video-transcript2",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/joanna-video-transcript2",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/misconceptions-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/misconceptions-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/meghan-m-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/meghan-m-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/brit-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/brit-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/savings-card-pdf-setup",
+      "normalised": "https://www.orilissa.com/savings-card-pdf-setup",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/sitemap",
+      "normalised": "https://www.orilissa.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/how-orilissa-works/moa-video-transcript",
+      "normalised": "https://www.orilissa.com/about/how-orilissa-works/moa-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/nurse-judy-and-sarah-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/nurse-judy-and-sarah-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/nurse-judy-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/nurse-judy-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/videos",
+      "normalised": "https://www.orilissa.com/about/videos",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/sarah-video-transcript",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/sarah-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about-endometriosis/symptoms",
+      "normalised": "https://www.orilissa.com/about-endometriosis/symptoms",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/content/dam/orilissapatientivy/docs/safety.pdf",
+      "normalised": "https://www.orilissa.com/content/dam/orilissapatientivy/docs/safety.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.orilissa.com/about/prepare-for-your-visit?dg_ex=1",
+      "normalised": "https://www.orilissa.com/about/prepare-for-your-visit?dg_ex=1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/emails/video-emails/6122696453001",
+      "normalised": "https://www.orilissa.com/emails/video-emails/6122696453001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/emails/video-emails/6250912298001",
+      "normalised": "https://www.orilissa.com/emails/video-emails/6250912298001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/emails/video-emails/6250566154001",
+      "normalised": "https://www.orilissa.com/emails/video-emails/6250566154001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/emails/video-emails/6122698946001",
+      "normalised": "https://www.orilissa.com/emails/video-emails/6122698946001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/emails/endo-resource",
+      "normalised": "https://www.orilissa.com/emails/endo-resource",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/emails/video-emails/6250706766001",
+      "normalised": "https://www.orilissa.com/emails/video-emails/6250706766001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/abbv-tab-1926067097-1",
+      "normalised": "https://www.orilissa.com/about/abbv-tab-1926067097-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/abbv-tab-1926067097-2",
+      "normalised": "https://www.orilissa.com/about/abbv-tab-1926067097-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-3",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/abbv-tab-1926067097-3",
+      "normalised": "https://www.orilissa.com/about/abbv-tab-1926067097-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-4",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/abbv-tab-1926067097-0",
+      "normalised": "https://www.orilissa.com/about/abbv-tab-1926067097-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-1",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-0",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-2",
+      "normalised": "https://www.orilissa.com/about/orilissa-reviews/abbv-tab-1926067097-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/emails",
+      "normalised": "https://www.orilissa.com/emails",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.orilissa.com/emails/video-emails",
+      "normalised": "https://www.orilissa.com/emails/video-emails",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "https://www.orilissa.com/emails/video-emails/6250567711001",
+      "normalised": "https://www.orilissa.com/emails/video-emails/6250567711001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.orilissa.com/about/abbv-tab-1926067097-4",
+      "normalised": "https://www.orilissa.com/about/abbv-tab-1926067097-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 86,
+    "bySource": {
+      "sitemap": 62,
+      "crawl": 24,
+      "manual": 0
+    }
+  }
+}

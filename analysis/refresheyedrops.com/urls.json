@@ -1,0 +1,1330 @@
+{
+  "entryUrl": "https://www.refresheyedrops.com/",
+  "discoveredAt": "2026-04-13T15:34:00.009Z",
+  "urls": [
+    {
+      "url": "https://www.refresheyedrops.com/",
+      "normalised": "https://www.refresheyedrops.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/about_us.html",
+      "normalised": "https://www.refresheyedrops.com/about_us.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/?q=Contact%20Lens%20Wearers",
+      "normalised": "https://www.refresheyedrops.com/search?q=Contact%20Lens%20Wearers",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/faqs.html",
+      "normalised": "https://www.refresheyedrops.com/faqs.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=20078333",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=20078333",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/preservative-free/",
+      "normalised": "https://www.refresheyedrops.com/type/preservative-free",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-tears/",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-tears",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/take-a-quiz/",
+      "normalised": "https://www.refresheyedrops.com/take-a-quiz",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/technology.html",
+      "normalised": "https://www.refresheyedrops.com/technology.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=96954",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=96954",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/clp-mega-3-category.html",
+      "normalised": "https://www.refresheyedrops.com/clp-mega-3-category.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/contact-rewetters/",
+      "normalised": "https://www.refresheyedrops.com/type/contact-rewetters",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/contact-lens-wearers/",
+      "normalised": "https://www.refresheyedrops.com/concern/contact-lens-wearers",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=97151",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=97151",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/terms-and-conditions.html",
+      "normalised": "https://www.refresheyedrops.com/terms-and-conditions.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=96632",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=96632",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/coupons/",
+      "normalised": "https://www.refresheyedrops.com/coupons",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/contact_us.html",
+      "normalised": "https://www.refresheyedrops.com/contact_us.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/pd_eye-drops-quiz.html",
+      "normalised": "https://www.refresheyedrops.com/pd_eye-drops-quiz.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/",
+      "normalised": "https://www.refresheyedrops.com/type",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/home/",
+      "normalised": "https://www.refresheyedrops.com/home",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/post-lasik-care/",
+      "normalised": "https://www.refresheyedrops.com/concern/post-lasik-care",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-optive-advanced/",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-optive-advanced",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/?cgid=root",
+      "normalised": "https://www.refresheyedrops.com/search?cgid=root",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/login/",
+      "normalised": "https://www.refresheyedrops.com/login",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/triple-action/",
+      "normalised": "https://www.refresheyedrops.com/formula/triple-action",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/dual-action/",
+      "normalised": "https://www.refresheyedrops.com/formula/dual-action",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/moderate-dry-eye-relief/",
+      "normalised": "https://www.refresheyedrops.com/concern/moderate-dry-eye-relief",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/?q={{suggestions.searchPhrase}}",
+      "normalised": "https://www.refresheyedrops.com/search?q={{suggestions.searchPhrase}}",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/",
+      "normalised": "https://www.refresheyedrops.com/family",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/?q={{value}}",
+      "normalised": "https://www.refresheyedrops.com/search?q={{value}}",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-digital/",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-digital",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/cart/",
+      "normalised": "https://www.refresheyedrops.com/cart",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/order-trackform/",
+      "normalised": "https://www.refresheyedrops.com/order-trackform",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/?q=Relieva%20Family",
+      "normalised": "https://www.refresheyedrops.com/search?q=Relieva%20Family",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/91822US.html",
+      "normalised": "https://www.refresheyedrops.com/91822US.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/4554.html",
+      "normalised": "https://www.refresheyedrops.com/4554.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/92056.html",
+      "normalised": "https://www.refresheyedrops.com/92056.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/?q=Mega-3%20Family",
+      "normalised": "https://www.refresheyedrops.com/search?q=Mega-3%20Family",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/95773.html",
+      "normalised": "https://www.refresheyedrops.com/95773.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/digital-screens/",
+      "normalised": "https://www.refresheyedrops.com/concern/digital-screens",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/",
+      "normalised": "https://www.refresheyedrops.com/concern",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/ointments/",
+      "normalised": "https://www.refresheyedrops.com/type/ointments",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-optive/",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-optive",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-plus/",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-plus",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/gels/",
+      "normalised": "https://www.refresheyedrops.com/type/gels",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/nighttime-dry-eye-relief/",
+      "normalised": "https://www.refresheyedrops.com/concern/nighttime-dry-eye-relief",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/?q=Digital%20Screens%20Relief",
+      "normalised": "https://www.refresheyedrops.com/search?q=Digital%20Screens%20Relief",
+      "source": "crawl",
+      "httpStatus": 500,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/20078333.html",
+      "normalised": "https://www.refresheyedrops.com/20078333.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/97151.html",
+      "normalised": "https://www.refresheyedrops.com/97151.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/96954.html",
+      "normalised": "https://www.refresheyedrops.com/96954.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/clp-relieva-category.html",
+      "normalised": "https://www.refresheyedrops.com/clp-relieva-category.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/shipping-and-returns.html",
+      "normalised": "https://www.refresheyedrops.com/shipping-and-returns.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/mild-moderate-dry-eye-relief/",
+      "normalised": "https://www.refresheyedrops.com/concern/mild-moderate-dry-eye-relief",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-classic/",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-classic",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/checkout/",
+      "normalised": "https://www.refresheyedrops.com/checkout",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/",
+      "normalised": "https://www.refresheyedrops.com/formula",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/artificial-tears/",
+      "normalised": "https://www.refresheyedrops.com/type/artificial-tears",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/93445.html",
+      "normalised": "https://www.refresheyedrops.com/93445.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/sensitive-dry-eyes/",
+      "normalised": "https://www.refresheyedrops.com/concern/sensitive-dry-eyes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/96632.html",
+      "normalised": "https://www.refresheyedrops.com/96632.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/search/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-tears/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-tears/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/contact-lens-wearers/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/contact-lens-wearers/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/contact-lens-wearers/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/contact-lens-wearers/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/contact-rewetters/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/contact-rewetters/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-tears/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-tears/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/post-lasik-care/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/post-lasik-care/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/take-a-quiz/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/take-a-quiz/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/preservative-free/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/preservative-free/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-optive-advanced/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-optive-advanced/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/preservative-free/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/preservative-free/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/post-lasik-care/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/post-lasik-care/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/home/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/home/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/search/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/contact-rewetters/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/contact-rewetters/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/login/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/login/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/home/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/home/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-optive-advanced/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-optive-advanced/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=93715",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=93715",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=94491",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=94491",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=96634",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=96634",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=95459",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=95459",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=5783",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=5783",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=0506",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=0506",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=94515",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=94515",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=91863US",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=91863US",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=20078337",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=20078337",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=91822US",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=91822US",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=94307",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=94307",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=94170",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=94170",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=94771",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=94771",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=95761",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=95761",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/95761.html",
+      "normalised": "https://www.refresheyedrops.com/95761.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/96634.html",
+      "normalised": "https://www.refresheyedrops.com/96634.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=20083988",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=20083988",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=95773",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=95773",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/93715.html",
+      "normalised": "https://www.refresheyedrops.com/93715.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/90798.html",
+      "normalised": "https://www.refresheyedrops.com/90798.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/?start=0&amp;sz=24",
+      "normalised": "https://www.refresheyedrops.com/type?start=0&amp;sz=24",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/96952.html",
+      "normalised": "https://www.refresheyedrops.com/96952.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/94170.html",
+      "normalised": "https://www.refresheyedrops.com/94170.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/94307.html",
+      "normalised": "https://www.refresheyedrops.com/94307.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/eye-drops-quiz/",
+      "normalised": "https://www.refresheyedrops.com/eye-drops-quiz",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/0506.html",
+      "normalised": "https://www.refresheyedrops.com/0506.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=93416",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=93416",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/93416.html",
+      "normalised": "https://www.refresheyedrops.com/93416.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/20078337.html",
+      "normalised": "https://www.refresheyedrops.com/20078337.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/95459.html",
+      "normalised": "https://www.refresheyedrops.com/95459.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/5783.html",
+      "normalised": "https://www.refresheyedrops.com/5783.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=90798",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=90798",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/20083988.html",
+      "normalised": "https://www.refresheyedrops.com/20083988.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/94491.html",
+      "normalised": "https://www.refresheyedrops.com/94491.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/91863US.html",
+      "normalised": "https://www.refresheyedrops.com/91863US.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/94515.html",
+      "normalised": "https://www.refresheyedrops.com/94515.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/preservative-free/?start=0&amp;sz=18",
+      "normalised": "https://www.refresheyedrops.com/type/preservative-free?start=0&amp;sz=18",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/search/?cgid=root&amp;start=0&amp;sz=24",
+      "normalised": "https://www.refresheyedrops.com/search?cgid=root&amp;start=0&amp;sz=24",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/94771.html",
+      "normalised": "https://www.refresheyedrops.com/94771.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/5487.html",
+      "normalised": "https://www.refresheyedrops.com/5487.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/coupons/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/coupons/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=5487",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=5487",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=96952",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=96952",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/dual-action/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/formula/dual-action/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/formula/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/sensitive-dry-eyes/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/sensitive-dry-eyes/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/nighttime-dry-eye-relief/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/nighttime-dry-eye-relief/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/mild-moderate-dry-eye-relief/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/mild-moderate-dry-eye-relief/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/ointments/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/ointments/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/nighttime-dry-eye-relief/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/nighttime-dry-eye-relief/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/cart/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/cart/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-plus/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-plus/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/digital-screens/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/digital-screens/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/moderate-dry-eye-relief/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/moderate-dry-eye-relief/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/gels/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/gels/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-classic/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-classic/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/moderate-dry-eye-relief/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/moderate-dry-eye-relief/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/dual-action/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/formula/dual-action/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-classic/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-classic/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-optive/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-optive/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/checkout/%7B%7Blink%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/checkout/%7B%7Blink%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/triple-action/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/formula/triple-action/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/gels/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/gels/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-digital/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-digital/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/cart/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/cart/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-optive/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-optive/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/ointments/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/ointments/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/artificial-tears/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/artificial-tears/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/artificial-tears/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/type/artificial-tears/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/sensitive-dry-eyes/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/sensitive-dry-eyes/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-plus/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-plus/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/order-trackform/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/order-trackform/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/digital-screens/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/digital-screens/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/formula/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/triple-action/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/formula/triple-action/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/refresh-digital/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/family/refresh-digital/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/checkout/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/checkout/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/eye-drops-quiz/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/eye-drops-quiz/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/mild-moderate-dry-eye-relief/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/mild-moderate-dry-eye-relief/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/cart/%7B%7Blink%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/cart/%7B%7Blink%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/%7B%7Bproduct.link%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/concern/%7B%7Bproduct.link%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/checkout/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/checkout/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/type/artificial-tears/?start=0&amp;sz=24",
+      "normalised": "https://www.refresheyedrops.com/type/artificial-tears?start=0&amp;sz=24",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/login/?activePanel=register&amp;returnToInitialPage=true&preSelectedFrequency={{frequency}}",
+      "normalised": "https://www.refresheyedrops.com/login?activePanel=register&amp;returnToInitialPage=true&preSelectedFrequency={{frequency}}",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/formula/?start=0&amp;sz=24",
+      "normalised": "https://www.refresheyedrops.com/formula?start=0&amp;sz=24",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/93241.html",
+      "normalised": "https://www.refresheyedrops.com/93241.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=93445",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=93445",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/on/demandware.store/Sites-RME-US-Site/en_US/ProductSubscriptions-List",
+      "normalised": "https://www.refresheyedrops.com/on/demandware.store/Sites-RME-US-Site/en_US/ProductSubscriptions-List",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/family/?start=0&amp;sz=22",
+      "normalised": "https://www.refresheyedrops.com/family?start=0&amp;sz=22",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=4554",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=4554",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/checkout-login/",
+      "normalised": "https://www.refresheyedrops.com/checkout-login",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=4889",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=4889",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/login/?activePanel=login&amp;returnToInitialPage=true&preSelectedFrequency={{frequency}}",
+      "normalised": "https://www.refresheyedrops.com/login?activePanel=login&amp;returnToInitialPage=true&preSelectedFrequency={{frequency}}",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=93241",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=93241",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/96630.html",
+      "normalised": "https://www.refresheyedrops.com/96630.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/concern/?start=0&amp;sz=24",
+      "normalised": "https://www.refresheyedrops.com/concern?start=0&amp;sz=24",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/4889.html",
+      "normalised": "https://www.refresheyedrops.com/4889.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=92056",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=92056",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/where-to-buy/?pid=96630",
+      "normalised": "https://www.refresheyedrops.com/where-to-buy?pid=96630",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/checkout-login/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/checkout-login/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.refresheyedrops.com/on/demandware.store/Sites-RME-US-Site/en_US/%7B%7Burl%7D%7D",
+      "normalised": "https://www.refresheyedrops.com/on/demandware.store/Sites-RME-US-Site/en_US/%7B%7Burl%7D%7D",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8"
+    }
+  ],
+  "stats": {
+    "total": 188,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 188,
+      "manual": 0
+    }
+  }
+}

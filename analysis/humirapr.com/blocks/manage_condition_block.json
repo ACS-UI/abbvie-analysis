@@ -1,0 +1,26 @@
+{
+  "blockId": "manage_condition_block",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Manage Condition Block",
+  "description": "Information about managing conditions and selecting specific conditions.",
+  "domHints": {
+    "selectors": [
+      "section.manage-condition"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

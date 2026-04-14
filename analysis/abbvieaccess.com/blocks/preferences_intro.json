@@ -1,0 +1,26 @@
+{
+  "blockId": "preferences_intro",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Preferences Introduction",
+  "description": "Introduction text for managing communication preferences.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

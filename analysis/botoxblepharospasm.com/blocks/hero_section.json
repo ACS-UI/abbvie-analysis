@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Hero Section",
+  "description": "Presents the main headline and introductory content about BOTOX for blepharospasm.",
+  "domHints": {
+    "selectors": [
+      "main > section.body.clearfix > div.content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "benefits_overview",
+  "templateIds": [
+    "tpl_47"
+  ],
+  "name": "Benefits Overview",
+  "description": "Section providing an overview of AbbVie's employee benefits.",
+  "domHints": {
+    "selectors": [
+      "div#text-69a8857117"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_47 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

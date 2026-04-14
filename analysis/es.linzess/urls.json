@@ -1,0 +1,56 @@
+{
+  "entryUrl": "https://es.linzess.com/",
+  "discoveredAt": "2026-04-13T14:43:30.317Z",
+  "urls": [
+    {
+      "url": "https://es.linzess.com/",
+      "normalised": "https://es.linzess.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://es.linzess.com/tiposdeestrenimiento",
+      "normalised": "https://es.linzess.com/tiposdeestrenimiento",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://es.linzess.com/spanishgutcheck",
+      "normalised": "https://es.linzess.com/spanishgutcheck",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://es.linzess.com/porquelinzess",
+      "normalised": "https://es.linzess.com/porquelinzess",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://es.linzess.com/savings-card",
+      "normalised": "https://es.linzess.com/savings-card",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://es.linzess.com/consejosparamanejarelestrenimiento",
+      "normalised": "https://es.linzess.com/consejosparamanejarelestrenimiento",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 6,
+      "manual": 0
+    }
+  }
+}

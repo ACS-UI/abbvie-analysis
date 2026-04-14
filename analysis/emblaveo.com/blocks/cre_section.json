@@ -1,0 +1,26 @@
+{
+  "blockId": "cre_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "CRE Section",
+  "description": "Information on CRE threats and statistics.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.emv-resistance-cre-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

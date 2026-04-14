@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Video Section",
+  "description": "Section showcasing videos related to office resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.office-resources-video-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

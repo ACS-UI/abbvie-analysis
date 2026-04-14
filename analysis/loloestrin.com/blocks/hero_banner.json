@@ -1,0 +1,27 @@
+{
+  "blockId": "hero_banner",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3"
+  ],
+  "name": "Hero Banner",
+  "description": "Prominent introductory section highlighting the savings program.",
+  "domHints": {
+    "selectors": [
+      ".savings-card-banner"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "site_map_heading",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Site Map Heading",
+  "description": "Displays the heading for the site map section.",
+  "domHints": {
+    "selectors": [
+      ".site-map-heading"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

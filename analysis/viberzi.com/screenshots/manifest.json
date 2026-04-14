@@ -1,0 +1,274 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.viberzi.com/savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.viberzi.com/savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.viberzi.com/savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.title-only.sub-header-top-container"
+    },
+    {
+      "relativePath": "eligibility_section__default.png",
+      "sourceUrl": "https://www.viberzi.com/savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.eligible-patients-container"
+    },
+    {
+      "relativePath": "signup_methods__default.png",
+      "sourceUrl": "https://www.viberzi.com/savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.saving-signup-container"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.viberzi.com/savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.viberzi.com/savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.viberzi.com/savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.viberzi.com/patient-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.viberzi.com/patient-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": "header nav"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.viberzi.com/patient-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.viberzi.com/patient-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "content_overview_links__default.png",
+      "sourceUrl": "https://www.viberzi.com/about-viberzi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.sub-header-bottom-container"
+    },
+    {
+      "relativePath": "what_is_viberzi__default.png",
+      "sourceUrl": "https://www.viberzi.com/about-viberzi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.full-container.what-is-container"
+    },
+    {
+      "relativePath": "viberzi_works__default.png",
+      "sourceUrl": "https://www.viberzi.com/about-viberzi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.full-container.viberzi-works-container"
+    },
+    {
+      "relativePath": "side_effects__default.png",
+      "sourceUrl": "https://www.viberzi.com/about-viberzi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.full-container.side-effects-container"
+    },
+    {
+      "relativePath": "daily_dosing__default.png",
+      "sourceUrl": "https://www.viberzi.com/about-viberzi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.full-container.bg-extra-light-orange"
+    },
+    {
+      "relativePath": "tips_for_taking__default.png",
+      "sourceUrl": "https://www.viberzi.com/about-viberzi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.pattern-14.tips-conainer"
+    },
+    {
+      "relativePath": "carousel_tips__default.png",
+      "sourceUrl": "https://www.viberzi.com/about-viberzi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-carousel.tips-carousel"
+    },
+    {
+      "relativePath": "important_risk_information__default.png",
+      "sourceUrl": "https://www.viberzi.com/about-viberzi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.viberzi.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.full-container.sitemap"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.viberzi.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.viberzi.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "what_is_ibsd__default.png",
+      "sourceUrl": "https://www.viberzi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".abbv-container.inner-container.desk-pt-80"
+    },
+    {
+      "relativePath": "talk_to_provider__default.png",
+      "sourceUrl": "https://www.viberzi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".talk-to-healthcare"
+    },
+    {
+      "relativePath": "viberzi_intro__default.png",
+      "sourceUrl": "https://www.viberzi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".intro-ibs-viberzi-container"
+    },
+    {
+      "relativePath": "savings_and_faqs__default.png",
+      "sourceUrl": "https://www.viberzi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:43:47.603Z",
+      "selector": ".save-on-viberzi"
+    }
+  ]
+}

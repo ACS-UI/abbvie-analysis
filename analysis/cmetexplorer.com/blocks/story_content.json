@@ -1,0 +1,27 @@
+{
+  "blockId": "story_content",
+  "templateIds": [
+    "tpl_173",
+    "tpl_217"
+  ],
+  "name": "Story Content",
+  "description": "Main content area presenting the detailed story or article.",
+  "domHints": {
+    "selectors": [
+      ".storypage .cmp-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_173 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

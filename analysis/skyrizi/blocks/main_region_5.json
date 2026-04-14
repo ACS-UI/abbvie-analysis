@@ -1,0 +1,38 @@
+{
+  "blockId": "main_region_5",
+  "templateIds": [
+    "tpl_7",
+    "tpl_11",
+    "tpl_13",
+    "tpl_15",
+    "tpl_16",
+    "tpl_21",
+    "tpl_22",
+    "tpl_26",
+    "tpl_30",
+    "tpl_31",
+    "tpl_35",
+    "tpl_50",
+    "tpl_57"
+  ],
+  "name": "main region 5",
+  "description": "Major content region in main (div). Preview: You may also be interested in: Injection Support Injection Support Ways to Save Ways to Save Understanding Insurance Und…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(6)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_7. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

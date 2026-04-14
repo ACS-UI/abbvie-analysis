@@ -1,0 +1,26 @@
+{
+  "blockId": "submission_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Submission Section",
+  "description": "Provides information and a call-to-action for submitting vulnerabilities.",
+  "domHints": {
+    "selectors": [
+      ".submition-section-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

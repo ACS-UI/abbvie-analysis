@@ -1,0 +1,26 @@
+{
+  "blockId": "cf_scholarship_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "CF Scholarship Section",
+  "description": "Highlights the AbbVie CF Scholarship program.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1511933654"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

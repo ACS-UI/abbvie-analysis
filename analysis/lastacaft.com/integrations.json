@@ -1,0 +1,28 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.lastacaft.com/",
+          "https://www.lastacaft.com/frequently-asked-questions",
+          "https://www.lastacaft.com/understanding-eye-allergies",
+          "https://www.lastacaft.com/about",
+          "https://www.lastacaft.com/doc",
+          "https://www.lastacaft.com/where-to-buy",
+          "https://www.lastacaft.com/savings",
+          "https://www.lastacaft.com/sitemap"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:21:59.167Z"
+}

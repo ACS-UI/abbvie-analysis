@@ -1,0 +1,26 @@
+{
+  "blockId": "key_dates_section",
+  "templateIds": [
+    "tpl_32"
+  ],
+  "name": "Key Dates Section",
+  "description": "Displays important dates for scholarship applicants.",
+  "domHints": {
+    "selectors": [
+      ".application-status"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_32 (selectors validated in representative HTML).",
+  "aemCatalogName": "Table"
+}

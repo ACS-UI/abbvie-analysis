@@ -1,0 +1,26 @@
+{
+  "blockId": "how_is_hepatitis_c_spread",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "How is Hepatitis C Spread?",
+  "description": "Details the transmission methods of Hepatitis C.",
+  "domHints": {
+    "selectors": [
+      "#sec2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

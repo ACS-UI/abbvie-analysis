@@ -1,0 +1,26 @@
+{
+  "blockId": "types_of_biologics",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Types of Biologics",
+  "description": "Describes various types of biologics available for treatment.",
+  "domHints": {
+    "selectors": [
+      "#tbc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

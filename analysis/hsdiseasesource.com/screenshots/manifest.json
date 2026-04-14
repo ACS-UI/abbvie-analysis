@@ -1,0 +1,634 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": "#background-container-1489864336"
+    },
+    {
+      "relativePath": "breadcrumb_navigation__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-breadcrumb-navigation"
+    },
+    {
+      "relativePath": "comorbidity_overview__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-row-container.abbv-columns-row--std-padding"
+    },
+    {
+      "relativePath": "comorbidity_cards__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".hs-content-modal-cards"
+    },
+    {
+      "relativePath": "callout_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".main-page-callout"
+    },
+    {
+      "relativePath": "did_you_know_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-container.light-grey-fill"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".tout-journey-next"
+    },
+    {
+      "relativePath": "references_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-rich-text.text-reference"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "sitemap_columns__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-row-container"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-header-content-container"
+    },
+    {
+      "relativePath": "mega_navigation__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "what_is_hs_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".home-description-text"
+    },
+    {
+      "relativePath": "info_tree_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".hs-info-tree-primary"
+    },
+    {
+      "relativePath": "treatment_options_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".info-tree--treatment-options-home"
+    },
+    {
+      "relativePath": "image_gallery__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".home-image-spread"
+    },
+    {
+      "relativePath": "where_hs_occurs_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".justify-content-space-between"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_dialogs__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "specialist_intro__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/locate-an-hs-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-rich-text.pr4"
+    },
+    {
+      "relativePath": "locator_tool__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/locate-an-hs-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".hs-dr-locator"
+    },
+    {
+      "relativePath": "locator_results__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/locate-an-hs-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".DLResults"
+    },
+    {
+      "relativePath": "reference_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/locate-an-hs-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".text-reference"
+    },
+    {
+      "relativePath": "main_content_intro__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-diagnosis-criteria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-row-container.abbv-columns-row--std-padding:nth-of-type(1)"
+    },
+    {
+      "relativePath": "additional_considerations__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-diagnosis-criteria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-row-container.abbv-columns-row--inner-padding"
+    },
+    {
+      "relativePath": "image_spread_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/personalization",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".home-image-spread"
+    },
+    {
+      "relativePath": "events_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/events-and-organizations",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-flex-container.mb3.mt9"
+    },
+    {
+      "relativePath": "organizations_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/events-and-organizations",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-row-container.abbv-columns-row--inner-padding"
+    },
+    {
+      "relativePath": "resources_cta__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/events-and-organizations",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".tout-journey-next"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-flex-container.flush-first-last.abbv-flex-m-col-d-row > .abbv-flex-item.flex-grow-8"
+    },
+    {
+      "relativePath": "practice_resources__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-container.light-grey-fill .abbv-row-container.abbv-columns-row--inner-padding"
+    },
+    {
+      "relativePath": "patient_resources__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-container .abbv-row-container.abbv-columns-row--std-padding"
+    },
+    {
+      "relativePath": "conversation_guides__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".hs-conversation-guides"
+    },
+    {
+      "relativePath": "additional_resources__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".tout-journey-next"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-row-container.abbv-columns-row--std-padding"
+    },
+    {
+      "relativePath": "info_tree_interaction__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-info-tree"
+    },
+    {
+      "relativePath": "main_content_columns__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/multi-disciplinary-care-team",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-row-container"
+    },
+    {
+      "relativePath": "role_of_care_team__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/multi-disciplinary-care-team",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".nav-care-team"
+    },
+    {
+      "relativePath": "clinical_presentation_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-signs-and-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-flex-container.mb3"
+    },
+    {
+      "relativePath": "hotspot_tool__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-signs-and-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-hot-spot"
+    },
+    {
+      "relativePath": "impact_statistics__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-signs-and-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".boxed-3-bullet-image"
+    },
+    {
+      "relativePath": "psychosocial_impact__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-signs-and-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-container.light-grey-fill"
+    },
+    {
+      "relativePath": "quote_section__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-signs-and-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".callout--quote"
+    },
+    {
+      "relativePath": "quiz_cta__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-signs-and-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".tout-journey-next"
+    },
+    {
+      "relativePath": "info_tree__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-progression",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-info-tree.hs-info-tree-primary"
+    },
+    {
+      "relativePath": "tabs_component__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-progression",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-tabs.hs-tabs-default"
+    },
+    {
+      "relativePath": "importance_of_early_diagnosis__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-differential-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-rich-text-common h2"
+    },
+    {
+      "relativePath": "hs_diagnosis_statistics__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-differential-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-container.light-grey-fill .abbv-row-container"
+    },
+    {
+      "relativePath": "differential_diagnoses__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-differential-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".card-caption-dark-grey"
+    },
+    {
+      "relativePath": "diagnosis_quiz__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-differential-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": "#symptoms-quiz"
+    },
+    {
+      "relativePath": "hurley_staging_intro__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-disease-staging",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-rich-text.mb3"
+    },
+    {
+      "relativePath": "hurley_staging_details__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-disease-staging",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".callout---three-column-long"
+    },
+    {
+      "relativePath": "severity_considerations__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-disease-staging",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-flex-container.abbv-flex-m-col-d-row"
+    },
+    {
+      "relativePath": "case_studies_cta__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-disease-staging",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": ".abbv-flex-container.tout-journey-next"
+    },
+    {
+      "relativePath": "case_study_1__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-case-studies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": "#case-study-1"
+    },
+    {
+      "relativePath": "case_study_2__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-case-studies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": "#case-study-2"
+    },
+    {
+      "relativePath": "case_study_3__default.png",
+      "sourceUrl": "https://www.hsdiseasesource.com/hs-case-studies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:56:56.013Z",
+      "selector": "#case-study-3"
+    }
+  ]
+}

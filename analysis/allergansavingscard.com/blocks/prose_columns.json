@@ -1,0 +1,28 @@
+{
+  "blockId": "prose_columns",
+  "templateIds": [
+    "tpl_99",
+    "tpl_256",
+    "tpl_286"
+  ],
+  "name": "Prose Columns",
+  "description": "Text content arranged in columns for readability.",
+  "domHints": {
+    "selectors": [
+      ".cmp-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_99 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

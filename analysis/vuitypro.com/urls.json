@@ -1,0 +1,189 @@
+{
+  "entryUrl": "https://www.vuitypro.com/",
+  "discoveredAt": "2026-04-13T15:40:08.790Z",
+  "urls": [
+    {
+      "url": "https://www.vuitypro.com/",
+      "normalised": "https://www.vuitypro.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/presbyopia-access-flashcard-from-vuity.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/presbyopia-access-flashcard-from-vuity.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/take-home-chart.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/take-home-chart.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/presbyopia-my-vuity-points-mvp-loyalty-flashcard.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/presbyopia-my-vuity-points-mvp-loyalty-flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/patient-profiles-from-vuity.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/patient-profiles-from-vuity.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/UpScriptFlashcard.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/UpScriptFlashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/my-vuity-points-mvp-loyalty-flashcard.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/my-vuity-points-mvp-loyalty-flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/access-flashcard-from-vuity.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/access-flashcard-from-vuity.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-220523-Access-Flashcard-Digital.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-220523-Access-Flashcard-Digital.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-220524-UpScript-Flashcard-Digital.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-220524-UpScript-Flashcard-Digital.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-230090%20Branded%20Patient%20Brochure%20-%20Digital%20-%202nd%20Dose.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-230090%20Branded%20Patient%20Brochure%20-%20Digital%20-%202nd%20Dose.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-230084%20VECP%20Access%20Flashcard%20-%202023%20Messaging%20Update.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-230084%20VECP%20Access%20Flashcard%20-%202023%20Messaging%20Update.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-230133%20UpScript%20Flashcard%20Update.pdf",
+      "normalised": "https://www.vuitypro.com/content/dam/vuitypro/pdf/US-VUI-230133%20UpScript%20Flashcard%20Update.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vuitypro.com/safety",
+      "normalised": "https://www.vuitypro.com/safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/efficacy",
+      "normalised": "https://www.vuitypro.com/efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/access-and-prescribing",
+      "normalised": "https://www.vuitypro.com/access-and-prescribing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/faqs",
+      "normalised": "https://www.vuitypro.com/faqs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/sitemap",
+      "normalised": "https://www.vuitypro.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/site-map",
+      "normalised": "https://www.vuitypro.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/innovation",
+      "normalised": "https://www.vuitypro.com/innovation",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/abbv-tab-258210677-0",
+      "normalised": "https://www.vuitypro.com/abbv-tab-258210677-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/abbv-tab-258210677-1",
+      "normalised": "https://www.vuitypro.com/abbv-tab-258210677-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/resources",
+      "normalised": "https://www.vuitypro.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/abbv-tab-1971064306-1",
+      "normalised": "https://www.vuitypro.com/abbv-tab-1971064306-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vuitypro.com/abbv-tab-1971064306-0",
+      "normalised": "https://www.vuitypro.com/abbv-tab-1971064306-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 25,
+    "bySource": {
+      "sitemap": 13,
+      "crawl": 12,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "mobile_menu_toggle",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Mobile Menu Toggle",
+  "description": "Button to toggle the mobile navigation menu.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-mobile-primary-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

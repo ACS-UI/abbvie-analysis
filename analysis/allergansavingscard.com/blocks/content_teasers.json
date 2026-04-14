@@ -1,0 +1,29 @@
+{
+  "blockId": "content_teasers",
+  "templateIds": [
+    "tpl_65",
+    "tpl_161",
+    "tpl_222"
+  ],
+  "name": "Content Teasers",
+  "description": "Displays a grid of teaser cards for featured stories or articles.",
+  "domHints": {
+    "selectors": [
+      ".grid-row__col-with-3",
+      "div.cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_65 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "card_grid_highlights",
+  "templateIds": [
+    "tpl_82"
+  ],
+  "name": "Card Grid Highlights",
+  "description": "Displays key highlights or stories in a card format.",
+  "domHints": {
+    "selectors": [
+      ".grid-row__col-with-3 .cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_82 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

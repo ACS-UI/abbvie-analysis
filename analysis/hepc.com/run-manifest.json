@@ -1,0 +1,74 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:46:49.142Z",
+  "completedAt": "2026-04-13T15:53:45.448Z",
+  "input": {
+    "url": "https://www.hepc.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/hepc.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_1",
+        "humanName": "Information Page",
+        "source": "llm_identify",
+        "blockCount": 13,
+        "proposedCount": 13
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Interactive Tool",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Sitemap",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Transcript Page",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Search Page",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      }
+    ]
+  }
+}

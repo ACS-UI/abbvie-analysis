@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_warn_on_leave",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Modal - Warn on Leave",
+  "description": "Displays a modal dialog warning users before leaving the site.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.warnonleavecdc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

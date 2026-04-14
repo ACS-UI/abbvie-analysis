@@ -1,0 +1,27 @@
+{
+  "blockId": "accordion_references",
+  "templateIds": [
+    "tpl_13",
+    "tpl_17"
+  ],
+  "name": "References Accordion",
+  "description": "Expandable accordion containing references and citations.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion.fybp-references-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content",
+  "templateIds": [
+    "tpl_47"
+  ],
+  "name": "Main Content",
+  "description": "Contains the primary information about the scholar, including biography and achievements.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.grid__2-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_47 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

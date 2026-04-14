@@ -1,0 +1,27 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Contains utility navigation links such as contact, terms of use, and privacy policy.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-horizontal.abbv-footer-border-top"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

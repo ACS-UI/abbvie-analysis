@@ -1,0 +1,26 @@
+{
+  "blockId": "card_grid_highlight",
+  "templateIds": [
+    "tpl_55"
+  ],
+  "name": "Highlighted Card Grid",
+  "description": "Grid of cards highlighting key stories and metrics.",
+  "domHints": {
+    "selectors": [
+      ".grid-container > .grid-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_55 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

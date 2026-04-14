@@ -1,0 +1,28 @@
+{
+  "blockId": "tips_section",
+  "templateIds": [
+    "tpl_19",
+    "tpl_23",
+    "tpl_24"
+  ],
+  "name": "Tips Section",
+  "description": "Lists practical tips for maintaining healthy habits.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1739403389"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_19 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,134 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.epkinly.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.epkinly.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "header nav"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.epkinly.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.epkinly.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure-spanish.pdf",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure-spanish.pdf",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure-spanish.pdf",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure-spanish.pdf",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "main_region_5__default.png",
+      "sourceUrl": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure-spanish.pdf",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(6)"
+    },
+    {
+      "relativePath": "main_region_6__default.png",
+      "sourceUrl": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure-spanish.pdf",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(7)"
+    },
+    {
+      "relativePath": "main_region_7__default.png",
+      "sourceUrl": "https://www.epkinly.com/treatment-with-epkinly",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(8)"
+    },
+    {
+      "relativePath": "main_region_8__default.png",
+      "sourceUrl": "https://www.epkinly.com/treatment-with-epkinly",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(9)"
+    },
+    {
+      "relativePath": "columns__default.png",
+      "sourceUrl": "https://www.epkinly.com/dlbcl/care-partner-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:38:48.985Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    }
+  ]
+}

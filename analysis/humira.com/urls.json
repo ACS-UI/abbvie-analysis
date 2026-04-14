@@ -1,0 +1,266 @@
+{
+  "entryUrl": "https://www.humira.com/",
+  "discoveredAt": "2026-04-13T16:09:59.188Z",
+  "urls": [
+    {
+      "url": "https://www.humira.com/",
+      "normalised": "https://www.humira.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/crohns",
+      "normalised": "https://www.humira.com/crohns",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/ongoing-support",
+      "normalised": "https://www.humira.com/humira-complete/ongoing-support",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/psoriasis",
+      "normalised": "https://www.humira.com/psoriasis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/rheumatoid-arthritis",
+      "normalised": "https://www.humira.com/rheumatoid-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/support-resources",
+      "normalised": "https://www.humira.com/humira-complete/support-resources",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/pediatric-ulcerative-colitis",
+      "normalised": "https://www.humira.com/pediatric-ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/uveitis",
+      "normalised": "https://www.humira.com/uveitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/psoriatic-arthritis",
+      "normalised": "https://www.humira.com/psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/cost",
+      "normalised": "https://www.humira.com/cost",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/ankylosing-spondylitis",
+      "normalised": "https://www.humira.com/ankylosing-spondylitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/log-in",
+      "normalised": "https://www.humira.com/humira-complete/log-in",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/injection",
+      "normalised": "https://www.humira.com/humira-complete/injection",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/ulcerative-colitis",
+      "normalised": "https://www.humira.com/ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/juvenile-arthritis",
+      "normalised": "https://www.humira.com/juvenile-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/sign-up",
+      "normalised": "https://www.humira.com/humira-complete/sign-up",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/pediatric-crohns",
+      "normalised": "https://www.humira.com/pediatric-crohns",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/understanding-insurance-coverage-changes",
+      "normalised": "https://www.humira.com/humira-complete/understanding-insurance-coverage-changes",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/global/sitemap",
+      "normalised": "https://www.humira.com/global/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/insurance-coverage-explained",
+      "normalised": "https://www.humira.com/humira-complete/insurance-coverage-explained",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/global/frequently-asked-questions",
+      "normalised": "https://www.humira.com/global/frequently-asked-questions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/cost-and-copay",
+      "normalised": "https://www.humira.com/humira-complete/cost-and-copay",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/hidradenitis-suppurativa",
+      "normalised": "https://www.humira.com/hidradenitis-suppurativa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/insurance-coverage-explained/transcript_commercial",
+      "normalised": "https://www.humira.com/humira-complete/insurance-coverage-explained/transcript_commercial",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/register",
+      "normalised": "https://www.humira.com/humira-complete/register",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/ambassador",
+      "normalised": "https://www.humira.com/humira-complete/ambassador",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/cost-and-copay/transcript_savings",
+      "normalised": "https://www.humira.com/humira-complete/cost-and-copay/transcript_savings",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete",
+      "normalised": "https://www.humira.com/humira-complete",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/transcript_patientStory",
+      "normalised": "https://www.humira.com/humira-complete/transcript_patientStory",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/transcript_openenrollment",
+      "normalised": "https://www.humira.com/humira-complete/transcript_openenrollment",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/insurance-coverage",
+      "normalised": "https://www.humira.com/humira-complete/insurance-coverage",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/insurance-coverage-explained/transcript_government",
+      "normalised": "https://www.humira.com/humira-complete/insurance-coverage-explained/transcript_government",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/dashboard",
+      "normalised": "https://www.humira.com/humira-complete/dashboard",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/landing/app-injection-detect",
+      "normalised": "https://www.humira.com/humira-complete/landing/app-injection-detect",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/content/humira-complete/cost-and-copay",
+      "normalised": "https://www.humira.com/content/humira-complete/cost-and-copay",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humira.com/humira-complete/landing/",
+      "normalised": "https://www.humira.com/humira-complete/landing",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 36,
+    "bySource": {
+      "sitemap": 16,
+      "crawl": 20,
+      "manual": 0
+    }
+  }
+}

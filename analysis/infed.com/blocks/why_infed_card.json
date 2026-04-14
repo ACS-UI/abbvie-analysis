@@ -1,0 +1,26 @@
+{
+  "blockId": "why_infed_card",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Why INFeD Card",
+  "description": "Explains the benefits of INFeD for patients with iron deficiency or anemia.",
+  "domHints": {
+    "selectors": [
+      ".why-infed-card"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

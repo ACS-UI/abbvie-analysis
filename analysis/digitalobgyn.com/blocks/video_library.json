@@ -1,0 +1,27 @@
+{
+  "blockId": "video_library",
+  "templateIds": [
+    "tpl_5",
+    "tpl_7"
+  ],
+  "name": "Video Library",
+  "description": "Showcases video resources related to endometriosis.",
+  "domHints": {
+    "selectors": [
+      ".endometriosis-series-tab"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

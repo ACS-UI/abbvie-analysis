@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.botoxone.com/",
+  "normalisedUrl": "https://www.botoxone.com/",
+  "finalUrlAfterRedirects": "https://www.botoxone.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T12:22:28.899Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

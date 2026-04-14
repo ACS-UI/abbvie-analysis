@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_information_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Patient Information Section",
+  "description": "Provides statistics and information about patient prescriptions and the importance of proper dispensing.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.synthroid-patient-actually"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

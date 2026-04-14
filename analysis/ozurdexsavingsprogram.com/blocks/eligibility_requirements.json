@@ -1,0 +1,26 @@
+{
+  "blockId": "eligibility_requirements",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Eligibility Requirements",
+  "description": "Details the eligibility criteria for the savings program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.ozurdex-home-eligibility"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,34 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.emblaveo.com/contact-a-rep",
+          "https://www.emblaveo.com/",
+          "https://www.emblaveo.com/sitemap",
+          "https://www.emblaveo.com/videos",
+          "https://www.emblaveo.com/changing-resistance",
+          "https://www.emblaveo.com/registration",
+          "https://www.emblaveo.com/clinical-data",
+          "https://www.emblaveo.com/susceptibility-testing",
+          "https://www.emblaveo.com/safety",
+          "https://www.emblaveo.com/medical-info",
+          "https://www.emblaveo.com/mechanism-of-action",
+          "https://www.emblaveo.com/dosing",
+          "https://www.emblaveo.com/ordering-and-support",
+          "https://www.emblaveo.com/customer-service"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:29:19.019Z"
+}

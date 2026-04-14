@@ -1,0 +1,27 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_8",
+    "tpl_24"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides an introductory paragraph about EPI diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".epi-first-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

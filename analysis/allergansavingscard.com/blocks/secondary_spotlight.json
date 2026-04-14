@@ -1,0 +1,26 @@
+{
+  "blockId": "secondary_spotlight",
+  "templateIds": [
+    "tpl_276"
+  ],
+  "name": "Secondary Spotlight",
+  "description": "Highlights additional content with imagery and text.",
+  "domHints": {
+    "selectors": [
+      "#container-aae9fc3465"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_276 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

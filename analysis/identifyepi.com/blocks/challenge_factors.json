@@ -1,0 +1,26 @@
+{
+  "blockId": "challenge_factors",
+  "templateIds": [
+    "tpl_33"
+  ],
+  "name": "Challenge Factors",
+  "description": "Explains specific challenges in diagnosing EPI, including patient and diagnosis-related difficulties.",
+  "domHints": {
+    "selectors": [
+      ".epi-challenges-blocks"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_33 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

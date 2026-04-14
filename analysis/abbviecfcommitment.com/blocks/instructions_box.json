@@ -1,0 +1,26 @@
+{
+  "blockId": "instructions_box",
+  "templateIds": [
+    "tpl_27"
+  ],
+  "name": "Instructions Box",
+  "description": "Provides step-by-step instructions for preparing the recipe.",
+  "domHints": {
+    "selectors": [
+      ".recipes_instructions-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_27 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "card_grid",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Card Grid",
+  "description": "Displays a grid of cards with information and links to resources such as treatment advice, dose calculator, and savings options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

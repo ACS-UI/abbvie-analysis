@@ -1,0 +1,27 @@
+{
+  "blockId": "treatment_options_section",
+  "templateIds": [
+    "tpl_6",
+    "tpl_19"
+  ],
+  "name": "Treatment Options Section",
+  "description": "Information about various treatment options for UC.",
+  "domHints": {
+    "selectors": [
+      "#treatmentoptions"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

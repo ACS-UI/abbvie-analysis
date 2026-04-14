@@ -1,0 +1,26 @@
+{
+  "blockId": "additional_resources",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Additional Resources",
+  "description": "Provides links and information for further learning about EPI and treatment options.",
+  "domHints": {
+    "selectors": [
+      ".spotlight--image-blue"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

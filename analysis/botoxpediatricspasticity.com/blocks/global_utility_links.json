@@ -1,0 +1,26 @@
+{
+  "blockId": "global_utility_links",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Global Utility Links",
+  "description": "Provides quick access to important resources and information for users.",
+  "domHints": {
+    "selectors": [
+      "header .top-nav-link"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

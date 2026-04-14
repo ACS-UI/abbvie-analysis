@@ -1,0 +1,26 @@
+{
+  "blockId": "what_is_hepatitis_c",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "What is Hepatitis C?",
+  "description": "Explains the basics of Hepatitis C and its implications.",
+  "domHints": {
+    "selectors": [
+      "#sec1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

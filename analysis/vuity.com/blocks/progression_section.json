@@ -1,0 +1,26 @@
+{
+  "blockId": "progression_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Progression Section",
+  "description": "Explains the progression of the condition with supporting visuals.",
+  "domHints": {
+    "selectors": [
+      ".vuity-blurry-vision-flexbox"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

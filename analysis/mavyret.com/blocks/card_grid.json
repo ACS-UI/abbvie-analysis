@@ -1,0 +1,26 @@
+{
+  "blockId": "card_grid",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Card Grid Section",
+  "description": "Displays a grid of cards with information and links to additional resources.",
+  "domHints": {
+    "selectors": [
+      ".container__two-column"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "importance_of_early_diagnosis",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Importance of Early Diagnosis",
+  "description": "Highlights the significance of early diagnosis for HS.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text-common h2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

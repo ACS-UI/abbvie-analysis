@@ -1,0 +1,26 @@
+{
+  "blockId": "cookie_settings_modal",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Cookie Settings Modal",
+  "description": "Provides options for managing cookie preferences.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.cookieSettings"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

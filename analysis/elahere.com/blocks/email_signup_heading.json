@@ -1,0 +1,26 @@
+{
+  "blockId": "email_signup_heading",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Email Signup Heading",
+  "description": "The heading introduces the email signup section.",
+  "domHints": {
+    "selectors": [
+      "main > div.container.theme-light-plum.-fan-bg > div.row > div.col > h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

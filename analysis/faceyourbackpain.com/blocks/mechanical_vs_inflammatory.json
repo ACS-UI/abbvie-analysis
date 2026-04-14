@@ -1,0 +1,27 @@
+{
+  "blockId": "mechanical_vs_inflammatory",
+  "templateIds": [
+    "tpl_3",
+    "tpl_15"
+  ],
+  "name": "Mechanical vs Inflammatory Comparison",
+  "description": "Compares mechanical and inflammatory back pain.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-title-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

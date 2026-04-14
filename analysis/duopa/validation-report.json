@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.duopa.com/",
+  "normalisedUrl": "https://www.duopa.com/",
+  "finalUrlAfterRedirects": "https://www.duopa.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T12:30:53.657Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cookie_settings",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Cookie Settings",
+  "description": "Link to manage cookie preferences.",
+  "domHints": {
+    "selectors": [
+      "#ot-sdk-btn1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

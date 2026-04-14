@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_explore_treatment",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Explore Treatment Modal",
+  "description": "Provides additional information about treatment options in a modal dialog.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-modal.wolexploretreatment"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "efficacy_highlight",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Efficacy Highlight",
+  "description": "Section showcasing efficacy details with supporting text and visual charts.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.border-gradient-green-gold.border-gradient-bgcolor-green-gradient"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

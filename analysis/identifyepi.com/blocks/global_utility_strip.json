@@ -1,0 +1,33 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3",
+    "tpl_7",
+    "tpl_11",
+    "tpl_16",
+    "tpl_19",
+    "tpl_23",
+    "tpl_33"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Contains utility links such as 'Sponsored by AbbVie' and 'Healthcare Professional Site'.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

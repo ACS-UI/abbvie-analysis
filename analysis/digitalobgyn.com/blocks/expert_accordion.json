@@ -1,0 +1,26 @@
+{
+  "blockId": "expert_accordion",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Expert Accordion",
+  "description": "Expandable content sections providing additional details about each expert.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion.bio-accordian"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

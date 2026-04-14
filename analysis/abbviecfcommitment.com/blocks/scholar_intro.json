@@ -1,0 +1,26 @@
+{
+  "blockId": "scholar_intro",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Scholar Introduction",
+  "description": "Introduces the featured scholar with an image and brief description.",
+  "domHints": {
+    "selectors": [
+      ".grid__2-col--40-60"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

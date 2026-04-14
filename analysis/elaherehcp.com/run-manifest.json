@@ -1,0 +1,88 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:31:33.875Z",
+  "completedAt": "2026-04-13T16:39:59.486Z",
+  "input": {
+    "url": "https://www.elaherehcp.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/elaherehcp.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Efficacy Data",
+        "source": "llm_identify",
+        "blockCount": 14,
+        "proposedCount": 14
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Support Resources",
+        "source": "llm_identify",
+        "blockCount": 13,
+        "proposedCount": 13
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "FRA Testing",
+        "source": "llm_identify",
+        "blockCount": 13,
+        "proposedCount": 13
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Dosing Information",
+        "source": "llm_identify",
+        "blockCount": 14,
+        "proposedCount": 14
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Safety Profile",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Contact Request",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Eye Care",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      }
+    ]
+  }
+}

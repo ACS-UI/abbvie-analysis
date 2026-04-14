@@ -1,0 +1,294 @@
+{
+  "entries": [
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-header-v2"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-background-container.ozurdex-home-hero"
+    },
+    {
+      "relativePath": "eligibility_requirements__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-flex-container.ozurdex-home-eligibility"
+    },
+    {
+      "relativePath": "patients_section__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-flex-item.ozurdex-home-patients"
+    },
+    {
+      "relativePath": "physicians_section__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-flex-item.ozurdex-home-physicians"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "safety_bar__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-safety-bar"
+    },
+    {
+      "relativePath": "header_navigation__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/termsandconditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": "header.abbv-header-v2"
+    },
+    {
+      "relativePath": "terms_conditions_content__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/termsandconditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": "div.abbv-rich-text.ozurdex-home-terms"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/termsandconditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": "footer.abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/termsandconditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": "button.abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/program-resources-and-forms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": "header > .abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "eligibility_section__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".ozurdex-how-it-works-eligible"
+    },
+    {
+      "relativePath": "enrollment_steps__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".ozurdex-how-it-works-enroll-steps"
+    },
+    {
+      "relativePath": "accordion_enrollment__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".ozurdex-how-it-works-accordion.ozurdex-how-it-works-rules"
+    },
+    {
+      "relativePath": "reimbursement_section__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".ozurdex-how-it-works-request-steps"
+    },
+    {
+      "relativePath": "accordion_reimbursement__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".ozurdex-how-it-works-accordion.ozurdex-how-it-works-reimbursement"
+    },
+    {
+      "relativePath": "resources_section__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".ozurdex-how-it-works-download"
+    },
+    {
+      "relativePath": "terms_conditions__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": "#terms-conditions"
+    },
+    {
+      "relativePath": "logo_header__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-header-v2-left"
+    },
+    {
+      "relativePath": "search_util__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": "#abbv-search-util"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": "section[role='main']"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "header_logo__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-header-v2-left a img"
+    },
+    {
+      "relativePath": "footer_logo__default.png",
+      "sourceUrl": "https://www.ozurdexsavingsprogram.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:38:19.233Z",
+      "selector": ".abbv-footer .logo"
+    }
+  ]
+}

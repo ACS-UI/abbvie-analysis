@@ -1,0 +1,27 @@
+{
+  "blockId": "quick_poll",
+  "templateIds": [
+    "tpl_0",
+    "tpl_6"
+  ],
+  "name": "Quick Poll",
+  "description": "Interactive poll allowing users to provide feedback or input on a specific question.",
+  "domHints": {
+    "selectors": [
+      ".abbv-quick-poll"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

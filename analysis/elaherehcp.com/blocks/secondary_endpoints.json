@@ -1,0 +1,26 @@
+{
+  "blockId": "secondary_endpoints",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Secondary Endpoints",
+  "description": "Section discussing other secondary endpoints of the study.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

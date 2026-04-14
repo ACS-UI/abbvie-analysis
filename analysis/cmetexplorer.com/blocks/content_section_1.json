@@ -1,0 +1,30 @@
+{
+  "blockId": "content_section_1",
+  "templateIds": [
+    "tpl_25",
+    "tpl_96",
+    "tpl_116",
+    "tpl_258",
+    "tpl_290"
+  ],
+  "name": "Content Section 1",
+  "description": "Provides an overview of 'Who We Are' with links and highlights.",
+  "domHints": {
+    "selectors": [
+      "#container-e3b37c5553 > .grid > .grid-container > .grid-row > .grid-row__col-with-4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

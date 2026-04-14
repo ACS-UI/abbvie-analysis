@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_links",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Sitemap Links",
+  "description": "Displays a structured list of links representing the site's structure.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.ml-15.mb-25"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "image_highlight",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Image Highlight",
+  "description": "Visual representation of the site's legacy and achievements.",
+  "domHints": {
+    "selectors": [
+      ".allergan75-image-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_tout_section",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Call-to-Action Tout Section",
+  "description": "Highlights three key actions or topics related to uterine fibroids.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.bg-teal-soft.tout-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

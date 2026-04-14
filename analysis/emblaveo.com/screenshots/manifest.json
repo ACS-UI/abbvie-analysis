@@ -1,0 +1,534 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-header-v2"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-eyebrow"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "contact_form__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": "#aemFormFrame"
+    },
+    {
+      "relativePath": "important_safety_info__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_dialogs__default.png",
+      "sourceUrl": "https://www.emblaveo.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.emblaveo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "three_column_cta__default.png",
+      "sourceUrl": "https://www.emblaveo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-row-container.three-container"
+    },
+    {
+      "relativePath": "promo_drawer__default.png",
+      "sourceUrl": "https://www.emblaveo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-promo-drawer"
+    },
+    {
+      "relativePath": "sitemap_list__default.png",
+      "sourceUrl": "https://www.emblaveo.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.full-container.sitemap"
+    },
+    {
+      "relativePath": "select_next_level__default.png",
+      "sourceUrl": "https://www.emblaveo.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.full-container.select-next-level-section"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.emblaveo.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.emblaveo.com/videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "video_player__default.png",
+      "sourceUrl": "https://www.emblaveo.com/videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-video-player.video-container"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.emblaveo.com/changing-resistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "content_section_1__default.png",
+      "sourceUrl": "https://www.emblaveo.com/changing-resistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.inner-container.anti-resistance"
+    },
+    {
+      "relativePath": "line_chart__default.png",
+      "sourceUrl": "https://www.emblaveo.com/changing-resistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-interactive-chart.emv-line-chart"
+    },
+    {
+      "relativePath": "cre_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/changing-resistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.full-container.emv-resistance-cre-section"
+    },
+    {
+      "relativePath": "columns_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/changing-resistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-row-container.cre-infection-column-wrapper"
+    },
+    {
+      "relativePath": "mbl_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/changing-resistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.inner-container.mbl-producing-container"
+    },
+    {
+      "relativePath": "stenotrophomonas_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/changing-resistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.inner-container.stenotro-container"
+    },
+    {
+      "relativePath": "references_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/changing-resistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.inner-container.references-container"
+    },
+    {
+      "relativePath": "safety_information__default.png",
+      "sourceUrl": "https://www.emblaveo.com/changing-resistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "registration_form__default.png",
+      "sourceUrl": "https://www.emblaveo.com/registration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".forms-embed"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.emblaveo.com/registration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "study_design_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/clinical-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.study-design-container"
+    },
+    {
+      "relativePath": "patient_population_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/clinical-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.full-container.patient-population-section"
+    },
+    {
+      "relativePath": "efficacy_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/clinical-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.full-container.efficacy-in-patients-section"
+    },
+    {
+      "relativePath": "section_navigation__default.png",
+      "sourceUrl": "https://www.emblaveo.com/susceptibility-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-section-navigation"
+    },
+    {
+      "relativePath": "manual_diagnostics_table__default.png",
+      "sourceUrl": "https://www.emblaveo.com/susceptibility-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".manual-dia-table-container"
+    },
+    {
+      "relativePath": "mic_testing_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/susceptibility-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".minimum-inhibit-container"
+    },
+    {
+      "relativePath": "fda_breakpoints_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/susceptibility-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".fda-approved-table-container"
+    },
+    {
+      "relativePath": "reference_lab_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/susceptibility-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".reference-lab"
+    },
+    {
+      "relativePath": "adverse_reactions_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".adverse-reactions-section"
+    },
+    {
+      "relativePath": "info_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".info-section"
+    },
+    {
+      "relativePath": "main_content_form__default.png",
+      "sourceUrl": "https://www.emblaveo.com/medical-info",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": "a.abbv-skip-to-main-content"
+    },
+    {
+      "relativePath": "main_content_prose__default.png",
+      "sourceUrl": "https://www.emblaveo.com/medical-info",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": "a.abbv-skip-to-main-content"
+    },
+    {
+      "relativePath": "modal_warn_on_leave__default.png",
+      "sourceUrl": "https://www.emblaveo.com/medical-info",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-modal.warnonleavecdc"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.emblaveo.com/mechanism-of-action",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.moa-antibiotic-container"
+    },
+    {
+      "relativePath": "image_text_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/mechanism-of-action",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".pink-bug-mobile"
+    },
+    {
+      "relativePath": "tree_diagram__default.png",
+      "sourceUrl": "https://www.emblaveo.com/mechanism-of-action",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.moa-tree-container"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.emblaveo.com/mechanism-of-action",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "recommended_dosing__default.png",
+      "sourceUrl": "https://www.emblaveo.com/dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".recommended-dose-container"
+    },
+    {
+      "relativePath": "dose_adjustments__default.png",
+      "sourceUrl": "https://www.emblaveo.com/dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".dose-adjustments-container"
+    },
+    {
+      "relativePath": "accordion_dosing_adjustments__default.png",
+      "sourceUrl": "https://www.emblaveo.com/dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".dosing-adjustments-accordion"
+    },
+    {
+      "relativePath": "cta_download_guide__default.png",
+      "sourceUrl": "https://www.emblaveo.com/dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".download-dosing-guide-container"
+    },
+    {
+      "relativePath": "ordering_section__default.png",
+      "sourceUrl": "https://www.emblaveo.com/ordering-and-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.full-container.how-to-place"
+    },
+    {
+      "relativePath": "additional_resources__default.png",
+      "sourceUrl": "https://www.emblaveo.com/ordering-and-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": ".abbv-container.full-container.support"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.emblaveo.com/customer-service",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:43.830Z",
+      "selector": "a.abbv-skip-to-main-content"
+    }
+  ]
+}

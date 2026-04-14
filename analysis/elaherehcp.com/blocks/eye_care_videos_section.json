@@ -1,0 +1,27 @@
+{
+  "blockId": "eye_care_videos_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_7"
+  ],
+  "name": "Eye Care Videos Section",
+  "description": "Provides information and videos about managing ocular adverse reactions.",
+  "domHints": {
+    "selectors": [
+      "main > div#eye-care-videos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "program_benefits",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Program Benefits",
+  "description": "Lists the key benefits of the Synthroid Delivers Program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.container-highlight--light"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

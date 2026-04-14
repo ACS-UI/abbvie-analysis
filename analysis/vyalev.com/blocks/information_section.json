@@ -1,0 +1,26 @@
+{
+  "blockId": "information_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Information Section",
+  "description": "Provides detailed information about the product's benefits and unique features.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1390740564"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

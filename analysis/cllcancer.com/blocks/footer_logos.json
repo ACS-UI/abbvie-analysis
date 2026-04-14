@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_logos",
+  "templateIds": [
+    "tpl_7",
+    "tpl_11"
+  ],
+  "name": "Footer Logos",
+  "description": "Displays logos of associated organizations.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.footer__logos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

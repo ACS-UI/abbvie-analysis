@@ -1,0 +1,30 @@
+{
+  "blockId": "patients_section",
+  "templateIds": [
+    "tpl_265",
+    "tpl_294",
+    "tpl_298",
+    "tpl_306"
+  ],
+  "name": "Patients Section",
+  "description": "Section dedicated to patient support and resources.",
+  "domHints": {
+    "selectors": [
+      "div#title-d39bea986b",
+      "div#text-77234b6954"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_265 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "quiz_form",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Quiz Form",
+  "description": "Embedded form for users to take the quiz.",
+  "domHints": {
+    "selectors": [
+      "#aemFormFrame"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

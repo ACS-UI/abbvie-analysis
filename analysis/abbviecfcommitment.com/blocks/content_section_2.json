@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_2",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Content Section 2",
+  "description": "Section discussing recipe modifications for dietary needs.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1992239799"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

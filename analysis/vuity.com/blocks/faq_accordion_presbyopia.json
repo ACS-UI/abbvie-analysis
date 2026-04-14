@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_accordion_presbyopia",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Presbyopia FAQs",
+  "description": "Accordion component containing questions and answers about presbyopia.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion.qulipta-faq-container:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

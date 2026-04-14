@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_accordion",
+  "templateIds": [
+    "tpl_19"
+  ],
+  "name": "FAQ Accordion",
+  "description": "Interactive accordion containing frequently asked questions and answers about DURYSTA.",
+  "domHints": {
+    "selectors": [
+      "#acc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_19 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

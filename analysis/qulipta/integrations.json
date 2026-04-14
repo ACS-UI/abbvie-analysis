@@ -1,0 +1,42 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.qulipta.com/",
+          "https://www.qulipta.com/why-qulipta",
+          "https://www.qulipta.com/savings-support/the-cost-of-qulipta",
+          "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/sign-up",
+          "https://www.qulipta.com/cost",
+          "https://www.qulipta.com/savings-support/additional-resources",
+          "https://www.qulipta.com/savings-support/qulipta-complete-savings-program",
+          "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/sign-up-confirmation",
+          "https://www.qulipta.com/savings-support/find-a-doctor",
+          "https://www.qulipta.com/sitemap",
+          "https://www.qulipta.com/video-transcript-qulipta-weather",
+          "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/confirmation-savings-card",
+          "https://www.qulipta.com/patient-stories/kelsi-video-transcript",
+          "https://www.qulipta.com/video-transcript-patients-taking-qulipta",
+          "https://www.qulipta.com/savings-support/qulipta-discussion-guide",
+          "https://www.qulipta.com/patient-stories",
+          "https://www.qulipta.com/qulipta-vs-topiramate",
+          "https://www.qulipta.com/migraine-education",
+          "https://www.qulipta.com/savings-support/sign-up-confirmation",
+          "https://www.qulipta.com/video-transcript-qulipta-introductions",
+          "https://www.qulipta.com/savings-support/frequently-asked-questions",
+          "https://www.qulipta.com/video-transcript-what-is-migraine-like-for-you"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T10:52:17.007Z"
+}

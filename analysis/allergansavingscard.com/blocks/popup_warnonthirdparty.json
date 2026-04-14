@@ -1,0 +1,26 @@
+{
+  "blockId": "popup_warnonthirdparty",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "Warn on Third Party Popup",
+  "description": "Popup warning users about third-party links.",
+  "domHints": {
+    "selectors": [
+      "#warnonthirdparty"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

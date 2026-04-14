@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_accordion_how_to_use",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "How to Use FAQs",
+  "description": "Accordion component containing questions and answers about how to use VUITY.",
+  "domHints": {
+    "selectors": [
+      "header.vuity-header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

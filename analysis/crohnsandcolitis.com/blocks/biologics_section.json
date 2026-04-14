@@ -1,0 +1,27 @@
+{
+  "blockId": "biologics_section",
+  "templateIds": [
+    "tpl_4",
+    "tpl_12"
+  ],
+  "name": "Biologics Section",
+  "description": "Explains the use and differences of biologics for Crohn's disease.",
+  "domHints": {
+    "selectors": [
+      "#hbw"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

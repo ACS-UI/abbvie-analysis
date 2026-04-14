@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_section_getting",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "FAQ Section: Getting Lo Loestrin Fe",
+  "description": "Accordion section providing answers to questions about obtaining Lo Loestrin Fe.",
+  "domHints": {
+    "selectors": [
+      "#gettinglolo"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

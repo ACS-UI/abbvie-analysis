@@ -1,0 +1,26 @@
+{
+  "blockId": "helpful_resources",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Helpful Resources",
+  "description": "Provides CTAs for discussing symptoms, hearing experiences, and exploring treatment options.",
+  "domHints": {
+    "selectors": [
+      ".uterine-fibroids-symp-flex-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

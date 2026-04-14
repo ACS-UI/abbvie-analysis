@@ -1,0 +1,26 @@
+{
+  "blockId": "preparation_instructions",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Preparation Instructions",
+  "description": "Step-by-step instructions for preparing ELAHERE.",
+  "domHints": {
+    "selectors": [
+      "#instructions-preparation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

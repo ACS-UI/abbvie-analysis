@@ -1,0 +1,27 @@
+{
+  "blockId": "info_tree_question",
+  "templateIds": [
+    "tpl_14",
+    "tpl_15"
+  ],
+  "name": "Info Tree Question",
+  "description": "Interactive section for guiding users to relevant information based on their responses.",
+  "domHints": {
+    "selectors": [
+      ".abbv-info-tree"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "taking_emrelis_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2"
+  ],
+  "name": "Taking EMRELIS Section",
+  "description": "Provides guidance on how to take EMRELIS and necessary precautions.",
+  "domHints": {
+    "selectors": [
+      "#taking-emrelis"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

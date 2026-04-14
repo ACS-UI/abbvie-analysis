@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_story_videos",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Patient Story Videos",
+  "description": "Interactive section showcasing patient stories through videos.",
+  "domHints": {
+    "selectors": [
+      ".stories-video-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

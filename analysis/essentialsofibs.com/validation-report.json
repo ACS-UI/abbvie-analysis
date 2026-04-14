@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.essentialsofibs.com/",
+  "normalisedUrl": "https://www.essentialsofibs.com/",
+  "finalUrlAfterRedirects": "https://www.essentialsofibs.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:45:07.205Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "fda_breakpoints_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "FDA Breakpoints Section",
+  "description": "Displays FDA-approved breakpoints for susceptibility testing.",
+  "domHints": {
+    "selectors": [
+      ".fda-approved-table-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Table"
+}

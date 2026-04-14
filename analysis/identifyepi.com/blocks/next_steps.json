@@ -1,0 +1,26 @@
+{
+  "blockId": "next_steps",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Next Steps",
+  "description": "Provides actionable steps for users to follow after using the symptom checker.",
+  "domHints": {
+    "selectors": [
+      ".epi-first-section-exocrine.symptom-checker-hero-2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

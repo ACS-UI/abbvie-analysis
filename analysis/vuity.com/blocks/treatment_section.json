@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Treatment Section",
+  "description": "Details treatment options and introduces the product as a solution.",
+  "domHints": {
+    "selectors": [
+      ".vuity-blurry-treated-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

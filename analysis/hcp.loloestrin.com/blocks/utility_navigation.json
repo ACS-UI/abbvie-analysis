@@ -1,0 +1,27 @@
+{
+  "blockId": "utility_navigation",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2"
+  ],
+  "name": "Utility Navigation",
+  "description": "Provides quick access to utility links such as safety information, prescribing information, and patient site.",
+  "domHints": {
+    "selectors": [
+      "header > div.abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.pubertytoosoon.com/",
+  "normalisedUrl": "https://www.pubertytoosoon.com/",
+  "finalUrlAfterRedirects": "https://www.pubertytoosoon.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:01:08.591Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

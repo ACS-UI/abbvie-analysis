@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.emrelis.com",
+  "normalisedUrl": "https://www.emrelis.com/",
+  "finalUrlAfterRedirects": "https://www.emrelis.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:19:53.962Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

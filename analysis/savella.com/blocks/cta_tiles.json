@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_tiles",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "CTA Tiles",
+  "description": "Displays call-to-action tiles for understanding fibromyalgia, learning about SAVELLA, and savings.",
+  "domHints": {
+    "selectors": [
+      ".home-tile-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

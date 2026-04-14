@@ -1,0 +1,27 @@
+{
+  "blockId": "why_consider_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Why Consider DURYSTA",
+  "description": "Provides reasons to consider DURYSTA® with supporting images and text.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(4) > h3#why-consider-durysta",
+      "main > div:nth-of-type(4) > div.columns > div > div > table"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

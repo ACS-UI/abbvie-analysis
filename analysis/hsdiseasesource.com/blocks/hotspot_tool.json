@@ -1,0 +1,26 @@
+{
+  "blockId": "hotspot_tool",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Hotspot Tool",
+  "description": "Interactive tool displaying common HS lesion locations.",
+  "domHints": {
+    "selectors": [
+      ".abbv-hot-spot"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "who_we_are_button",
+  "templateIds": [
+    "tpl_21"
+  ],
+  "name": "Who We Are Button",
+  "description": "Provides a call-to-action button linking to the Who We Are page.",
+  "domHints": {
+    "selectors": [
+      "a#button-4a52580a51",
+      "a.cmp-button"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_21 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

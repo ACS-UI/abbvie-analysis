@@ -1,0 +1,26 @@
+{
+  "blockId": "feature_card_one",
+  "templateIds": [
+    "tpl_281"
+  ],
+  "name": "Feature Card One",
+  "description": "A card highlighting a specific feature or story with an image and description.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory.card-dashboard.card-medium"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_281 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

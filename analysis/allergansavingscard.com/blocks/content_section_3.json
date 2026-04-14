@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_3",
+  "templateIds": [
+    "tpl_252"
+  ],
+  "name": "Content Section 3",
+  "description": "Displays facts and recognitions about the organization.",
+  "domHints": {
+    "selectors": [
+      ".dashboardcards.medium-theme-stroke"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_252 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

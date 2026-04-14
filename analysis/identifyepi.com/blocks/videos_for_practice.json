@@ -1,0 +1,26 @@
+{
+  "blockId": "videos_for_practice",
+  "templateIds": [
+    "tpl_23"
+  ],
+  "name": "Videos for Your Practice",
+  "description": "Section showcasing educational videos targeted at healthcare professionals.",
+  "domHints": {
+    "selectors": [
+      ".epi-education-top"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

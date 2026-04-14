@@ -1,0 +1,48 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_1",
+    "tpl_5",
+    "tpl_7",
+    "tpl_8",
+    "tpl_16",
+    "tpl_17",
+    "tpl_19",
+    "tpl_25",
+    "tpl_26",
+    "tpl_27",
+    "tpl_29",
+    "tpl_30",
+    "tpl_33",
+    "tpl_34",
+    "tpl_35",
+    "tpl_36",
+    "tpl_37",
+    "tpl_38",
+    "tpl_40",
+    "tpl_41",
+    "tpl_44",
+    "tpl_45",
+    "tpl_46"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick access to utility links such as contact, subscribe, and group sites.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

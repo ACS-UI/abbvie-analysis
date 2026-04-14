@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_who_we_are",
+  "templateIds": [
+    "tpl_88"
+  ],
+  "name": "Content Section: Who We Are",
+  "description": "Provides information about the organization and its principles.",
+  "domHints": {
+    "selectors": [
+      "div#container-18ee9c2b24 div.grid-row__col-with-4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_88 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

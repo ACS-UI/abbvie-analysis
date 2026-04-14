@@ -1,0 +1,26 @@
+{
+  "blockId": "financial_assistance_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Financial Assistance Section",
+  "description": "Explains the financial assistance options available.",
+  "domHints": {
+    "selectors": [
+      "#financial-assistance"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

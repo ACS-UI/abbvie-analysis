@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_find_doctor",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "CTA Find Doctor",
+  "description": "Promotes finding a dermatologist for treatment.",
+  "domHints": {
+    "selectors": [
+      ".about_box_col:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

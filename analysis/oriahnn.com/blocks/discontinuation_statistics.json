@@ -1,0 +1,26 @@
+{
+  "blockId": "discontinuation_statistics",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Discontinuation Statistics",
+  "description": "Visual representation and statistics of treatment discontinuation due to side effects.",
+  "domHints": {
+    "selectors": [
+      ".ori-flex__container--trials-image"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

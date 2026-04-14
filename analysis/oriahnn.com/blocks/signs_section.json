@@ -1,0 +1,26 @@
+{
+  "blockId": "signs_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Signs Section",
+  "description": "Explains signs of heavy menstrual bleeding with illustrative images.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1509565868"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

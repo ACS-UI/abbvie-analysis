@@ -1,0 +1,26 @@
+{
+  "blockId": "sweat_explanation",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Sweat Explanation",
+  "description": "Describes where sweat goes after Botox treatment.",
+  "domHints": {
+    "selectors": [
+      ".can_banner_txt:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

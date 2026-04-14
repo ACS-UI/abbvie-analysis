@@ -1,0 +1,33 @@
+{
+  "blockId": "content_grid",
+  "templateIds": [
+    "tpl_2",
+    "tpl_14",
+    "tpl_103",
+    "tpl_109",
+    "tpl_208",
+    "tpl_209",
+    "tpl_225",
+    "tpl_227"
+  ],
+  "name": "Content Grid",
+  "description": "Displays a grid of content cards, including stories and statistics.",
+  "domHints": {
+    "selectors": [
+      "div.grid-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

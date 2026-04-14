@@ -1,0 +1,31 @@
+{
+  "blockId": "main_region_4",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_17",
+    "tpl_22",
+    "tpl_23",
+    "tpl_24"
+  ],
+  "name": "main region 4",
+  "description": "Major content region in main (div). Preview: Safety and dosing considerations Fibrosing colonopathy has been reported following treatment with pancreatic enzyme prod…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_3. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

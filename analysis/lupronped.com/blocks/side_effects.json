@@ -1,0 +1,26 @@
+{
+  "blockId": "side_effects",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Side Effects",
+  "description": "Lists common side effects and provides guidance.",
+  "domHints": {
+    "selectors": [
+      "#side-effects"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

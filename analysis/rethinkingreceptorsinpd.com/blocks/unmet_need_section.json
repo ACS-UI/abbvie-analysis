@@ -1,0 +1,26 @@
+{
+  "blockId": "unmet_need_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Unmet Need Section",
+  "description": "Discusses the unmet needs in Parkinson's Disease treatments.",
+  "domHints": {
+    "selectors": [
+      ".background-gradient-yellow"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

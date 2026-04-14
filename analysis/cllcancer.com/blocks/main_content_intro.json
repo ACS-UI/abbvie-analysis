@@ -1,0 +1,28 @@
+{
+  "blockId": "main_content_intro",
+  "templateIds": [
+    "tpl_2",
+    "tpl_4",
+    "tpl_9"
+  ],
+  "name": "Main Content Introduction",
+  "description": "Introduces the main content with a heading and introductory text.",
+  "domHints": {
+    "selectors": [
+      "#understand-your-cll-prognosis"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_dialogs",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Modal Dialogs",
+  "description": "Various modal dialogs for user interactions.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,29 @@
+{
+  "blockId": "isi_fragment",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4"
+  ],
+  "name": "ISI Fragment",
+  "description": "Includes the ISI (Important Safety Information) fragment for compliance.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(6) > div.fragment"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

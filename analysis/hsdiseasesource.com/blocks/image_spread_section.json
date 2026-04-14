@@ -1,0 +1,26 @@
+{
+  "blockId": "image_spread_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Image Spread Section",
+  "description": "Displays a spread of images related to HS conditions.",
+  "domHints": {
+    "selectors": [
+      ".home-image-spread"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "role_of_fra_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Role of FRα Section",
+  "description": "Explains the role of FRα in ovarian cancer.",
+  "domHints": {
+    "selectors": [
+      "#longer-term-follow-up-pfs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

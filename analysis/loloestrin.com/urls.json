@@ -1,0 +1,301 @@
+{
+  "entryUrl": "https://www.loloestrin.com/",
+  "discoveredAt": "2026-04-13T15:25:32.446Z",
+  "urls": [
+    {
+      "url": "https://www.loloestrin.com/",
+      "normalised": "https://www.loloestrin.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/content/dam/loloestrin/pdf/lo-loestrin-fe_pi.pdf",
+      "normalised": "https://www.loloestrin.com/content/dam/loloestrin/pdf/lo-loestrin-fe_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.loloestrin.com/content/dam/loloestrin/pdf/understanding-health-insurance%20(1).pdf",
+      "normalised": "https://www.loloestrin.com/content/dam/loloestrin/pdf/understanding-health-insurance%20(1).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.loloestrin.com/savings-card",
+      "normalised": "https://www.loloestrin.com/savings-card",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/search-results",
+      "normalised": "https://www.loloestrin.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/get-the-facts/keeping-your-routine-between-the-seasons",
+      "normalised": "https://www.loloestrin.com/get-the-facts/keeping-your-routine-between-the-seasons",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/meet-lo-loestrin",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/meet-lo-loestrin",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/side-effects",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/how-to-take-lo-loestrin-fe",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/how-to-take-lo-loestrin-fe",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/articles-and-advice",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/articles-and-advice",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/savings-and-pricing/savings-card",
+      "normalised": "https://www.loloestrin.com/savings-and-pricing/savings-card",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/savings-and-pricing",
+      "normalised": "https://www.loloestrin.com/savings-and-pricing",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/savings-card/activation",
+      "normalised": "https://www.loloestrin.com/savings-card/activation",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/savings-and-pricing/pricing-information",
+      "normalised": "https://www.loloestrin.com/savings-and-pricing/pricing-information",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/mobile-wallet-landing-page",
+      "normalised": "https://www.loloestrin.com/mobile-wallet-landing-page",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/lo-loestrin-faqs",
+      "normalised": "https://www.loloestrin.com/lo-loestrin-faqs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/lo-loestrin-site-map",
+      "normalised": "https://www.loloestrin.com/lo-loestrin-site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/loloestrin-savingscard",
+      "normalised": "https://www.loloestrin.com/loloestrin-savingscard",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/sitemap",
+      "normalised": "https://www.loloestrin.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/get-the-facts",
+      "normalised": "https://www.loloestrin.com/get-the-facts",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-birth-control/birth-control-conversation-daughter",
+      "normalised": "https://www.loloestrin.com/about-birth-control/birth-control-conversation-daughter",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/estrogen-pop-quiz",
+      "normalised": "https://www.loloestrin.com/estrogen-pop-quiz",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-birth-control/how-birth-control-pills-work",
+      "normalised": "https://www.loloestrin.com/about-birth-control/how-birth-control-pills-work",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-birth-control/chatting-with-your-doctor",
+      "normalised": "https://www.loloestrin.com/about-birth-control/chatting-with-your-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-birth-control",
+      "normalised": "https://www.loloestrin.com/about-birth-control",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/get-the-facts/prioritizing-your-reproductive",
+      "normalised": "https://www.loloestrin.com/get-the-facts/prioritizing-your-reproductive",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-birth-control/birth-control-options",
+      "normalised": "https://www.loloestrin.com/about-birth-control/birth-control-options",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/get-the-facts/the-pill-turns-sweet-sixty",
+      "normalised": "https://www.loloestrin.com/get-the-facts/the-pill-turns-sweet-sixty",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/pi1",
+      "normalised": "https://www.loloestrin.com/pi1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.loloestrin.com/modal/pricing-information-modal",
+      "normalised": "https://www.loloestrin.com/modal/pricing-information-modal",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/lolo-savings-program#terms-and-conditions",
+      "normalised": "https://www.loloestrin.com/lolo-savings-program",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-0",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-4",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/modal/sms-savings-program",
+      "normalised": "https://www.loloestrin.com/modal/sms-savings-program",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-3",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-1",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-5",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-193016010-0",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-193016010-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-193016010-1",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-193016010-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-2",
+      "normalised": "https://www.loloestrin.com/about-lo-loestrin-fe/abbv-tab-178996671-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 41,
+    "bySource": {
+      "sitemap": 15,
+      "crawl": 26,
+      "manual": 0
+    }
+  }
+}

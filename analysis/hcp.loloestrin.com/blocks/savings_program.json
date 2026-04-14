@@ -1,0 +1,26 @@
+{
+  "blockId": "savings_program",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Savings Program Section",
+  "description": "Details about the savings program for patients, including eligibility and activation instructions.",
+  "domHints": {
+    "selectors": [
+      "#savings-card"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "personalization_intro",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Personalization Introduction",
+  "description": "Introduction to the concept of personalized inline touts and their relevance to eczema information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.divider-title.margin-bottom-40"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "key_facts_overview",
+  "templateIds": [
+    "tpl_32"
+  ],
+  "name": "Key Facts Overview",
+  "description": "Presents key facts about the organization in a concise format.",
+  "domHints": {
+    "selectors": [
+      "#container-4e6cf0db4c"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_32 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

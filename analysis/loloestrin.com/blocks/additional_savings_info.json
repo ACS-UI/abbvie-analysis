@@ -1,0 +1,26 @@
+{
+  "blockId": "additional_savings_info",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Additional Savings Information",
+  "description": "Provides further details on savings eligibility and support for processing issues.",
+  "domHints": {
+    "selectors": [
+      ".saving-card-exclaim"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

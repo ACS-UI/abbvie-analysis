@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.synthroid.com/",
+  "normalisedUrl": "https://www.synthroid.com/",
+  "finalUrlAfterRedirects": "https://www.synthroid.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:14:29.263Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

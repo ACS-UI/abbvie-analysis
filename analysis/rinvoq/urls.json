@@ -1,0 +1,1960 @@
+{
+  "entryUrl": "https://www.rinvoq.com/",
+  "discoveredAt": "2026-04-13T10:56:53.388Z",
+  "urls": [
+    {
+      "url": "https://www.rinvoq.com/",
+      "normalised": "https://www.rinvoq.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/cost",
+      "normalised": "https://www.rinvoq.com/cost",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/covid19",
+      "normalised": "https://www.rinvoq.com/covid19",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/giant-cell-arteritis",
+      "normalised": "https://www.rinvoq.com/giant-cell-arteritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/search-results",
+      "normalised": "https://www.rinvoq.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/pjia-jpsa",
+      "normalised": "https://www.rinvoq.com/pjia-jpsa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/sign-up",
+      "normalised": "https://www.rinvoq.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/save-on-rinvoq-costs",
+      "normalised": "https://www.rinvoq.com/resources/save-on-rinvoq-costs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease",
+      "normalised": "https://www.rinvoq.com/crohns-disease",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/rinvoq-complete",
+      "normalised": "https://www.rinvoq.com/resources/rinvoq-complete",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/results-with-rinvoq-adolescents",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/results-with-rinvoq-adolescents",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/rinvoq-nurse-ambassador",
+      "normalised": "https://www.rinvoq.com/resources/rinvoq-nurse-ambassador",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/eczema-specialist-discussion-guide",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/eczema-specialist-discussion-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq/what-is-rinvoq",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq/what-is-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/rinvoq-vs-dupixent",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/rinvoq-vs-dupixent",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq/faq",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq/faq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/building-rinvoq-medication-routine",
+      "normalised": "https://www.rinvoq.com/resources/building-rinvoq-medication-routine",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/eczema-pictures",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/eczema-pictures",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-chronic-conditions",
+      "normalised": "https://www.rinvoq.com/resources/living-with-chronic-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/results-with-rinvoq",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/results-with-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/prepare-for-your-visit",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/prepare-for-your-visit",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/uc-doctor-discussion-guide",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/uc-doctor-discussion-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/what-is-rinvoq",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/what-is-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/what-is-nr-axspa",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/what-is-nr-axspa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/find-a-dermatologist",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/find-a-dermatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/what-is-eczema",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/what-is-eczema",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/side-effects",
+      "normalised": "https://www.rinvoq.com/side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/starting-rinvoq",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/starting-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/rinvoq-complete-app",
+      "normalised": "https://www.rinvoq.com/resources/rinvoq-complete-app",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/working-with-your-dermatologist",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/working-with-your-dermatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/sitemap",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/giant-cell-arteritis/what-is-giant-cell-arteritis",
+      "normalised": "https://www.rinvoq.com/giant-cell-arteritis/what-is-giant-cell-arteritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/giant-cell-arteritis/treatment",
+      "normalised": "https://www.rinvoq.com/giant-cell-arteritis/treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/giant-cell-arteritis/results",
+      "normalised": "https://www.rinvoq.com/giant-cell-arteritis/results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/pjia-jpsa/sitemap",
+      "normalised": "https://www.rinvoq.com/pjia-jpsa/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/giant-cell-arteritis/sitemap",
+      "normalised": "https://www.rinvoq.com/giant-cell-arteritis/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/sitemap",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-psoriatic-arthritis/identify-uncontrolled-psa-symptoms",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-psoriatic-arthritis/identify-uncontrolled-psa-symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/partner-with-your-rheumatologist",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/partner-with-your-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/sitemap",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/how-rinvoq-works",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/how-rinvoq-works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/giant-cell-arteritis/what-is-rinvoq",
+      "normalised": "https://www.rinvoq.com/giant-cell-arteritis/what-is-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/giant-cell-arteritis/find-rheumatologist",
+      "normalised": "https://www.rinvoq.com/giant-cell-arteritis/find-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/prepare-for-your-visit",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/prepare-for-your-visit",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/rheumatologist-appointment-checklist-psoriatic-arthritis",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/rheumatologist-appointment-checklist-psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/preparing-for-rinvoq-treatment",
+      "normalised": "https://www.rinvoq.com/resources/preparing-for-rinvoq-treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/rinvoq-insurance-explained",
+      "normalised": "https://www.rinvoq.com/resources/rinvoq-insurance-explained",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/",
+      "normalised": "https://www.rinvoq.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/ulcerative-colitis-treatment-goals",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/ulcerative-colitis-treatment-goals",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/what-is-rinvoq",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/what-is-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/rinvoq-results",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/rinvoq-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/taking-rinvoq-for-uc",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/taking-rinvoq-for-uc",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/treatment-goals",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/treatment-goals",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-psoriatic-arthritis/psoriatic-arthritis-treatment-options",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-psoriatic-arthritis/psoriatic-arthritis-treatment-options",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/rinvoq-results",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/rinvoq-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/partner-with-gastroenterologist",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/partner-with-gastroenterologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa/results-with-rinvoq-psa",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa/results-with-rinvoq-psa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/what-is-ulcerative-colitis",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/what-is-ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/find-a-rheumatologist",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/find-a-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/caregiver-resources",
+      "normalised": "https://www.rinvoq.com/resources/caregiver-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/find-a-gastroenterologist",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/find-a-gastroenterologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/find-rheumatologist",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/find-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/uc-glossary",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/uc-glossary",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/the-uc-podcast",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/the-uc-podcast",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/ulcerative-colitis-recipes",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/ulcerative-colitis-recipes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa/taking-rinvoq-for-psa",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa/taking-rinvoq-for-psa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/partner-with-your-rheumatologist",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/partner-with-your-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/patient-stories",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/site-map",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa/what-is-rinvoq",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa/what-is-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/ulcerative-colitis-treatment",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/ulcerative-colitis-treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/2-minute-appointment-pre-check",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/2-minute-appointment-pre-check",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/save-on-rinvoq-costs/rebate",
+      "normalised": "https://www.rinvoq.com/resources/save-on-rinvoq-costs/rebate",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/what-is-rinvoq",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/what-is-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/crohns-glossary",
+      "normalised": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/crohns-glossary",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra/rheumatoid-arthritis-treatment-journey",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra/rheumatoid-arthritis-treatment-journey",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/2-minute-appointment-pre-check",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/2-minute-appointment-pre-check",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/how-rinvoq-works-video-transcript",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/how-rinvoq-works-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/nickie-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/nickie-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/what-is-rinvoq",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/what-is-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/rinvoq-results",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/rinvoq-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/patient-stories/danielle-transcript",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/patient-stories/danielle-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/how-rinvoq-works",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/how-rinvoq-works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/find-a-rheumatologist",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/find-a-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/trying-another-treatment-video-transcript",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/trying-another-treatment-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/treatment-journey",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/treatment-journey",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/rinvoq-vs-humira",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/rinvoq-vs-humira",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/what-is-rinvoq",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/what-is-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/exploring-a-different-treatment-plan-video-transcript",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/exploring-a-different-treatment-plan-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/helen-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/helen-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/partner-with-your-rheumatologist",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/partner-with-your-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra/rapid3-ra-assessment",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra/rapid3-ra-assessment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/partner-with-gastroenterologist/dr-kornbluth-transcript",
+      "normalised": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/partner-with-gastroenterologist/dr-kornbluth-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/appointment-pre-check",
+      "normalised": "https://www.rinvoq.com/appointment-pre-check",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/find-rheumatologist",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/find-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/working-with-your-dermatologist/treatment-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/working-with-your-dermatologist/treatment-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-crohns/crohns-treatment-options",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-crohns/crohns-treatment-options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/what-is-eczema/disparities-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/what-is-eczema/disparities-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/faq",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/faq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/crohns-disease-treatment-discussion-tool",
+      "normalised": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/crohns-disease-treatment-discussion-tool",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/patient-stories",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/taking-rinvoq-for-crohns",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/taking-rinvoq-for-crohns",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/site-map",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/starting-rinvoq",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/starting-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/rinvoq-results",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/rinvoq-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/logan-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/logan-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/working-with-your-dermatologist/treatment-goals-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/working-with-your-dermatologist/treatment-goals-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/josh-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/josh-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/sitemap",
+      "normalised": "https://www.rinvoq.com/crohns-disease/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/find-a-gastroenterologist",
+      "normalised": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/find-a-gastroenterologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/michaels-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/michaels-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/patient-stories/julie-transcript",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/patient-stories/julie-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/partner-with-gastroenterologist",
+      "normalised": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/partner-with-gastroenterologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/setting-your-goals-video-transcript",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/setting-your-goals-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/michaelr-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/michaelr-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/working-with-your-dermatologist/derm-appointment-prep-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/working-with-your-dermatologist/derm-appointment-prep-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra/what-is-rheumatoid-arthritis",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra/what-is-rheumatoid-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/patient-stories/renika-transcript",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/patient-stories/renika-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/recipes",
+      "normalised": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/recipes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/patient-stories",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/find-a-dermatologist/dermatologist-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/find-a-dermatologist/dermatologist-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-crohns/what-is-crohns-disease",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-crohns/what-is-crohns-disease",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/what-is-ankylosing-spondylitis",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/what-is-ankylosing-spondylitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/sitemap",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-crohns/crohns-treatment-goals",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-crohns/crohns-treatment-goals",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/sherri-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/sherri-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/maddy-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/maddy-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/making-a-change-video-transcript",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/making-a-change-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq/what-is-rinvoq/dr-ruiz-dasilva-moa-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq/what-is-rinvoq/dr-ruiz-dasilva-moa-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/find-a-dermatologist/empowerment-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/find-a-dermatologist/empowerment-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/crohns-disease-treatment-discussion-tool/begin",
+      "normalised": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/crohns-disease-treatment-discussion-tool/begin",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/amanda-randy-video-transcript",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories/amanda-randy-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/rinvoq-results",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/rinvoq-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/knowing-what-to-say-video-transcript",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/knowing-what-to-say-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories/stacey-video-transcript",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories/stacey-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/talking-to-my-rheumatologist-video-transcript",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/talking-to-my-rheumatologist-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/the-uc-podcast/ethan-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/the-uc-podcast/ethan-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/dr-kornbluth-and-patrick-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/dr-kornbluth-and-patrick-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/doug-uc-patient-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/doug-uc-patient-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/prep-for-treatment-change",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/prep-for-treatment-change",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-rheumatoid-arthritis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-rheumatoid-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/the-uc-podcast/julianne-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/the-uc-podcast/julianne-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/what-is-rinvoq/how-rinvoq-works-video-transcript",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/what-is-rinvoq/how-rinvoq-works-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/uc-doctor-discussion-guide/begin",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/uc-doctor-discussion-guide/begin",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/time-to-change",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/time-to-change",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/jacorrian-uc-patient-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/jacorrian-uc-patient-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/partner-with-gastroenterologist/dr-kornbluth-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/partner-with-gastroenterologist/dr-kornbluth-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-psoriatic-arthritis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-psoriatic-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories/elizabeth-video-transcript",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories/elizabeth-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/taking-action-video-transcript",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/taking-action-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/what-is-rinvoq/how-rinvoq-works-video-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/what-is-rinvoq/how-rinvoq-works-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-crohns-disease",
+      "normalised": "https://www.rinvoq.com/resources/living-with-crohns-disease",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/is-your-treatment-working",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/is-your-treatment-working",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/patrick-uc-patient-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/patrick-uc-patient-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/the-uc-podcast/sarah-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/the-uc-podcast/sarah-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories/lin-video-transcript",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories/lin-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/still-feeling-symptoms",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/still-feeling-symptoms",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-atopic-dermatitis/what-causes-eczema",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-atopic-dermatitis/what-causes-eczema",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/katie-uc-patient-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/katie-uc-patient-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/rheumatologist-appointment-checklist-psoriatic-arthritis/begin",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/rheumatologist-appointment-checklist-psoriatic-arthritis/begin",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/jasmine-uc-patient-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/jasmine-uc-patient-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/matt-uc-patient-transcript",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/patient-stories/matt-uc-patient-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/make-your-visit-count",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/make-your-visit-count",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-nr-axspa",
+      "normalised": "https://www.rinvoq.com/resources/living-with-nr-axspa",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-psoriatic-arthritis/what-is-psoriatic-arthritis",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-psoriatic-arthritis/what-is-psoriatic-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-psoriatic-arthritis/psoriatic-arthritis-treatment-goals",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-psoriatic-arthritis/psoriatic-arthritis-treatment-goals",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/asking-for-treatment-change",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/asking-for-treatment-change",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-eczema",
+      "normalised": "https://www.rinvoq.com/resources/living-with-eczema",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories/caryn-video-transcript",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/patient-stories/caryn-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/dont-settle-for-ongoing-symptoms-video-transcript",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/patient-stories/dont-settle-for-ongoing-symptoms-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-atopic-dermatitis/what-is-eczema",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-atopic-dermatitis/what-is-eczema",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/results-with-rinvoq",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/results-with-rinvoq",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/treatment-goals",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/treatment-goals",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/dosing-treatment-plan",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/dosing-treatment-plan",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-ulcerative-colitis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-ulcerative-colitis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/patient-stories",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/patient-stories",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/getting-rinvoq/find-a-doctor",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/getting-rinvoq/find-a-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/what-is-rinvoq",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/what-is-rinvoq",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/getting-rinvoq/partner-with-eczema-specialist",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/getting-rinvoq/partner-with-eczema-specialist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-atopic-dermatitis/atopic-dermatitis-treatment-goals",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-atopic-dermatitis/atopic-dermatitis-treatment-goals",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ankylosing-spondylitis/partner-with-rheumatologist",
+      "normalised": "https://www.rinvoq.com/ankylosing-spondylitis/partner-with-rheumatologist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-rheumatologist",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-rheumatologist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/results-with-rinvoq-adolescents",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/results-with-rinvoq-adolescents",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa/understanding-side-effects",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa/understanding-side-effects",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/ra-doctor-discussion-guide",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/ra-doctor-discussion-guide",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/partner-with-a-rheumatologist",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/partner-with-a-rheumatologist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/getting-rinvoq/eczema-specialist-discussion-guide",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/getting-rinvoq/eczema-specialist-discussion-guide",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/results-with-rinvoq-adults",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/results-with-rinvoq-adults",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/ra-doctor-appointment-checklist",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/ra-doctor-appointment-checklist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/how-to-talk-goals",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/partner-with-your-rheumatologist/how-to-talk-goals",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra/rheumatoid-arthritis-treatment-goals",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra/rheumatoid-arthritis-treatment-goals",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/rinvoq-and-you",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/rinvoq-and-you",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/eczema-pictures",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/eczema-pictures",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/uc-treatment-options",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/uc-treatment-options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-polyarticular-juvenile-idiopathic-arthritis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-polyarticular-juvenile-idiopathic-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-juvenile-psoriatic-arthritis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-juvenile-psoriatic-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/results-with-rinvoq-adults?cid=DFA:7754777:330617437:522807925:172579377",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/results-with-rinvoq-adults?cid=DFA:7754777:330617437:522807925:172579377",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories?FTVID=6371837386112",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories?FTVID=6371837386112",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories?FTVID=6364870800112",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories?FTVID=6364870800112",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories?FTVID=6364871890112",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/patient-stories?FTVID=6364871890112",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq/what-is-rinvoq?ftvid=6347010676112",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq/what-is-rinvoq?ftvid=6347010676112",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-rheumatoid-arthritis?indicationName=rheumatoid-arthritis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-rheumatoid-arthritis?indicationName=rheumatoid-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-eczema?indicationName=atopic-dermatitis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-eczema?indicationName=atopic-dermatitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-nr-axspa?indicationName=non-radiographic-axial-spondyloarthritis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-nr-axspa?indicationName=non-radiographic-axial-spondyloarthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-ulcerative-colitis?indicationName=ulcerative-colitis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-ulcerative-colitis?indicationName=ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-psoriatic-arthritis?indicationName=psoriatic-arthritis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-psoriatic-arthritis?indicationName=psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-crohns-disease?indicationName=crohns-disease",
+      "normalised": "https://www.rinvoq.com/resources/living-with-crohns-disease?indicationName=crohns-disease",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-polyarticular-juvenile-idiopathic-arthritis?indicationName=pjia-jpsa",
+      "normalised": "https://www.rinvoq.com/resources/living-with-polyarticular-juvenile-idiopathic-arthritis?indicationName=pjia-jpsa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-juvenile-psoriatic-arthritis?indicationName=pjia-jpsa",
+      "normalised": "https://www.rinvoq.com/resources/living-with-juvenile-psoriatic-arthritis?indicationName=pjia-jpsa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/rinvoq-results?anchor#abbv-tab-587057951-2",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/rinvoq-results?anchor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/site-modals/giant-cell-arteritis/terms-and-conditions",
+      "normalised": "https://www.rinvoq.com/site-modals/giant-cell-arteritis/terms-and-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1572079918-0",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1572079918-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/content/rinvoqivy/en-us/site-modals/warn-on-leave-medicare",
+      "normalised": "https://www.rinvoq.com/content/rinvoqivy/en-us/site-modals/warn-on-leave-medicare",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1572079918-0",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1572079918-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-475238813-1",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-475238813-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-2013262467-1",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-2013262467-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/landing/insurance-comparison-chart",
+      "normalised": "https://www.rinvoq.com/resources/landing/insurance-comparison-chart",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/landing/mms-opt-terms-and-conditions",
+      "normalised": "https://www.rinvoq.com/landing/mms-opt-terms-and-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-768668590-0",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-768668590-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-422042416-1",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-422042416-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1572079918-2",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1572079918-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-crohns/abbv-tab-2140896452-1",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-crohns/abbv-tab-2140896452-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1572079918-1",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1572079918-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1572079918-2",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1572079918-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-crohns/abbv-tab-2140896452-0",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-crohns/abbv-tab-2140896452-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/abbv-tab-415290944-2",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/abbv-tab-415290944-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1824043402-1",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1824043402-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/abbv-tab-587057951-2",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/abbv-tab-587057951-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1824043402-2",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1824043402-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/abbv-tab-587057951-0",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/abbv-tab-587057951-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-768668590-1",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-768668590-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1824043402-0",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1824043402-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-422042416-0",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-422042416-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/abbv-tab-415290944-1",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/abbv-tab-415290944-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1824043402-0",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1824043402-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-2013262467-0",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-2013262467-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1824043402-1",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1824043402-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/abbv-tab-587057951-1",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq/abbv-tab-587057951-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/abbv-tab-415290944-0",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/abbv-tab-415290944-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1572079918-1",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-for-eczema/abbv-tab-1572079918-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1824043402-2",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/abbv-tab-1824043402-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-ankylosing-spondylitis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-ankylosing-spondylitis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/resources/living-with-ankylosing-spondylitis?indicationName=ankylosing-spondylitis",
+      "normalised": "https://www.rinvoq.com/resources/living-with-ankylosing-spondylitis?indicationName=ankylosing-spondylitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/partner-with-rheumatologist",
+      "normalised": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/partner-with-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-UC/ulcerative-colitis-treatment",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-UC/ulcerative-colitis-treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-475238813-0",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc/abbv-tab-475238813-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq/",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq/",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq/",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/getting-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/about-eczema/",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/about-eczema",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-uc/",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-uc",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq/",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/getting-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq/",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/about-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/",
+      "normalised": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/getting-rinvoq/",
+      "normalised": "https://www.rinvoq.com/crohns-disease/getting-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-crohns/",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-crohns",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/crohns-disease/about-rinvoq/",
+      "normalised": "https://www.rinvoq.com/crohns-disease/about-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq/",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-rinvoq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa/",
+      "normalised": "https://www.rinvoq.com/psoriatic-arthritis/rinvoq-for-psa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra/",
+      "normalised": "https://www.rinvoq.com/rheumatoid-arthritis/about-ra",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-422042416-1",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-422042416-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-422042416-0",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-422042416-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-768668590-1",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-768668590-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-2013262467-0",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-2013262467-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-768668590-0",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-768668590-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-2013262467-1",
+      "normalised": "https://www.rinvoq.com/ulcerative-colitis/about-UC/abbv-tab-2013262467-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 278,
+    "bySource": {
+      "sitemap": 94,
+      "crawl": 184,
+      "manual": 0
+    }
+  }
+}

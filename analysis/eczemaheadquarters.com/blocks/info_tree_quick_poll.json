@@ -1,0 +1,26 @@
+{
+  "blockId": "info_tree_quick_poll",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Info Tree Quick Poll",
+  "description": "Interactive quick poll section for user engagement and personalized navigation.",
+  "domHints": {
+    "selectors": [
+      ".abbv-info-tree.ez-info-tree"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

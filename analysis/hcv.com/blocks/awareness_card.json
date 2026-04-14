@@ -1,0 +1,26 @@
+{
+  "blockId": "awareness_card",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Awareness Card",
+  "description": "Provides information about hepatitis C awareness.",
+  "domHints": {
+    "selectors": [
+      "#background-container-2045404616 .flexboxitem-v2:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

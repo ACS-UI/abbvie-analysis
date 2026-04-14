@@ -1,0 +1,26 @@
+{
+  "blockId": "blurred_vision_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Managing Blurred Vision",
+  "description": "Offers tips for managing blurred vision during treatment.",
+  "domHints": {
+    "selectors": [
+      "#managing-blurred-vision"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

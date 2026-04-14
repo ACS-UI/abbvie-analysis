@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_navigation",
+  "templateIds": [
+    "tpl_19",
+    "tpl_45"
+  ],
+  "name": "Footer Navigation",
+  "description": "Contains links to legal and informational pages.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-horizontal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_19 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

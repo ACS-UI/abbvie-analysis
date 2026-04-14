@@ -1,0 +1,26 @@
+{
+  "blockId": "two_column_cta",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Two-Column Call-to-Action",
+  "description": "Section with two columns, one featuring an image and the other a text-based call-to-action.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.savings-two-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

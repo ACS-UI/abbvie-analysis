@@ -1,0 +1,64 @@
+{
+  "blockId": "global_header",
+  "templateIds": [
+    "tpl_4",
+    "tpl_8",
+    "tpl_11",
+    "tpl_38",
+    "tpl_39",
+    "tpl_42",
+    "tpl_44",
+    "tpl_47",
+    "tpl_50",
+    "tpl_67",
+    "tpl_81",
+    "tpl_88",
+    "tpl_91",
+    "tpl_114",
+    "tpl_132",
+    "tpl_133",
+    "tpl_136",
+    "tpl_137",
+    "tpl_142",
+    "tpl_191",
+    "tpl_194",
+    "tpl_195",
+    "tpl_204",
+    "tpl_207",
+    "tpl_221",
+    "tpl_235",
+    "tpl_237",
+    "tpl_245",
+    "tpl_253",
+    "tpl_263",
+    "tpl_265",
+    "tpl_267",
+    "tpl_273",
+    "tpl_287",
+    "tpl_289",
+    "tpl_297",
+    "tpl_301",
+    "tpl_304",
+    "tpl_306"
+  ],
+  "name": "Global Header",
+  "description": "Contains the logo, primary navigation, and utility links for the website.",
+  "domHints": {
+    "selectors": [
+      "header.nav-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

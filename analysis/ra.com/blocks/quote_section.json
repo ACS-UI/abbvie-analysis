@@ -1,0 +1,26 @@
+{
+  "blockId": "quote_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Quote Section",
+  "description": "Highlights quotes from experts or testimonials.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Quote"
+}

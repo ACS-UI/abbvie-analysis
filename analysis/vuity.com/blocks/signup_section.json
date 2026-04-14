@@ -1,0 +1,26 @@
+{
+  "blockId": "signup_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Sign-Up Section",
+  "description": "Provides an option to sign up for additional information or programs.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.sign-up-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

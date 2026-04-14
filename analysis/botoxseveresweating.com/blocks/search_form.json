@@ -1,0 +1,26 @@
+{
+  "blockId": "search_form",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Search Form",
+  "description": "Allows users to search for dermatologists by zip code and radius.",
+  "domHints": {
+    "selectors": [
+      "#fadAdvanceSearchForm"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

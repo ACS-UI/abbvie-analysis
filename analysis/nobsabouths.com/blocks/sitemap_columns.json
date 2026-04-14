@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_columns",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Sitemap Columns",
+  "description": "Displays the sitemap content organized into multiple columns for easy navigation.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-row-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

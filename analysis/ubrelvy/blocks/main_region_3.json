@@ -1,0 +1,32 @@
+{
+  "blockId": "main_region_3",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_7",
+    "tpl_12",
+    "tpl_15",
+    "tpl_21",
+    "tpl_24"
+  ],
+  "name": "main region 3",
+  "description": "Major content region in main (div). Preview: BE IN THE KNOW Get the latest UBRELVY updates sent straight to your inbox. SIGN UP what’s next Resources…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_3. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

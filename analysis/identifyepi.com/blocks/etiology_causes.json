@@ -1,0 +1,26 @@
+{
+  "blockId": "etiology_causes",
+  "templateIds": [
+    "tpl_26"
+  ],
+  "name": "Etiology Causes",
+  "description": "Displays causes of EPI in a three-column layout with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.creon-hcp-epi-underlying"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_26 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

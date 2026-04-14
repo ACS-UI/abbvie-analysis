@@ -1,0 +1,26 @@
+{
+  "blockId": "quote_section_a",
+  "templateIds": [
+    "tpl_27"
+  ],
+  "name": "Quote Section A",
+  "description": "Displays a quote from a real eczema patient with accompanying imagery.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.abbv-quote-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_27 (selectors validated in representative HTML).",
+  "aemCatalogName": "Quote"
+}

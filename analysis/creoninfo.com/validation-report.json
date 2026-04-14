@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.creoninfo.com",
+  "normalisedUrl": "https://www.creoninfo.com/",
+  "finalUrlAfterRedirects": "https://www.creoninfo.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:41:05.249Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

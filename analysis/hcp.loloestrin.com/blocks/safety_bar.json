@@ -1,0 +1,26 @@
+{
+  "blockId": "safety_bar",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Safety Bar",
+  "description": "Expandable safety bar providing summarized safety information.",
+  "domHints": {
+    "selectors": [
+      "div.safety-bar > div.abbv-safety-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

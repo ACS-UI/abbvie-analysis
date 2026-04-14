@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_legal_links",
+  "templateIds": [
+    "tpl_270"
+  ],
+  "name": "Footer Legal Links",
+  "description": "Legal and policy-related links in the footer.",
+  "domHints": {
+    "selectors": [
+      "#linklist-bd74c6ddda"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_270 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

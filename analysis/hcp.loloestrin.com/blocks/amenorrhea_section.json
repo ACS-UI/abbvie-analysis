@@ -1,0 +1,26 @@
+{
+  "blockId": "amenorrhea_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Amenorrhea Section",
+  "description": "Highlights clinical results related to amenorrhea incidence with visual and textual data.",
+  "domHints": {
+    "selectors": [
+      ".orange-box-two.incidenceBox"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

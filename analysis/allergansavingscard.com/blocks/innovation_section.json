@@ -1,0 +1,27 @@
+{
+  "blockId": "innovation_section",
+  "templateIds": [
+    "tpl_249"
+  ],
+  "name": "Innovation Section",
+  "description": "Details on the innovative culture and opportunities at the company.",
+  "domHints": {
+    "selectors": [
+      "#title-161ddc7f2c",
+      ".cmp-text-xx-large.two-columns"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_249 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

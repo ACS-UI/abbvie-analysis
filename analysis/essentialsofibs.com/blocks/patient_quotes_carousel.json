@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_quotes_carousel",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Patient Quotes Carousel",
+  "description": "Showcases patient quotes in a carousel format.",
+  "domHints": {
+    "selectors": [
+      "#background-container-771989605"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

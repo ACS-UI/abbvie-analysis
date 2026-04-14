@@ -1,0 +1,26 @@
+{
+  "blockId": "legal_disclaimer_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Legal Disclaimer Section",
+  "description": "Displays the terms and conditions for the text message service, providing users with detailed information about the program, consent, and carrier availability.",
+  "domHints": {
+    "selectors": [
+      ".abbv-content .abbv-container.linzess-reminder-tc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

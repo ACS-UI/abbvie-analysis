@@ -1,0 +1,26 @@
+{
+  "blockId": "epi_resources_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "EPI Resources Section",
+  "description": "Provides links and information about resources for EPI.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.epi-gray-block"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

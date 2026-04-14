@@ -1,0 +1,28 @@
+{
+  "blockId": "main_content_intro",
+  "templateIds": [
+    "tpl_16",
+    "tpl_21",
+    "tpl_36"
+  ],
+  "name": "Main Content Introduction",
+  "description": "Introduces the page content with a brief overview and key points.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text p"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

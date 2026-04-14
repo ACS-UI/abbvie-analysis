@@ -1,0 +1,26 @@
+{
+  "blockId": "daily_treatment_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Daily Treatment Section",
+  "description": "Highlights the daily treatment details and usage instructions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.vuitypro-daily-drops-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

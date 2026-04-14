@@ -1,0 +1,1144 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "header .abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "header .abbv-header-content-container"
+    },
+    {
+      "relativePath": "mega_navigation__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "header .abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "header .abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "header .abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "search_bar__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "#header-search"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "section[role='main'] > .search-results-coveo"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "footer > .abbv-footer-content"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_windows__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title.margin-mobile-top-30"
+    },
+    {
+      "relativePath": "atopic_march_conditions__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.bg--green.padding-top-70"
+    },
+    {
+      "relativePath": "mental_health_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container.margin-bottom-70.analytics-content-view-50-eczema-and-other-conditions"
+    },
+    {
+      "relativePath": "recommended_topics__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-comorbidities",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.analytics-content-view-recommended-section"
+    },
+    {
+      "relativePath": "eczema_details__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/types-of-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container.margin-bottom-70"
+    },
+    {
+      "relativePath": "email_signup__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/types-of-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".sign-up-for-mails"
+    },
+    {
+      "relativePath": "quick_poll__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/types-of-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-quick-poll"
+    },
+    {
+      "relativePath": "comparison_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/types-of-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.bg--green"
+    },
+    {
+      "relativePath": "content_intro__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/what-causes-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container .abbv-col-7 .abbv-title"
+    },
+    {
+      "relativePath": "main_image__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/what-causes-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container .abbv-col-5 .abbv-image-text"
+    },
+    {
+      "relativePath": "section_root_cause__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/what-causes-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container.margin-bottom-70 .abbv-col-12"
+    },
+    {
+      "relativePath": "section_inflammation__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/what-causes-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.bg--green"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/what-causes-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "main_content_columns__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-severity-and-impact",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container.margin-bottom-70"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-severity-and-impact",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "next_page_cta__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-severity-and-impact",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.nextpage-cta"
+    },
+    {
+      "relativePath": "info_tree_quick_poll__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/homepage-experience",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-info-tree.ez-info-tree"
+    },
+    {
+      "relativePath": "hero_callout__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/homepage-experience",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "#background-container-527191759"
+    },
+    {
+      "relativePath": "footer_tout_what_is_eczema__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/footer-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.abbv-row-container:nth-of-type(1) > div.abbv-row > div.abbv-col-4"
+    },
+    {
+      "relativePath": "personalization_intro__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-rich-text.divider-title.margin-bottom-40"
+    },
+    {
+      "relativePath": "inline_tout_what_is_eczema__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.personalization-inline-tout.ez-cols-4-8:nth-of-type(1)"
+    },
+    {
+      "relativePath": "inline_tout_types_of_eczema__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_symptoms_pictures__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_causes__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_itch__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_severity_impact__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_experience__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_related_conditions__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_treatments__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_biologics__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_doctor_guide__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_specialists__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_find_specialist__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_routines__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_stress__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "inline_tout_emotional_wellbeing__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.personalization-inline-tout"
+    },
+    {
+      "relativePath": "default_inline_tout_title_1__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/default-content/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-rich-text.divider-title.margin-bottom-80.abbv-rich-text-common"
+    },
+    {
+      "relativePath": "default_inline_tout_title_2__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/default-content/inline-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-rich-text.divider-title.margin-bottom-40.abbv-rich-text-common"
+    },
+    {
+      "relativePath": "footer_tout_1__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/default-content/footer-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.target-rcmd-footertout-one"
+    },
+    {
+      "relativePath": "footer_tout_2__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/default-content/footer-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.target-rcmd-footertout-two"
+    },
+    {
+      "relativePath": "footer_tout_3__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/default-content/footer-touts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.target-rcmd-footertout-three"
+    },
+    {
+      "relativePath": "symptoms_report__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/eczema-symptoms-and-pictures",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title h2"
+    },
+    {
+      "relativePath": "image_library__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/eczema-symptoms-and-pictures",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title h2"
+    },
+    {
+      "relativePath": "hands_carousel__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/eczema-symptoms-and-pictures",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "#hands-carousel"
+    },
+    {
+      "relativePath": "feet_carousel__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/eczema-symptoms-and-pictures",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "#feet-carousel"
+    },
+    {
+      "relativePath": "legs_carousel__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/eczema-symptoms-and-pictures",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "#legs-carousel"
+    },
+    {
+      "relativePath": "arms_carousel__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/about-eczema/eczema-symptoms-and-pictures",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "#arms-carousel"
+    },
+    {
+      "relativePath": "experience_tool_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-experience-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".experience-tool"
+    },
+    {
+      "relativePath": "social_share__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-experience-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-social-share"
+    },
+    {
+      "relativePath": "download_tool_cta__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-experience-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-rich-text a"
+    },
+    {
+      "relativePath": "video_player__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus/scratch-cycle-video-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-video-player"
+    },
+    {
+      "relativePath": "transcript_text__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus/scratch-cycle-video-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-rich-text.ez-transcript-text"
+    },
+    {
+      "relativePath": "main_content_intro__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/partnering-with-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-rich-text p"
+    },
+    {
+      "relativePath": "image_text_component__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/partnering-with-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-image-text"
+    },
+    {
+      "relativePath": "section_one__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/partnering-with-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title.eqh-learning-partnering-first-title"
+    },
+    {
+      "relativePath": "section_two__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/partnering-with-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title.eqh-learning-partnering-second-title"
+    },
+    {
+      "relativePath": "section_three__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/partnering-with-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title.eqh-learning-partnering-third-title"
+    },
+    {
+      "relativePath": "background_video_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-background-container-video-bg"
+    },
+    {
+      "relativePath": "footer_cta__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.nextpage-cta"
+    },
+    {
+      "relativePath": "transcript_content__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/trigger-words-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.abbv-rich-text.ez-transcript-text"
+    },
+    {
+      "relativePath": "content_section_sunflower_oil__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/home-remedies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title.home-remedies-titles:contains('Sunflower oil')"
+    },
+    {
+      "relativePath": "content_section_turmeric__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/home-remedies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title.home-remedies-titles:contains('Turmeric')"
+    },
+    {
+      "relativePath": "content_section_alternative__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/home-remedies",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title.home-remedies-titles:contains('Consider another alternative')"
+    },
+    {
+      "relativePath": "intro_paragraph__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-rich-text.text-align-center-tablet-desktop.max-width-700.margin-auto.margin-bottom-40"
+    },
+    {
+      "relativePath": "trigger_words_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "#triggerwords"
+    },
+    {
+      "relativePath": "fill_in_the_blank_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "#fill-in-the-blank"
+    },
+    {
+      "relativePath": "dermatologist_reacts_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "#derm-reacts"
+    },
+    {
+      "relativePath": "share_story_cta__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title.text-align-center"
+    },
+    {
+      "relativePath": "global_header__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "header.abbv-header"
+    },
+    {
+      "relativePath": "sitemap_title__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.abbv-title > h1"
+    },
+    {
+      "relativePath": "sitemap_links_section_1__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "div.abbv-row-container.sitemap-links:nth-of-type(1)"
+    },
+    {
+      "relativePath": "global_footer__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": "footer.abbv-footer"
+    },
+    {
+      "relativePath": "promo_drawer__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/eczema-specialists",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-promo-drawer"
+    },
+    {
+      "relativePath": "specialist_intro__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/eczema-specialists",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container.margin-bottom-70:nth-of-type(1)"
+    },
+    {
+      "relativePath": "nextpage_cta__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/eczema-specialists",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container.nextpage-cta"
+    },
+    {
+      "relativePath": "embedded_form__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/doctor-discussion-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".cmp-formsembed-widget"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/doctor-discussion-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".cta"
+    },
+    {
+      "relativePath": "main_message__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/landing/thanks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title.max-width-460"
+    },
+    {
+      "relativePath": "quote_section_a__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/invisible-impact",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.abbv-quote-box"
+    },
+    {
+      "relativePath": "finding_a_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/invisible-impact",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title h2.text-22"
+    },
+    {
+      "relativePath": "info_tree__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/personalization/homepage-experience-full",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-info-tree"
+    },
+    {
+      "relativePath": "diet_advice_cta__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/eczema-diets",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".looking-for-additional-diet-advice"
+    },
+    {
+      "relativePath": "stress_busters_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-and-stress",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.bg--green"
+    },
+    {
+      "relativePath": "form_embed__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/eczema-support-and-resources/voc-survey",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".forms-embed"
+    },
+    {
+      "relativePath": "intro_content__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/eczema-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container:nth-of-type(1)"
+    },
+    {
+      "relativePath": "intro_columns__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-routine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-row-container:nth-of-type(1)"
+    },
+    {
+      "relativePath": "tips_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-routine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.bg--green"
+    },
+    {
+      "relativePath": "inline_cta__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-routine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.personalization-inline-tout"
+    },
+    {
+      "relativePath": "image_with_text_1__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/winter-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-image-text:nth-of-type(1)"
+    },
+    {
+      "relativePath": "scientific_takeaway__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/winter-eczema",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".takeaway-tout-box"
+    },
+    {
+      "relativePath": "accordion_treatment_options__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/options-for-eczema-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "reactive_proactive_section__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/options-for-eczema-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-title h2"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/supporting-eczema-teens",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.bg--white.border-radius-22"
+    },
+    {
+      "relativePath": "supporting_tips__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab/supporting-eczema-teens",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-container.bg--green.eqh-learning-supporting-border"
+    },
+    {
+      "relativePath": "social_media_ctas__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/connect-with-us",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-flex-container.social-networks"
+    },
+    {
+      "relativePath": "locator_tool__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/doctor-near-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-dr-locator-app"
+    },
+    {
+      "relativePath": "rich_text_intro__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/treating-eczema/doctor-near-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-rich-text.margin-bottom-30"
+    },
+    {
+      "relativePath": "hero_carousel__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/eczema-support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-carousel"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/eczema-support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "featured_articles__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/learnings-from-the-lab",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-flex-container"
+    },
+    {
+      "relativePath": "confirmation_message__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/sign-up/confirmation",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-rich-text p"
+    },
+    {
+      "relativePath": "quick_poll_1__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/sign-up/confirmation",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-quick-poll[data-pollID='registration_form_thank_you_page']"
+    },
+    {
+      "relativePath": "quick_poll_2__default.png",
+      "sourceUrl": "https://www.eczemaheadquarters.com/sign-up/confirmation",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:25:54.533Z",
+      "selector": ".abbv-quick-poll[data-pollID='registration_form_thank_you_page_2']"
+    }
+  ]
+}

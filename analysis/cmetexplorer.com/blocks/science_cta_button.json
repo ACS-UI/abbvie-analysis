@@ -1,0 +1,26 @@
+{
+  "blockId": "science_cta_button",
+  "templateIds": [
+    "tpl_146"
+  ],
+  "name": "Science CTA Button",
+  "description": "Encourages users to navigate to the Science page.",
+  "domHints": {
+    "selectors": [
+      "#button-d52f89f487"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_146 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

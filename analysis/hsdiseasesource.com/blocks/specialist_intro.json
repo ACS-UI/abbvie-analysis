@@ -1,0 +1,26 @@
+{
+  "blockId": "specialist_intro",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Specialist Introduction",
+  "description": "Introduces the importance of HS specialists and their role in managing the condition.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.pr4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

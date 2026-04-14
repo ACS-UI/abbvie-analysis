@@ -1,0 +1,26 @@
+{
+  "blockId": "audience_cta",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Audience CTA",
+  "description": "Call-to-action section for different audience groups.",
+  "domHints": {
+    "selectors": [
+      ".allergan-rectangleC-moblie"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

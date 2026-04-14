@@ -1,0 +1,33 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3",
+    "tpl_7",
+    "tpl_13",
+    "tpl_14",
+    "tpl_15",
+    "tpl_16",
+    "tpl_19"
+  ],
+  "name": "Hero Section",
+  "description": "Highlights the main message and imagery for the homepage.",
+  "domHints": {
+    "selectors": [
+      "#background-container-612876366"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

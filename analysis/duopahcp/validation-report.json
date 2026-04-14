@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.duopahcp.com",
+  "normalisedUrl": "https://www.duopahcp.com/",
+  "finalUrlAfterRedirects": "https://www.duopahcp.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T12:37:27.333Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

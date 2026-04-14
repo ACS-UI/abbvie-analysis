@@ -1,0 +1,334 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".savings-card-banner"
+    },
+    {
+      "relativePath": "savings_information__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".sc-content1"
+    },
+    {
+      "relativePath": "call_to_action__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".signup-today-right"
+    },
+    {
+      "relativePath": "additional_savings_info__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".saving-card-exclaim"
+    },
+    {
+      "relativePath": "questions_section__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".savings-card-question"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-inline-safety"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.loloestrin.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.loloestrin.com/get-the-facts/keeping-your-routine-between-the-seasons",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.loloestrin.com/get-the-facts/keeping-your-routine-between-the-seasons",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": "#background-container-1850488438"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.loloestrin.com/get-the-facts/keeping-your-routine-between-the-seasons",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-row-container:nth-of-type(1)"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.loloestrin.com/get-the-facts/keeping-your-routine-between-the-seasons",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.loloestrin.com/lo-loestrin-site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-link-list.lolo-sitemap-list"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.loloestrin.com/lo-loestrin-site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_title_section__default.png",
+      "sourceUrl": "https://www.loloestrin.com/modal/pricing-information-modal",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-title"
+    },
+    {
+      "relativePath": "modal_terms_conditions__default.png",
+      "sourceUrl": "https://www.loloestrin.com/modal/pricing-information-modal",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-rich-text:nth-of-type(1)"
+    },
+    {
+      "relativePath": "modal_footer_information__default.png",
+      "sourceUrl": "https://www.loloestrin.com/modal/pricing-information-modal",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": "div.pricing-information-modal"
+    },
+    {
+      "relativePath": "cta_columns__default.png",
+      "sourceUrl": "https://www.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-row-container > .abbv-row:nth-of-type(1)"
+    },
+    {
+      "relativePath": "low_dose_section__default.png",
+      "sourceUrl": "https://www.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-container.purple-background"
+    },
+    {
+      "relativePath": "prescribed_section__default.png",
+      "sourceUrl": "https://www.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-container.white-background"
+    },
+    {
+      "relativePath": "savings_section__default.png",
+      "sourceUrl": "https://www.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-container.dark-purple-background"
+    },
+    {
+      "relativePath": "five_reasons_section__default.png",
+      "sourceUrl": "https://www.loloestrin.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-container.lolo-five-reasons-why"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.loloestrin.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "footer_legal_text__default.png",
+      "sourceUrl": "https://www.loloestrin.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "modal_popup__default.png",
+      "sourceUrl": "https://www.loloestrin.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-modal.modalpopup"
+    },
+    {
+      "relativePath": "safety_bar__default.png",
+      "sourceUrl": "https://www.loloestrin.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".abbv-safety-bar"
+    },
+    {
+      "relativePath": "faq_categories_links__default.png",
+      "sourceUrl": "https://www.loloestrin.com/lo-loestrin-faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".faq-page-links"
+    },
+    {
+      "relativePath": "faq_section_about__default.png",
+      "sourceUrl": "https://www.loloestrin.com/lo-loestrin-faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": "#aboutfaq"
+    },
+    {
+      "relativePath": "faq_section_getting__default.png",
+      "sourceUrl": "https://www.loloestrin.com/lo-loestrin-faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": "#gettinglolo"
+    },
+    {
+      "relativePath": "faq_section_taking__default.png",
+      "sourceUrl": "https://www.loloestrin.com/lo-loestrin-faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": "#takinglolo"
+    },
+    {
+      "relativePath": "quiz_embed__default.png",
+      "sourceUrl": "https://www.loloestrin.com/estrogen-pop-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:23.543Z",
+      "selector": ".forms-embed"
+    }
+  ]
+}

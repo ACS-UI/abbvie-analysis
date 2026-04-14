@@ -1,0 +1,26 @@
+{
+  "blockId": "three_column_banner",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Three Column Banner",
+  "description": "Displays three columns with images and text to convey key information.",
+  "domHints": {
+    "selectors": [
+      ".synthroid-3-col-banner"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

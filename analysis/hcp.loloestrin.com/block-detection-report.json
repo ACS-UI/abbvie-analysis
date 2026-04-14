@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Homepage",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 11
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Error Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Why Product",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Formulary Coverage",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Product Consideration",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Practice Support",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Sitemap Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    }
+  ],
+  "generatedAt": "2026-04-13T15:33:57.312Z"
+}

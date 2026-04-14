@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_intro",
+  "templateIds": [
+    "tpl_202"
+  ],
+  "name": "Content Introduction",
+  "description": "Provides an introductory text and links related to the page topic.",
+  "domHints": {
+    "selectors": [
+      "#text-8adbb5543f"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_202 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

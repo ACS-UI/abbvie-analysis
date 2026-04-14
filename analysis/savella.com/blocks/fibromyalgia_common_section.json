@@ -1,0 +1,26 @@
+{
+  "blockId": "fibromyalgia_common_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Fibromyalgia Common Section",
+  "description": "Highlights statistics and facts about fibromyalgia.",
+  "domHints": {
+    "selectors": [
+      ".fibromyalgia-common-think"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_site_leaving",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Site Leaving Modal",
+  "description": "Modal dialog for confirming navigation to external sites.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-modal.siteLeaving"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

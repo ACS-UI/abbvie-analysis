@@ -1,0 +1,27 @@
+{
+  "blockId": "support_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_5"
+  ],
+  "name": "Support Section",
+  "description": "Offers support information and contact details for assistance.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.ori-x-support-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

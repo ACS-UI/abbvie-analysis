@@ -1,0 +1,27 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2"
+  ],
+  "name": "Hero Section",
+  "description": "Highlights the main message with a large image and heading.",
+  "domHints": {
+    "selectors": [
+      "#background-container-244389776"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

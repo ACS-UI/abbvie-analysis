@@ -1,0 +1,26 @@
+{
+  "blockId": "savings_card",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Savings Card Section",
+  "description": "Guides users on how to sign up for a savings card.",
+  "domHints": {
+    "selectors": [
+      ".savings-card-cards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

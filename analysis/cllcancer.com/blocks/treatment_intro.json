@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_intro",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Treatment Introduction",
+  "description": "Introduction to treatment approaches for CLL.",
+  "domHints": {
+    "selectors": [
+      "#understand-treatment-approaches-for-cll"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

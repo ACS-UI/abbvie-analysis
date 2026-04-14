@@ -1,0 +1,119 @@
+{
+  "entryUrl": "https://www.emblaveo.com/",
+  "discoveredAt": "2026-04-13T15:19:53.692Z",
+  "urls": [
+    {
+      "url": "https://www.emblaveo.com/",
+      "normalised": "https://www.emblaveo.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/sitemap",
+      "normalised": "https://www.emblaveo.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/videos",
+      "normalised": "https://www.emblaveo.com/videos",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/changing-resistance",
+      "normalised": "https://www.emblaveo.com/changing-resistance",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/registration",
+      "normalised": "https://www.emblaveo.com/registration",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/clinical-data",
+      "normalised": "https://www.emblaveo.com/clinical-data",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/susceptibility-testing",
+      "normalised": "https://www.emblaveo.com/susceptibility-testing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/safety",
+      "normalised": "https://www.emblaveo.com/safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/medical-info",
+      "normalised": "https://www.emblaveo.com/medical-info",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/mechanism-of-action",
+      "normalised": "https://www.emblaveo.com/mechanism-of-action",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/contact-a-rep",
+      "normalised": "https://www.emblaveo.com/contact-a-rep",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/microbiology",
+      "normalised": "https://www.emblaveo.com/microbiology",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/dosing",
+      "normalised": "https://www.emblaveo.com/dosing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/ordering-and-support",
+      "normalised": "https://www.emblaveo.com/ordering-and-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emblaveo.com/customer-service",
+      "normalised": "https://www.emblaveo.com/customer-service",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 15,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 15,
+      "manual": 0
+    }
+  }
+}

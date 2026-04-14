@@ -1,0 +1,27 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_254",
+    "tpl_257"
+  ],
+  "name": "Introductory Text",
+  "description": "Provides an introductory paragraph and a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      "#container-264a085156"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_254 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

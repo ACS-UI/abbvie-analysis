@@ -1,0 +1,26 @@
+{
+  "blockId": "section_navigation",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Section Navigation",
+  "description": "Sticky navigation for quick access to sections like Constipation Relief and Overall Abdominal Symptom Relief.",
+  "domHints": {
+    "selectors": [
+      ".abbv-section-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

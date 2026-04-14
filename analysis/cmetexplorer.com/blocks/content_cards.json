@@ -1,0 +1,41 @@
+{
+  "blockId": "content_cards",
+  "templateIds": [
+    "tpl_17",
+    "tpl_97",
+    "tpl_107",
+    "tpl_132",
+    "tpl_142",
+    "tpl_147",
+    "tpl_156",
+    "tpl_164",
+    "tpl_175",
+    "tpl_182",
+    "tpl_223",
+    "tpl_228",
+    "tpl_229",
+    "tpl_233",
+    "tpl_241",
+    "tpl_285"
+  ],
+  "name": "Content Cards",
+  "description": "Displays key content in a card format for quick access.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

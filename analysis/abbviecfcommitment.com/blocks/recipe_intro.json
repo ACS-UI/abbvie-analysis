@@ -1,0 +1,26 @@
+{
+  "blockId": "recipe_intro",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Recipe Introduction",
+  "description": "Introduces the recipe with a description and author information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text-common > h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

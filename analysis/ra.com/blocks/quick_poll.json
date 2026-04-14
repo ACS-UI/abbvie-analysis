@@ -1,0 +1,26 @@
+{
+  "blockId": "quick_poll",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Quick Poll",
+  "description": "Engages users with a poll about RA treatment and remission.",
+  "domHints": {
+    "selectors": [
+      ".abbv-quick-poll.qp-ra-positioned"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

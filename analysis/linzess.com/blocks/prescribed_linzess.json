@@ -1,0 +1,26 @@
+{
+  "blockId": "prescribed_linzess",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Prescribed Linzess Tips",
+  "description": "Offers tips for those already prescribed Linzess, including medication management.",
+  "domHints": {
+    "selectors": [
+      ".flexbox-cards.margin-top-80.mb40"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

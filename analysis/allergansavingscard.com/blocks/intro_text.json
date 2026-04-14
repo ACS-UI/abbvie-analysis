@@ -1,0 +1,31 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_0",
+    "tpl_36",
+    "tpl_274",
+    "tpl_275",
+    "tpl_309",
+    "tpl_311"
+  ],
+  "name": "Introduction Text",
+  "description": "Introduces the main theme of the page with a heading and descriptive text.",
+  "domHints": {
+    "selectors": [
+      "div#container-6684db30df"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

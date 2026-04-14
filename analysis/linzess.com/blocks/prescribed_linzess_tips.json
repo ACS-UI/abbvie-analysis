@@ -1,0 +1,26 @@
+{
+  "blockId": "prescribed_linzess_tips",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Tips for Prescribed LINZESS",
+  "description": "Provides practical advice for users already prescribed LINZESS.",
+  "domHints": {
+    "selectors": [
+      ".margin-top-80.mb40"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

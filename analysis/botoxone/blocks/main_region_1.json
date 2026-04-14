@@ -1,0 +1,45 @@
+{
+  "blockId": "main_region_1",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_6",
+    "tpl_7",
+    "tpl_9",
+    "tpl_10",
+    "tpl_12",
+    "tpl_13",
+    "tpl_18",
+    "tpl_19",
+    "tpl_22",
+    "tpl_36",
+    "tpl_39",
+    "tpl_40",
+    "tpl_41",
+    "tpl_42",
+    "tpl_43",
+    "tpl_45",
+    "tpl_61",
+    "tpl_64"
+  ],
+  "name": "main region 1",
+  "description": "Major content region in main (div). Preview: BOTOX® PRODUCT AUTHENTICITY Is your BOTOX® authentic and FDA approved for use in the US? Here's how to be sure. LEARN MO…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

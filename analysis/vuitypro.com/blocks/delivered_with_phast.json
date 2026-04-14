@@ -1,0 +1,26 @@
+{
+  "blockId": "delivered_with_phast",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Delivered with pHast Technology",
+  "description": "Information about the proprietary pHast technology.",
+  "domHints": {
+    "selectors": [
+      ".vuitypro-delivered-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

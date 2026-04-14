@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.loloestrin.com/",
+  "normalisedUrl": "https://www.loloestrin.com/",
+  "finalUrlAfterRedirects": "https://www.loloestrin.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:25:32.444Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

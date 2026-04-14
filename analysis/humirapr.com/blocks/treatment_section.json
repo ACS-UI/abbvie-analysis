@@ -1,0 +1,30 @@
+{
+  "blockId": "treatment_section",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_6",
+    "tpl_7",
+    "tpl_11"
+  ],
+  "name": "Treatment Section",
+  "description": "Details the treatment options available for the condition.",
+  "domHints": {
+    "selectors": [
+      "section.how-poly"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

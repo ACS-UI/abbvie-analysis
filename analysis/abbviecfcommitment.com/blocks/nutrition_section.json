@@ -1,0 +1,26 @@
+{
+  "blockId": "nutrition_section",
+  "templateIds": [
+    "tpl_31"
+  ],
+  "name": "Nutrition Section",
+  "description": "Provides information and resources related to nutrition and cystic fibrosis.",
+  "domHints": {
+    "selectors": [
+      "#background-container-960953334"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_31 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

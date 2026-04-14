@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_cards",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Call-to-Action Cards",
+  "description": "Cards highlighting key features and actions users can take, such as exploring benefits or obtaining a savings card.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.home-ctas"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

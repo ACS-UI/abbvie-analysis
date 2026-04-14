@@ -1,0 +1,26 @@
+{
+  "blockId": "safety_cta",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Safety CTA",
+  "description": "Call-to-action for learning more about safety.",
+  "domHints": {
+    "selectors": [
+      ".vuitypro-efficacy-client-option-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

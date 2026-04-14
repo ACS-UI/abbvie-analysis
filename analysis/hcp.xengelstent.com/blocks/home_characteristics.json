@@ -1,0 +1,26 @@
+{
+  "blockId": "home_characteristics",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Home Characteristics Section",
+  "description": "Showcases key features or benefits of the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.home-characteristics-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

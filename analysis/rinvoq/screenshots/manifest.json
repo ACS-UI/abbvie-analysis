@@ -1,0 +1,284 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.rinvoq.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.rinvoq.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "header nav"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.rinvoq.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://www.rinvoq.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "carousel__default.png",
+      "sourceUrl": "https://www.rinvoq.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.rinvoq.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "main_region_5__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(6)"
+    },
+    {
+      "relativePath": "main_region_6__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(7)"
+    },
+    {
+      "relativePath": "main_region_7__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(8)"
+    },
+    {
+      "relativePath": "main_region_8__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(9)"
+    },
+    {
+      "relativePath": "main_region_9__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(10)"
+    },
+    {
+      "relativePath": "main_region_10__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(11)"
+    },
+    {
+      "relativePath": "main_region_11__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(12)"
+    },
+    {
+      "relativePath": "main_region_12__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(13)"
+    },
+    {
+      "relativePath": "main_region_13__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(14)"
+    },
+    {
+      "relativePath": "main_region_14__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(15)"
+    },
+    {
+      "relativePath": "columns__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(16)"
+    },
+    {
+      "relativePath": "form_block_0__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "div:nth-of-type(3) > section:nth-of-type(1) > div:nth-of-type(13) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1)"
+    },
+    {
+      "relativePath": "slider_comparison_container__default.png",
+      "sourceUrl": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/eczema-pictures",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    },
+    {
+      "relativePath": "carousel_region_0__default.png",
+      "sourceUrl": "https://www.rinvoq.com/atopic-dermatitis/rinvoq-results/results-with-rinvoq",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    },
+    {
+      "relativePath": "forms_embed__default.png",
+      "sourceUrl": "https://www.rinvoq.com/non-radiographic-axial-spondyloarthritis/prepare-for-your-visit",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "carousel_app_container__default.png",
+      "sourceUrl": "https://www.rinvoq.com/resources/rinvoq-complete-app",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    },
+    {
+      "relativePath": "background_container_1360199045__default.png",
+      "sourceUrl": "https://www.rinvoq.com/psoriatic-arthritis/about-psoriatic-arthritis/identify-uncontrolled-psa-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "#background-container-1360199045"
+    },
+    {
+      "relativePath": "form_block_1__default.png",
+      "sourceUrl": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/find-a-rheumatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1)"
+    },
+    {
+      "relativePath": "form_block_2__default.png",
+      "sourceUrl": "https://www.rinvoq.com/psoriatic-arthritis/getting-rinvoq-treatment/find-a-rheumatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T10:58:49.899Z",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1)"
+    }
+  ]
+}

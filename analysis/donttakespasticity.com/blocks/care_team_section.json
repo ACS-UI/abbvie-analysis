@@ -1,0 +1,26 @@
+{
+  "blockId": "care_team_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Care Team Section",
+  "description": "Encourages users to complete their care team with specialists.",
+  "domHints": {
+    "selectors": [
+      ".botox-care-team-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

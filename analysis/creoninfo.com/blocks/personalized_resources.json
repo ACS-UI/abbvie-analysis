@@ -1,0 +1,26 @@
+{
+  "blockId": "personalized_resources",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Personalized Resources",
+  "description": "Details resources available to help users manage their conditions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.mt9"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

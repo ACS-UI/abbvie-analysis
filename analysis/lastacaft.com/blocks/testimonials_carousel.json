@@ -1,0 +1,26 @@
+{
+  "blockId": "testimonials_carousel",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Testimonials Carousel",
+  "description": "Showcases customer testimonials in a carousel format.",
+  "domHints": {
+    "selectors": [
+      ".abbv-carousel.lastacaft-testimonials"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

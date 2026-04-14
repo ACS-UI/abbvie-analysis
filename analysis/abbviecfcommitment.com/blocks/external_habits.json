@@ -1,0 +1,26 @@
+{
+  "blockId": "external_habits",
+  "templateIds": [
+    "tpl_19"
+  ],
+  "name": "External Habits Section",
+  "description": "Discusses maintaining healthy habits outside the home.",
+  "domHints": {
+    "selectors": [
+      ".grid__primary-block-reverse"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_19 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

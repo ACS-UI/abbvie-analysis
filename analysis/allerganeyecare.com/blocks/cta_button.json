@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_button",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Call-to-Action Button",
+  "description": "Provides a link to return to the homepage.",
+  "domHints": {
+    "selectors": [
+      ".page-not-found-primary-btn"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

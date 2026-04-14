@@ -1,0 +1,29 @@
+{
+  "blockId": "social_media_links",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_6",
+    "tpl_7"
+  ],
+  "name": "Social Media Links",
+  "description": "Links to the product's social media pages for user engagement.",
+  "domHints": {
+    "selectors": [
+      ".social-logos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

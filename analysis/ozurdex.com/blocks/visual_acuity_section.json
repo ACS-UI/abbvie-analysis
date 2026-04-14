@@ -1,0 +1,26 @@
+{
+  "blockId": "visual_acuity_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Visual Acuity Section",
+  "description": "Provides information about visual acuity and its implications, supported by images.",
+  "domHints": {
+    "selectors": [
+      ".visual-acuity-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

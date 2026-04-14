@@ -1,0 +1,26 @@
+{
+  "blockId": "header_logo",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Header Logo",
+  "description": "Displays the site logo and links to the homepage.",
+  "domHints": {
+    "selectors": [
+      ".WH-365-DigitalObgyn-header-logo-img"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

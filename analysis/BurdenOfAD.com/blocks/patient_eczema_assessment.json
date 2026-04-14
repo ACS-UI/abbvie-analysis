@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_eczema_assessment",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Patient Eczema Assessment",
+  "description": "Section with resources like the Patient Eczema Assessment document.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.icon-resource-box:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

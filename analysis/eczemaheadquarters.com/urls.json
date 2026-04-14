@@ -1,0 +1,441 @@
+{
+  "entryUrl": "https://www.eczemaheadquarters.com/",
+  "discoveredAt": "2026-04-13T16:03:54.986Z",
+  "urls": [
+    {
+      "url": "https://www.eczemaheadquarters.com/",
+      "normalised": "https://www.eczemaheadquarters.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/content/dam/eczema-de/documents/doctor-discussion-guide-pdf_r1.pdf",
+      "normalised": "https://www.eczemaheadquarters.com/content/dam/eczema-de/documents/doctor-discussion-guide-pdf_r1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/content/dam/eczema-de/documents/my-eczema-experience-pdf_r1.pdf",
+      "normalised": "https://www.eczemaheadquarters.com/content/dam/eczema-de/documents/my-eczema-experience-pdf_r1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/content/dam/eczema-de/documents/pdf/eczema-hq-magazine-first-issue.pdf",
+      "normalised": "https://www.eczemaheadquarters.com/content/dam/eczema-de/documents/pdf/eczema-hq-magazine-first-issue.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/content/dam/eczema-de/documents/pdf/eet-static-dl.pdf",
+      "normalised": "https://www.eczemaheadquarters.com/content/dam/eczema-de/documents/pdf/eet-static-dl.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/sign-up",
+      "normalised": "https://www.eczemaheadquarters.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/search-results",
+      "normalised": "https://www.eczemaheadquarters.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-comorbidities",
+      "normalised": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-comorbidities",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/about-eczema/types-of-eczema",
+      "normalised": "https://www.eczemaheadquarters.com/about-eczema/types-of-eczema",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/understanding-eczema/what-causes-eczema",
+      "normalised": "https://www.eczemaheadquarters.com/understanding-eczema/what-causes-eczema",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-severity-and-impact",
+      "normalised": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-severity-and-impact",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/personalization/homepage-experience",
+      "normalised": "https://www.eczemaheadquarters.com/personalization/homepage-experience",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/personalization/footer-touts",
+      "normalised": "https://www.eczemaheadquarters.com/personalization/footer-touts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "normalised": "https://www.eczemaheadquarters.com/personalization/inline-touts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/personalization/default-content/inline-touts",
+      "normalised": "https://www.eczemaheadquarters.com/personalization/default-content/inline-touts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/personalization/default-content/footer-touts",
+      "normalised": "https://www.eczemaheadquarters.com/personalization/default-content/footer-touts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/about-eczema/what-is-eczema",
+      "normalised": "https://www.eczemaheadquarters.com/about-eczema/what-is-eczema",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/about-eczema/eczema-symptoms-and-pictures",
+      "normalised": "https://www.eczemaheadquarters.com/about-eczema/eczema-symptoms-and-pictures",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/personalization",
+      "normalised": "https://www.eczemaheadquarters.com/personalization",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-experience-tool",
+      "normalised": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-experience-tool",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus/scratch-cycle-video-transcript",
+      "normalised": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus/scratch-cycle-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/learnings-from-the-lab/partnering-with-your-doctor",
+      "normalised": "https://www.eczemaheadquarters.com/learnings-from-the-lab/partnering-with-your-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus",
+      "normalised": "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/trigger-words-transcript",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/trigger-words-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/treating-eczema/opttions-for-eczema-treatment/treatment-video-transcript",
+      "normalised": "https://www.eczemaheadquarters.com/treating-eczema/opttions-for-eczema-treatment/treatment-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/derm-reacts-transcript",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/derm-reacts-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/understanding-eczema",
+      "normalised": "https://www.eczemaheadquarters.com/understanding-eczema",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/learnings-from-the-lab/home-remedies",
+      "normalised": "https://www.eczemaheadquarters.com/learnings-from-the-lab/home-remedies",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/landing",
+      "normalised": "https://www.eczemaheadquarters.com/landing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/sitemap",
+      "normalised": "https://www.eczemaheadquarters.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/treating-eczema/eczema-specialists",
+      "normalised": "https://www.eczemaheadquarters.com/treating-eczema/eczema-specialists",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/treating-eczema/doctor-discussion-guide",
+      "normalised": "https://www.eczemaheadquarters.com/treating-eczema/doctor-discussion-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/landing/thanks",
+      "normalised": "https://www.eczemaheadquarters.com/landing/thanks",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/learnings-from-the-lab/invisible-impact",
+      "normalised": "https://www.eczemaheadquarters.com/learnings-from-the-lab/invisible-impact",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-and-emotional-health",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-and-emotional-health",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/landing/stay-tuned",
+      "normalised": "https://www.eczemaheadquarters.com/landing/stay-tuned",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/personalization/homepage-experience-full",
+      "normalised": "https://www.eczemaheadquarters.com/personalization/homepage-experience-full",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/learnings-from-the-lab/eczema-diets",
+      "normalised": "https://www.eczemaheadquarters.com/learnings-from-the-lab/eczema-diets",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-and-stress",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-and-stress",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/eczema-support-and-resources/voc-survey",
+      "normalised": "https://www.eczemaheadquarters.com/eczema-support-and-resources/voc-survey",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/treating-eczema/eczema-treatment-options",
+      "normalised": "https://www.eczemaheadquarters.com/treating-eczema/eczema-treatment-options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/personalization/default-content",
+      "normalised": "https://www.eczemaheadquarters.com/personalization/default-content",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-routine",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-routine",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/learnings-from-the-lab/winter-eczema",
+      "normalised": "https://www.eczemaheadquarters.com/learnings-from-the-lab/winter-eczema",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/sitemap1",
+      "normalised": "https://www.eczemaheadquarters.com/sitemap1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/treating-eczema/options-for-eczema-treatment/treatment-video-transcript",
+      "normalised": "https://www.eczemaheadquarters.com/treating-eczema/options-for-eczema-treatment/treatment-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/about-eczema",
+      "normalised": "https://www.eczemaheadquarters.com/about-eczema",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/treating-eczema/options-for-eczema-treatment",
+      "normalised": "https://www.eczemaheadquarters.com/treating-eczema/options-for-eczema-treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/learnings-from-the-lab/supporting-eczema-teens",
+      "normalised": "https://www.eczemaheadquarters.com/learnings-from-the-lab/supporting-eczema-teens",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/treating-eczema",
+      "normalised": "https://www.eczemaheadquarters.com/treating-eczema",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/connect-with-us",
+      "normalised": "https://www.eczemaheadquarters.com/connect-with-us",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/fill-in-the-blank-transcript",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/fill-in-the-blank-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/treating-eczema/doctor-near-me",
+      "normalised": "https://www.eczemaheadquarters.com/treating-eczema/doctor-near-me",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/eczema-support-and-resources",
+      "normalised": "https://www.eczemaheadquarters.com/eczema-support-and-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/learnings-from-the-lab",
+      "normalised": "https://www.eczemaheadquarters.com/learnings-from-the-lab",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/sign-up/confirmation",
+      "normalised": "https://www.eczemaheadquarters.com/sign-up/confirmation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/treating-eczema/eczema-specialist-near-me",
+      "normalised": "https://www.eczemaheadquarters.com/treating-eczema/eczema-specialist-near-me",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema/facebook.com/eczemahq",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema/facebook.com/eczemahq",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-and-mental-health",
+      "normalised": "https://www.eczemaheadquarters.com/living-with-eczema/eczema-and-mental-health",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 61,
+    "bySource": {
+      "sitemap": 37,
+      "crawl": 24,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_section_mobile",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Hero Section (Mobile)",
+  "description": "Prominent introductory section for mobile users featuring a video background and key messaging.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1640940319"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

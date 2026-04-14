@@ -1,0 +1,26 @@
+{
+  "blockId": "reference_sources",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Reference Sources",
+  "description": "Lists the references and sources for the provided information.",
+  "domHints": {
+    "selectors": [
+      ".epi-identifyepi-references"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

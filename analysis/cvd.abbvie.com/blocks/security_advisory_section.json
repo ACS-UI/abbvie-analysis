@@ -1,0 +1,26 @@
+{
+  "blockId": "security_advisory_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Security Advisory Section",
+  "description": "Lists security advisories and relevant information.",
+  "domHints": {
+    "selectors": [
+      ".security-advisory-section-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

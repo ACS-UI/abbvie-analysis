@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_results",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "CTA Results",
+  "description": "Directs users to view treatment results.",
+  "domHints": {
+    "selectors": [
+      ".about_box_col:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

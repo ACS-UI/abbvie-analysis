@@ -1,0 +1,26 @@
+{
+  "blockId": "contact_us_heading",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Contact Us Heading",
+  "description": "Page heading introducing the contact section.",
+  "domHints": {
+    "selectors": [
+      ".contact-us-pageheading"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

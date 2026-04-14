@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides an introductory paragraph explaining the content of the page.",
+  "domHints": {
+    "selectors": [
+      ".linzess-keep-toptext"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

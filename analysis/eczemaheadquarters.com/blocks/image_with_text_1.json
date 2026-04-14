@@ -1,0 +1,26 @@
+{
+  "blockId": "image_with_text_1",
+  "templateIds": [
+    "tpl_36"
+  ],
+  "name": "Image with Text 1",
+  "description": "Displays an image alongside descriptive text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_36 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

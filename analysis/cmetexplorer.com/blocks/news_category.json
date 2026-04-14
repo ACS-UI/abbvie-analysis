@@ -1,0 +1,26 @@
+{
+  "blockId": "news_category",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "News Category Links",
+  "description": "Links to related news categories.",
+  "domHints": {
+    "selectors": [
+      ".wd_category_link_list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,574 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-rich-text.text-align-center.c-linz-dark-purple"
+    },
+    {
+      "relativePath": "accordion_terms_conditions__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#TermsAndConditions"
+    },
+    {
+      "relativePath": "form_embed__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".forms-embed"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.linzess.com/starting-linzess/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.linzess.com/starting-linzess/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".linzess-keep-toptext"
+    },
+    {
+      "relativePath": "fodmap_columns__default.png",
+      "sourceUrl": "https://www.linzess.com/starting-linzess/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".linzess-get-the-most-columns"
+    },
+    {
+      "relativePath": "fodmap_infographic__default.png",
+      "sourceUrl": "https://www.linzess.com/starting-linzess/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".fodmap-infographic"
+    },
+    {
+      "relativePath": "related_articles__default.png",
+      "sourceUrl": "https://www.linzess.com/starting-linzess/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".flexbox-article-cards"
+    },
+    {
+      "relativePath": "footer_cta__default.png",
+      "sourceUrl": "https://www.linzess.com/starting-linzess/wellness-tips/your-map-to-a-low-fodmap-diet",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".bottom-nav"
+    },
+    {
+      "relativePath": "main_content_transcripts__default.png",
+      "sourceUrl": "https://www.linzess.com/why-linzess/linzess-patient-experiences/getting-on-same-page-transcripts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".linzess-transcript-global"
+    },
+    {
+      "relativePath": "important_safety_info__default.png",
+      "sourceUrl": "https://www.linzess.com/why-linzess/linzess-patient-experiences/getting-on-same-page-transcripts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.linzess.com/why-linzess/linzess-patient-experiences/getting-on-same-page-transcripts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "section_navigation__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/linzess-savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-section-navigation"
+    },
+    {
+      "relativePath": "savings_section__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/linzess-savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#savings"
+    },
+    {
+      "relativePath": "sign_up_options__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/linzess-savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".savings-card-cards"
+    },
+    {
+      "relativePath": "footer_terms__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/linzess-savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".footnote"
+    },
+    {
+      "relativePath": "types_of_constipation__default.png",
+      "sourceUrl": "https://www.linzess.com/understanding-constipation/what-is-ibs-c",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#typesofconstipation"
+    },
+    {
+      "relativePath": "bristol_stool_scale__default.png",
+      "sourceUrl": "https://www.linzess.com/understanding-constipation/what-is-ibs-c",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-image-text-v2 img[src*='stools']"
+    },
+    {
+      "relativePath": "ibsc_cic_section__default.png",
+      "sourceUrl": "https://www.linzess.com/understanding-constipation/what-is-ibs-c",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#ibsccic"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.linzess.com/understanding-constipation/what-is-ibs-c",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".flexbox-video-cards"
+    },
+    {
+      "relativePath": "symptoms_causes_comparison__default.png",
+      "sourceUrl": "https://www.linzess.com/understanding-constipation/what-is-ibs-c",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".symptoms-causes-container"
+    },
+    {
+      "relativePath": "how_linzess_can_help__default.png",
+      "sourceUrl": "https://www.linzess.com/why-linzess/how-linzess-can-help",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#howlinzesscanhelp"
+    },
+    {
+      "relativePath": "how_linzess_works__default.png",
+      "sourceUrl": "https://www.linzess.com/why-linzess/how-linzess-can-help",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#howlinzessworks"
+    },
+    {
+      "relativePath": "patient_experiences__default.png",
+      "sourceUrl": "https://www.linzess.com/why-linzess/how-linzess-can-help",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".why-linz-video-cards"
+    },
+    {
+      "relativePath": "side_effects__default.png",
+      "sourceUrl": "https://www.linzess.com/why-linzess/how-linzess-can-help",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#sideeffects"
+    },
+    {
+      "relativePath": "signup_options__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".savings-card-cards"
+    },
+    {
+      "relativePath": "terms_and_conditions__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".footnote"
+    },
+    {
+      "relativePath": "accordion_faq__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "talk_to_doctor__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/how-to-take-linzess",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#talktoadoctor"
+    },
+    {
+      "relativePath": "gut_check_cta__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/how-to-take-linzess",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".resources-tout"
+    },
+    {
+      "relativePath": "doctor_video__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/how-to-take-linzess",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".flexbox-video-cards--single"
+    },
+    {
+      "relativePath": "how_to_take_linzess__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/how-to-take-linzess",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#howtotake"
+    },
+    {
+      "relativePath": "prescribed_linzess__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/how-to-take-linzess",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".flexbox-cards.margin-top-80.mb40"
+    },
+    {
+      "relativePath": "savings_card__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/how-to-take-linzess",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".savings-card-cards"
+    },
+    {
+      "relativePath": "healthy_routines_section__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/community-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#healthyroutines"
+    },
+    {
+      "relativePath": "wellness_tips_section__default.png",
+      "sourceUrl": "https://www.linzess.com/savings-and-support/community-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#wellnesstips"
+    },
+    {
+      "relativePath": "cta_columns__default.png",
+      "sourceUrl": "https://www.linzess.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-row-container.background-light-purple"
+    },
+    {
+      "relativePath": "statistics_flexbox__default.png",
+      "sourceUrl": "https://www.linzess.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-flex-container-v2.flexbox-column-mobile.flexbox-cards.c-dark-purple"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.linzess.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-rich-text.linzess-top-banner"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.linzess.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "legal_disclaimer_section__default.png",
+      "sourceUrl": "https://www.linzess.com/reminder-terms-conditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-content .abbv-container.linzess-reminder-tc"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.linzess.com/espanol",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.linzess.com/espanol",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".linzess-help-container"
+    },
+    {
+      "relativePath": "symptoms_section__default.png",
+      "sourceUrl": "https://www.linzess.com/espanol",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".linzess-symptoms"
+    },
+    {
+      "relativePath": "informative_section__default.png",
+      "sourceUrl": "https://www.linzess.com/espanol",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".linzess-informative-section"
+    },
+    {
+      "relativePath": "promo_section__default.png",
+      "sourceUrl": "https://www.linzess.com/espanol",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".linzess-promo"
+    },
+    {
+      "relativePath": "accordion_terms__default.png",
+      "sourceUrl": "https://www.linzess.com/espanol",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".linzess-terms"
+    },
+    {
+      "relativePath": "talk_to_doctor_content__default.png",
+      "sourceUrl": "https://www.linzess.com/find-relief/talk-to-a-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#talktoadoctor"
+    },
+    {
+      "relativePath": "video_section_right_doctor__default.png",
+      "sourceUrl": "https://www.linzess.com/find-relief/talk-to-a-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".flexbox-video-cards--single"
+    },
+    {
+      "relativePath": "how_to_take_content__default.png",
+      "sourceUrl": "https://www.linzess.com/find-relief/talk-to-a-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "#howtotake"
+    },
+    {
+      "relativePath": "prescribed_linzess_tips__default.png",
+      "sourceUrl": "https://www.linzess.com/find-relief/talk-to-a-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".margin-top-80.mb40"
+    },
+    {
+      "relativePath": "savings_card_cta__default.png",
+      "sourceUrl": "https://www.linzess.com/find-relief/talk-to-a-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": ".savings-card-cards"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.linzess.com/find-relief/talk-to-a-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:59.964Z",
+      "selector": "footer"
+    }
+  ]
+}

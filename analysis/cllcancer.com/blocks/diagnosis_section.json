@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosis_section",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Diagnosis Section",
+  "description": "Information on how CLL is diagnosed.",
+  "domHints": {
+    "selectors": [
+      "#how-is-cll-diagnosed"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

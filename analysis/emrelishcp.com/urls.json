@@ -1,0 +1,168 @@
+{
+  "entryUrl": "https://www.emrelishcp.com/",
+  "discoveredAt": "2026-04-13T15:22:25.956Z",
+  "urls": [
+    {
+      "url": "https://www.emrelishcp.com/",
+      "normalised": "https://www.emrelishcp.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-lomn-template.pdf",
+      "normalised": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-lomn-template.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-appeals-letter-template.pdf",
+      "normalised": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-appeals-letter-template.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-branded-patient-brochure.pdf",
+      "normalised": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-branded-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emrelis-post-speakerprogram-leave-behind.pdf",
+      "normalised": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emrelis-post-speakerprogram-leave-behind.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-billing-coding-guide.pdf",
+      "normalised": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-billing-coding-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-enrollment-form.pdf",
+      "normalised": "https://www.emrelishcp.com/content/dam/emrelishcp/docs/emr-enrollment-form.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.emrelishcp.com/contact-a-rep",
+      "normalised": "https://www.emrelishcp.com/contact-a-rep",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/safety",
+      "normalised": "https://www.emrelishcp.com/safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/support#howtoordermetihctesting",
+      "normalised": "https://www.emrelishcp.com/support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/support/sign-up",
+      "normalised": "https://www.emrelishcp.com/support/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/search-results",
+      "normalised": "https://www.emrelishcp.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/efficacy/efficacy",
+      "normalised": "https://www.emrelishcp.com/efficacy/efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/about-emrelis",
+      "normalised": "https://www.emrelishcp.com/about-emrelis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/dosing/adverse-reaction",
+      "normalised": "https://www.emrelishcp.com/dosing/adverse-reaction",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/about-c-met",
+      "normalised": "https://www.emrelishcp.com/about-c-met",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+      "normalised": "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/met-ihc-testing",
+      "normalised": "https://www.emrelishcp.com/met-ihc-testing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/efficacy",
+      "normalised": "https://www.emrelishcp.com/efficacy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/efficacy/study-design",
+      "normalised": "https://www.emrelishcp.com/efficacy/study-design",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/dosing",
+      "normalised": "https://www.emrelishcp.com/dosing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.emrelishcp.com/sitemap",
+      "normalised": "https://www.emrelishcp.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 22,
+    "bySource": {
+      "sitemap": 8,
+      "crawl": 14,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "results_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Results Section",
+  "description": "Highlights clinical trial results and statistics.",
+  "domHints": {
+    "selectors": [
+      "#clinical-trial-results"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

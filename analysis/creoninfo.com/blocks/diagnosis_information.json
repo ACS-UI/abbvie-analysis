@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosis_information",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Diagnosis Information",
+  "description": "Provides detailed information about EPI diagnosis, including steps and considerations.",
+  "domHints": {
+    "selectors": [
+      ".page-marq__grid"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

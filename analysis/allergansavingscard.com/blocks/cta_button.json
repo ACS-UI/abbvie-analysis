@@ -1,0 +1,33 @@
+{
+  "blockId": "cta_button",
+  "templateIds": [
+    "tpl_18",
+    "tpl_36",
+    "tpl_81",
+    "tpl_100",
+    "tpl_124",
+    "tpl_190",
+    "tpl_221",
+    "tpl_274"
+  ],
+  "name": "CTA Button",
+  "description": "Call-to-action button encouraging user interaction.",
+  "domHints": {
+    "selectors": [
+      "#button-1a967122b5"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_18 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

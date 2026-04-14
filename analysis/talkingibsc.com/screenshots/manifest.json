@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.talkingibsc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:24.230Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.talkingibsc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:24.230Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.talkingibsc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:24.230Z",
+      "selector": ".orange-arrow-section"
+    },
+    {
+      "relativePath": "lead_story__default.png",
+      "sourceUrl": "https://www.talkingibsc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:24.230Z",
+      "selector": ".abbv-title"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.talkingibsc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:24.230Z",
+      "selector": ".abbv-video-player"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.talkingibsc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:24.230Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.talkingibsc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:24.230Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.talkingibsc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:58:24.230Z",
+      "selector": ".abbv-back-to-top"
+    }
+  ]
+}

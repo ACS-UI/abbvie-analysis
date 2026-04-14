@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosis_steps",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Diagnosis Steps",
+  "description": "Details steps to diagnose the condition, including tests and examinations.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.fybp-bullet-indt"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

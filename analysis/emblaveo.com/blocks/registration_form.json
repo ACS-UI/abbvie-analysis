@@ -1,0 +1,26 @@
+{
+  "blockId": "registration_form",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Registration Form",
+  "description": "Contains the embedded registration form for users to sign up.",
+  "domHints": {
+    "selectors": [
+      ".forms-embed"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

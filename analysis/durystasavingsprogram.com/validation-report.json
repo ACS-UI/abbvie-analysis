@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.durystasavingsprogram.com",
+  "normalisedUrl": "https://www.durystasavingsprogram.com/",
+  "finalUrlAfterRedirects": "https://www.durystasavingsprogram.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:17:37.264Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

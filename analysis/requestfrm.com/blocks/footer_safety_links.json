@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_safety_links",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Footer Safety Links",
+  "description": "Provides additional safety information links for the products.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.safety-links-footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

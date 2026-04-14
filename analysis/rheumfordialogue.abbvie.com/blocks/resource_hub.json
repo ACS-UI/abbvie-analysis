@@ -1,0 +1,26 @@
+{
+  "blockId": "resource_hub",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Resource Hub",
+  "description": "Offers resources and tools for patients to manage their care.",
+  "domHints": {
+    "selectors": [
+      "#resourcehub"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,188 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T11:14:08.273Z",
+  "completedAt": "2026-04-13T11:16:24.179Z",
+  "input": {
+    "url": "https://www.ubrelvy.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/ubrelvy",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Page layout group 1",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Important Safety Information — group 2",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Search Results — group 3",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Challenge — group 4",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Treating Migraine — group 5",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Challenge Terms — group 6",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Signup Confirmation — group 7",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Real Patient Stories — group 8",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Unsubscribe — group 9",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Challenge Registration — group 10",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Challenge Download — group 11",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Traci Video Transcript — group 12",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Early Migraine Signs — group 13",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Sitemap — group 14",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "Savings — group 15",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "Cost — group 16",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "Sign Up — group 17",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "Savings Terms — group 18",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_18",
+        "humanName": "Laura Video Transcript — group 19",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_19",
+        "humanName": "Challenge Activation — group 20",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_20",
+        "humanName": "Complete — group 21",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_21",
+        "humanName": "Resources — group 22",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_22",
+        "humanName": "Savings Card Download — group 23",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_23",
+        "humanName": "Challenge Ineligible — group 24",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_24",
+        "humanName": "Why Ubrelvy — group 25",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_25",
+        "humanName": "Site Map — group 26",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      }
+    ]
+  }
+}

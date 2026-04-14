@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_block_1",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Call-to-Action Block 1",
+  "description": "Encourages users to learn more about the product.",
+  "domHints": {
+    "selectors": [
+      ".cta-block.first-and-only"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

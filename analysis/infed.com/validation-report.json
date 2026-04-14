@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.infed.com/",
+  "normalisedUrl": "https://www.infed.com/",
+  "finalUrlAfterRedirects": "https://www.infed.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:12:05.426Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://hcp.xengelstent.com/",
+  "normalisedUrl": "https://hcp.xengelstent.com/",
+  "finalUrlAfterRedirects": "https://hcp.xengelstent.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:32:54.607Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

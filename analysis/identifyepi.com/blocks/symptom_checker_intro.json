@@ -1,0 +1,26 @@
+{
+  "blockId": "symptom_checker_intro",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Symptom Checker Introduction",
+  "description": "Introduction to the symptom checker tool with explanatory text.",
+  "domHints": {
+    "selectors": [
+      ".epi-first-section-exocrine.symptom-checker-hero-1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

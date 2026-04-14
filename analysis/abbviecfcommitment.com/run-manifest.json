@@ -1,0 +1,368 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:22:00.465Z",
+  "completedAt": "2026-04-13T16:48:35.064Z",
+  "input": {
+    "url": "https://www.abbviecfcommitment.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/abbviecfcommitment.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Homepage Template",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Nutrition Guide Overview",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Healthy Eating Guide",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "College Nutrition Tips",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Exercise and CF Page",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Cf Winter Recipes — group 6",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Curried Chicken Casserole — group 7",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Samantha M — group 8",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Vacationing With Cystic Fibrosis — group 9",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Qa Resources — group 10",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Summer Party Tips — group 11",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Megane W — group 12",
+        "source": "llm_identify",
+        "blockCount": 4,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Kate M — group 13",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Irvin A — group 14",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "Spice Up Cf Dinner — group 15",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "Cfscholarship — group 16",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "Beef Taquitos — group 17",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "Yummy Sweet Potato Bites — group 18",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_18",
+        "humanName": "Baked Potato Soup — group 19",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_19",
+        "humanName": "Cooking Tips Tricks — group 20",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_20",
+        "humanName": "Get Involved — group 21",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_21",
+        "humanName": "Site Map — group 22",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_22",
+        "humanName": "Bacon Cheese Quiche — group 23",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_23",
+        "humanName": "Planning Shopping — group 24",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_24",
+        "humanName": "Staying Healthy — group 25",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_25",
+        "humanName": "Recipe Details Page",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_26",
+        "humanName": "Scholarship Recipient Profiles",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_27",
+        "humanName": "Additional Recipe Details",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_28",
+        "humanName": "Breakfast Recipe Page",
+        "source": "llm_identify",
+        "blockCount": 4,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_29",
+        "humanName": "Recipes Overview",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_30",
+        "humanName": "Nutrition Tips Page",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_31",
+        "humanName": "Resources Page",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_32",
+        "humanName": "About Scholarship Program",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_33",
+        "humanName": "Scholarship Scholars Overview",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_34",
+        "humanName": "Specific Scholar Profile",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_35",
+        "humanName": "Sierra L — group 36",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_36",
+        "humanName": "Sophia K — group 37",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_37",
+        "humanName": "Victoria M — group 38",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_38",
+        "humanName": "Ashley S — group 39",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_39",
+        "humanName": "Alihamza R — group 40",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_40",
+        "humanName": "Liam H — group 41",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_41",
+        "humanName": "2023 — group 42",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 5
+      },
+      {
+        "templateId": "tpl_42",
+        "humanName": "Mackenzie A — group 43",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_43",
+        "humanName": "Lola F — group 44",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_44",
+        "humanName": "Samantha P — group 45",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_45",
+        "humanName": "Sophia K — group 46",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_46",
+        "humanName": "Mikayla P — group 47",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_47",
+        "humanName": "Reagan B — group 48",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      }
+    ]
+  }
+}

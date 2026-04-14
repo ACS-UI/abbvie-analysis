@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Content Section",
+  "description": "Provides detailed information and resources related to the page topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.personalization-t-d"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "glossary_navigation",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Glossary Navigation",
+  "description": "Allows users to jump to specific glossary sections by letter.",
+  "domHints": {
+    "selectors": [
+      ".glossary-nav_list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

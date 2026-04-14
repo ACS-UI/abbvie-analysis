@@ -1,0 +1,26 @@
+{
+  "blockId": "bone_summary",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Bone Summary",
+  "description": "Provides a summary of key takeaways from the bone health section.",
+  "domHints": {
+    "selectors": [
+      ".bone-summary-heading"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

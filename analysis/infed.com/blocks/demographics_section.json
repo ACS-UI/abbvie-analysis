@@ -1,0 +1,26 @@
+{
+  "blockId": "demographics_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Demographics Section",
+  "description": "Provides demographic information about populations at risk for ID and IDA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.abbv-siab.demographics-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

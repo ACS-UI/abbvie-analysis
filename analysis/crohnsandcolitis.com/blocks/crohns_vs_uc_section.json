@@ -1,0 +1,26 @@
+{
+  "blockId": "crohns_vs_uc_section",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Crohn's vs UC Section",
+  "description": "Details the distinctions between Crohn's disease and ulcerative colitis.",
+  "domHints": {
+    "selectors": [
+      "#crohnsvsuc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

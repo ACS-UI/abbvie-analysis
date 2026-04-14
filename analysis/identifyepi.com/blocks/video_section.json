@@ -1,0 +1,28 @@
+{
+  "blockId": "video_section",
+  "templateIds": [
+    "tpl_2",
+    "tpl_15",
+    "tpl_30"
+  ],
+  "name": "Video Section",
+  "description": "Includes a video player and transcript about recognizing EPI symptoms.",
+  "domHints": {
+    "selectors": [
+      ".epi-full-video"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

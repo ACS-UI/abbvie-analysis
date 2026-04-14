@@ -1,0 +1,27 @@
+{
+  "blockId": "clinical_trials_section",
+  "templateIds": [
+    "tpl_4",
+    "tpl_5"
+  ],
+  "name": "Clinical Trials Section",
+  "description": "Provides data on clinical trial results, such as headache occurrence rates.",
+  "domHints": {
+    "selectors": [
+      ".vuitypro-safety-trial-section.vuitypro-curve"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

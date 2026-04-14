@@ -1,0 +1,504 @@
+{
+  "entryUrl": "https://www.creoninfo.com/",
+  "discoveredAt": "2026-04-13T15:41:05.252Z",
+  "urls": [
+    {
+      "url": "https://www.creoninfo.com/",
+      "normalised": "https://www.creoninfo.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/content/dam/creon/pdf/creon-doctor-discussion-guide.pdf",
+      "normalised": "https://www.creoninfo.com/content/dam/creon/pdf/creon-doctor-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creoninfo.com/content/dam/creon/pdf/patient-education.pdf",
+      "normalised": "https://www.creoninfo.com/content/dam/creon/pdf/patient-education.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creoninfo.com/content/dam/creon/pdf/creon-treatment-tracker.pdf",
+      "normalised": "https://www.creoninfo.com/content/dam/creon/pdf/creon-treatment-tracker.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creoninfo.com/content/dam/creon/pdf/understanding-medicare-guide.pdf",
+      "normalised": "https://www.creoninfo.com/content/dam/creon/pdf/understanding-medicare-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creoninfo.com/content/dam/creon/pdf/insurance-101-brochure.pdf",
+      "normalised": "https://www.creoninfo.com/content/dam/creon/pdf/insurance-101-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creoninfo.com/content/dam/creon/pdf/creon-complete-treatment-tracker.pdf",
+      "normalised": "https://www.creoninfo.com/content/dam/creon/pdf/creon-complete-treatment-tracker.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.creoninfo.com/associated-conditions",
+      "normalised": "https://www.creoninfo.com/associated-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/creon-complete/non-cf-take-it-transcript",
+      "normalised": "https://www.creoninfo.com/creon-complete/non-cf-take-it-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/what-is-epi",
+      "normalised": "https://www.creoninfo.com/what-is-epi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/creon-support-programs",
+      "normalised": "https://www.creoninfo.com/creon-support-programs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/search-results",
+      "normalised": "https://www.creoninfo.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/epi-symptoms",
+      "normalised": "https://www.creoninfo.com/epi-symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/personalization",
+      "normalised": "https://www.creoninfo.com/personalization",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/diet-and-nutrition",
+      "normalised": "https://www.creoninfo.com/videos/diet-and-nutrition",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/epi-symptoms-quiz",
+      "normalised": "https://www.creoninfo.com/epi-symptoms-quiz",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/what-is-epi",
+      "normalised": "https://www.creoninfo.com/videos/what-is-epi",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/cfcareforward",
+      "normalised": "https://www.creoninfo.com/cfcareforward",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/epi-treatment-transcript",
+      "normalised": "https://www.creoninfo.com/videos/epi-treatment-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/site-map",
+      "normalised": "https://www.creoninfo.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/creon-complete",
+      "normalised": "https://www.creoninfo.com/creon-complete",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/treatment-tracker",
+      "normalised": "https://www.creoninfo.com/treatment-tracker",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/cost-savings",
+      "normalised": "https://www.creoninfo.com/cost-savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/living-with-epi-cf",
+      "normalised": "https://www.creoninfo.com/videos/living-with-epi-cf",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/how-creon-works",
+      "normalised": "https://www.creoninfo.com/how-creon-works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/creon-dosing",
+      "normalised": "https://www.creoninfo.com/creon-dosing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/infants/infant-dosing",
+      "normalised": "https://www.creoninfo.com/infants/infant-dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/diet-and-lifestyle",
+      "normalised": "https://www.creoninfo.com/diet-and-lifestyle",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/tips-to-caregivers",
+      "normalised": "https://www.creoninfo.com/videos/tips-to-caregivers",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/sitemap",
+      "normalised": "https://www.creoninfo.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/ambassador-program",
+      "normalised": "https://www.creoninfo.com/ambassador-program",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/infants",
+      "normalised": "https://www.creoninfo.com/infants",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/children-and-adults",
+      "normalised": "https://www.creoninfo.com/children-and-adults",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/infants/infant-dosing-spanish",
+      "normalised": "https://www.creoninfo.com/infants/infant-dosing-spanish",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/creon-complete/non-cf-talk-about-it-transcript",
+      "normalised": "https://www.creoninfo.com/creon-complete/non-cf-talk-about-it-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+      "normalised": "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/understanding-epi-creon-transcript",
+      "normalised": "https://www.creoninfo.com/videos/understanding-epi-creon-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/treating-epi",
+      "normalised": "https://www.creoninfo.com/treating-epi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/taking-creon-with-food",
+      "normalised": "https://www.creoninfo.com/videos/taking-creon-with-food",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/creon-complete/non-cf-track-it-transcript",
+      "normalised": "https://www.creoninfo.com/creon-complete/non-cf-track-it-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/about-creon",
+      "normalised": "https://www.creoninfo.com/about-creon",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos",
+      "normalised": "https://www.creoninfo.com/videos",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/staying-on-track",
+      "normalised": "https://www.creoninfo.com/staying-on-track",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/understanding-your-dose",
+      "normalised": "https://www.creoninfo.com/videos/understanding-your-dose",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/creon-complete/non-cf-3ts-transcript",
+      "normalised": "https://www.creoninfo.com/creon-complete/non-cf-3ts-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/epi-symptoms-diagnosis-transcript",
+      "normalised": "https://www.creoninfo.com/videos/epi-symptoms-diagnosis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/talking-about-epi",
+      "normalised": "https://www.creoninfo.com/videos/talking-about-epi",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/how-creon-works",
+      "normalised": "https://www.creoninfo.com/videos/how-creon-works",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/understanding-epi-treatment-transcript",
+      "normalised": "https://www.creoninfo.com/videos/understanding-epi-treatment-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/faq",
+      "normalised": "https://www.creoninfo.com/faq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/epi-diagnosis",
+      "normalised": "https://www.creoninfo.com/epi-diagnosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/doctor-discussion-guide",
+      "normalised": "https://www.creoninfo.com/doctor-discussion-guide",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/helpful-tips-for-patients",
+      "normalised": "https://www.creoninfo.com/videos/helpful-tips-for-patients",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/on-course",
+      "normalised": "https://www.creoninfo.com/on-course",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/www.fda.gov/medwatch",
+      "normalised": "https://www.creoninfo.com/videos/www.fda.gov/medwatch",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-320015441-2",
+      "normalised": "https://www.creoninfo.com/abbv-tab-320015441-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/register",
+      "normalised": "https://www.creoninfo.com/register",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-320015441-3",
+      "normalised": "https://www.creoninfo.com/abbv-tab-320015441-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-2108787267-0",
+      "normalised": "https://www.creoninfo.com/abbv-tab-2108787267-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/abbv-tab-216600437-0",
+      "normalised": "https://www.creoninfo.com/videos/abbv-tab-216600437-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/abbv-tab-216600437-2",
+      "normalised": "https://www.creoninfo.com/videos/abbv-tab-216600437-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-216600437-2",
+      "normalised": "https://www.creoninfo.com/abbv-tab-216600437-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-2108787267-1",
+      "normalised": "https://www.creoninfo.com/abbv-tab-2108787267-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-320015441-0",
+      "normalised": "https://www.creoninfo.com/abbv-tab-320015441-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/abbv-tab-216600437-1",
+      "normalised": "https://www.creoninfo.com/videos/abbv-tab-216600437-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-320015441-1",
+      "normalised": "https://www.creoninfo.com/abbv-tab-320015441-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-216600437-1",
+      "normalised": "https://www.creoninfo.com/abbv-tab-216600437-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-2108787267-2",
+      "normalised": "https://www.creoninfo.com/abbv-tab-2108787267-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/abbv-tab-216600437-0",
+      "normalised": "https://www.creoninfo.com/abbv-tab-216600437-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.creoninfo.com/videos/AbbVie.com/PatientAccessSupport",
+      "normalised": "https://www.creoninfo.com/videos/AbbVie.com/PatientAccessSupport",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 70,
+    "bySource": {
+      "sitemap": 29,
+      "crawl": 41,
+      "manual": 0
+    }
+  }
+}

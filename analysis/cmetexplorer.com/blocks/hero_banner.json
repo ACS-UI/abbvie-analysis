@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_banner",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "Hero Banner",
+  "description": "Prominent banner displaying a background image and page title.",
+  "domHints": {
+    "selectors": [
+      ".wd_home_hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

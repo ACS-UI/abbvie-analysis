@@ -1,0 +1,26 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick access links to key sections like Investors, News Center, and Patient Assistance.",
+  "domHints": {
+    "selectors": [
+      ".utilitynavigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

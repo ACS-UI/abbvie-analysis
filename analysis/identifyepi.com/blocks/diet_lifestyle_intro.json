@@ -1,0 +1,26 @@
+{
+  "blockId": "diet_lifestyle_intro",
+  "templateIds": [
+    "tpl_28"
+  ],
+  "name": "Diet and Lifestyle Intro",
+  "description": "Introduces the topic of diet and lifestyle adjustments for EPI.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1116167899"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_28 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

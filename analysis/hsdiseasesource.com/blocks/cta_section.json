@@ -1,0 +1,29 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_10",
+    "tpl_11",
+    "tpl_16"
+  ],
+  "name": "CTA Section",
+  "description": "Encourages users to explore additional resources or related content.",
+  "domHints": {
+    "selectors": [
+      ".tout-journey-next"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

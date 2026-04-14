@@ -1,0 +1,30 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.creoninfo.com/videos/speaking-doctor-epi-transcript",
+          "https://www.creoninfo.com/creon-complete",
+          "https://www.creoninfo.com/staying-on-track",
+          "https://www.creoninfo.com/",
+          "https://www.creoninfo.com/associated-conditions",
+          "https://www.creoninfo.com/treating-epi",
+          "https://www.creoninfo.com/videos",
+          "https://www.creoninfo.com/faq",
+          "https://www.creoninfo.com/epi-diagnosis",
+          "https://www.creoninfo.com/doctor-discussion-guide"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:47:54.915Z"
+}

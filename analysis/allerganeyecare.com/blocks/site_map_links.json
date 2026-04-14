@@ -1,0 +1,26 @@
+{
+  "blockId": "site_map_links",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Site Map Links",
+  "description": "Lists all the links available in the site map for easy navigation.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

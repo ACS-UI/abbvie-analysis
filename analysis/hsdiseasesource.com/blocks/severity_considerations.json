@@ -1,0 +1,26 @@
+{
+  "blockId": "severity_considerations",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Severity Considerations",
+  "description": "Information on additional factors for determining disease severity.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.abbv-flex-m-col-d-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

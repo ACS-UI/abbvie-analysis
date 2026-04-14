@@ -1,0 +1,26 @@
+{
+  "blockId": "partnerships_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Partnerships Section",
+  "description": "Details partnerships and collaborative efforts in women's health.",
+  "domHints": {
+    "selectors": [
+      "#partnerships"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

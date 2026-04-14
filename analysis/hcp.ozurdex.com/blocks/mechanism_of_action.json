@@ -1,0 +1,28 @@
+{
+  "blockId": "mechanism_of_action",
+  "templateIds": [
+    "tpl_1",
+    "tpl_4"
+  ],
+  "name": "Mechanism of Action",
+  "description": "Showcases the mechanism of action with an image and a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      "#background-container-230145784",
+      ".abbv-background-container.ozurdex-hcp-mechanism"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "quiz_cta",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "HS Diagnosis Quiz CTA",
+  "description": "Encourages users to take a quiz related to HS diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".tout-journey-next"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

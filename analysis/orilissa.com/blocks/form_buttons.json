@@ -1,0 +1,28 @@
+{
+  "blockId": "form_buttons",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Form Buttons",
+  "description": "Contains the buttons for submitting or canceling the email form.",
+  "domHints": {
+    "selectors": [
+      ".abbv-mail-buttons",
+      ".abbv-button-primary.abbv-cancel-email",
+      ".abbv-button-primary.abbv-submit-email"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

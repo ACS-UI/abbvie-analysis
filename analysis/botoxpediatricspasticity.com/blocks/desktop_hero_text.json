@@ -1,0 +1,26 @@
+{
+  "blockId": "desktop_hero_text",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Desktop Hero Text",
+  "description": "Displays detailed information about the hero section for desktop users.",
+  "domHints": {
+    "selectors": [
+      ".hero-right-block .hero-text.show-in-desktop"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

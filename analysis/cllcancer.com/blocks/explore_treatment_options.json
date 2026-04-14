@@ -1,0 +1,26 @@
+{
+  "blockId": "explore_treatment_options",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Explore Treatment Options",
+  "description": "Highlights factors affecting treatment choices.",
+  "domHints": {
+    "selectors": [
+      "#explore-treatment-options"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

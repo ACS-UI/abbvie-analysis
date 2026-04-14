@@ -1,0 +1,29 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent section at the top of the page highlighting the main topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section-container.section-container--hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "image_text_block",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Image and Text Block",
+  "description": "Combines images and text to convey information visually and textually.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

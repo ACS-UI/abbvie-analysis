@@ -1,0 +1,314 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T12:12:53.923Z",
+  "completedAt": "2026-04-13T12:14:58.370Z",
+  "input": {
+    "url": "https://www.venclexta.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/venclexta",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Page layout group 1",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Conversation Guide — group 2",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Aml — group 3",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Previously Untreated Cll — group 4",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "How It Works — group 5",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Financial And Treatment Support — group 6",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Helpful Resources And Materials — group 7",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Terms And Conditions — group 8",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Diagnosis Information — group 9",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "What Is Cll Sll — group 10",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Helpful Resources And Materials — group 11",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Venclexta Low Dose Cytarabine — group 12",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Ven Zone Signup — group 13",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Site Map — group 14",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "How It May Help — group 15",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "Dosing Instructions — group 16",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "Treatment Options — group 17",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 13
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "Possible Side Effects — group 18",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_18",
+        "humanName": "Dosing Schedule — group 19",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_19",
+        "humanName": "Venclexta Decitabine — group 20",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_20",
+        "humanName": "How It Works — group 21",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_21",
+        "humanName": "Diagnosis Information — group 22",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_22",
+        "humanName": "Dosing Instructions — group 23",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_23",
+        "humanName": "How Its Different — group 24",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_24",
+        "humanName": "What Is Cll Sll — group 25",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_25",
+        "humanName": "Ven Zone Signup — group 26",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_26",
+        "humanName": "Venclexta Azacitidine — group 27",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_27",
+        "humanName": "Possible Side Effects — group 28",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_28",
+        "humanName": "How Its Different — group 29",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_29",
+        "humanName": "Previously Treated Cll — group 30",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_30",
+        "humanName": "Dosing Instructions — group 31",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_31",
+        "humanName": "Treatment Options — group 32",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_32",
+        "humanName": "What Is Venclexta — group 33",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_33",
+        "humanName": "Financial And Treatment Support — group 34",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_34",
+        "humanName": "Dosing Schedule — group 35",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_35",
+        "humanName": "Treatment Options — group 36",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_36",
+        "humanName": "Find A Healthcare Provider — group 37",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_37",
+        "humanName": "Possible Side Effects — group 38",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_38",
+        "humanName": "How It May Help — group 39",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_39",
+        "humanName": "Cll Stories — group 40",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_40",
+        "humanName": "Dosing Schedule — group 41",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_41",
+        "humanName": "Search Results — group 42",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_42",
+        "humanName": "Find A Healthcare Provider — group 43",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_43",
+        "humanName": "Financial And Treatment Support — group 44",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_44",
+        "humanName": "What Is Aml — group 45",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_45",
+        "humanName": "Helpful Resources And Materials — group 46",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_46",
+        "humanName": "Cll Stories — group 47",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      }
+    ]
+  }
+}

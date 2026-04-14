@@ -1,0 +1,37 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.abbvieeyecare.com/",
+          "https://www.abbvieeyecare.com/prescribing-information",
+          "https://www.abbvieeyecare.com/contact-us",
+          "https://www.abbvieeyecare.com/techalliance",
+          "https://www.abbvieeyecare.com/patientcareresources/patient-savings",
+          "https://www.abbvieeyecare.com/patientcareresources/patient-assistance",
+          "https://www.abbvieeyecare.com/product-information",
+          "https://www.abbvieeyecare.com/patientcareresources",
+          "https://www.abbvieeyecare.com/page-not-found",
+          "https://www.abbvieeyecare.com/ecp",
+          "https://www.abbvieeyecare.com/system-error",
+          "https://www.abbvieeyecare.com/ecp/jumpstart_1",
+          "https://www.abbvieeyecare.com/techalliance/office-resources",
+          "https://www.abbvieeyecare.com/ecp/thank-you",
+          "https://www.abbvieeyecare.com/site-map",
+          "https://www.abbvieeyecare.com/sitemap",
+          "https://www.abbvieeyecare.com/techalliance/helpful-links"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:05:13.587Z"
+}

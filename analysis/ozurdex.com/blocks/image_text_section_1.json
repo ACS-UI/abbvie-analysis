@@ -1,0 +1,26 @@
+{
+  "blockId": "image_text_section_1",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Image and Text Section 1",
+  "description": "Content section pairing an image with descriptive text about the product.",
+  "domHints": {
+    "selectors": [
+      ".ozure-home-pres-main-contain"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

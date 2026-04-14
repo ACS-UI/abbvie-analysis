@@ -1,0 +1,35 @@
+{
+  "blockId": "footer_legal",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_7",
+    "tpl_13",
+    "tpl_19",
+    "tpl_21",
+    "tpl_38",
+    "tpl_40",
+    "tpl_45"
+  ],
+  "name": "Footer Legal Text",
+  "description": "Displays legal disclaimers and copyright information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-legal-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

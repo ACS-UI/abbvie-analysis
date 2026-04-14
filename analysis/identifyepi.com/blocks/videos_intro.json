@@ -1,0 +1,26 @@
+{
+  "blockId": "videos_intro",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Videos Introduction",
+  "description": "Introduces the video content with a title and description.",
+  "domHints": {
+    "selectors": [
+      ".epi-videos-main-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "support_groups_section",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Support Groups Section",
+  "description": "Information about RA support groups and organizations.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.abv-ra-poll"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

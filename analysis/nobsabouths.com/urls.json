@@ -1,0 +1,525 @@
+{
+  "entryUrl": "https://www.nobsabouths.com/",
+  "discoveredAt": "2026-04-13T15:53:48.249Z",
+  "urls": [
+    {
+      "url": "https://www.nobsabouths.com/",
+      "normalised": "https://www.nobsabouths.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/docs/ConversationGuide_DownloadPDF_Spouse.pdf",
+      "normalised": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/docs/ConversationGuide_DownloadPDF_Spouse.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/docs/ConversationGuide_DownloadPDF_FF.pdf",
+      "normalised": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/docs/ConversationGuide_DownloadPDF_FF.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/docs/ConversationGuide_DownloadPDF_Self.pdf",
+      "normalised": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/docs/ConversationGuide_DownloadPDF_Self.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/docs/ConversationGuide_DownloadPDF_Boss.pdf",
+      "normalised": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/docs/ConversationGuide_DownloadPDF_Boss.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/pdf/hsdadigitalfaqtearsheet.pdf",
+      "normalised": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/pdf/hsdadigitalfaqtearsheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/pdf/hsdadigitalslimjim.pdf",
+      "normalised": "https://www.nobsabouths.com/content/dam/nobsabouthsivy/pdf/hsdadigitalslimjim.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/meetpreshus-transcript",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/meetpreshus-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/dermatologist-near-me",
+      "normalised": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/dermatologist-near-me",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/treatment-options",
+      "normalised": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/treatment-options",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/rootpage-alt",
+      "normalised": "https://www.nobsabouths.com/rootpage-alt",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/hs-conversation-support-guides",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/hs-conversation-support-guides",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/hsroundtable-transcript",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/hsroundtable-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/meetkerry-transcript",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/meetkerry-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/personalization/callouts",
+      "normalised": "https://www.nobsabouths.com/personalization/callouts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/meetelizabeth-transcript",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/meetelizabeth-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/search-results",
+      "normalised": "https://www.nobsabouths.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/symptoms",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/personalization",
+      "normalised": "https://www.nobsabouths.com/personalization",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/doctor-conversation-guide",
+      "normalised": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/doctor-conversation-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs/mod-transcript",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs/mod-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/check-my-symptoms",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/check-my-symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/meetwill-transcript",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/meetwill-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-symptom-quiz",
+      "normalised": "https://www.nobsabouths.com/hs-symptom-quiz",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/glossary",
+      "normalised": "https://www.nobsabouths.com/glossary",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/sitemap",
+      "normalised": "https://www.nobsabouths.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/find-a-dermatologist",
+      "normalised": "https://www.nobsabouths.com/find-a-dermatologist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/thanks-for-the-answer",
+      "normalised": "https://www.nobsabouths.com/thanks-for-the-answer",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa",
+      "normalised": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/personalization/recommended-for-you",
+      "normalised": "https://www.nobsabouths.com/personalization/recommended-for-you",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/other-conditions",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/other-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/personalization/left-rail-touts",
+      "normalised": "https://www.nobsabouths.com/personalization/left-rail-touts",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/share-your-voice",
+      "normalised": "https://www.nobsabouths.com/share-your-voice",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/meetsterling-transcript",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/meetsterling-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-awareness",
+      "normalised": "https://www.nobsabouths.com/hs-awareness",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/meettara-transcript2",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/meettara-transcript2",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/thanks-for-your-input",
+      "normalised": "https://www.nobsabouths.com/thanks-for-your-input",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/hidradenitis-suppurativa-tips",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/hidradenitis-suppurativa-tips",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/hidradenitis-suppurativa-resources",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/hidradenitis-suppurativa-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-1702433043-2",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-1702433043-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-190980209-2",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-190980209-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-365737770-1",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-365737770-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-314517976-1",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-314517976-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-884521774-0",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-884521774-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-977843086-1",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-977843086-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-365737770-0",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-365737770-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-190980209-0",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-190980209-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-314517976-0",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-314517976-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-1467097478-2",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-1467097478-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-1702433043-1",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-1702433043-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-314517976-2",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-314517976-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-314517976-3",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-314517976-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-884521774-2",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-884521774-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-977843086-0",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-977843086-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-1467097478-1",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-1467097478-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-1467097478-0",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-1467097478-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-388460972-0",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-388460972-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-365737770-2",
+      "normalised": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/abbv-tab-365737770-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-977843086-2",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-977843086-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-1702433043-0",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-1702433043-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/hs-patient-stories/spread-the-word",
+      "normalised": "https://www.nobsabouths.com/hs-patient-stories/spread-the-word",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/sign-up",
+      "normalised": "https://www.nobsabouths.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-388460972-1",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-388460972-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/'%20+%20directionLink%20+%20'",
+      "normalised": "https://www.nobsabouths.com/'%20+%20directionLink%20+%20'",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/'%20+%20comsType%20+%20coms%20+%20'",
+      "normalised": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/'%20+%20comsType%20+%20coms%20+%20'",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/'%20+%20directionLink%20+%20'",
+      "normalised": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/'%20+%20directionLink%20+%20'",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/'%20+%20comsType%20+%20coms%20+%20'",
+      "normalised": "https://www.nobsabouths.com/'%20+%20comsType%20+%20coms%20+%20'",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-190980209-1",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-190980209-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-388460972-2",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-388460972-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.nobsabouths.com/abbv-tab-884521774-1",
+      "normalised": "https://www.nobsabouths.com/abbv-tab-884521774-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 73,
+    "bySource": {
+      "sitemap": 25,
+      "crawl": 48,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_get_updates",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "CTA - Get Updates",
+  "description": "Encourages users to sign up for updates related to the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-button-primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

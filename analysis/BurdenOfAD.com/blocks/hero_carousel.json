@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_carousel",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Hero Carousel",
+  "description": "Showcases the main hero content in a carousel format with multiple slides.",
+  "domHints": {
+    "selectors": [
+      ".abbv-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

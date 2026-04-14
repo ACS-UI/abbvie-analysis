@@ -1,0 +1,36 @@
+{
+  "blockId": "main_region_2",
+  "templateIds": [
+    "tpl_2",
+    "tpl_3",
+    "tpl_6",
+    "tpl_8",
+    "tpl_10",
+    "tpl_12",
+    "tpl_13",
+    "tpl_14",
+    "tpl_18",
+    "tpl_19",
+    "tpl_20"
+  ],
+  "name": "main region 2",
+  "description": "Major content region in main (div). Preview: In pivotal studies, LINZESS demonstrated relief of both constipation and abdominal pain in adult patients with IBS-C1 LI…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

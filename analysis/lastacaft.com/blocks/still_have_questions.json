@@ -1,0 +1,26 @@
+{
+  "blockId": "still_have_questions",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Still Have Questions Section",
+  "description": "Provides contact information for further inquiries.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.faqs-hr"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

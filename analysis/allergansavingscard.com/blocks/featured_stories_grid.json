@@ -1,0 +1,26 @@
+{
+  "blockId": "featured_stories_grid",
+  "templateIds": [
+    "tpl_20"
+  ],
+  "name": "Featured Stories Grid",
+  "description": "Grid of featured stories with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".grid-container > .grid-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_20 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

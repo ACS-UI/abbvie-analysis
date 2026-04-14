@@ -1,0 +1,26 @@
+{
+  "blockId": "reference_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Reference Section",
+  "description": "Lists references and citations relevant to the content on the page.",
+  "domHints": {
+    "selectors": [
+      ".text-reference"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

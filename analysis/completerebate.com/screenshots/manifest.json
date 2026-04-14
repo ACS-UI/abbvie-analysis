@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.completerebate.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:24:04.949Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.completerebate.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:24:04.949Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "header_bar__default.png",
+      "sourceUrl": "https://www.completerebate.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:24:04.949Z",
+      "selector": ".abbv-background-container.header-bar"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.completerebate.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:24:04.949Z",
+      "selector": "section[role='main']"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.completerebate.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:24:04.949Z",
+      "selector": "footer.abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.completerebate.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:24:04.949Z",
+      "selector": ".abbv-back-to-top"
+    }
+  ]
+}

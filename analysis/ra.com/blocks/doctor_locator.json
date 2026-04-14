@@ -1,0 +1,26 @@
+{
+  "blockId": "doctor_locator",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Doctor Locator",
+  "description": "Interactive tool for finding rheumatologists based on ZIP code.",
+  "domHints": {
+    "selectors": [
+      "div.doctor-locator.parbase > div.abbv-dr-locator"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_secondary",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Footer Secondary",
+  "description": "Contains secondary footer navigation links and legal information.",
+  "domHints": {
+    "selectors": [
+      "footer .abbv-footer-horizontal-secondary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

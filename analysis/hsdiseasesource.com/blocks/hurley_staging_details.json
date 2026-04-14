@@ -1,0 +1,26 @@
+{
+  "blockId": "hurley_staging_details",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Hurley Staging Details",
+  "description": "Detailed descriptions of the Hurley Stages with images.",
+  "domHints": {
+    "selectors": [
+      ".callout---three-column-long"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

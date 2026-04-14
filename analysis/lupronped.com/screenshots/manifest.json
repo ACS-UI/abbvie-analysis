@@ -1,0 +1,304 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.lupronped.com/glossary",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.lupronped.com/glossary",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.lupronped.com/glossary",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-container.lup-hero-banner-container"
+    },
+    {
+      "relativePath": "glossary_navigation__default.png",
+      "sourceUrl": "https://www.lupronped.com/glossary",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".glossary-nav_list"
+    },
+    {
+      "relativePath": "glossary_content__default.png",
+      "sourceUrl": "https://www.lupronped.com/glossary",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".glossary-container"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.lupronped.com/glossary",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.lupronped.com/about-lupron-depot-ped?3#flexible-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "about_section__default.png",
+      "sourceUrl": "https://www.lupronped.com/about-lupron-depot-ped?3#flexible-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": "#about-lupron"
+    },
+    {
+      "relativePath": "long_term_data__default.png",
+      "sourceUrl": "https://www.lupronped.com/about-lupron-depot-ped?3#flexible-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": "#18year-long"
+    },
+    {
+      "relativePath": "dosing_options__default.png",
+      "sourceUrl": "https://www.lupronped.com/about-lupron-depot-ped?3#flexible-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": "#flexible-dosing"
+    },
+    {
+      "relativePath": "side_effects__default.png",
+      "sourceUrl": "https://www.lupronped.com/about-lupron-depot-ped?3#flexible-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": "#side-effects"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.lupronped.com/about-lupron-depot-ped?3#flexible-dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "tips_for_doctor_visit__default.png",
+      "sourceUrl": "https://www.lupronped.com/starting-therapy?1#expect-atdoctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": "#expect-atdoctor"
+    },
+    {
+      "relativePath": "tabs_tips__default.png",
+      "sourceUrl": "https://www.lupronped.com/starting-therapy?1#expect-atdoctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".tabs-container"
+    },
+    {
+      "relativePath": "staying_on_track__default.png",
+      "sourceUrl": "https://www.lupronped.com/starting-therapy?1#expect-atdoctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": "#staying-ontrack"
+    },
+    {
+      "relativePath": "support_cta_cards__default.png",
+      "sourceUrl": "https://www.lupronped.com/starting-therapy?1#expect-atdoctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".cta-card-row"
+    },
+    {
+      "relativePath": "about_cpp_section__default.png",
+      "sourceUrl": "https://www.lupronped.com/understanding-central-precocious-puberty?1#signs-of-cpp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-rich-text.lup-cpp-content-box.about-cpp-box"
+    },
+    {
+      "relativePath": "common_signs_section__default.png",
+      "sourceUrl": "https://www.lupronped.com/understanding-central-precocious-puberty?1#signs-of-cpp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-container.understanding-cpp-inner-container"
+    },
+    {
+      "relativePath": "potential_complications_section__default.png",
+      "sourceUrl": "https://www.lupronped.com/understanding-central-precocious-puberty?1#signs-of-cpp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-container.lup-inner-container.understanding-cpp-inner-container"
+    },
+    {
+      "relativePath": "importance_of_diagnosis_section__default.png",
+      "sourceUrl": "https://www.lupronped.com/understanding-central-precocious-puberty?1#signs-of-cpp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-container.lup-inner-container.importance-inner-container"
+    },
+    {
+      "relativePath": "cta_cards_section__default.png",
+      "sourceUrl": "https://www.lupronped.com/understanding-central-precocious-puberty?1#signs-of-cpp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-container.cta-card-row"
+    },
+    {
+      "relativePath": "footer_important_safety_information__default.png",
+      "sourceUrl": "https://www.lupronped.com/understanding-central-precocious-puberty?1#signs-of-cpp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "two_column_cta_1__default.png",
+      "sourceUrl": "https://www.lupronped.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".lup-home-2-col.lup-1pres-col"
+    },
+    {
+      "relativePath": "two_column_cta_2__default.png",
+      "sourceUrl": "https://www.lupronped.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".lup-home-2-col.lup-18year-col"
+    },
+    {
+      "relativePath": "two_column_cta_3__default.png",
+      "sourceUrl": "https://www.lupronped.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".lup-home-2-col.lup-syringe-col"
+    },
+    {
+      "relativePath": "footer_cta_list__default.png",
+      "sourceUrl": "https://www.lupronped.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-footer__cta-list"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.lupronped.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-container.sitemap"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.lupronped.com/isi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-container.abbv-footer__cta-list"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.lupronped.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "footer_cta_links__default.png",
+      "sourceUrl": "https://www.lupronped.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:30:28.085Z",
+      "selector": ".abbv-footer__cta-list"
+    }
+  ]
+}

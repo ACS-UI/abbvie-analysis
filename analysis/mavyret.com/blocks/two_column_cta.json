@@ -1,0 +1,26 @@
+{
+  "blockId": "two_column_cta",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Two Column CTA",
+  "description": "Displays two call-to-action sections for understanding coverage and downloading resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.two-column-container.patient-support"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

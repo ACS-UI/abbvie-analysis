@@ -1,0 +1,26 @@
+{
+  "blockId": "image_text_section",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Image and Text Section",
+  "description": "Displays images alongside descriptive text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

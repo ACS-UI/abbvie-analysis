@@ -1,0 +1,26 @@
+{
+  "blockId": "dosing_images",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Dosing Images",
+  "description": "Images representing the dosing schedule and products.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text-img"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

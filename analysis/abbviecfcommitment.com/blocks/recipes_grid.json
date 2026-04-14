@@ -1,0 +1,26 @@
+{
+  "blockId": "recipes_grid",
+  "templateIds": [
+    "tpl_29"
+  ],
+  "name": "Recipes Grid",
+  "description": "Displays a grid of recipe cards for the selected tab.",
+  "domHints": {
+    "selectors": [
+      ".abbv-grid"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_29 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

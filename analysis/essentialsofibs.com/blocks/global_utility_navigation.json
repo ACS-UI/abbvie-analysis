@@ -1,0 +1,26 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides links for healthcare professionals and contact options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

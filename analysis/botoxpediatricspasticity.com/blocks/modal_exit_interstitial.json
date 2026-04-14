@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_exit_interstitial",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Exit Interstitial Modal",
+  "description": "Displays a modal with additional information or video content.",
+  "domHints": {
+    "selectors": [
+      "#ExitInterstitialModal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "test_details",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Test Details",
+  "description": "Detailed descriptions of the three EPI tests.",
+  "domHints": {
+    "selectors": [
+      ".epi-text-blocks"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cookie_consent_modal",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Cookie Consent Modal",
+  "description": "Displays a modal for managing cookie settings.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.advertisingchoicesepi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

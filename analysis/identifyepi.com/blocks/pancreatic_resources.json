@@ -1,0 +1,26 @@
+{
+  "blockId": "pancreatic_resources",
+  "templateIds": [
+    "tpl_24"
+  ],
+  "name": "Pancreatic Disease Resources",
+  "description": "Provides specific resources for pancreatic cancer and cystic fibrosis.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.epi-pancreatic-blocks"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_24 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

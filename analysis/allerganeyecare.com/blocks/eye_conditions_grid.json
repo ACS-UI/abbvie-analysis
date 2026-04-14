@@ -1,0 +1,26 @@
+{
+  "blockId": "eye_conditions_grid",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Eye Conditions Grid",
+  "description": "Displays information about various eye conditions in a three-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.allergan-eye-three-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

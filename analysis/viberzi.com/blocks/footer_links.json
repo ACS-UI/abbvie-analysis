@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_links",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Footer Links",
+  "description": "Contains links to site-wide resources such as Privacy Policy, Terms of Use, and Contact Us.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-horizontal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

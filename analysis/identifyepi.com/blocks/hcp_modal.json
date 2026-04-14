@@ -1,0 +1,26 @@
+{
+  "blockId": "hcp_modal",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Healthcare Professional Modal",
+  "description": "Displays a modal for accessing the healthcare professional section.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.warnonleavehcp"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

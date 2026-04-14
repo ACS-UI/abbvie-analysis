@@ -1,0 +1,322 @@
+{
+  "entryUrl": "https://www.faceyourbackpain.com/",
+  "discoveredAt": "2026-04-13T15:46:19.779Z",
+  "urls": [
+    {
+      "url": "https://www.faceyourbackpain.com/",
+      "normalised": "https://www.faceyourbackpain.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/DDG_Diagnosed-AS.pdf",
+      "normalised": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/DDG_Diagnosed-AS.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/DDG_Undiagnosed.pdf",
+      "normalised": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/DDG_Undiagnosed.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/DDG_Diagnosed-nr-axSpA.pdf",
+      "normalised": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/DDG_Diagnosed-nr-axSpA.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/DDG_Diagnosed.pdf",
+      "normalised": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/DDG_Diagnosed.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/WhatIsAS_Brochure.pdf",
+      "normalised": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/WhatIsAS_Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/wellnessbook.pdf",
+      "normalised": "https://www.faceyourbackpain.com/content/dam/faceyourbackpain/docs/wellnessbook.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/get-more-information",
+      "normalised": "https://www.faceyourbackpain.com/get-more-information",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "normalised": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis-nraxspa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diagnosis",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diagnosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/sitemap",
+      "normalised": "https://www.faceyourbackpain.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-resources",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/search-results",
+      "normalised": "https://www.faceyourbackpain.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-symptoms",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-symptoms",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-resources",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/take-the-quiz",
+      "normalised": "https://www.faceyourbackpain.com/take-the-quiz",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/find-rheumatologist",
+      "normalised": "https://www.faceyourbackpain.com/find-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories/before-diagnosis-transcript",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories/before-diagnosis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diet-and-exercise",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-diet-and-exercise",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/site-map",
+      "normalised": "https://www.faceyourbackpain.com/site-map",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/doctor-discussion-guide",
+      "normalised": "https://www.faceyourbackpain.com/doctor-discussion-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories/life-after-diagnosis-transcript",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories/life-after-diagnosis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories/getting-my-diagnosis-transcript",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories/getting-my-diagnosis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/find-rheumatologist.html",
+      "normalised": "https://www.faceyourbackpain.com/find-rheumatologist.html",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-in-women-vs-men",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-in-women-vs-men",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-in-women-vs-men",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-in-women-vs-men",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories/getting-my-diagnosis-transcript",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories/getting-my-diagnosis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/personalization",
+      "normalised": "https://www.faceyourbackpain.com/personalization",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-diet-and-exercise",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-diet-and-exercise",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-diagnosis",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-diagnosis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis",
+      "normalised": "https://www.faceyourbackpain.com/living-with-ankylosing-spondylitis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories/life-after-diagnosis-transcript",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories/life-after-diagnosis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-treatment",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-treatment",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-treatment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/why-a-rheumatologist",
+      "normalised": "https://www.faceyourbackpain.com/why-a-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-nraxspa-patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories/before-diagnosis-transcript",
+      "normalised": "https://www.faceyourbackpain.com/ankylosing-spondylitis-patient-stories/before-diagnosis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/thank_you_page",
+      "normalised": "https://www.faceyourbackpain.com/thank_you_page",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/get-more-information/content/faceyourbackpain/en-us/what-is-ankylosing-spondylitis",
+      "normalised": "https://www.faceyourbackpain.com/get-more-information/content/faceyourbackpain/en-us/what-is-ankylosing-spondylitis",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.faceyourbackpain.com/treatment-options",
+      "normalised": "https://www.faceyourbackpain.com/treatment-options",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 44,
+    "bySource": {
+      "sitemap": 24,
+      "crawl": 20,
+      "manual": 0
+    }
+  }
+}

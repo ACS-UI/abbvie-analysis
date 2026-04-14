@@ -1,0 +1,26 @@
+{
+  "blockId": "ordering_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Ordering Section",
+  "description": "Provides information on how to order the product, including contact details.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.how-to-place"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

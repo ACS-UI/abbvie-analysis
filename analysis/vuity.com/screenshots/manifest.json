@@ -1,0 +1,444 @@
+{
+  "entries": [
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-background-container.vuity-hero-introducing-banner"
+    },
+    {
+      "relativePath": "about_section__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-container.vuity-mayhelp-section"
+    },
+    {
+      "relativePath": "getting_started_section__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-row-container.getting-started-vuity-section"
+    },
+    {
+      "relativePath": "how_it_works_section__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": "header.vuity-header"
+    },
+    {
+      "relativePath": "results_section__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": "header.vuity-header"
+    },
+    {
+      "relativePath": "faq_cta__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-flex-container-v2.about-vuity-questions-wrapper"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.vuity.com/about-vuity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.vuity.com/what-is-presbyopia",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.vuity.com/what-is-presbyopia",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "intro_paragraph__default.png",
+      "sourceUrl": "https://www.vuity.com/what-is-presbyopia",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".vuity-about-heading"
+    },
+    {
+      "relativePath": "cta_flexbox__default.png",
+      "sourceUrl": "https://www.vuity.com/what-is-presbyopia",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".vuity-about-close-vision-section"
+    },
+    {
+      "relativePath": "columns_section__default.png",
+      "sourceUrl": "https://www.vuity.com/what-is-presbyopia",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".vuity-about-adults-age-container"
+    },
+    {
+      "relativePath": "progression_section__default.png",
+      "sourceUrl": "https://www.vuity.com/what-is-presbyopia",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".vuity-blurry-vision-flexbox"
+    },
+    {
+      "relativePath": "treatment_section__default.png",
+      "sourceUrl": "https://www.vuity.com/what-is-presbyopia",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".vuity-blurry-treated-section"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.vuity.com/what-is-presbyopia",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "hero_terms_conditions__default.png",
+      "sourceUrl": "https://www.vuity.com/termsandconditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-container.vuity-hero-banner-container"
+    },
+    {
+      "relativePath": "main_content_terms_conditions__default.png",
+      "sourceUrl": "https://www.vuity.com/termsandconditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-rich-text.vuitypro-content"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.vuity.com/termsandconditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.vuity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.vuity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-rich-text.abbv-rich-text-common .prescription-eyedrop-txt"
+    },
+    {
+      "relativePath": "columns_cta__default.png",
+      "sourceUrl": "https://www.vuity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-row-container.home-learn-access-section"
+    },
+    {
+      "relativePath": "image_slider__default.png",
+      "sourceUrl": "https://www.vuity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-img-slider"
+    },
+    {
+      "relativePath": "curve_sections__default.png",
+      "sourceUrl": "https://www.vuity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-container.vuity-curve-sections"
+    },
+    {
+      "relativePath": "blurry_vision_section__default.png",
+      "sourceUrl": "https://www.vuity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-container.vuity-home-blurrynear-section"
+    },
+    {
+      "relativePath": "modal_terms__default.png",
+      "sourceUrl": "https://www.vuity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-modal.TermsModal"
+    },
+    {
+      "relativePath": "faq_section__default.png",
+      "sourceUrl": "https://www.vuity.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-container.vuity-faq-container"
+    },
+    {
+      "relativePath": "faq_accordion_presbyopia__default.png",
+      "sourceUrl": "https://www.vuity.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-accordion.qulipta-faq-container:nth-of-type(1)"
+    },
+    {
+      "relativePath": "faq_accordion_about_vuity__default.png",
+      "sourceUrl": "https://www.vuity.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": "header.vuity-header"
+    },
+    {
+      "relativePath": "faq_accordion_efficacy_safety__default.png",
+      "sourceUrl": "https://www.vuity.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": "header.vuity-header"
+    },
+    {
+      "relativePath": "faq_accordion_how_to_use__default.png",
+      "sourceUrl": "https://www.vuity.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": "header.vuity-header"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.vuity.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.vuity.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.vuity.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-rich-text.vuity-sitemap-link"
+    },
+    {
+      "relativePath": "signup_section__default.png",
+      "sourceUrl": "https://www.vuity.com/find-a-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-container.sign-up-section"
+    },
+    {
+      "relativePath": "product_information__default.png",
+      "sourceUrl": "https://www.vuity.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".home-learn-access-section.prescription-eyedrop-img"
+    },
+    {
+      "relativePath": "image_comparison_slider__default.png",
+      "sourceUrl": "https://www.vuity.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".abbv-img-slider"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.vuity.com/email-verification",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": "#background-container-1119913429"
+    },
+    {
+      "relativePath": "email_verification_message__default.png",
+      "sourceUrl": "https://www.vuity.com/email-verification",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".vuityloyalty-email-text"
+    },
+    {
+      "relativePath": "account_signin_cta__default.png",
+      "sourceUrl": "https://www.vuity.com/your-account-exist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": ".account-already-exists-signin"
+    },
+    {
+      "relativePath": "cookie_settings__default.png",
+      "sourceUrl": "https://www.vuity.com/your-account-exist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:42:43.087Z",
+      "selector": "#ot-sdk-btn1"
+    }
+  ]
+}

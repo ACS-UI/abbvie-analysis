@@ -1,0 +1,26 @@
+{
+  "blockId": "three_column_cta",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Three Column CTA",
+  "description": "Displays three call-to-action blocks with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".fybp-home-features"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

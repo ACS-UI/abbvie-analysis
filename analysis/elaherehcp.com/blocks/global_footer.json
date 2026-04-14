@@ -1,0 +1,27 @@
+{
+  "blockId": "global_footer",
+  "templateIds": [
+    "tpl_3",
+    "tpl_5"
+  ],
+  "name": "Global Footer",
+  "description": "Footer section with additional navigation and site information.",
+  "domHints": {
+    "selectors": [
+      "cmp-footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

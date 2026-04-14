@@ -1,0 +1,37 @@
+{
+  "blockId": "main_region_8",
+  "templateIds": [
+    "tpl_2",
+    "tpl_12",
+    "tpl_14",
+    "tpl_29",
+    "tpl_30",
+    "tpl_58",
+    "tpl_60",
+    "tpl_62",
+    "tpl_73",
+    "tpl_74",
+    "tpl_88",
+    "tpl_112"
+  ],
+  "name": "main region 8",
+  "description": "Major content region in main (div).",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(9)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

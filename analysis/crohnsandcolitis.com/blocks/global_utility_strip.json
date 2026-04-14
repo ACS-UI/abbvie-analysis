@@ -1,0 +1,38 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_5",
+    "tpl_6",
+    "tpl_9",
+    "tpl_11",
+    "tpl_16",
+    "tpl_17",
+    "tpl_20",
+    "tpl_21",
+    "tpl_22",
+    "tpl_23",
+    "tpl_26"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Provides utility navigation options such as contact and subscribe.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

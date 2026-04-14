@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_prose",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Introductory Prose",
+  "description": "Provides an introductory description about the safety profile.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.mb-15"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

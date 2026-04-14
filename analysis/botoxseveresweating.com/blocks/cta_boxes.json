@@ -1,0 +1,31 @@
+{
+  "blockId": "cta_boxes",
+  "templateIds": [
+    "tpl_1",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_8"
+  ],
+  "name": "Call-to-Action Boxes",
+  "description": "Boxes encouraging users to take a quiz, find a dermatologist, and learn about treatments.",
+  "domHints": {
+    "selectors": [
+      ".about_box_col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

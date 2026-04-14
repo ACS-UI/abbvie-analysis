@@ -1,0 +1,27 @@
+{
+  "blockId": "chart_ethnicity",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Ethnicity Chart",
+  "description": "Chart presenting data on ethnicity demographics and their impact on clinical outcomes.",
+  "domHints": {
+    "selectors": [
+      "#abbv-barchart-1895370983-data",
+      ".abbv-interactive-chart[data-graph-w='300']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

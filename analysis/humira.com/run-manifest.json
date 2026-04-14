@@ -1,0 +1,67 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:09:59.032Z",
+  "completedAt": "2026-04-13T16:14:36.141Z",
+  "input": {
+    "url": "https://www.humira.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/humira.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Condition Information Pages",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "General Information Pages",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 5
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Cost and Savings Pages",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "User Registration Pages",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 5
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Application Injection Pages",
+        "source": "llm_identify",
+        "blockCount": 4,
+        "proposedCount": 5
+      }
+    ]
+  }
+}

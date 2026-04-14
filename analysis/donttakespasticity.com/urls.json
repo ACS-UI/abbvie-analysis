@@ -1,0 +1,42 @@
+{
+  "entryUrl": "https://www.donttakespasticity.com/",
+  "discoveredAt": "2026-04-13T15:44:41.585Z",
+  "urls": [
+    {
+      "url": "https://www.donttakespasticity.com/",
+      "normalised": "https://www.donttakespasticity.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.donttakespasticity.com/content/dam/donttakespasticity/pdf/Don'tTakeSpasticity-DiscussionGuide.pdf",
+      "normalised": "https://www.donttakespasticity.com/content/dam/donttakespasticity/pdf/Don'tTakeSpasticity-DiscussionGuide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.donttakespasticity.com/content/dam/donttakespasticity/pdf/adult-spasticity-discussion-guide-sheet.pdf",
+      "normalised": "https://www.donttakespasticity.com/content/dam/donttakespasticity/pdf/adult-spasticity-discussion-guide-sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.donttakespasticity.com/sitemap",
+      "normalised": "https://www.donttakespasticity.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "bySource": {
+      "sitemap": 2,
+      "crawl": 2,
+      "manual": 0
+    }
+  }
+}

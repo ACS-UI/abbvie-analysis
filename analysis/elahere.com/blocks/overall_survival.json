@@ -1,0 +1,26 @@
+{
+  "blockId": "overall_survival",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Overall Survival Section",
+  "description": "Details about how the treatment affects overall survival.",
+  "domHints": {
+    "selectors": [
+      "#overall-survival"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

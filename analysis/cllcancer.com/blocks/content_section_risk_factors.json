@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_risk_factors",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Risk Factors Section",
+  "description": "Details about risk factors associated with CLL.",
+  "domHints": {
+    "selectors": [
+      "#what-are-the-risk-factors"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

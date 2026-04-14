@@ -1,0 +1,26 @@
+{
+  "blockId": "content_row_callout_side_effects_right_border_includes_carousel",
+  "templateIds": [
+    "tpl_19"
+  ],
+  "name": "Carousel / spotlight",
+  "description": "Rotating or swipeable spotlight region (announcements, hero slides, promos).",
+  "domHints": {
+    "selectors": [
+      "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "slides",
+        "type": "list",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Carousel-like region on tpl_19. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

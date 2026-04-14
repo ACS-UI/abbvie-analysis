@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_quiz",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "CTA Quiz",
+  "description": "Encourages users to take a quiz to assess their condition.",
+  "domHints": {
+    "selectors": [
+      ".about_box_col:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

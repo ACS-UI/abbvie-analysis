@@ -1,0 +1,26 @@
+{
+  "blockId": "case_study_1",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Case Study 1",
+  "description": "Detailed information about the first patient case study.",
+  "domHints": {
+    "selectors": [
+      "#case-study-1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

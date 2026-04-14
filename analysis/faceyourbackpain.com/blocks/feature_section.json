@@ -1,0 +1,28 @@
+{
+  "blockId": "feature_section",
+  "templateIds": [
+    "tpl_13",
+    "tpl_14",
+    "tpl_18"
+  ],
+  "name": "Feature Section",
+  "description": "Highlights specific features like finding a rheumatologist and accessing a wellness book.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-features"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

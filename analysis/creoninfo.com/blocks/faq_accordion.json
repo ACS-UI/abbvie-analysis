@@ -1,0 +1,28 @@
+{
+  "blockId": "faq_accordion",
+  "templateIds": [
+    "tpl_7",
+    "tpl_9",
+    "tpl_10"
+  ],
+  "name": "FAQ Accordion",
+  "description": "Answers frequently asked questions about EPI in an expandable accordion format.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

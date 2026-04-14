@@ -1,0 +1,26 @@
+{
+  "blockId": "testing_recommendations",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Testing Recommendations",
+  "description": "Details on who should get tested for Hepatitis C.",
+  "domHints": {
+    "selectors": [
+      "#hep-c-testing"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

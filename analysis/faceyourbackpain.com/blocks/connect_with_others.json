@@ -1,0 +1,26 @@
+{
+  "blockId": "connect_with_others",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Connect with Others",
+  "description": "Encourages users to join the community on social media.",
+  "domHints": {
+    "selectors": [
+      ".fybp-home-connect-cstm"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

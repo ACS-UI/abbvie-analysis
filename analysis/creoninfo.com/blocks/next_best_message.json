@@ -1,0 +1,27 @@
+{
+  "blockId": "next_best_message",
+  "templateIds": [
+    "tpl_2",
+    "tpl_11"
+  ],
+  "name": "Next Best Message",
+  "description": "Encourages users to stay on track with their treatment plan.",
+  "domHints": {
+    "selectors": [
+      ".grid__next-best-message"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

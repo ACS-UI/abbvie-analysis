@@ -1,0 +1,26 @@
+{
+  "blockId": "morning_capsule_instruction",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Morning Capsule Instruction",
+  "description": "Details for taking the morning dose of the medication.",
+  "domHints": {
+    "selectors": [
+      ".four-box-first-box .abbv-col-2 img[alt='Morning Icon.']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

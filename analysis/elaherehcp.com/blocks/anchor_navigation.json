@@ -1,0 +1,31 @@
+{
+  "blockId": "anchor_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_7"
+  ],
+  "name": "Anchor Navigation",
+  "description": "Navigation links for quickly accessing specific sections on the page.",
+  "domHints": {
+    "selectors": [
+      "cmp-anchor-nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

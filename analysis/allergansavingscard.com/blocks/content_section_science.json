@@ -1,0 +1,27 @@
+{
+  "blockId": "content_section_science",
+  "templateIds": [
+    "tpl_287"
+  ],
+  "name": "Content Section - Science",
+  "description": "A section describing the 'Science' content with links and a description.",
+  "domHints": {
+    "selectors": [
+      "div#title-127b6b5fd3",
+      "div.cmp-text#text-8291c9a6a9"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_287 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

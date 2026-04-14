@@ -1,0 +1,26 @@
+{
+  "blockId": "mic_testing_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "MIC Testing Section",
+  "description": "Information about minimum inhibitory concentration testing.",
+  "domHints": {
+    "selectors": [
+      ".minimum-inhibit-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

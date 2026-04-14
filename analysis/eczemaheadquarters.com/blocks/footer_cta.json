@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_cta",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Footer Call-to-Action",
+  "description": "Encourages users to navigate to the next topic or take action.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.nextpage-cta"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

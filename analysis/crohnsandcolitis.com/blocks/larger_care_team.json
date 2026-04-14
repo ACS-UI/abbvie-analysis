@@ -1,0 +1,26 @@
+{
+  "blockId": "larger_care_team",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Larger Care Team",
+  "description": "Highlights the importance of a comprehensive care team beyond a gastroenterologist.",
+  "domHints": {
+    "selectors": [
+      "#largercareteam"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section_getting_diagnosed",
+  "templateIds": [
+    "tpl_18"
+  ],
+  "name": "Video Section - Getting Diagnosed",
+  "description": "Section featuring a video and information about patient experiences during diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".fybp-video-getting-diagnosed"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_18 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

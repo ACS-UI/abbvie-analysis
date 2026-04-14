@@ -1,0 +1,30 @@
+{
+  "blockId": "background_container",
+  "templateIds": [
+    "tpl_6",
+    "tpl_11",
+    "tpl_17",
+    "tpl_18"
+  ],
+  "name": "Background Container",
+  "description": "Provides the background image and styling for the training module page.",
+  "domHints": {
+    "selectors": [
+      "#background-container-832332883",
+      ".abbv-background-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

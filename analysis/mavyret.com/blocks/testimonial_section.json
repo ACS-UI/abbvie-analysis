@@ -1,0 +1,26 @@
+{
+  "blockId": "testimonial_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Testimonial Section",
+  "description": "Features patient testimonials and related imagery.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.content-image-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

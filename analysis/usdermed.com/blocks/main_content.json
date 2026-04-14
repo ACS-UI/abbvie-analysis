@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Main Content",
+  "description": "Contains the detailed description, scoring, and references for the NAPSI tool.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

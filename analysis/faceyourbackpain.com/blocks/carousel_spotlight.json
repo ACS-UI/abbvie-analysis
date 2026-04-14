@@ -1,0 +1,26 @@
+{
+  "blockId": "carousel_spotlight",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Carousel Spotlight",
+  "description": "Showcases multiple slides with key messages and links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

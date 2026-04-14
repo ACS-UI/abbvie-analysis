@@ -1,0 +1,469 @@
+{
+  "entryUrl": "https://www.venclexta.com/",
+  "discoveredAt": "2026-04-13T12:12:55.071Z",
+  "urls": [
+    {
+      "url": "https://www.venclexta.com/",
+      "normalised": "https://www.venclexta.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/content/dam/venclexta/pdf/aml-patient-calendar.pdf",
+      "normalised": "https://www.venclexta.com/content/dam/venclexta/pdf/aml-patient-calendar.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.venclexta.com/content/dam/venclexta/pdf/cll-venclexta-calendar.pdf",
+      "normalised": "https://www.venclexta.com/content/dam/venclexta/pdf/cll-venclexta-calendar.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.venclexta.com/content/dam/venclexta/pdf/cll-patient-brochure.pdf",
+      "normalised": "https://www.venclexta.com/content/dam/venclexta/pdf/cll-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.venclexta.com/content/dam/venclexta/pdf/cll-patient-brochure-update-digital-2021-spanish.pdf",
+      "normalised": "https://www.venclexta.com/content/dam/venclexta/pdf/cll-patient-brochure-update-digital-2021-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.venclexta.com/conversation-guide",
+      "normalised": "https://www.venclexta.com/conversation-guide",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml",
+      "normalised": "https://www.venclexta.com/aml",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/why-venclexta/how-it-works",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/why-venclexta/how-it-works",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/resources-and-support/financial-and-treatment-support",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/resources-and-support/financial-and-treatment-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/resources-and-support/helpful-resources-and-materials",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/resources-and-support/helpful-resources-and-materials",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/terms-and-conditions",
+      "normalised": "https://www.venclexta.com/terms-and-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/diagnosis-information",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/diagnosis-information",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/what-is-cll-sll",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/what-is-cll-sll",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/resources-and-support/helpful-resources-and-materials",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/resources-and-support/helpful-resources-and-materials",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/why-venclexta/venclexta-low-dose-cytarabine",
+      "normalised": "https://www.venclexta.com/aml/why-venclexta/venclexta-low-dose-cytarabine",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/ven-zone-signup",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/ven-zone-signup",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/site-map",
+      "normalised": "https://www.venclexta.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/why-venclexta/how-it-may-help",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/why-venclexta/how-it-may-help",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/taking-venclexta/dosing-instructions",
+      "normalised": "https://www.venclexta.com/aml/taking-venclexta/dosing-instructions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/about-cll-sll/treatment-options",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/about-cll-sll/treatment-options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/possible-side-effects",
+      "normalised": "https://www.venclexta.com/aml/possible-side-effects",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/taking-venclexta/dosing-schedule",
+      "normalised": "https://www.venclexta.com/aml/taking-venclexta/dosing-schedule",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/why-venclexta/venclexta-decitabine",
+      "normalised": "https://www.venclexta.com/aml/why-venclexta/venclexta-decitabine",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/why-venclexta/how-it-works",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/why-venclexta/how-it-works",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/about-cll-sll/diagnosis-information",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/about-cll-sll/diagnosis-information",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/taking-venclexta/dosing-instructions",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/taking-venclexta/dosing-instructions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/why-venclexta/how-its-different",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/why-venclexta/how-its-different",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/about-cll-sll/what-is-cll-sll",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/about-cll-sll/what-is-cll-sll",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/ven-zone-signup",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/ven-zone-signup",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/why-venclexta/venclexta-azacitidine",
+      "normalised": "https://www.venclexta.com/aml/why-venclexta/venclexta-azacitidine",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/possible-side-effects",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/possible-side-effects",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/why-venclexta/how-its-different",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/why-venclexta/how-its-different",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll",
+      "normalised": "https://www.venclexta.com/previously-treated-cll",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/taking-venclexta/dosing-instructions",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/taking-venclexta/dosing-instructions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/treatment-options",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/treatment-options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/why-venclexta/what-is-venclexta",
+      "normalised": "https://www.venclexta.com/aml/why-venclexta/what-is-venclexta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/resources-and-support/financial-and-treatment-support",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/resources-and-support/financial-and-treatment-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/taking-venclexta/dosing-schedule",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/taking-venclexta/dosing-schedule",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/about-aml/treatment-options",
+      "normalised": "https://www.venclexta.com/aml/about-aml/treatment-options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/find-a-healthcare-provider",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/find-a-healthcare-provider",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/possible-side-effects",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/possible-side-effects",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/why-venclexta/how-it-may-help",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/why-venclexta/how-it-may-help",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/why-venclexta/cll-stories",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/why-venclexta/cll-stories",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/taking-venclexta/dosing-schedule",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/taking-venclexta/dosing-schedule",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/search-results",
+      "normalised": "https://www.venclexta.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/find-a-healthcare-provider",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/find-a-healthcare-provider",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/resources-and-support/financial-and-treatment-support",
+      "normalised": "https://www.venclexta.com/aml/resources-and-support/financial-and-treatment-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/about-aml/what-is-aml",
+      "normalised": "https://www.venclexta.com/aml/about-aml/what-is-aml",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/resources-and-support/helpful-resources-and-materials",
+      "normalised": "https://www.venclexta.com/aml/resources-and-support/helpful-resources-and-materials",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/why-venclexta/cll-stories",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/why-venclexta/cll-stories",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/resources-and-support/abbv-tab-1813824463-0",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/resources-and-support/abbv-tab-1813824463-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/resources-and-support/abbv-tab-1813824463-1",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/resources-and-support/abbv-tab-1813824463-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/about-aml/abbv-tab-1228686175-1",
+      "normalised": "https://www.venclexta.com/aml/about-aml/abbv-tab-1228686175-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/resources-and-support/abbv-tab-392143123-1",
+      "normalised": "https://www.venclexta.com/aml/resources-and-support/abbv-tab-392143123-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/resources-and-support/abbv-tab-2141294470-0",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/resources-and-support/abbv-tab-2141294470-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/resources-and-support/abbv-tab-2141294470-1",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/resources-and-support/abbv-tab-2141294470-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/resources-and-support/abbv-tab-392143123-0",
+      "normalised": "https://www.venclexta.com/aml/resources-and-support/abbv-tab-392143123-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/aml/about-aml/abbv-tab-1228686175-0",
+      "normalised": "https://www.venclexta.com/aml/about-aml/abbv-tab-1228686175-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/conversation-guide",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/conversation-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/conversation-guide",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/conversation-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/why-venclexta/",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/why-venclexta",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/why-venclexta/",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/why-venclexta",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-treated-cll/about-cll-sll/",
+      "normalised": "https://www.venclexta.com/previously-treated-cll/about-cll-sll",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/",
+      "normalised": "https://www.venclexta.com/previously-untreated-cll/about-cll-sll",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 65,
+    "bySource": {
+      "sitemap": 43,
+      "crawl": 22,
+      "manual": 0
+    }
+  }
+}

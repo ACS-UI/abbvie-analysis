@@ -1,0 +1,26 @@
+{
+  "blockId": "site_map_content",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Site Map Content",
+  "description": "Lists all the links and sections available on the site.",
+  "domHints": {
+    "selectors": [
+      ".columns.parbase > .abbv-row-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

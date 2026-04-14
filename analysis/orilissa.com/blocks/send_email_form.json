@@ -1,0 +1,27 @@
+{
+  "blockId": "send_email_form",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Send Email Form",
+  "description": "Allows users to send an email by filling out sender and recipient details.",
+  "domHints": {
+    "selectors": [
+      ".abbv-send-email-form",
+      "form[name='abbv-send-email']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "what_does_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "What Does Ozurdex Do Section",
+  "description": "Describes the effects and benefits of the product.",
+  "domHints": {
+    "selectors": [
+      ".ozure-hiw-what-does-sec"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

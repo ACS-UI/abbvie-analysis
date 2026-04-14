@@ -1,0 +1,26 @@
+{
+  "blockId": "leadership_profile",
+  "templateIds": [
+    "tpl_25"
+  ],
+  "name": "Leadership Profile",
+  "description": "A detailed profile of a specific leader, including their role and achievements.",
+  "domHints": {
+    "selectors": [
+      ".cmp-dashboardcard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Video Section",
+  "description": "Contains videos with tips for using the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-video-player"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

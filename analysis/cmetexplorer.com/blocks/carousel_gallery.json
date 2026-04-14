@@ -1,0 +1,26 @@
+{
+  "blockId": "carousel_gallery",
+  "templateIds": [
+    "tpl_252"
+  ],
+  "name": "Carousel Gallery",
+  "description": "Interactive image gallery showcasing the campus.",
+  "domHints": {
+    "selectors": [
+      "div#carousel-7c39207324"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_252 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.donttakespasticity.com/",
+  "normalisedUrl": "https://www.donttakespasticity.com/",
+  "finalUrlAfterRedirects": "https://www.donttakespasticity.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:44:41.581Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

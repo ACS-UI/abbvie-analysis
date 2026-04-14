@@ -1,0 +1,26 @@
+{
+  "blockId": "retail_pharmacies_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Retail Pharmacies Section",
+  "description": "Details about where prescriptions can be filled nationwide.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.access-prescribing-mvp-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "related_articles",
+  "templateIds": [
+    "tpl_157"
+  ],
+  "name": "Related Articles",
+  "description": "Section showcasing related articles or stories relevant to the page's content.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_157 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,30 @@
+{
+  "blockId": "main_region_4",
+  "templateIds": [
+    "tpl_1",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11",
+    "tpl_13"
+  ],
+  "name": "main region 4",
+  "description": "Major content region in main (div). Preview: YOU AND YOUR DOCTOR ARE IN CHARGE SINCE THE PROCEDURE IS REVERSIBLE If you need to discontinue treatment or you and your…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_1. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

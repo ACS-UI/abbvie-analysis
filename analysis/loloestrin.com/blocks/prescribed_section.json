@@ -1,0 +1,26 @@
+{
+  "blockId": "prescribed_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Prescribed Section",
+  "description": "Emphasizes the product's status as the #1 prescribed branded birth control pill.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.white-background"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

@@ -1,0 +1,89 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Homepage and Welcome",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Understanding Severe Sweating",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Frequently Asked Questions",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Website Sitemap",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Treatment Results",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Treatment Experience",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Diagnosis Information",
+      "source": "llm_identify",
+      "blockCount": 11,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Mechanism of Botox",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Is Botox Right for Me?",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Find a Dermatologist",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Savings and Insurance",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Contact Information",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    }
+  ],
+  "generatedAt": "2026-04-13T16:57:40.629Z"
+}

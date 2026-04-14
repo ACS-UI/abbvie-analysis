@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "CTA Section",
+  "description": "Provides call-to-action buttons for navigating to related tools or sections.",
+  "domHints": {
+    "selectors": [
+      ".cta.parbase"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

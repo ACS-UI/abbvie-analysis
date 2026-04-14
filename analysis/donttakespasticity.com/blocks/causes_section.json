@@ -1,0 +1,26 @@
+{
+  "blockId": "causes_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Causes Section",
+  "description": "Explains the causes and symptoms of spasticity.",
+  "domHints": {
+    "selectors": [
+      ".botox-spasticity-causes-sec"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

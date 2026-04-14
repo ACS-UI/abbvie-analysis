@@ -1,0 +1,534 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.humirapr.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "header > div.top-nav"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.humirapr.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "header > nav.main-nav"
+    },
+    {
+      "relativePath": "hero_section_1__default.png",
+      "sourceUrl": "https://www.humirapr.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.hero01:nth-of-type(1)"
+    },
+    {
+      "relativePath": "contact_block__default.png",
+      "sourceUrl": "https://www.humirapr.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.contact-block01"
+    },
+    {
+      "relativePath": "manage_condition_block__default.png",
+      "sourceUrl": "https://www.humirapr.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.manage-condition"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.video-section-main"
+    },
+    {
+      "relativePath": "info_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.info-section"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.humirapr.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "footer.footer"
+    },
+    {
+      "relativePath": "subnav_wrapper__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_reumatoide/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "header > div.subnav-wrapper"
+    },
+    {
+      "relativePath": "hero_title_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_reumatoide/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-title"
+    },
+    {
+      "relativePath": "hero_content_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_reumatoide/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-hero"
+    },
+    {
+      "relativePath": "hero_information__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_reumatoide/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.hero01"
+    },
+    {
+      "relativePath": "symptoms_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_reumatoide/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.symptoms"
+    },
+    {
+      "relativePath": "causes_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_reumatoide/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.causes-arthritis"
+    },
+    {
+      "relativePath": "divider_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_reumatoide/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.divider"
+    },
+    {
+      "relativePath": "global_top_nav__default.png",
+      "sourceUrl": "https://www.humirapr.com/condicion/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "header .top-nav"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.humirapr.com/condicion/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "header .main-nav"
+    },
+    {
+      "relativePath": "choose_condition_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/condicion/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.choose-condition"
+    },
+    {
+      "relativePath": "footer_bottom__default.png",
+      "sourceUrl": "https://www.humirapr.com/condicion/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "footer .footer-bottom"
+    },
+    {
+      "relativePath": "information_widget__default.png",
+      "sourceUrl": "https://www.humirapr.com/condicion/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".information-widget"
+    },
+    {
+      "relativePath": "exit_modals__default.png",
+      "sourceUrl": "https://www.humirapr.com/condicion/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".modal.exit-modal"
+    },
+    {
+      "relativePath": "hero_lead_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_juvenil_idiopatica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-hero"
+    },
+    {
+      "relativePath": "contact_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_juvenil_idiopatica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-contact"
+    },
+    {
+      "relativePath": "information_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_juvenil_idiopatica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.hero01"
+    },
+    {
+      "relativePath": "treatment_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_juvenil_idiopatica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.how-poly"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.humirapr.com/colitis_ulcerativa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "header.header"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/colitis_ulcerativa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-hero"
+    },
+    {
+      "relativePath": "contact_cta__default.png",
+      "sourceUrl": "https://www.humirapr.com/colitis_ulcerativa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-contact"
+    },
+    {
+      "relativePath": "intro_hero__default.png",
+      "sourceUrl": "https://www.humirapr.com/colitis_ulcerativa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.hero01"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.humirapr.com/colitis_ulcerativa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "footer.footer"
+    },
+    {
+      "relativePath": "divider__default.png",
+      "sourceUrl": "https://www.humirapr.com/cronhs_pediatrica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".divider"
+    },
+    {
+      "relativePath": "modals__default.png",
+      "sourceUrl": "https://www.humirapr.com/cronhs_pediatrica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".modal"
+    },
+    {
+      "relativePath": "sub_navigation__default.png",
+      "sourceUrl": "https://www.humirapr.com/hidradenitis_supurativa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "header .subnav-wrapper"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.humirapr.com/hidradenitis_supurativa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-hero"
+    },
+    {
+      "relativePath": "video_section_main__default.png",
+      "sourceUrl": "https://www.humirapr.com/hidradenitis_supurativa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.video-section-main"
+    },
+    {
+      "relativePath": "visual_aid_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_psoriasica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.outside-inside"
+    },
+    {
+      "relativePath": "joint_damage_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/artritis_psoriasica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.joint-damage"
+    },
+    {
+      "relativePath": "access_features__default.png",
+      "sourceUrl": "https://www.humirapr.com/cubierta_y_acceso/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".have-access"
+    },
+    {
+      "relativePath": "insurance_information__default.png",
+      "sourceUrl": "https://www.humirapr.com/cubierta_y_acceso/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".health-insurance"
+    },
+    {
+      "relativePath": "specialty_pharmacy__default.png",
+      "sourceUrl": "https://www.humirapr.com/cubierta_y_acceso/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".specialty-pharmacy"
+    },
+    {
+      "relativePath": "type_of_medicine__default.png",
+      "sourceUrl": "https://www.humirapr.com/cubierta_y_acceso/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".type-of-medicine"
+    },
+    {
+      "relativePath": "divider_image__default.png",
+      "sourceUrl": "https://www.humirapr.com/cronhs/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.divider"
+    },
+    {
+      "relativePath": "intro_content__default.png",
+      "sourceUrl": "https://www.humirapr.com/psoriasis_en_placas/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.hero01"
+    },
+    {
+      "relativePath": "carousel_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/psoriasis_en_placas/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.slider-section-main"
+    },
+    {
+      "relativePath": "hero_title__default.png",
+      "sourceUrl": "https://www.humirapr.com/colitis_ulcerativa_pediatrica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-title"
+    },
+    {
+      "relativePath": "hero_main__default.png",
+      "sourceUrl": "https://www.humirapr.com/colitis_ulcerativa_pediatrica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-hero"
+    },
+    {
+      "relativePath": "hero_secondary__default.png",
+      "sourceUrl": "https://www.humirapr.com/colitis_ulcerativa_pediatrica/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.hero01"
+    },
+    {
+      "relativePath": "comparison_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/espondilitis_anquilosante/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".symptoms"
+    },
+    {
+      "relativePath": "diagnosis_treatment_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/espondilitis_anquilosante/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".symptoms-plaque-psoriasis"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.humirapr.com/espondilitis_anquilosante/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": ".footer"
+    },
+    {
+      "relativePath": "secondary_hero__default.png",
+      "sourceUrl": "https://www.humirapr.com/uveitis_no_infecciosa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.arthritis-hero"
+    },
+    {
+      "relativePath": "uveitis_types__default.png",
+      "sourceUrl": "https://www.humirapr.com/uveitis_no_infecciosa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.types-uveitis"
+    },
+    {
+      "relativePath": "uveitis_treatment__default.png",
+      "sourceUrl": "https://www.humirapr.com/uveitis_no_infecciosa/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:17:22.695Z",
+      "selector": "section.how-poly"
+    }
+  ]
+}

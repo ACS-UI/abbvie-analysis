@@ -1,0 +1,82 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_1",
+      "humanName": "Agent Batch",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Efficacy Section",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Safety Information",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Contact Page",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Search Results",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Clinical Data",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Resources",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Access Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Patient Stories",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Site Map",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    }
+  ],
+  "generatedAt": "2026-04-13T15:42:27.911Z"
+}

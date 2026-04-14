@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "CVD Homepage",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Vulnerability Submission Form",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    }
+  ],
+  "generatedAt": "2026-04-13T16:26:21.545Z"
+}

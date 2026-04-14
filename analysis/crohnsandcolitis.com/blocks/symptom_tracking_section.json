@@ -1,0 +1,27 @@
+{
+  "blockId": "symptom_tracking_section",
+  "templateIds": [
+    "tpl_26"
+  ],
+  "name": "Symptom Tracking Section",
+  "description": "Encourages users to track symptoms and provides guidance.",
+  "domHints": {
+    "selectors": [
+      "#ts",
+      ".abbv-container.abv-custom-bgcolor-uc-blue.p-20"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_26 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

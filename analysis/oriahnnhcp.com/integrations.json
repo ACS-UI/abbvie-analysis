@@ -1,0 +1,31 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+          "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-hemoglobin",
+          "https://www.oriahnnhcp.com/safety-adverse-reactions/safety-adverse-reactions-flexbox",
+          "https://www.oriahnnhcp.com/",
+          "https://www.oriahnnhcp.com/contact-a-rep",
+          "https://www.oriahnnhcp.com/search-results",
+          "https://www.oriahnnhcp.com/clinical-trial-data",
+          "https://www.oriahnnhcp.com/resources",
+          "https://www.oriahnnhcp.com/access",
+          "https://www.oriahnnhcp.com/patient-stories",
+          "https://www.oriahnnhcp.com/site-map"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:42:27.928Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_dosing_adjustments",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Accordion: Dosing Adjustments",
+  "description": "Expandable sections providing detailed dosing adjustments for different conditions.",
+  "domHints": {
+    "selectors": [
+      ".dosing-adjustments-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "video_transcripts",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Video Transcripts",
+  "description": "Provides transcript links for the videos in the playlist.",
+  "domHints": {
+    "selectors": [
+      ".transcript-link"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

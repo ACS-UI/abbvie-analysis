@@ -1,0 +1,26 @@
+{
+  "blockId": "testing_info_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Testing Information Section",
+  "description": "Information about who should get tested for Hepatitis C.",
+  "domHints": {
+    "selectors": [
+      "#background-container-113074462"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

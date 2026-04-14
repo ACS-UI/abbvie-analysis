@@ -1,0 +1,62 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.ubrelvy.com/",
+          "https://www.ubrelvy.com/important-safety-information",
+          "https://www.ubrelvy.com/search-results",
+          "https://www.ubrelvy.com/challenge",
+          "https://www.ubrelvy.com/treating-migraine",
+          "https://www.ubrelvy.com/challenge-terms",
+          "https://www.ubrelvy.com/signup-confirmation",
+          "https://www.ubrelvy.com/real-patient-stories",
+          "https://www.ubrelvy.com/unsubscribe",
+          "https://www.ubrelvy.com/challenge-registration",
+          "https://www.ubrelvy.com/challenge-download",
+          "https://www.ubrelvy.com/real-patient-stories/traci-video-transcript",
+          "https://www.ubrelvy.com/why-ubrelvy/early-migraine-signs",
+          "https://www.ubrelvy.com/sitemap",
+          "https://www.ubrelvy.com/savings",
+          "https://www.ubrelvy.com/cost",
+          "https://www.ubrelvy.com/sign-up",
+          "https://www.ubrelvy.com/savings-terms",
+          "https://www.ubrelvy.com/real-patient-stories/laura-video-transcript",
+          "https://www.ubrelvy.com/challenge-activation",
+          "https://www.ubrelvy.com/complete",
+          "https://www.ubrelvy.com/resources",
+          "https://www.ubrelvy.com/savings-card-download",
+          "https://www.ubrelvy.com/challenge-ineligible",
+          "https://www.ubrelvy.com/why-ubrelvy",
+          "https://www.ubrelvy.com/site-map"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    },
+    {
+      "id": "youtube-embed",
+      "name": "YouTube embed",
+      "category": "video",
+      "evidence": {
+        "urls": [
+          "https://www.ubrelvy.com/real-patient-stories"
+        ],
+        "patterns": [
+          "youtube.com/embed|youtu.be"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T11:16:24.178Z"
+}

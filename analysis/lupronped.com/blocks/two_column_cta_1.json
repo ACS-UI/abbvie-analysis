@@ -1,0 +1,26 @@
+{
+  "blockId": "two_column_cta_1",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Two Column CTA - #1 Prescribed",
+  "description": "Highlights the #1 prescribed treatment for CPP with supporting image and call to action.",
+  "domHints": {
+    "selectors": [
+      ".lup-home-2-col.lup-1pres-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

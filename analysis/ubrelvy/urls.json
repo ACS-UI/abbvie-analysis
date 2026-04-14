@@ -1,0 +1,252 @@
+{
+  "entryUrl": "https://www.ubrelvy.com/",
+  "discoveredAt": "2026-04-13T11:14:08.614Z",
+  "urls": [
+    {
+      "url": "https://www.ubrelvy.com/",
+      "normalised": "https://www.ubrelvy.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/ubrelvy_pi.pdf",
+      "normalised": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/ubrelvy_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/file-.pdf",
+      "normalised": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/file-.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/Ubrelvy_pi.pdf",
+      "normalised": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/Ubrelvy_pi.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/LCH%20For%20Website_UBRELVY_2.20_v2.pdf",
+      "normalised": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/LCH%20For%20Website_UBRELVY_2.20_v2.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/Patient%20Brochure%20-%20Digital%20Version.pdf",
+      "normalised": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/Patient%20Brochure%20-%20Digital%20Version.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/discussion-guide.pdf",
+      "normalised": "https://www.ubrelvy.com/content/dam/ubrelvy/PDF/discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ubrelvy.com/important-safety-information",
+      "normalised": "https://www.ubrelvy.com/important-safety-information",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/search-results",
+      "normalised": "https://www.ubrelvy.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/challenge",
+      "normalised": "https://www.ubrelvy.com/challenge",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/treating-migraine",
+      "normalised": "https://www.ubrelvy.com/treating-migraine",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/challenge-terms",
+      "normalised": "https://www.ubrelvy.com/challenge-terms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/signup-confirmation",
+      "normalised": "https://www.ubrelvy.com/signup-confirmation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/real-patient-stories",
+      "normalised": "https://www.ubrelvy.com/real-patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/unsubscribe",
+      "normalised": "https://www.ubrelvy.com/unsubscribe",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/challenge-registration",
+      "normalised": "https://www.ubrelvy.com/challenge-registration",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/challenge-download",
+      "normalised": "https://www.ubrelvy.com/challenge-download",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/real-patient-stories/traci-video-transcript",
+      "normalised": "https://www.ubrelvy.com/real-patient-stories/traci-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/why-ubrelvy/early-migraine-signs",
+      "normalised": "https://www.ubrelvy.com/why-ubrelvy/early-migraine-signs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/sitemap",
+      "normalised": "https://www.ubrelvy.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/savings",
+      "normalised": "https://www.ubrelvy.com/savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/cost",
+      "normalised": "https://www.ubrelvy.com/cost",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/sign-up",
+      "normalised": "https://www.ubrelvy.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/savings-terms",
+      "normalised": "https://www.ubrelvy.com/savings-terms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/real-patient-stories/laura-video-transcript",
+      "normalised": "https://www.ubrelvy.com/real-patient-stories/laura-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/challenge-activation",
+      "normalised": "https://www.ubrelvy.com/challenge-activation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/complete",
+      "normalised": "https://www.ubrelvy.com/complete",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/udemand",
+      "normalised": "https://www.ubrelvy.com/udemand",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/resources",
+      "normalised": "https://www.ubrelvy.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/savings-card-download",
+      "normalised": "https://www.ubrelvy.com/savings-card-download",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/challenge-ineligible",
+      "normalised": "https://www.ubrelvy.com/challenge-ineligible",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/why-ubrelvy",
+      "normalised": "https://www.ubrelvy.com/why-ubrelvy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/site-map",
+      "normalised": "https://www.ubrelvy.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ubrelvy.com/Modals/termsconditions",
+      "normalised": "https://www.ubrelvy.com/Modals/termsconditions",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 34,
+    "bySource": {
+      "sitemap": 18,
+      "crawl": 16,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "quiz_intro",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Quiz Introduction",
+  "description": "Provides information about the quiz and its purpose.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.cst-take-quiz-pa"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

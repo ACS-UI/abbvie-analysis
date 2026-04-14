@@ -1,0 +1,30 @@
+{
+  "blockId": "primary_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_7"
+  ],
+  "name": "Primary Navigation",
+  "description": "Main site navigation with links to key sections like 'Why Synthroid' and 'Dosing'.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-primary-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

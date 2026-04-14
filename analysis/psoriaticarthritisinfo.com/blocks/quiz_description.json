@@ -1,0 +1,26 @@
+{
+  "blockId": "quiz_description",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Quiz Description",
+  "description": "Text providing details about the quiz and its purpose.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.mb0"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "section_different_exercises",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Different Types of Exercise Section",
+  "description": "Describes various types of exercises and their benefits.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1472056351"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

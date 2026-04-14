@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_links",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "CTA Links",
+  "description": "Contains call-to-action links for product information.",
+  "domHints": {
+    "selectors": [
+      ".cta.parbase"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

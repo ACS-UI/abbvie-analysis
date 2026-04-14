@@ -1,0 +1,35 @@
+{
+  "blockId": "content_grid",
+  "templateIds": [
+    "tpl_80",
+    "tpl_112",
+    "tpl_208",
+    "tpl_223",
+    "tpl_227",
+    "tpl_234",
+    "tpl_237",
+    "tpl_253",
+    "tpl_263",
+    "tpl_285"
+  ],
+  "name": "Content Grid",
+  "description": "Displays key information and links in a structured grid format.",
+  "domHints": {
+    "selectors": [
+      ".grid.cmp-grid-meganav-3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_80 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

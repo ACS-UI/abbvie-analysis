@@ -1,0 +1,26 @@
+{
+  "blockId": "efficacy_flexbox",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Efficacy Flexbox",
+  "description": "Displays efficacy data in a flexbox layout with comparison metrics.",
+  "domHints": {
+    "selectors": [
+      "section > div.columns.parbase > div.abbv-row-container > div.abbv-row > div.abbv-col > div.flexbox.parbase > div.abbv-flex-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

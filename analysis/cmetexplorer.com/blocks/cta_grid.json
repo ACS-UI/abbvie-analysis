@@ -1,0 +1,36 @@
+{
+  "blockId": "cta_grid",
+  "templateIds": [
+    "tpl_10",
+    "tpl_30",
+    "tpl_34",
+    "tpl_39",
+    "tpl_46",
+    "tpl_87",
+    "tpl_117",
+    "tpl_148",
+    "tpl_276",
+    "tpl_287",
+    "tpl_293"
+  ],
+  "name": "CTA Grid",
+  "description": "Displays call-to-action buttons and links in a grid format.",
+  "domHints": {
+    "selectors": [
+      "div.grid.cmp-grid-meganav-3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

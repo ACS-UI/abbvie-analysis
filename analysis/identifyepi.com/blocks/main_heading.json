@@ -1,0 +1,26 @@
+{
+  "blockId": "main_heading",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Main Heading",
+  "description": "Displays the main heading of the page content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text > h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

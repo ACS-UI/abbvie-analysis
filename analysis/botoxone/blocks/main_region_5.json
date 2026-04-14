@@ -1,0 +1,39 @@
+{
+  "blockId": "main_region_5",
+  "templateIds": [
+    "tpl_0",
+    "tpl_6",
+    "tpl_10",
+    "tpl_23",
+    "tpl_34",
+    "tpl_36",
+    "tpl_39",
+    "tpl_41",
+    "tpl_42",
+    "tpl_43",
+    "tpl_52",
+    "tpl_54",
+    "tpl_67",
+    "tpl_81"
+  ],
+  "name": "main region 5",
+  "description": "Major content region in main (div). Preview: COMPREHENSIVE Made for your team Whether you're an injector or an office manager, BOTOX ONE® is your source for all thin…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(6)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "error_content",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Error Content",
+  "description": "Displays the main content related to the system error.",
+  "domHints": {
+    "selectors": [
+      ".abbv-content > .newpar",
+      "body > .abbv-content > .newpar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

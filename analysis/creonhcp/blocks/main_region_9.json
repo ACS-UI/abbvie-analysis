@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_9",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "main region 9",
+  "description": "Major content region in main (div). Preview: .abbv-image-text-v1-1607400260-large { display: inline-block; } Encourage patients to use the Treatment Tracker to recor…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(10)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_17. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

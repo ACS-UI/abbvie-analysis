@@ -1,0 +1,26 @@
+{
+  "blockId": "header_logo",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Header Logo",
+  "description": "Displays the site logo and links to the homepage.",
+  "domHints": {
+    "selectors": [
+      ".ozurdex-logo-desktop"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

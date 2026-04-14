@@ -1,0 +1,26 @@
+{
+  "blockId": "joint_discussion",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Joint Discussion Section",
+  "description": "Features a video and content about patient-doctor communication.",
+  "domHints": {
+    "selectors": [
+      "#ajointdiscussion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

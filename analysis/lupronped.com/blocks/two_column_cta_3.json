@@ -1,0 +1,26 @@
+{
+  "blockId": "two_column_cta_3",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Two Column CTA - Syringe Options",
+  "description": "Describes the thinnest needle for CPP injections with dosing options and call to action.",
+  "domHints": {
+    "selectors": [
+      ".lup-home-2-col.lup-syringe-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

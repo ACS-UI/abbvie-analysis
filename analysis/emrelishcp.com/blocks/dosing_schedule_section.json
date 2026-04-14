@@ -1,0 +1,26 @@
+{
+  "blockId": "dosing_schedule_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Dosing Schedule Section",
+  "description": "Details the EMRELIS dosing schedule and administration guidelines.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.border-gradient-green-gold"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Provides quick access to utility links such as Important Safety Information, Prescribing Information, and Patient Website.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

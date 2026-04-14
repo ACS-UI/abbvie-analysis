@@ -1,0 +1,84 @@
+{
+  "entryUrl": "https://www.rethinkingreceptorsinpd.com/",
+  "discoveredAt": "2026-04-13T16:21:26.965Z",
+  "urls": [
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/emerging-pd-research",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/emerging-pd-research",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/role-of-dopamine",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/role-of-dopamine",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/current-pd-treatments",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/current-pd-treatments",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/burden-of-pd",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/burden-of-pd",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/site-map",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/request-msl",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/request-msl",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/abbv-tab-2061865133-2",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/abbv-tab-2061865133-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/abbv-tab-2061865133-1",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/abbv-tab-2061865133-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.rethinkingreceptorsinpd.com/abbv-tab-2061865133-0",
+      "normalised": "https://www.rethinkingreceptorsinpd.com/abbv-tab-2061865133-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "bySource": {
+      "sitemap": 1,
+      "crawl": 9,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "entryUrl": "https://www.pubertytoosoon.com/",
+  "discoveredAt": "2026-04-13T16:01:08.593Z",
+  "urls": [
+    {
+      "url": "https://www.pubertytoosoon.com/",
+      "normalised": "https://www.pubertytoosoon.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/content/dam/pubertytoosoon/pdf/growth_chart_boys.pdf",
+      "normalised": "https://www.pubertytoosoon.com/content/dam/pubertytoosoon/pdf/growth_chart_boys.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/content/dam/pubertytoosoon/pdf/growth_chart_girls.pdf",
+      "normalised": "https://www.pubertytoosoon.com/content/dam/pubertytoosoon/pdf/growth_chart_girls.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/content/dam/pubertytoosoon/pdf/DoctorDiscussionGuide.pdf",
+      "normalised": "https://www.pubertytoosoon.com/content/dam/pubertytoosoon/pdf/DoctorDiscussionGuide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/about-cpp/what-are-the-signs-of-central-precocious-puberty",
+      "normalised": "https://www.pubertytoosoon.com/about-cpp/what-are-the-signs-of-central-precocious-puberty",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/about-cpp/complications-cpp",
+      "normalised": "https://www.pubertytoosoon.com/about-cpp/complications-cpp",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/diagnosis/diagnosing-cpp",
+      "normalised": "https://www.pubertytoosoon.com/diagnosis/diagnosing-cpp",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/treatment/long-term-effects-of-central-precocious-puberty",
+      "normalised": "https://www.pubertytoosoon.com/treatment/long-term-effects-of-central-precocious-puberty",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/diagnosis/help-talking-to-the-pediatrician",
+      "normalised": "https://www.pubertytoosoon.com/diagnosis/help-talking-to-the-pediatrician",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/treatment/treating-cpp",
+      "normalised": "https://www.pubertytoosoon.com/treatment/treating-cpp",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/about-cpp/puberty-assessment-tool",
+      "normalised": "https://www.pubertytoosoon.com/about-cpp/puberty-assessment-tool",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/about-cpp/normal-puberty-development",
+      "normalised": "https://www.pubertytoosoon.com/about-cpp/normal-puberty-development",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/about-cpp/compare-your-child-with-normal-puberty-development",
+      "normalised": "https://www.pubertytoosoon.com/about-cpp/compare-your-child-with-normal-puberty-development",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/sitemap",
+      "normalised": "https://www.pubertytoosoon.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/registration",
+      "normalised": "https://www.pubertytoosoon.com/registration",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/support-and-resources/resources",
+      "normalised": "https://www.pubertytoosoon.com/support-and-resources/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/content/pubertytoosoon/en-us/about-cpp/compare-your-child-with-normal-puberty-development/_jcr_content/contentpar/columns_1864771588/0/aemform.iframe.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.pubertytoosoon.com/content/pubertytoosoon/en-us/about-cpp/compare-your-child-with-normal-puberty-development/_jcr_content/contentpar/columns_1864771588/0/aemform.iframe.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/support-and-resources/glossary",
+      "normalised": "https://www.pubertytoosoon.com/support-and-resources/glossary",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/support-and-resources/talking-with-your-child-about-early-puberty",
+      "normalised": "https://www.pubertytoosoon.com/support-and-resources/talking-with-your-child-about-early-puberty",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/content/pubertytoosoon/en-us/registration/_jcr_content/contentpar/aemform.iframe.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.pubertytoosoon.com/content/pubertytoosoon/en-us/registration/_jcr_content/contentpar/aemform.iframe.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/doc-locator",
+      "normalised": "https://www.pubertytoosoon.com/doc-locator",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/support-and-resources/videos",
+      "normalised": "https://www.pubertytoosoon.com/support-and-resources/videos",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/support-and-resources/faq",
+      "normalised": "https://www.pubertytoosoon.com/support-and-resources/faq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/support-and-resources/",
+      "normalised": "https://www.pubertytoosoon.com/support-and-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/diagnosis/",
+      "normalised": "https://www.pubertytoosoon.com/diagnosis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/about-cpp/",
+      "normalised": "https://www.pubertytoosoon.com/about-cpp",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.pubertytoosoon.com/treatment/",
+      "normalised": "https://www.pubertytoosoon.com/treatment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 27,
+    "bySource": {
+      "sitemap": 10,
+      "crawl": 17,
+      "manual": 0
+    }
+  }
+}

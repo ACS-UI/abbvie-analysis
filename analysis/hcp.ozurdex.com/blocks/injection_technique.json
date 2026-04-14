@@ -1,0 +1,27 @@
+{
+  "blockId": "injection_technique",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2"
+  ],
+  "name": "Injection Technique",
+  "description": "Provides information about the injection technique with supporting visuals and a link to learn more.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.ozurdex-hcp-technique"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

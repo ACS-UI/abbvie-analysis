@@ -1,0 +1,26 @@
+{
+  "blockId": "support_networks_section",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Support Networks Section",
+  "description": "Highlights various support networks available for users.",
+  "domHints": {
+    "selectors": [
+      "#sn"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

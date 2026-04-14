@@ -1,0 +1,26 @@
+{
+  "blockId": "eligibility_criteria",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Eligibility Criteria Cards",
+  "description": "Displays cards detailing the eligibility criteria for the treatment.",
+  "domHints": {
+    "selectors": [
+      "main > div.container.theme-barely-coral > div.row:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

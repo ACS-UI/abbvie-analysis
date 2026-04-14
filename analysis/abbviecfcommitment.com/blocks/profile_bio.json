@@ -1,0 +1,26 @@
+{
+  "blockId": "profile_bio",
+  "templateIds": [
+    "tpl_40"
+  ],
+  "name": "Profile Bio",
+  "description": "Contains the biography and personal story of the scholar.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_40 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

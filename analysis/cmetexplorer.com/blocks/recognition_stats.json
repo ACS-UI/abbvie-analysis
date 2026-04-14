@@ -1,0 +1,26 @@
+{
+  "blockId": "recognition_stats",
+  "templateIds": [
+    "tpl_41"
+  ],
+  "name": "Recognition Stats",
+  "description": "Displays statistics or achievements related to recognition.",
+  "domHints": {
+    "selectors": [
+      "div.dashboard-card-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_41 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "below_header_intro",
+  "templateIds": [
+    "tpl_33"
+  ],
+  "name": "Below Header Introduction",
+  "description": "Introduces the challenges of diagnosing EPI with a descriptive title.",
+  "domHints": {
+    "selectors": [
+      ".epi-below-header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_33 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

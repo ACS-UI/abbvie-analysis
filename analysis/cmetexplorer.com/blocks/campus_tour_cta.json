@@ -1,0 +1,26 @@
+{
+  "blockId": "campus_tour_cta",
+  "templateIds": [
+    "tpl_252"
+  ],
+  "name": "Campus Tour CTA",
+  "description": "Call-to-action for a virtual campus tour.",
+  "domHints": {
+    "selectors": [
+      "div.teaser.teaser-h2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_252 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

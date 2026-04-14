@@ -1,0 +1,35 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.linzess.com/savings-card",
+          "https://www.linzess.com/starting-linzess/wellness-tips/your-map-to-a-low-fodmap-diet",
+          "https://www.linzess.com/why-linzess/linzess-patient-experiences/getting-on-same-page-transcripts",
+          "https://www.linzess.com/savings-and-support/linzess-savings-program",
+          "https://www.linzess.com/understanding-constipation/what-is-ibs-c",
+          "https://www.linzess.com/why-linzess/how-linzess-can-help",
+          "https://www.linzess.com/savings-and-support",
+          "https://www.linzess.com/savings-and-support/how-to-take-linzess",
+          "https://www.linzess.com/savings-and-support/community-resources",
+          "https://www.linzess.com/",
+          "https://www.linzess.com/search-results",
+          "https://www.linzess.com/understanding-constipation#typesofconstipation",
+          "https://www.linzess.com/espanol",
+          "https://www.linzess.com/find-relief/talk-to-a-doctor",
+          "https://www.linzess.com/starting-linzess"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:33:35.623Z"
+}

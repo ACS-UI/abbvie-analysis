@@ -1,0 +1,27 @@
+{
+  "blockId": "areas_of_focus_section",
+  "templateIds": [
+    "tpl_55"
+  ],
+  "name": "Areas of Focus Section",
+  "description": "Highlights specific areas of focus with links and descriptions.",
+  "domHints": {
+    "selectors": [
+      "#container-1ba6ff48e7",
+      "div.cmp-container[style*='background-color:#F1F3FF;']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_55 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

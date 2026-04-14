@@ -1,0 +1,26 @@
+{
+  "blockId": "main_cta_columns",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Main CTA Columns",
+  "description": "Presents key call-to-actions in a multi-column layout for user engagement.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flex-wrap-wrap.mb-50"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

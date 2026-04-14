@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.abbvieaccess.com/",
+  "normalisedUrl": "https://www.abbvieaccess.com/",
+  "finalUrlAfterRedirects": "https://www.abbvieaccess.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:42:30.055Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

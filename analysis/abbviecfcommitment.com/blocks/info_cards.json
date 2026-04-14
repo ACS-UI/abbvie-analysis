@@ -1,0 +1,26 @@
+{
+  "blockId": "info_cards",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Information Cards",
+  "description": "Displays key information about the scholarship in a card layout.",
+  "domHints": {
+    "selectors": [
+      ".grid__3-col--info-item"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

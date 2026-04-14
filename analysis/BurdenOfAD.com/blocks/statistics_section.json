@@ -1,0 +1,26 @@
+{
+  "blockId": "statistics_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Statistics Section",
+  "description": "Highlights key statistics about atopic dermatitis in a multi-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section-container.section-container--merge-image"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

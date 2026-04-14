@@ -1,0 +1,26 @@
+{
+  "blockId": "content_intro",
+  "templateIds": [
+    "tpl_30"
+  ],
+  "name": "Content Introduction",
+  "description": "Introduction to the main content with a summary and key points.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.base-wrapper > .rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_30 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

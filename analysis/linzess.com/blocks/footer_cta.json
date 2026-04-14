@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_cta",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Footer Call-to-Action",
+  "description": "Encourages users to check their symptoms with a prominent CTA.",
+  "domHints": {
+    "selectors": [
+      ".bottom-nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "support_cards",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Support Cards",
+  "description": "Displays cards with links to support resources and information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.two-column-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

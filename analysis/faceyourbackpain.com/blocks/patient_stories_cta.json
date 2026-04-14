@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_stories_cta",
+  "templateIds": [
+    "tpl_19"
+  ],
+  "name": "Patient Stories CTA",
+  "description": "Encourages users to watch patient stories.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.fybp-undiagnosed-patient-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_19 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

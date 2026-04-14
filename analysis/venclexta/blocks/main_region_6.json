@@ -1,0 +1,41 @@
+{
+  "blockId": "main_region_6",
+  "templateIds": [
+    "tpl_4",
+    "tpl_5",
+    "tpl_14",
+    "tpl_15",
+    "tpl_16",
+    "tpl_18",
+    "tpl_20",
+    "tpl_23",
+    "tpl_27",
+    "tpl_28",
+    "tpl_31",
+    "tpl_33",
+    "tpl_34",
+    "tpl_37",
+    "tpl_38",
+    "tpl_46"
+  ],
+  "name": "main region 6",
+  "description": "Major content region in main (div). Preview: Sign up for more info on VENCLEXTA, including tools and resources to help you make an informed treatment decision. Sign …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(7)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_4. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

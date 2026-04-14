@@ -1,0 +1,38 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:19:14.742Z",
+  "completedAt": "2026-04-13T16:21:19.740Z",
+  "input": {
+    "url": "https://www.cdpldpconversion.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/cdpldpconversion.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Medical Dosing Tool",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      }
+    ]
+  }
+}

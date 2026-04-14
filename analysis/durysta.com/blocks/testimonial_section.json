@@ -1,0 +1,27 @@
+{
+  "blockId": "testimonial_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Testimonial Section",
+  "description": "Showcases testimonials from users about their DURYSTA® experience.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(3) > h3#what-others-are-saying",
+      "main > div:nth-of-type(3) > div.columns > div > div > table"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

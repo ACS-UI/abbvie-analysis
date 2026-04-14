@@ -1,0 +1,26 @@
+{
+  "blockId": "feature_columns",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Feature Columns",
+  "description": "Showcases key information in a multi-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.hep-c-hero-features"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

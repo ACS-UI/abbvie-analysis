@@ -1,0 +1,26 @@
+{
+  "blockId": "statistics_section",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Statistics Section",
+  "description": "Provides statistical data and visual representations about the conditions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-custom-border"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

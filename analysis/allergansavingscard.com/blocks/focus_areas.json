@@ -1,0 +1,27 @@
+{
+  "blockId": "focus_areas",
+  "templateIds": [
+    "tpl_249"
+  ],
+  "name": "Focus Areas",
+  "description": "Detailed information about focus areas with images and text.",
+  "domHints": {
+    "selectors": [
+      "#title-d54aa0b523",
+      ".cmp-text-xx-large"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_249 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

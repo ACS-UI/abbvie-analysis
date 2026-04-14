@@ -1,0 +1,26 @@
+{
+  "blockId": "what_is_fibromyalgia",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "What is Fibromyalgia",
+  "description": "Explains what fibromyalgia is with supporting content.",
+  "domHints": {
+    "selectors": [
+      "#whatIsFibromyalgia"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

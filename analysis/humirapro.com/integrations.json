@@ -1,0 +1,25 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.humirapro.com/uveitis",
+          "https://www.humirapro.com/uveitis-pediatric",
+          "https://www.humirapro.com/site-map",
+          "https://www.humirapro.com/",
+          "https://www.humirapro.com/global-safety"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:16:53.207Z"
+}

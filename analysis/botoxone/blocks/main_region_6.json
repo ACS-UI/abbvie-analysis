@@ -1,0 +1,32 @@
+{
+  "blockId": "main_region_6",
+  "templateIds": [
+    "tpl_0",
+    "tpl_4",
+    "tpl_10",
+    "tpl_22",
+    "tpl_36",
+    "tpl_39",
+    "tpl_81"
+  ],
+  "name": "main region 6",
+  "description": "Major content region in main (div). Preview: RESOURCES Download clinical, office, and patient resources It’s never been easier to quickly access the resources you ne…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(7)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

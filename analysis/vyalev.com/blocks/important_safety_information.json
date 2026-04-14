@@ -1,0 +1,26 @@
+{
+  "blockId": "important_safety_information",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Important Safety Information",
+  "description": "Displays critical safety and usage information about the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-inline-use-isi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

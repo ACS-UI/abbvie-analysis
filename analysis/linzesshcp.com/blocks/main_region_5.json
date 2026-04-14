@@ -1,0 +1,27 @@
+{
+  "blockId": "main_region_5",
+  "templateIds": [
+    "tpl_2",
+    "tpl_13"
+  ],
+  "name": "main region 5",
+  "description": "Major content region in main (div). Preview: Clinical trial design1 Two phase 3 clinical trials (Trial 1 and Trial 2) compared LINZESS 290 mcg vs placebo In Trials 1…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(6)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

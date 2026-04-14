@@ -1,0 +1,26 @@
+{
+  "blockId": "common_questions",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Common Questions",
+  "description": "Answers to frequently asked questions about SAVELLA.",
+  "domHints": {
+    "selectors": [
+      "#common-questions"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

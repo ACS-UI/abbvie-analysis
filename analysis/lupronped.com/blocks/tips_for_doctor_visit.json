@@ -1,0 +1,26 @@
+{
+  "blockId": "tips_for_doctor_visit",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Tips for Doctor Visit",
+  "description": "Provides information and preparation tips for visiting the doctor.",
+  "domHints": {
+    "selectors": [
+      "#expect-atdoctor"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

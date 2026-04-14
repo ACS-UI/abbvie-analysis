@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_disclaimer",
+  "templateIds": [
+    "tpl_309"
+  ],
+  "name": "Modal Disclaimer",
+  "description": "Displays a modal with important disclaimers or notices.",
+  "domHints": {
+    "selectors": [
+      "#warnOnArrival"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_309 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

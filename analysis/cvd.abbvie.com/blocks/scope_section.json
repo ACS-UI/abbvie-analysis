@@ -1,0 +1,26 @@
+{
+  "blockId": "scope_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Scope Section",
+  "description": "Defines the scope of the cybersecurity disclosure process.",
+  "domHints": {
+    "selectors": [
+      ".scope-section-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

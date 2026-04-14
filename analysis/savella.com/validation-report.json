@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.savella.com/",
+  "normalisedUrl": "https://www.savella.com/",
+  "finalUrlAfterRedirects": "https://www.savella.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:16:42.934Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

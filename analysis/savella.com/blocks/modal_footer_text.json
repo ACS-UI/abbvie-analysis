@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_footer_text",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Modal Footer Text",
+  "description": "Displays additional information or identifiers at the bottom of the modal.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-rich-text.exit-modal-bottom-txt"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

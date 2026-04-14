@@ -1,0 +1,28 @@
+{
+  "blockId": "intro_content",
+  "templateIds": [
+    "tpl_19",
+    "tpl_23",
+    "tpl_24"
+  ],
+  "name": "Introduction Content",
+  "description": "Provides an introduction to the topic with a brief description.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.base-wrapper"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_19 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

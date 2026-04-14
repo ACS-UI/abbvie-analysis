@@ -1,0 +1,26 @@
+{
+  "blockId": "dosing_administration_card",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Dosing & Administration Card",
+  "description": "Provides details on dosing recommendations for IDA and iron replacement.",
+  "domHints": {
+    "selectors": [
+      ".dosing-administration-card"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

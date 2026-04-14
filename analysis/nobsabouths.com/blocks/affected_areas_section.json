@@ -1,0 +1,27 @@
+{
+  "blockId": "affected_areas_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Affected Areas Section",
+  "description": "Details about areas affected by the condition, with images and lists.",
+  "domHints": {
+    "selectors": [
+      "#AreasAffected",
+      ".abbv-title h2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

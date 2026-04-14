@@ -1,0 +1,27 @@
+{
+  "blockId": "search_results_coveo",
+  "templateIds": [
+    "tpl_15",
+    "tpl_36"
+  ],
+  "name": "search results coveo",
+  "description": "Major content region in main (div). Preview: window.coveosearch={ coveoHostedSearchPageId:'ce267d38-0f50-4641-b519-e50d2f0232e8' }…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_15. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

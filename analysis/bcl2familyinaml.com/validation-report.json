@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.bcl2familyinaml.com/",
+  "normalisedUrl": "https://www.bcl2familyinaml.com/",
+  "finalUrlAfterRedirects": "https://www.bcl2familyinaml.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:19:11.251Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

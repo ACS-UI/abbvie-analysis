@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_content_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Hero Content Section",
+  "description": "Provides an introductory message about managing arthritis.",
+  "domHints": {
+    "selectors": [
+      "section.arthritis-hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

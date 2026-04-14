@@ -1,0 +1,26 @@
+{
+  "blockId": "pert_information",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "PERT Information",
+  "description": "Explains what PERT is and includes a video player with a transcript.",
+  "domHints": {
+    "selectors": [
+      ".epi-video-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

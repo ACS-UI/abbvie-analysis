@@ -1,0 +1,12 @@
+{
+  "valid": false,
+  "originalInput": "https://www.biomarkerboost.com/",
+  "normalisedUrl": "https://www.biomarkerboost.com/",
+  "finalUrlAfterRedirects": null,
+  "httpStatus": null,
+  "errors": [
+    "Reachability check failed: fetch failed"
+  ],
+  "validatedAt": "2026-04-14T05:25:18.393Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

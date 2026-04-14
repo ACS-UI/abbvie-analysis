@@ -1,0 +1,26 @@
+{
+  "blockId": "goals_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Goals Section",
+  "description": "Highlights long-term goals and their importance in IBD management.",
+  "domHints": {
+    "selectors": [
+      "#goals"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "savings_program",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Savings Program",
+  "description": "Details about the MAVYRET Savings Card and how it can reduce costs.",
+  "domHints": {
+    "selectors": [
+      "#mavyret-savings"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "helpful_links_list",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Helpful Links List",
+  "description": "List of helpful external links for users.",
+  "domHints": {
+    "selectors": [
+      ".allergan-eye-care-links"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

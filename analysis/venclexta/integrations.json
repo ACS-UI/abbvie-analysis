@@ -1,0 +1,67 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.venclexta.com/",
+          "https://www.venclexta.com/conversation-guide",
+          "https://www.venclexta.com/aml",
+          "https://www.venclexta.com/previously-untreated-cll",
+          "https://www.venclexta.com/previously-treated-cll/why-venclexta/how-it-works",
+          "https://www.venclexta.com/previously-treated-cll/resources-and-support/financial-and-treatment-support",
+          "https://www.venclexta.com/previously-untreated-cll/resources-and-support/helpful-resources-and-materials",
+          "https://www.venclexta.com/terms-and-conditions",
+          "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/diagnosis-information",
+          "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/what-is-cll-sll",
+          "https://www.venclexta.com/previously-treated-cll/resources-and-support/helpful-resources-and-materials",
+          "https://www.venclexta.com/aml/why-venclexta/venclexta-low-dose-cytarabine",
+          "https://www.venclexta.com/previously-untreated-cll/ven-zone-signup",
+          "https://www.venclexta.com/site-map",
+          "https://www.venclexta.com/previously-treated-cll/why-venclexta/how-it-may-help",
+          "https://www.venclexta.com/aml/taking-venclexta/dosing-instructions",
+          "https://www.venclexta.com/previously-treated-cll/about-cll-sll/treatment-options",
+          "https://www.venclexta.com/aml/possible-side-effects",
+          "https://www.venclexta.com/aml/taking-venclexta/dosing-schedule",
+          "https://www.venclexta.com/aml/why-venclexta/venclexta-decitabine",
+          "https://www.venclexta.com/previously-untreated-cll/why-venclexta/how-it-works",
+          "https://www.venclexta.com/previously-treated-cll/about-cll-sll/diagnosis-information",
+          "https://www.venclexta.com/previously-untreated-cll/taking-venclexta/dosing-instructions",
+          "https://www.venclexta.com/previously-untreated-cll/why-venclexta/how-its-different",
+          "https://www.venclexta.com/previously-treated-cll/about-cll-sll/what-is-cll-sll",
+          "https://www.venclexta.com/previously-treated-cll/ven-zone-signup",
+          "https://www.venclexta.com/aml/why-venclexta/venclexta-azacitidine",
+          "https://www.venclexta.com/previously-untreated-cll/possible-side-effects",
+          "https://www.venclexta.com/previously-treated-cll/why-venclexta/how-its-different",
+          "https://www.venclexta.com/previously-treated-cll",
+          "https://www.venclexta.com/previously-treated-cll/taking-venclexta/dosing-instructions",
+          "https://www.venclexta.com/previously-untreated-cll/about-cll-sll/treatment-options",
+          "https://www.venclexta.com/aml/why-venclexta/what-is-venclexta",
+          "https://www.venclexta.com/previously-untreated-cll/resources-and-support/financial-and-treatment-support",
+          "https://www.venclexta.com/previously-treated-cll/taking-venclexta/dosing-schedule",
+          "https://www.venclexta.com/aml/about-aml/treatment-options",
+          "https://www.venclexta.com/previously-treated-cll/find-a-healthcare-provider",
+          "https://www.venclexta.com/previously-treated-cll/possible-side-effects",
+          "https://www.venclexta.com/previously-untreated-cll/why-venclexta/how-it-may-help",
+          "https://www.venclexta.com/previously-treated-cll/why-venclexta/cll-stories",
+          "https://www.venclexta.com/previously-untreated-cll/taking-venclexta/dosing-schedule",
+          "https://www.venclexta.com/search-results",
+          "https://www.venclexta.com/previously-untreated-cll/find-a-healthcare-provider",
+          "https://www.venclexta.com/aml/resources-and-support/financial-and-treatment-support",
+          "https://www.venclexta.com/aml/about-aml/what-is-aml",
+          "https://www.venclexta.com/aml/resources-and-support/helpful-resources-and-materials",
+          "https://www.venclexta.com/previously-untreated-cll/why-venclexta/cll-stories"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T12:14:58.363Z"
+}

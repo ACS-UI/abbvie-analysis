@@ -1,0 +1,26 @@
+{
+  "blockId": "hands_carousel",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Hands Carousel",
+  "description": "Carousel showcasing eczema symptoms on hands.",
+  "domHints": {
+    "selectors": [
+      "#hands-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

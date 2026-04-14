@@ -1,0 +1,26 @@
+{
+  "blockId": "registration_section",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Registration Section",
+  "description": "Section for users to register for the program, including a form and instructions.",
+  "domHints": {
+    "selectors": [
+      ".jumpstarrt-reg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

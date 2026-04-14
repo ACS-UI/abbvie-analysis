@@ -1,0 +1,26 @@
+{
+  "blockId": "popup_warnonleave",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "Warn on Leave Popup",
+  "description": "Popup warning users when they attempt to leave the site.",
+  "domHints": {
+    "selectors": [
+      "#warnonleave"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

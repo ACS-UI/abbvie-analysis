@@ -1,0 +1,27 @@
+{
+  "blockId": "content_intro",
+  "templateIds": [
+    "tpl_1",
+    "tpl_6"
+  ],
+  "name": "Content Introduction",
+  "description": "Introductory text and explanation about severe underarm sweating.",
+  "domHints": {
+    "selectors": [
+      ".banner_txt"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,154 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.requestfrm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-rich-text.safety-link-text"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.requestfrm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-container.header-brands"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.requestfrm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-background-container.hero-bg"
+    },
+    {
+      "relativePath": "product_logos__default.png",
+      "sourceUrl": "https://www.requestfrm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-container.complete-logos"
+    },
+    {
+      "relativePath": "main_content_intro__default.png",
+      "sourceUrl": "https://www.requestfrm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-rich-text > h3.questions"
+    },
+    {
+      "relativePath": "dedicated_access_info__default.png",
+      "sourceUrl": "https://www.requestfrm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-flex-container.frm-form-container"
+    },
+    {
+      "relativePath": "form_section__default.png",
+      "sourceUrl": "https://www.requestfrm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": "#aemFormFrame"
+    },
+    {
+      "relativePath": "footer_safety_links__default.png",
+      "sourceUrl": "https://www.requestfrm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-rich-text.safety-links-footer"
+    },
+    {
+      "relativePath": "header_branding__default.png",
+      "sourceUrl": "https://www.requestfrm.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-flex-container-v2.header-brand"
+    },
+    {
+      "relativePath": "important_safety_links__default.png",
+      "sourceUrl": "https://www.requestfrm.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-flex-item-v2.safety-links"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.requestfrm.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": "section[role='main']"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.requestfrm.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.requestfrm.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_contact_medical_affairs__default.png",
+      "sourceUrl": "https://www.requestfrm.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-modal.wolMedInfo"
+    },
+    {
+      "relativePath": "modal_leaving_site__default.png",
+      "sourceUrl": "https://www.requestfrm.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:28:00.527Z",
+      "selector": ".abbv-modal.wolNPI"
+    }
+  ]
+}

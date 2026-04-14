@@ -1,0 +1,1304 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-header-content-container"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-244389776"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "symptoms_icons_grid__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".symptoms-icons-container"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.innerContainer1"
+    },
+    {
+      "relativePath": "references_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-identifyepi-references"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "cookie_consent__default.png",
+      "sourceUrl": "https://www.identifyepi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#ot-sdk-btn1"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.identifyepi.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.identifyepi.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.identifyepi.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "cookie_consent_modal__default.png",
+      "sourceUrl": "https://www.identifyepi.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-modal.advertisingchoicesepi"
+    },
+    {
+      "relativePath": "hcp_modal__default.png",
+      "sourceUrl": "https://www.identifyepi.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-modal.warnonleavehcp"
+    },
+    {
+      "relativePath": "symptoms_overview__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/epi-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-first-section-symptoms"
+    },
+    {
+      "relativePath": "symptoms_details__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/epi-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-content-only"
+    },
+    {
+      "relativePath": "symptoms_advice__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/epi-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-gery-box-with-text"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/epi-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-full-video"
+    },
+    {
+      "relativePath": "symptom_checker_cta__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/epi-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-sys"
+    },
+    {
+      "relativePath": "additional_resources__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/epi-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-435241548"
+    },
+    {
+      "relativePath": "intro_paragraph__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/underlying-conditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-first-section"
+    },
+    {
+      "relativePath": "accordion_underlying_conditions__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/underlying-conditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-accordians"
+    },
+    {
+      "relativePath": "highlight_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/underlying-conditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-shape"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/underlying-conditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-image-text-tout"
+    },
+    {
+      "relativePath": "video_grid__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".cust-creon-dtc-videos-container.epi-transcript-container"
+    },
+    {
+      "relativePath": "cta_blocks__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-container.epi-gray-block"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "video_transcript_content__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos/what-is-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-transcript-video-content-container"
+    },
+    {
+      "relativePath": "footer_legal_text__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos/what-is-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos/what-is-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_advertising_choices__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos/what-is-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-modal.advertisingchoicesepi"
+    },
+    {
+      "relativePath": "modal_hcp_warning__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos/what-is-epi-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-modal.warnonleavehcp"
+    },
+    {
+      "relativePath": "faq_accordion__default.png",
+      "sourceUrl": "https://www.identifyepi.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "cta_get_updates__default.png",
+      "sourceUrl": "https://www.identifyepi.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-button-primary"
+    },
+    {
+      "relativePath": "epi_resources_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/frequently-asked-questions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-container.epi-gray-block"
+    },
+    {
+      "relativePath": "main_heading__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-rich-text > h1"
+    },
+    {
+      "relativePath": "signup_form__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".signup-epi-form-container"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "cookie_settings__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#ot-sdk-btn1"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/exocrine-pancreatic-insufficiency-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-first-section"
+    },
+    {
+      "relativePath": "symptoms_checklist__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/exocrine-pancreatic-insufficiency-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-left-content-image"
+    },
+    {
+      "relativePath": "specialist_information__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/exocrine-pancreatic-insufficiency-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-shape"
+    },
+    {
+      "relativePath": "epi_tests_overview__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/exocrine-pancreatic-insufficiency-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-tests"
+    },
+    {
+      "relativePath": "test_details__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/exocrine-pancreatic-insufficiency-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-text-blocks"
+    },
+    {
+      "relativePath": "treatment_information__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi/exocrine-pancreatic-insufficiency-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-text-btn"
+    },
+    {
+      "relativePath": "intro_content__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-first-section"
+    },
+    {
+      "relativePath": "pert_information__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-video-content"
+    },
+    {
+      "relativePath": "pancreas_function__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".what-is-epi-box-radius"
+    },
+    {
+      "relativePath": "enzymes_information__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-text-image-box"
+    },
+    {
+      "relativePath": "epi_causes__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-shape"
+    },
+    {
+      "relativePath": "digestion_carousel__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-carousel"
+    },
+    {
+      "relativePath": "epi_resources__default.png",
+      "sourceUrl": "https://www.identifyepi.com/what-is-epi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-769003351"
+    },
+    {
+      "relativePath": "hero_section_1__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-1331187234"
+    },
+    {
+      "relativePath": "hero_section_2__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-663891971"
+    },
+    {
+      "relativePath": "symptom_checker_intro__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-first-section-exocrine.symptom-checker-hero-1"
+    },
+    {
+      "relativePath": "symptom_checker_tool__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".forms-embed"
+    },
+    {
+      "relativePath": "next_steps__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-first-section-exocrine.symptom-checker-hero-2"
+    },
+    {
+      "relativePath": "reference_sources__default.png",
+      "sourceUrl": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-identifyepi-references"
+    },
+    {
+      "relativePath": "video_playlist__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270803495001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-video-player.abbv-video-playlist"
+    },
+    {
+      "relativePath": "individual_videos__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270803495001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-video-player.epi-watch-video-margin"
+    },
+    {
+      "relativePath": "resource_ctas__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270803495001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-9901557"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.identifyepi.com/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "header > div.abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "video_section_1__default.png",
+      "sourceUrl": "https://www.identifyepi.com/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "div[data-trigger-for='abbv-accordion-blade-1']"
+    },
+    {
+      "relativePath": "video_section_2__default.png",
+      "sourceUrl": "https://www.identifyepi.com/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "div[data-trigger-for='abbv-accordion-blade-1']"
+    },
+    {
+      "relativePath": "symptoms_cta__default.png",
+      "sourceUrl": "https://www.identifyepi.com/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "div.creon-talking-doctor-two-part"
+    },
+    {
+      "relativePath": "telemedicine_tips__default.png",
+      "sourceUrl": "https://www.identifyepi.com/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "div.creon-talking-doctor-bottom-ref"
+    },
+    {
+      "relativePath": "resources_cta__default.png",
+      "sourceUrl": "https://www.identifyepi.com/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-410013748"
+    },
+    {
+      "relativePath": "intro_column__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-below-header"
+    },
+    {
+      "relativePath": "symptoms_highlight__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-six-across"
+    },
+    {
+      "relativePath": "clinical_relevance__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-clinically-relevant-text"
+    },
+    {
+      "relativePath": "spotlight_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-spotlight"
+    },
+    {
+      "relativePath": "footer_form__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/pancreatic-insufficiency-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".forms-embed"
+    },
+    {
+      "relativePath": "search_bar__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "header.abbv-header #abbv-search-util"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "footer.abbv-footer .abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "intro_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-first-section"
+    },
+    {
+      "relativePath": "pert_explanation__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-four-blocks"
+    },
+    {
+      "relativePath": "pert_guidelines__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-text-blocks"
+    },
+    {
+      "relativePath": "support_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-image-text-tout"
+    },
+    {
+      "relativePath": "videos_intro__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258802051001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-videos-main-title"
+    },
+    {
+      "relativePath": "main_video_player__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258802051001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".for-your-practice-playlist"
+    },
+    {
+      "relativePath": "individual_video_players__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258802051001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-watch-individual-practice-videos"
+    },
+    {
+      "relativePath": "patient_videos_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258802051001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-video-container-border-line"
+    },
+    {
+      "relativePath": "video_thumbnails__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258802051001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-videos-thumbnail-margin"
+    },
+    {
+      "relativePath": "intro_columns__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.epi-below-header"
+    },
+    {
+      "relativePath": "symptoms_columns__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.abbv-margin-top-40.abbv-margin-bottom-40"
+    },
+    {
+      "relativePath": "signs_and_symptoms__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-container.epi-info-background.epi-info-container.epi-info-top"
+    },
+    {
+      "relativePath": "underlying_conditions__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.epi-bottom-columns-diagnosis"
+    },
+    {
+      "relativePath": "video_spotlight__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-container.epi-spotlight"
+    },
+    {
+      "relativePath": "patient_questions__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.epi-management-plan"
+    },
+    {
+      "relativePath": "icd_code_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.epi-flex-icon"
+    },
+    {
+      "relativePath": "diagnostic_tests__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.abbv-margin-top-40"
+    },
+    {
+      "relativePath": "footer_references__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-rich-text.reference-text"
+    },
+    {
+      "relativePath": "study_highlight__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".study-ada-section"
+    },
+    {
+      "relativePath": "resources_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".yellow-cards-resources"
+    },
+    {
+      "relativePath": "form_embed__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".forms-embed"
+    },
+    {
+      "relativePath": "doctor_locator_tool__default.png",
+      "sourceUrl": "https://www.identifyepi.com/find-an-epi-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".doctor-locator-app"
+    },
+    {
+      "relativePath": "additional_info__default.png",
+      "sourceUrl": "https://www.identifyepi.com/find-an-epi-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-background-container.epi-dr-gardient-block"
+    },
+    {
+      "relativePath": "transcript_content__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-videos/moving-forward-with-epi-treatment-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-transcript-video-content-container"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-sitemap-links"
+    },
+    {
+      "relativePath": "video_highlights__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients?ftvid=6258803495001",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-videos-thumbnail-margin"
+    },
+    {
+      "relativePath": "videos_for_practice__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-education-top"
+    },
+    {
+      "relativePath": "videos_for_patients__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-education-patients-videos"
+    },
+    {
+      "relativePath": "bottom_cta__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-bottom-cta-center"
+    },
+    {
+      "relativePath": "signup_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/pancreatic-disease-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.epi-signup-block"
+    },
+    {
+      "relativePath": "general_resources__default.png",
+      "sourceUrl": "https://www.identifyepi.com/pancreatic-disease-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-rich-text.creon-heading-h2"
+    },
+    {
+      "relativePath": "pancreatic_resources__default.png",
+      "sourceUrl": "https://www.identifyepi.com/pancreatic-disease-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-background-container.epi-pancreatic-blocks"
+    },
+    {
+      "relativePath": "etiology_intro__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-underlying-conditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.epi-below-header"
+    },
+    {
+      "relativePath": "etiology_causes__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-underlying-conditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.creon-hcp-epi-underlying"
+    },
+    {
+      "relativePath": "accordion_conditions__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-underlying-conditions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-accordion.epi-accordion"
+    },
+    {
+      "relativePath": "header_logo__default.png",
+      "sourceUrl": "https://www.identifyepi.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".id-epi-logo"
+    },
+    {
+      "relativePath": "diet_lifestyle_intro__default.png",
+      "sourceUrl": "https://www.identifyepi.com/diet-and-lifestyle",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-1116167899"
+    },
+    {
+      "relativePath": "digestion_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/diet-and-lifestyle",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-717909243"
+    },
+    {
+      "relativePath": "diet_tips__default.png",
+      "sourceUrl": "https://www.identifyepi.com/diet-and-lifestyle",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": "#background-container-9517152"
+    },
+    {
+      "relativePath": "cf_commitment_section__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-resources-last-tout"
+    },
+    {
+      "relativePath": "references__default.png",
+      "sourceUrl": "https://www.identifyepi.com/epi-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-identifyepi-references"
+    },
+    {
+      "relativePath": "content_section_pancreas_roles__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/digestive-pancreatic-enzymes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-tabs.epi-custom-tabs"
+    },
+    {
+      "relativePath": "content_section_pancreatic_enzymes__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/digestive-pancreatic-enzymes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.abbv-margin-top-20"
+    },
+    {
+      "relativePath": "content_section_enzyme_secretion__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/digestive-pancreatic-enzymes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-row-container.epi-enzyme-box"
+    },
+    {
+      "relativePath": "management_plan__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/treating-epi-with-pert",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-management-plan"
+    },
+    {
+      "relativePath": "standard_of_care__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/treating-epi-with-pert",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-pert-info"
+    },
+    {
+      "relativePath": "dosing_guidelines__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/treating-epi-with-pert",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-pert-example"
+    },
+    {
+      "relativePath": "adjustment_guidelines__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/treating-epi-with-pert",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-flex-icon-pert"
+    },
+    {
+      "relativePath": "below_header_intro__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-diagnosis-challenges",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-below-header"
+    },
+    {
+      "relativePath": "challenge_factors__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-diagnosis-challenges",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-challenges-blocks"
+    },
+    {
+      "relativePath": "spotlight_video__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-diagnosis-challenges",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-spotlight"
+    },
+    {
+      "relativePath": "symptom_timeline__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-diagnosis-challenges",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".epi-identify-chart-desktop"
+    },
+    {
+      "relativePath": "telemedicine_video__default.png",
+      "sourceUrl": "https://www.identifyepi.com/hcp/epi-diagnosis-challenges",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".creon-hcp-challenges-lower-text"
+    },
+    {
+      "relativePath": "header_utility_navigation__default.png",
+      "sourceUrl": "https://www.identifyepi.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "site_map_content__default.png",
+      "sourceUrl": "https://www.identifyepi.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:51.963Z",
+      "selector": ".abbv-rich-text.epi-sitemap"
+    }
+  ]
+}

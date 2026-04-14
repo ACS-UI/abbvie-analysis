@@ -1,0 +1,26 @@
+{
+  "blockId": "insurance_information",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Insurance Information",
+  "description": "Clarifies insurance requirements and related details.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.access-prescribing-pharmacy"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

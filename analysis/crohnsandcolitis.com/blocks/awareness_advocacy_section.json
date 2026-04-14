@@ -1,0 +1,26 @@
+{
+  "blockId": "awareness_advocacy_section",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Awareness and Advocacy Section",
+  "description": "Promotes awareness campaigns and advocacy events.",
+  "domHints": {
+    "selectors": [
+      "#aaa"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

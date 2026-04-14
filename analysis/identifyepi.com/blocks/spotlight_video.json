@@ -1,0 +1,26 @@
+{
+  "blockId": "spotlight_video",
+  "templateIds": [
+    "tpl_33"
+  ],
+  "name": "Spotlight Video",
+  "description": "Features a video with tips for diagnosing EPI from a medical professional.",
+  "domHints": {
+    "selectors": [
+      ".epi-spotlight"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_33 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

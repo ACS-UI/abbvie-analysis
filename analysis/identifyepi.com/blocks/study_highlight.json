@@ -1,0 +1,26 @@
+{
+  "blockId": "study_highlight",
+  "templateIds": [
+    "tpl_18"
+  ],
+  "name": "Study Highlight",
+  "description": "Displays a study result emphasizing the importance of EPI diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".study-ada-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_18 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

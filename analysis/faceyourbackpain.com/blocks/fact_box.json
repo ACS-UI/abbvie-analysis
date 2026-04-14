@@ -1,0 +1,26 @@
+{
+  "blockId": "fact_box",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Fact Box",
+  "description": "Provides quick facts and statistics about the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.fybp-bg-color-lavendar-gray"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

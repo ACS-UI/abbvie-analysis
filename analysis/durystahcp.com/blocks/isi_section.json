@@ -1,0 +1,26 @@
+{
+  "blockId": "isi_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Important Safety Information",
+  "description": "Displays critical safety and usage information for DURYSTA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-inline-use-isi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

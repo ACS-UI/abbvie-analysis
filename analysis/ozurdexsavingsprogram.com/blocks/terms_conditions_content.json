@@ -1,0 +1,26 @@
+{
+  "blockId": "terms_conditions_content",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Terms and Conditions Content",
+  "description": "The main content area detailing the terms and conditions of the program.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-rich-text.ozurdex-home-terms"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

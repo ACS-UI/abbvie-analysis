@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_section",
+  "templateIds": [
+    "tpl_18"
+  ],
+  "name": "Resources Section",
+  "description": "Provides links to resources and tools for healthcare professionals.",
+  "domHints": {
+    "selectors": [
+      ".yellow-cards-resources"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_18 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

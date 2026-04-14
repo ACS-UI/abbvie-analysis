@@ -1,0 +1,203 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Page layout group 1",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Fl Patient Brochure Spanish — group 2",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "2l Fl — group 3",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Important Safety Information — group 4",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Study Design — group 5",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Crs Icans Management — group 6",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Site Map — group 7",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Mechanism Of Action — group 8",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Terms Conditions — group 9",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Contact Us — group 10",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Clinical Trial Results — group 11",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Dosing Administration — group 12",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Register — group 13",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Dlbcl — group 14",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_14",
+      "humanName": "Adverse Reactions — group 15",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_15",
+      "humanName": "Order — group 16",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_16",
+      "humanName": "Study Design — group 17",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_17",
+      "humanName": "Adverse Reactions — group 18",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_18",
+      "humanName": "Crs Icans Events — group 19",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_19",
+      "humanName": "Adverse Reactions — group 20",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_20",
+      "humanName": "Treatment Landscape — group 21",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_21",
+      "humanName": "Clinical Trial Results — group 22",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_22",
+      "humanName": "Study Design — group 23",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_23",
+      "humanName": "Crs Icans Events — group 24",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_24",
+      "humanName": "Crs Icans Events — group 25",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_25",
+      "humanName": "Study Design — group 26",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_26",
+      "humanName": "Clinical Trial Results — group 27",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_27",
+      "humanName": "Contact A Rep — group 28",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_28",
+      "humanName": "3l Fl — group 29",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_29",
+      "humanName": "Adverse Reactions — group 30",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_30",
+      "humanName": "Dosing Administration — group 31",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_31",
+      "humanName": "Dosing Administration — group 32",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_32",
+      "humanName": "Treatment Landscape — group 33",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    }
+  ],
+  "generatedAt": "2026-04-13T12:41:11.291Z"
+}

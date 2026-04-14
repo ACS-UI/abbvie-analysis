@@ -1,0 +1,26 @@
+{
+  "blockId": "video_thumbnails",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Video Thumbnails",
+  "description": "Displays thumbnails for additional video content.",
+  "domHints": {
+    "selectors": [
+      ".epi-videos-thumbnail-margin"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

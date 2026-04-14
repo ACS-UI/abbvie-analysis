@@ -1,0 +1,27 @@
+{
+  "blockId": "references_accordion",
+  "templateIds": [
+    "tpl_6",
+    "tpl_13"
+  ],
+  "name": "References Accordion",
+  "description": "Accordion listing references for the provided information.",
+  "domHints": {
+    "selectors": [
+      ".accordion-references"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

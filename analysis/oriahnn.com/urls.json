@@ -1,0 +1,133 @@
+{
+  "entryUrl": "https://www.oriahnn.com/",
+  "discoveredAt": "2026-04-13T15:29:21.116Z",
+  "urls": [
+    {
+      "url": "https://www.oriahnn.com/",
+      "normalised": "https://www.oriahnn.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/savings-card",
+      "normalised": "https://www.oriahnn.com/savings-card",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/content/elagolix/tel%2B1-833-782-7241",
+      "normalised": "https://www.oriahnn.com/content/elagolix/tel%2B1-833-782-7241",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/side-effects-and-safety-considerations",
+      "normalised": "https://www.oriahnn.com/side-effects-and-safety-considerations",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/www.bloompregnancyregistry.com",
+      "normalised": "https://www.oriahnn.com/www.bloompregnancyregistry.com",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/oriahnn-reviews",
+      "normalised": "https://www.oriahnn.com/oriahnn-reviews",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/search-results",
+      "normalised": "https://www.oriahnn.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/what-is-oriahnn",
+      "normalised": "https://www.oriahnn.com/what-is-oriahnn",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/savings-and-insurance",
+      "normalised": "https://www.oriahnn.com/savings-and-insurance",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/site-map",
+      "normalised": "https://www.oriahnn.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/heavy-periods-quiz",
+      "normalised": "https://www.oriahnn.com/heavy-periods-quiz",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/how-to-take-oriahnn",
+      "normalised": "https://www.oriahnn.com/how-to-take-oriahnn",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/talking-to-your-gynecologist",
+      "normalised": "https://www.oriahnn.com/talking-to-your-gynecologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/uterine-fibroids-symptoms",
+      "normalised": "https://www.oriahnn.com/uterine-fibroids-symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/what-are-uterine-fibroids",
+      "normalised": "https://www.oriahnn.com/what-are-uterine-fibroids",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/clinical-trials",
+      "normalised": "https://www.oriahnn.com/clinical-trials",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.oriahnn.com/tel%2B1-833-782-7241",
+      "normalised": "https://www.oriahnn.com/tel%2B1-833-782-7241",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 17,
+    "bySource": {
+      "sitemap": 2,
+      "crawl": 15,
+      "manual": 0
+    }
+  }
+}

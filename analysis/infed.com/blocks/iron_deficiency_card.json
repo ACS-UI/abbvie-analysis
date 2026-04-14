@@ -1,0 +1,26 @@
+{
+  "blockId": "iron_deficiency_card",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Iron Deficiency Card",
+  "description": "Highlights information about iron deficiency and anemia, including symptoms and diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".iron-deficiency-card"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

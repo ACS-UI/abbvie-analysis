@@ -1,0 +1,26 @@
+{
+  "blockId": "targeting_inflammation_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Targeting Inflammation Section",
+  "description": "Discusses the approach to targeting inflammation to reduce macular edema.",
+  "domHints": {
+    "selectors": [
+      "#targeting"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

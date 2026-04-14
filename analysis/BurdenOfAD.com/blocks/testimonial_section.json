@@ -1,0 +1,27 @@
+{
+  "blockId": "testimonial_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_4"
+  ],
+  "name": "Testimonial Section",
+  "description": "Provides patient testimonials and insights into living with atopic dermatitis.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.speech-bubble"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

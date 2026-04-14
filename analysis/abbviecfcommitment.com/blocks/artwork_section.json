@@ -1,0 +1,35 @@
+{
+  "blockId": "artwork_section",
+  "templateIds": [
+    "tpl_13",
+    "tpl_26",
+    "tpl_34",
+    "tpl_38",
+    "tpl_39",
+    "tpl_40",
+    "tpl_42",
+    "tpl_43",
+    "tpl_44",
+    "tpl_46"
+  ],
+  "name": "Artwork Section",
+  "description": "Showcases the scholar's creative submission with a downloadable link.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.container_round-top img"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

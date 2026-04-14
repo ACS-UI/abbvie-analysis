@@ -1,0 +1,26 @@
+{
+  "blockId": "doctor_locator_tool",
+  "templateIds": [
+    "tpl_19"
+  ],
+  "name": "Doctor Locator Tool",
+  "description": "Provides a form for users to search for EPI doctors by ZIP code.",
+  "domHints": {
+    "selectors": [
+      ".doctor-locator-app"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_19 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

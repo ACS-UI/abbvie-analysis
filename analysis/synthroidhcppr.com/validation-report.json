@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.synthroidhcppr.com/",
+  "normalisedUrl": "https://www.synthroidhcppr.com/",
+  "finalUrlAfterRedirects": "https://www.synthroidhcppr.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:14:28.619Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

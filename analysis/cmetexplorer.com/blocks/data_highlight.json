@@ -1,0 +1,28 @@
+{
+  "blockId": "data_highlight",
+  "templateIds": [
+    "tpl_85",
+    "tpl_137"
+  ],
+  "name": "Data Highlight",
+  "description": "A section showcasing key statistics or achievements.",
+  "domHints": {
+    "selectors": [
+      "div.dashboard-card-facts",
+      "div.content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_85 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,30 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.vuity.com/about-vuity",
+          "https://www.vuity.com/what-is-presbyopia",
+          "https://www.vuity.com/termsandconditions",
+          "https://www.vuity.com/",
+          "https://www.vuity.com/frequently-asked-questions",
+          "https://www.vuity.com/sitemap",
+          "https://www.vuity.com/find-a-doctor",
+          "https://www.vuity.com/cost",
+          "https://www.vuity.com/email-verification",
+          "https://www.vuity.com/your-account-exist"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:44:48.241Z"
+}

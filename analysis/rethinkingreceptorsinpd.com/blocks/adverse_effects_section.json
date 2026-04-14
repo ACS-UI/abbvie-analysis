@@ -1,0 +1,26 @@
+{
+  "blockId": "adverse_effects_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Adverse Effects Section",
+  "description": "Details the adverse effects associated with current treatments.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1827591813"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

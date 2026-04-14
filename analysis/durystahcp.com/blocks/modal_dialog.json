@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_dialog",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Modal Dialog",
+  "description": "Interactive modal for user actions or notifications.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

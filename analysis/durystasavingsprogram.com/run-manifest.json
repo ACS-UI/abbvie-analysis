@@ -1,0 +1,46 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:17:35.675Z",
+  "completedAt": "2026-04-13T15:19:50.852Z",
+  "input": {
+    "url": "https://www.durystasavingsprogram.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/durystasavingsprogram.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Durysta Home",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Site Map",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      }
+    ]
+  }
+}

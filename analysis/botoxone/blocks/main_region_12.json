@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_12",
+  "templateIds": [
+    "tpl_36"
+  ],
+  "name": "main region 12",
+  "description": "Major content region in main (div). Preview: Literature reviews reveal BOTOX® is the most studied preventive treatment approved for Chronic Migraine, underscoring ou…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(13)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_36. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

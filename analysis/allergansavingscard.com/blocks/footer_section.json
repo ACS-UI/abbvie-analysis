@@ -1,0 +1,31 @@
+{
+  "blockId": "footer_section",
+  "templateIds": [
+    "tpl_215",
+    "tpl_223",
+    "tpl_230",
+    "tpl_264",
+    "tpl_271",
+    "tpl_312"
+  ],
+  "name": "Footer Section",
+  "description": "Footer with additional navigation, contact information, and legal links.",
+  "domHints": {
+    "selectors": [
+      "#navigation-d8bb11057a"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_215 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

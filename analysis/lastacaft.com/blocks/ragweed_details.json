@@ -1,0 +1,26 @@
+{
+  "blockId": "ragweed_details",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Ragweed Details",
+  "description": "Information about ragweed allergens and their effects.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-ragweed-details"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,47 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_1",
+      "humanName": "Home Page",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Terms and Conditions Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Resources Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "How It Works Page",
+      "source": "llm_identify",
+      "blockCount": 12,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Search Results Page",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Sitemap Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    }
+  ],
+  "generatedAt": "2026-04-13T15:40:05.731Z"
+}

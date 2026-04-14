@@ -1,0 +1,26 @@
+{
+  "blockId": "heidi_story",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Heidi's Story Section",
+  "description": "Highlights Heidi's story with a video and transcript link.",
+  "domHints": {
+    "selectors": [
+      "#heidi-story"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

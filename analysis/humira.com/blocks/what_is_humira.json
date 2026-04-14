@@ -1,0 +1,26 @@
+{
+  "blockId": "what_is_humira",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "What is HUMIRA?",
+  "description": "Provides an overview of HUMIRA and its uses.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.mt-20.mt-md-30.mb-30"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

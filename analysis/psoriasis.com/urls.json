@@ -1,0 +1,588 @@
+{
+  "entryUrl": "https://www.psoriasis.com/",
+  "discoveredAt": "2026-04-13T16:00:57.572Z",
+  "urls": [
+    {
+      "url": "https://www.psoriasis.com/",
+      "normalised": "https://www.psoriasis.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-types",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-types",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/hidden-panels/hidden-panel-02",
+      "normalised": "https://www.psoriasis.com/hidden-panels/hidden-panel-02",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/what-is-psoriasis",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/what-is-psoriasis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/hidden-panels",
+      "normalised": "https://www.psoriasis.com/hidden-panels",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/hidden-panels/hidden-panel-021",
+      "normalised": "https://www.psoriasis.com/hidden-panels/hidden-panel-021",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/hidden-panels/hidden-panel-01",
+      "normalised": "https://www.psoriasis.com/hidden-panels/hidden-panel-01",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-symptoms",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis",
+      "normalised": "https://www.psoriasis.com/about-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/psoriasis-diagnosis",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/psoriasis-diagnosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/dermatologist-visit",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/dermatologist-visit",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-severity",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-severity",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-kit",
+      "normalised": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-kit",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/psoriasis-treatment-options",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/psoriasis-treatment-options",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/symptoms-quiz",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/symptoms-quiz",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-pictures",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-pictures",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-inflammation/psoriasis-and-inflammation-story-transcript",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-inflammation/psoriasis-and-inflammation-story-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-causes",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-causes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/search-results-1",
+      "normalised": "https://www.psoriasis.com/search-results-1",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/search-results",
+      "normalised": "https://www.psoriasis.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-inflammation",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-inflammation",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/how-to-treat-scalp-psoriasis",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/how-to-treat-scalp-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/sitemap",
+      "normalised": "https://www.psoriasis.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/winter-cold-weather-and-psoriasis",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/winter-cold-weather-and-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/home-remedies-for-psoriasis",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/home-remedies-for-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/psoriasis-patient-stories",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/psoriasis-patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/questions-to-ask-your-doctor",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/questions-to-ask-your-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/psoriasis-community",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/psoriasis-community",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-joint-pain",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-joint-pain",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/tips-for-scalp-psoriasis",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/tips-for-scalp-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/makeup-tips-for-psoriasis-cover-up",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/makeup-tips-for-psoriasis-cover-up",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-diet-exercise",
+      "normalised": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-diet-exercise",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/internal-interstitial",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/internal-interstitial",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-dermatologist",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-dermatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-or-eczema",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-or-eczema",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-myths",
+      "normalised": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-myths",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/how-to-prepare-for-a-doctors-appointment",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/how-to-prepare-for-a-doctors-appointment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/psoriasis-and-psoriatic-arthritis",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/psoriasis-and-psoriatic-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/test-page-1",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/test-page-1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-comorbidities",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-comorbidities",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-and-stress",
+      "normalised": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-and-stress",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/finding-psoriasis-doctor-dermatology-specialist",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/finding-psoriasis-doctor-dermatology-specialist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-winter-tips",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-winter-tips",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-kit/example-test",
+      "normalised": "https://www.psoriasis.com/living-with-psoriasis/psoriasis-kit/example-test",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/symptoms-quiz/results",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/symptoms-quiz/results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-causes/science-of-the-skin-transcript",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-causes/science-of-the-skin-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/psoriasis-support",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/psoriasis-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-comorbidities-bk",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-comorbidities-bk",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/symptoms-quiz-v2",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/symptoms-quiz-v2",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-by-location",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/psoriasis-by-location",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/talk-to-doctor-treatment-goals",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/talk-to-doctor-treatment-goals",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/psoriasis-patient-stories/speaking-up-about-psoriasis-transcript",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/psoriasis-patient-stories/speaking-up-about-psoriasis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/is-psoriasis-contagious-sexually",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/is-psoriasis-contagious-sexually",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/anti-inflammatory-foods",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/anti-inflammatory-foods",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/exercise-psoriasis-tips",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/exercise-psoriasis-tips",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/test-page",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/test-page",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/biologics-for-psoriasis",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/biologics-for-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/talking-to-your-dermatologist-about-psoriatic-arthritis",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/talking-to-your-dermatologist-about-psoriatic-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/switching-psoriasis-treatment-plan",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/switching-psoriasis-treatment-plan",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/psoriasis-patient-stories/tips-for-talking-transcript",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/psoriasis-patient-stories/tips-for-talking-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/untreated-psoriasis",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/untreated-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/about-psoriasis/psoriasis-types-test",
+      "normalised": "https://www.psoriasis.com/about-psoriasis/psoriasis-types-test",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/living-with-psoriasis",
+      "normalised": "https://www.psoriasis.com/living-with-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/content/dam/psoriasis/documents/USIMMD190127_BeneathTheSurface_PDF.pdf",
+      "normalised": "https://www.psoriasis.com/content/dam/psoriasis/documents/USIMMD190127_BeneathTheSurface_PDF.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.psoriasis.com/content/dam/psoriasis/documents/us-immd-200409-doctor-discussion-guide-pdf-blank-condensed-pdf-5-11-21_r3.pdf",
+      "normalised": "https://www.psoriasis.com/content/dam/psoriasis/documents/us-immd-200409-doctor-discussion-guide-pdf-blank-condensed-pdf-5-11-21_r3.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients/tips/warn-on-leave-fb",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients/tips/warn-on-leave-fb",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/lets-get-real-clear",
+      "normalised": "https://www.psoriasis.com/lets-get-real-clear",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/ddgemailsetup",
+      "normalised": "https://www.psoriasis.com/ddgemailsetup",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/questions-to-ask-your-doctor-v2",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/questions-to-ask-your-doctor-v2",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist0",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist0",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-dermatologist/results",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-dermatologist/results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/emailsetup",
+      "normalised": "https://www.psoriasis.com/emailsetup",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-kit",
+      "normalised": "https://www.psoriasis.com/psoriasis-kit",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/personalization",
+      "normalised": "https://www.psoriasis.com/personalization",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-patients",
+      "normalised": "https://www.psoriasis.com/psoriasis-patients",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist/dr-menter-it-takes-a-team-transcript",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist/dr-menter-it-takes-a-team-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/landing",
+      "normalised": "https://www.psoriasis.com/landing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/psoriasis-treatment-doctor/questions-to-ask-your-doctor-v2/results",
+      "normalised": "https://www.psoriasis.com/psoriasis-treatment-doctor/questions-to-ask-your-doctor-v2/results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.psoriasis.com/inline-links-demo",
+      "normalised": "https://www.psoriasis.com/inline-links-demo",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 82,
+    "bySource": {
+      "sitemap": 54,
+      "crawl": 28,
+      "manual": 0
+    }
+  }
+}

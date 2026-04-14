@@ -1,0 +1,27 @@
+{
+  "blockId": "chart_mbl_volume",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "MBL Volume Chart",
+  "description": "Chart illustrating menstrual blood loss volume and its impact on clinical outcomes.",
+  "domHints": {
+    "selectors": [
+      "#abbv-barchart-580394742-data",
+      ".abbv-interactive-chart[data-graph-w='300']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

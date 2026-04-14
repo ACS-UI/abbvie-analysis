@@ -1,0 +1,26 @@
+{
+  "blockId": "healthy_eating_section",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Healthy Eating Section",
+  "description": "Encourages healthy eating habits with supporting text and image.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1185216574"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

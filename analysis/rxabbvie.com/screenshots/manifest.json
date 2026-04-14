@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.rxabbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:50.092Z",
+      "selector": ".abbv-content > .newpar"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.rxabbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:50.092Z",
+      "selector": ".abbv-content-container"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.rxabbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:50.092Z",
+      "selector": "#background-container-244389776"
+    },
+    {
+      "relativePath": "cta_links__default.png",
+      "sourceUrl": "https://www.rxabbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:50.092Z",
+      "selector": ".cta.parbase"
+    },
+    {
+      "relativePath": "columns_section__default.png",
+      "sourceUrl": "https://www.rxabbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:35:50.092Z",
+      "selector": ".columns.parbase"
+    }
+  ]
+}

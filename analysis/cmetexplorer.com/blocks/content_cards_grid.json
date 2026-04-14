@@ -1,0 +1,27 @@
+{
+  "blockId": "content_cards_grid",
+  "templateIds": [
+    "tpl_101"
+  ],
+  "name": "Content Cards Grid",
+  "description": "Displays a grid of content cards with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".grid-row__col-with-3",
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_101 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

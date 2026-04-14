@@ -1,0 +1,26 @@
+{
+  "blockId": "three_column_cta",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Three Column CTA",
+  "description": "Features three call-to-action sections with images and links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.hep-c-hero-features"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

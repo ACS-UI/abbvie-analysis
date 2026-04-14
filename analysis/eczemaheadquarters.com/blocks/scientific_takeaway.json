@@ -1,0 +1,26 @@
+{
+  "blockId": "scientific_takeaway",
+  "templateIds": [
+    "tpl_36"
+  ],
+  "name": "Scientific Takeaway",
+  "description": "Summarizes the scientific insights related to the page topic.",
+  "domHints": {
+    "selectors": [
+      ".takeaway-tout-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_36 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "complications_section",
+  "templateIds": [
+    "tpl_5",
+    "tpl_19"
+  ],
+  "name": "Complications Section",
+  "description": "Describes extraintestinal manifestations of ulcerative colitis.",
+  "domHints": {
+    "selectors": [
+      "#uccomplications"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

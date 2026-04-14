@@ -1,0 +1,28 @@
+{
+  "blockId": "cta_links",
+  "templateIds": [
+    "tpl_8",
+    "tpl_9",
+    "tpl_12"
+  ],
+  "name": "CTA Links",
+  "description": "Call-to-action links for navigating to related resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.abbvieaccess-primaryHeaderNav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "content_section_two",
+  "templateIds": [
+    "tpl_267",
+    "tpl_297"
+  ],
+  "name": "Content Section Two",
+  "description": "A secondary content section with additional information and links.",
+  "domHints": {
+    "selectors": [
+      "#text-c752a427e5"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_267 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

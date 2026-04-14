@@ -1,0 +1,77 @@
+{
+  "entryUrl": "https://www.latestagensclc.com/",
+  "discoveredAt": "2026-04-13T16:06:32.350Z",
+  "urls": [
+    {
+      "url": "https://www.latestagensclc.com/",
+      "normalised": "https://www.latestagensclc.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.latestagensclc.com/sign-up",
+      "normalised": "https://www.latestagensclc.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.latestagensclc.com/demo",
+      "normalised": "https://www.latestagensclc.com/demo",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.latestagensclc.com/biomarker-testing",
+      "normalised": "https://www.latestagensclc.com/biomarker-testing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.latestagensclc.com/conversation-guide",
+      "normalised": "https://www.latestagensclc.com/conversation-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.latestagensclc.com/sitemap",
+      "normalised": "https://www.latestagensclc.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.latestagensclc.com/advancements-in-late-stage-nsclc",
+      "normalised": "https://www.latestagensclc.com/advancements-in-late-stage-nsclc",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.latestagensclc.com/site-map",
+      "normalised": "https://www.latestagensclc.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.latestagensclc.com/biomarker-facts",
+      "normalised": "https://www.latestagensclc.com/biomarker-facts",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "bySource": {
+      "sitemap": 1,
+      "crawl": 8,
+      "manual": 0
+    }
+  }
+}

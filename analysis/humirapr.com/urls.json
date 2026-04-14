@@ -1,0 +1,112 @@
+{
+  "entryUrl": "https://www.humirapr.com/",
+  "discoveredAt": "2026-04-13T16:10:31.543Z",
+  "urls": [
+    {
+      "url": "https://www.humirapr.com/",
+      "normalised": "https://www.humirapr.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/artritis_reumatoide/",
+      "normalised": "https://www.humirapr.com/artritis_reumatoide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/condicion/",
+      "normalised": "https://www.humirapr.com/condicion",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/artritis_juvenil_idiopatica/",
+      "normalised": "https://www.humirapr.com/artritis_juvenil_idiopatica",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/colitis_ulcerativa/",
+      "normalised": "https://www.humirapr.com/colitis_ulcerativa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/cronhs_pediatrica/",
+      "normalised": "https://www.humirapr.com/cronhs_pediatrica",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/hidradenitis_supurativa/",
+      "normalised": "https://www.humirapr.com/hidradenitis_supurativa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/artritis_psoriasica/",
+      "normalised": "https://www.humirapr.com/artritis_psoriasica",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/cubierta_y_acceso/",
+      "normalised": "https://www.humirapr.com/cubierta_y_acceso",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/cronhs/",
+      "normalised": "https://www.humirapr.com/cronhs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/psoriasis_en_placas/",
+      "normalised": "https://www.humirapr.com/psoriasis_en_placas",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/colitis_ulcerativa_pediatrica/",
+      "normalised": "https://www.humirapr.com/colitis_ulcerativa_pediatrica",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/espondilitis_anquilosante/",
+      "normalised": "https://www.humirapr.com/espondilitis_anquilosante",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.humirapr.com/uveitis_no_infecciosa/",
+      "normalised": "https://www.humirapr.com/uveitis_no_infecciosa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8"
+    }
+  ],
+  "stats": {
+    "total": 14,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 14,
+      "manual": 0
+    }
+  }
+}

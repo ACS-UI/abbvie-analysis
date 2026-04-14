@@ -1,0 +1,26 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.hepc.com/how-hep-c-transmitted",
+          "https://www.hepc.com/personalization",
+          "https://www.hepc.com/sitemap",
+          "https://www.hepc.com/living-with-hep-c/video-transcript-12",
+          "https://www.hepc.com/",
+          "https://www.hepc.com/search-results"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:53:45.447Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_biomarker_guide",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "CTA Biomarker Guide",
+  "description": "Encourages users to access the Biomarker Conversation Guide.",
+  "domHints": {
+    "selectors": [
+      ".stay-informed-container .stay-informed.shadow"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

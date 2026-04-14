@@ -1,0 +1,26 @@
+{
+  "blockId": "global_utility_links",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "Global Utility Links",
+  "description": "Provides quick access to essential links like returning to AbbVie.com.",
+  "domHints": {
+    "selectors": [
+      ".cmp-globalheader__right-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

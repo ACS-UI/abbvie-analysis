@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_cta_yes",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Modal CTA - Yes",
+  "description": "A call-to-action button allowing users to confirm and proceed to the external link.",
+  "domHints": {
+    "selectors": [
+      ".abbv-button-primary.abbv-continue-btn"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

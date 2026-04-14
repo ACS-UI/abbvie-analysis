@@ -1,0 +1,26 @@
+{
+  "blockId": "contact_us_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Contact Us Section",
+  "description": "Provides contact information for support services.",
+  "domHints": {
+    "selectors": [
+      "#contact-us"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

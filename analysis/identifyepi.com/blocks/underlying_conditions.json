@@ -1,0 +1,26 @@
+{
+  "blockId": "underlying_conditions",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Underlying Conditions",
+  "description": "Explains conditions and procedures that may be associated with the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.epi-bottom-columns-diagnosis"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

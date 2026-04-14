@@ -1,0 +1,274 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/biomarker-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/biomarker-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "header nav"
+    },
+    {
+      "relativePath": "columns__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/biomarker-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/biomarker-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/biomarker-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "[role='main'] > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/biomarker-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/biomarker-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "[role='main'] > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/biomarker-testing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "header > .abbv-eyebrow"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "section[role='main'] .abbv-title h1"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "section[role='main'] .abbv-rich-text.sitemap-links"
+    },
+    {
+      "relativePath": "footer_main__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "footer .footer-main-menu"
+    },
+    {
+      "relativePath": "footer_secondary__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "footer .abbv-footer-horizontal-secondary"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "cta_biomarker_guide__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".stay-informed-container .stay-informed.shadow"
+    },
+    {
+      "relativePath": "cta_stay_informed__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".stay-informed-testing-columns .stay-informed-box"
+    },
+    {
+      "relativePath": "cta_testing_matters__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".stay-informed-testing-columns .testing-matters-box"
+    },
+    {
+      "relativePath": "cta_advancements_nsclc__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".nsclc-biomarkers-columns .abbv-find-container"
+    },
+    {
+      "relativePath": "cta_about_biomarkers__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".nsclc-biomarkers-columns .abbv-learn-container"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".signup-banner-container"
+    },
+    {
+      "relativePath": "signup_form__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".signup-form-container iframe#aemFormFrame"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/conversation-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/conversation-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": ".abbv-container.conversation-guide-title-container"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.latestagensclc.com/conversation-guide",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:09:33.338Z",
+      "selector": "footer.abbv-footer"
+    }
+  ]
+}

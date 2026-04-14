@@ -1,0 +1,53 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11",
+    "tpl_12",
+    "tpl_13",
+    "tpl_14",
+    "tpl_15",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_19",
+    "tpl_20",
+    "tpl_21",
+    "tpl_22",
+    "tpl_23",
+    "tpl_25",
+    "tpl_26",
+    "tpl_27",
+    "tpl_28"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent introductory section with main message and image.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

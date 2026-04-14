@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_3",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "main region 3",
+  "description": "Major content region in main (div). Preview: ABBVIE IS COMMITTED TO MANUFACTURING INTEGRITY In August 2002, the FDA released the Current Good Manufacturing Practices…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

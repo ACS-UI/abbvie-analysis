@@ -1,0 +1,50 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T12:37:26.184Z",
+  "completedAt": "2026-04-13T12:38:19.565Z",
+  "input": {
+    "url": "https://www.duopahcp.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/duopahcp",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Page layout group 1",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Sitemap — group 2",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 2
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Telemedicine Resources — group 3",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      }
+    ]
+  }
+}

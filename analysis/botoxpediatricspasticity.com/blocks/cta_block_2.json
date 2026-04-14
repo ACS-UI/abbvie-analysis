@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_block_2",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Call-to-Action Block 2",
+  "description": "Encourages users to discuss the product with their doctor.",
+  "domHints": {
+    "selectors": [
+      ".cta-block.talk-to"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

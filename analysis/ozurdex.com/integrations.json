@@ -1,0 +1,25 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.ozurdex.com/",
+          "https://www.ozurdex.com/howitworks",
+          "https://www.ozurdex.com/aboutyourcondition",
+          "https://www.ozurdex.com/search-results",
+          "https://www.ozurdex.com/whattoexpect"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:41:03.268Z"
+}

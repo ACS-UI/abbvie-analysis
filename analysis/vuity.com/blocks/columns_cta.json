@@ -1,0 +1,26 @@
+{
+  "blockId": "columns_cta",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Columns with CTAs",
+  "description": "Displays columns with images, text, and call-to-action buttons for product usage and recommendations.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.home-learn-access-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "newsletter_signup",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Newsletter Signup Section",
+  "description": "Encourages users to sign up for updates and resources.",
+  "domHints": {
+    "selectors": [
+      "div.container.theme-plum--deeper-plum > div.row.-equal-height-col > div:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

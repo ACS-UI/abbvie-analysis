@@ -1,0 +1,26 @@
+{
+  "blockId": "iron_replacement",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Iron Replacement Dosage",
+  "description": "Explains the dosage for iron replacement due to blood loss.",
+  "domHints": {
+    "selectors": [
+      ".iron-replacement"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

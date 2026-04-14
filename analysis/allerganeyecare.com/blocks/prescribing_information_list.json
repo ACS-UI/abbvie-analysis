@@ -1,0 +1,26 @@
+{
+  "blockId": "prescribing_information_list",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Prescribing Information List",
+  "description": "Displays a list of prescribing information items with download links.",
+  "domHints": {
+    "selectors": [
+      ".p-i-list-view"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

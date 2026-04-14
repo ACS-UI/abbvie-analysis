@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_cta",
+  "templateIds": [
+    "tpl_19"
+  ],
+  "name": "Inline Call-to-Action",
+  "description": "Encourages users to explore further information or take action.",
+  "domHints": {
+    "selectors": [
+      ".target-tout-inline"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_19 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

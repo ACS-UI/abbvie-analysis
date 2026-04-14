@@ -1,0 +1,364 @@
+{
+  "entryUrl": "https://www.epkinly.com/",
+  "discoveredAt": "2026-04-13T12:38:12.519Z",
+  "urls": [
+    {
+      "url": "https://www.epkinly.com/",
+      "normalised": "https://www.epkinly.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure-spanish.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/considering-epkinly-doctor-discussion-guide.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/considering-epkinly-doctor-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/epkinly-doctor-discussion-guide.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/epkinly-doctor-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/what-to-expect-guide.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/what-to-expect-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/treatment-tracker.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/treatment-tracker.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/wallet-card.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/wallet-card.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/tarjeta-de-bolsillo.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/tarjeta-de-bolsillo.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/care-partner-patient-discussion-guide.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/care-partner-patient-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-care-partner-brochure.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-care-partner-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/2l-fl-what-to-expect-guide.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/2l-fl-what-to-expect-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/2l-fl-gu%C3%ADa-sobre-qu%C3%A9-esperar.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/2l-fl-gu%C3%ADa-sobre-qu%C3%A9-esperar.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/2l-fl-patient-brochure.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/2l-fl-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/2l-fl-patient-brochure-spanish.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/2l-fl-patient-brochure-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/dlbcl-care-partner-brochure.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/dlbcl-care-partner-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/dlbcl-patient-brochure.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/dlbcl-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/folleto-para-pacientes-con-ldcbg.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/folleto-para-pacientes-con-ldcbg.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/content/dam/epcoritamab/docs/gu%C3%ADa-sobre-qu%C3%A9-esperar.pdf",
+      "normalised": "https://www.epkinly.com/content/dam/epcoritamab/docs/gu%C3%ADa-sobre-qu%C3%A9-esperar.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinly.com/2l-fl",
+      "normalised": "https://www.epkinly.com/2l-fl",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/2l-fl/clinical-trial-results",
+      "normalised": "https://www.epkinly.com/2l-fl/clinical-trial-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl",
+      "normalised": "https://www.epkinly.com/dlbcl",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/what-is-epkinly",
+      "normalised": "https://www.epkinly.com/what-is-epkinly",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl/treatment",
+      "normalised": "https://www.epkinly.com/dlbcl/treatment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/terms-conditions",
+      "normalised": "https://www.epkinly.com/terms-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/contact-us",
+      "normalised": "https://www.epkinly.com/contact-us",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl/patient-stories",
+      "normalised": "https://www.epkinly.com/dlbcl/patient-stories",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/3l-fl/patient-support",
+      "normalised": "https://www.epkinly.com/3l-fl/patient-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/register",
+      "normalised": "https://www.epkinly.com/register",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/site-map",
+      "normalised": "https://www.epkinly.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/treatment-with-epkinly",
+      "normalised": "https://www.epkinly.com/treatment-with-epkinly",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl/clinical-trial-results",
+      "normalised": "https://www.epkinly.com/dlbcl/clinical-trial-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl/patient-support",
+      "normalised": "https://www.epkinly.com/dlbcl/patient-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/2l-fl/site-map",
+      "normalised": "https://www.epkinly.com/2l-fl/site-map",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/clinical-trial-results",
+      "normalised": "https://www.epkinly.com/clinical-trial-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/3l-fl/clinical-trial-results",
+      "normalised": "https://www.epkinly.com/3l-fl/clinical-trial-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/3l-fl/site-map",
+      "normalised": "https://www.epkinly.com/3l-fl/site-map",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/support",
+      "normalised": "https://www.epkinly.com/support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl/site-map",
+      "normalised": "https://www.epkinly.com/dlbcl/site-map",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/3l-fl/care-partner-support",
+      "normalised": "https://www.epkinly.com/3l-fl/care-partner-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/2l-fl/treatment",
+      "normalised": "https://www.epkinly.com/2l-fl/treatment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/3l-fl/treatment",
+      "normalised": "https://www.epkinly.com/3l-fl/treatment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/2l-fl/patient-support",
+      "normalised": "https://www.epkinly.com/2l-fl/patient-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/3l-fl",
+      "normalised": "https://www.epkinly.com/3l-fl",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl/care-partner-support",
+      "normalised": "https://www.epkinly.com/dlbcl/care-partner-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/search-results",
+      "normalised": "https://www.epkinly.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/2l-fl/care-partner-support",
+      "normalised": "https://www.epkinly.com/2l-fl/care-partner-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl/abbv-tab-1319259118-1",
+      "normalised": "https://www.epkinly.com/dlbcl/abbv-tab-1319259118-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl/abbv-tab-1319259118-2",
+      "normalised": "https://www.epkinly.com/dlbcl/abbv-tab-1319259118-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinly.com/dlbcl/abbv-tab-1319259118-0",
+      "normalised": "https://www.epkinly.com/dlbcl/abbv-tab-1319259118-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 50,
+    "bySource": {
+      "sitemap": 34,
+      "crawl": 16,
+      "manual": 0
+    }
+  }
+}

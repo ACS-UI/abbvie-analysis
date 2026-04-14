@@ -1,0 +1,26 @@
+{
+  "blockId": "study_design",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Study Design",
+  "description": "Provides an overview of the clinical study design and key details.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.mb-30"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

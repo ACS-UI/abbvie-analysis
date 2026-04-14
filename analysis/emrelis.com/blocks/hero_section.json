@@ -1,0 +1,29 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_3"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent introductory section with a large image and main headline.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text-v2.abbv-image-swap"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "header_utility_strip",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Global utility bar",
+  "description": "Top utility links (contact, subscribe, language, group sites) above primary navigation.",
+  "domHints": {
+    "selectors": [
+      "header > *:first-child"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "links",
+        "type": "list",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Header chrome on tpl_1. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Header"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_text_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Introductory Text Section",
+  "description": "Text content introducing the site's focus and mission.",
+  "domHints": {
+    "selectors": [
+      ".allergan-wevebeencr"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

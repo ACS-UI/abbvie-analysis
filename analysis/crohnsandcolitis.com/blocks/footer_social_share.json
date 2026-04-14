@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_social_share",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Footer Social Share",
+  "description": "Includes social media sharing options in the footer.",
+  "domHints": {
+    "selectors": [
+      ".footer-social-share"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

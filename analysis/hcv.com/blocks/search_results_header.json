@@ -1,0 +1,26 @@
+{
+  "blockId": "search_results_header",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Search Results Header",
+  "description": "Header section for the search results page, including branding and navigation.",
+  "domHints": {
+    "selectors": [
+      "header.abbv-header-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

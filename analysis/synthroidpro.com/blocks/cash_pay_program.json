@@ -1,0 +1,26 @@
+{
+  "blockId": "cash_pay_program",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Cash Pay Program",
+  "description": "Explains the cash-pay option and its benefits for patients.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section--min.fifty-fifty--centered"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

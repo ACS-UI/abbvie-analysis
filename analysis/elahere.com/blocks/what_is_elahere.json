@@ -1,0 +1,28 @@
+{
+  "blockId": "what_is_elahere",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "What is ELAHERE Section",
+  "description": "Provides an overview of the ELAHERE treatment, including audio pronunciation and eligibility criteria.",
+  "domHints": {
+    "selectors": [
+      ".container.theme-plum-1",
+      "h2",
+      "ul.-sm-disc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

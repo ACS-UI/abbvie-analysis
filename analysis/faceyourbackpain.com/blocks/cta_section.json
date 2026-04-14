@@ -1,0 +1,31 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_6",
+    "tpl_9",
+    "tpl_13",
+    "tpl_14",
+    "tpl_16",
+    "tpl_17"
+  ],
+  "name": "Call-to-Action Section",
+  "description": "Encourages users to take specific actions, such as taking a quiz or learning more about treatments.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-features"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

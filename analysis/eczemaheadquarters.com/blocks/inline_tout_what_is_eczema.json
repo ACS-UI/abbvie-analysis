@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_tout_what_is_eczema",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Inline Tout: What is Eczema?",
+  "description": "Provides information about what eczema is, including visuals and a call-to-action.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.personalization-inline-tout.ez-cols-4-8:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

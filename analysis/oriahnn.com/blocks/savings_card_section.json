@@ -1,0 +1,27 @@
+{
+  "blockId": "savings_card_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1"
+  ],
+  "name": "Savings Card Section",
+  "description": "Information and call-to-action for accessing the ORIAHNN Savings Card.",
+  "domHints": {
+    "selectors": [
+      ".oriah-fibroids-symp-flex-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

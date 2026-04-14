@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Call-to-Action Section",
+  "description": "Encourages user interaction with buttons leading to further information or actions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.pt-md-180.pb-md-30"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

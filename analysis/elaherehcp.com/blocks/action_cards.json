@@ -1,0 +1,26 @@
+{
+  "blockId": "action_cards",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Action Cards",
+  "description": "Cards with call-to-action links for further engagement.",
+  "domHints": {
+    "selectors": [
+      ".cmp-container .cmp-row.cmp-row--equal-height.p__reset-t"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

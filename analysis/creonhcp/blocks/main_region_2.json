@@ -1,0 +1,39 @@
+{
+  "blockId": "main_region_2",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_3",
+    "tpl_4",
+    "tpl_12",
+    "tpl_15",
+    "tpl_17",
+    "tpl_18",
+    "tpl_20",
+    "tpl_22",
+    "tpl_23",
+    "tpl_24",
+    "tpl_28",
+    "tpl_32"
+  ],
+  "name": "main region 2",
+  "description": "Major content region in main (div). Preview: Learn more about EPI from your peers Explore videos featuring peer insights on how they manage, diagnose, and treat EPI …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

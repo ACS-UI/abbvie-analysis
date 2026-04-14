@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_header",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Modal Header",
+  "description": "Displays the main title of the modal, informing users about the context of the modal.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-title > h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

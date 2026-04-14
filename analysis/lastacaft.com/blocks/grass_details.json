@@ -1,0 +1,26 @@
+{
+  "blockId": "grass_details",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Grass Details",
+  "description": "Information about grass allergens and their seasonal impact.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-grass-details"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

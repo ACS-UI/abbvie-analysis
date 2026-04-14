@@ -1,0 +1,27 @@
+{
+  "blockId": "advertising_cookies_accordion",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Advertising Cookies Accordion",
+  "description": "Accordion section detailing information about advertising cookies.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-accordion-blade-3",
+      "div.abbv-accordion-blade-3 > div.abbv-accordion-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

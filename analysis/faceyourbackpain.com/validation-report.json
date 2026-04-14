@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.faceyourbackpain.com/",
+  "normalisedUrl": "https://www.faceyourbackpain.com/",
+  "finalUrlAfterRedirects": "https://www.faceyourbackpain.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:46:19.777Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

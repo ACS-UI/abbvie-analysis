@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_studies",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Clinical Studies",
+  "description": "Provides information on the product's performance in clinical studies.",
+  "domHints": {
+    "selectors": [
+      ".vuitypro-client-option-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Agent Unassigned Page",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Video Email Page",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Search Results Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Savings Card Page",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Find Doctor Page",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Site Map Page",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Email Resource Page",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 3
+    }
+  ],
+  "generatedAt": "2026-04-13T15:45:04.344Z"
+}

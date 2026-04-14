@@ -1,0 +1,26 @@
+{
+  "blockId": "search_results",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Search Results",
+  "description": "Displays the list of doctors and map based on the search criteria.",
+  "domHints": {
+    "selectors": [
+      "#searchResults"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Search"
+}

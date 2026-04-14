@@ -1,0 +1,27 @@
+{
+  "blockId": "rich_text_centered",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Centered Rich Text",
+  "description": "Displays centered rich text content.",
+  "domHints": {
+    "selectors": [
+      ".rich-text",
+      ".abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

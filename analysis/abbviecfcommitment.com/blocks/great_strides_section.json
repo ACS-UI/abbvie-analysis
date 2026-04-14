@@ -1,0 +1,26 @@
+{
+  "blockId": "great_strides_section",
+  "templateIds": [
+    "tpl_20"
+  ],
+  "name": "Great Strides Section",
+  "description": "Details about the Great Strides initiative with an image and call-to-action.",
+  "domHints": {
+    "selectors": [
+      "#background-container-2032040547"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_20 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,214 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": "#background-container-244389776"
+    },
+    {
+      "relativePath": "product_cards__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-flex-container.allergan-ays-brands"
+    },
+    {
+      "relativePath": "enrollment_cta__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".allergan-enroll-now-section"
+    },
+    {
+      "relativePath": "terms_conditions__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".allergan-terms-conditions"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".list-links--footer-ays"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "modal_enroll_now__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-modal.enrollnow"
+    },
+    {
+      "relativePath": "modal_demo_video__default.png",
+      "sourceUrl": "https://www.savewithays.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-modal.demovideo"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.savewithays.com/contact",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.savewithays.com/contact",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "contact_information__default.png",
+      "sourceUrl": "https://www.savewithays.com/contact",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-rich-text.allergan-custom-service-title"
+    },
+    {
+      "relativePath": "product_links__default.png",
+      "sourceUrl": "https://www.savewithays.com/contact",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-flex-container"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.savewithays.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.savewithays.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-row-container"
+    },
+    {
+      "relativePath": "enrollment_section__default.png",
+      "sourceUrl": "https://www.savewithays.com/savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-enroll-form"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.savewithays.com/savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".list-links--footer-ays"
+    },
+    {
+      "relativePath": "enrollment_form__default.png",
+      "sourceUrl": "https://www.savewithays.com/enroll-now",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".aemform"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.savewithays.com/unsubscribe",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "unsubscribe_form__default.png",
+      "sourceUrl": "https://www.savewithays.com/unsubscribe",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:27:17.417Z",
+      "selector": ".cmp-formsembed-widget"
+    }
+  ]
+}

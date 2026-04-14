@@ -1,0 +1,26 @@
+{
+  "blockId": "bone_density_measurement",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Bone Density Measurement",
+  "description": "Provides educational content on measuring bone density.",
+  "domHints": {
+    "selectors": [
+      ".wh-digitalobgyn-bone-density-new"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

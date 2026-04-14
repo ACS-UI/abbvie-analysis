@@ -1,0 +1,26 @@
+{
+  "blockId": "psychosocial_impact",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Psychosocial Impact Section",
+  "description": "Discusses the psychological and social effects of HS.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.light-grey-fill"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

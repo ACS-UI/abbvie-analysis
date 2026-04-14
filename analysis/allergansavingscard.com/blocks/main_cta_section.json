@@ -1,0 +1,26 @@
+{
+  "blockId": "main_cta_section",
+  "templateIds": [
+    "tpl_20"
+  ],
+  "name": "Main CTA Section",
+  "description": "Central call-to-action area with buttons and links for key topics.",
+  "domHints": {
+    "selectors": [
+      "#container-d72412c157"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_20 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

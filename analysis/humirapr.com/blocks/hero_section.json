@@ -1,0 +1,33 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_4",
+    "tpl_5",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_12",
+    "tpl_13"
+  ],
+  "name": "Hero Section",
+  "description": "Highlights the main message and visual for the page.",
+  "domHints": {
+    "selectors": [
+      "section.arthritis-hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

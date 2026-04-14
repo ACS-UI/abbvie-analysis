@@ -1,0 +1,26 @@
+{
+  "blockId": "content_overview_links",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Content Overview Links",
+  "description": "Provides quick links to sections such as What is VIBERZI, Safety of VIBERZI, and Daily Dosing.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.sub-header-bottom-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

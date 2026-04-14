@@ -1,0 +1,49 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.epkinly.com/",
+          "https://www.epkinly.com/content/dam/epcoritamab/docs/fl-patient-brochure-spanish.pdf",
+          "https://www.epkinly.com/content/dam/epcoritamab/docs/folleto-para-pacientes-con-ldcbg.pdf",
+          "https://www.epkinly.com/2l-fl",
+          "https://www.epkinly.com/2l-fl/clinical-trial-results",
+          "https://www.epkinly.com/dlbcl",
+          "https://www.epkinly.com/what-is-epkinly",
+          "https://www.epkinly.com/dlbcl/treatment",
+          "https://www.epkinly.com/terms-conditions",
+          "https://www.epkinly.com/contact-us",
+          "https://www.epkinly.com/dlbcl/patient-stories",
+          "https://www.epkinly.com/register",
+          "https://www.epkinly.com/site-map",
+          "https://www.epkinly.com/treatment-with-epkinly",
+          "https://www.epkinly.com/dlbcl/clinical-trial-results",
+          "https://www.epkinly.com/2l-fl/site-map",
+          "https://www.epkinly.com/clinical-trial-results",
+          "https://www.epkinly.com/3l-fl/clinical-trial-results",
+          "https://www.epkinly.com/3l-fl/site-map",
+          "https://www.epkinly.com/support",
+          "https://www.epkinly.com/dlbcl/site-map",
+          "https://www.epkinly.com/3l-fl/care-partner-support",
+          "https://www.epkinly.com/2l-fl/treatment",
+          "https://www.epkinly.com/3l-fl/treatment",
+          "https://www.epkinly.com/2l-fl/patient-support",
+          "https://www.epkinly.com/3l-fl",
+          "https://www.epkinly.com/dlbcl/care-partner-support",
+          "https://www.epkinly.com/search-results",
+          "https://www.epkinly.com/2l-fl/care-partner-support"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T12:39:33.176Z"
+}

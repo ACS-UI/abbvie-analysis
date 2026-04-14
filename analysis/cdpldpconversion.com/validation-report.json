@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.cdpldpconversion.com/",
+  "normalisedUrl": "https://www.cdpldpconversion.com/",
+  "finalUrlAfterRedirects": "https://www.cdpldpconversion.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:19:16.408Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

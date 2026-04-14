@@ -1,0 +1,29 @@
+{
+  "blockId": "important_safety_information",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_3",
+    "tpl_7"
+  ],
+  "name": "Important Safety Information",
+  "description": "Contains safety information and usage guidelines for SAVELLA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-inline-use-isi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

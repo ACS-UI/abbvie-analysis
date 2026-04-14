@@ -1,0 +1,30 @@
+{
+  "blockId": "instructions_section",
+  "templateIds": [
+    "tpl_6",
+    "tpl_16",
+    "tpl_17",
+    "tpl_22",
+    "tpl_25"
+  ],
+  "name": "Instructions Section",
+  "description": "Provides step-by-step instructions for preparing the recipe.",
+  "domHints": {
+    "selectors": [
+      ".recipes_instructions-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

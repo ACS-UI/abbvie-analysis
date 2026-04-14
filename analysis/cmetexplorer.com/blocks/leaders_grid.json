@@ -1,0 +1,27 @@
+{
+  "blockId": "leaders_grid",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Leaders Grid",
+  "description": "Displays a grid of leader profiles with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".grid-row",
+      ".grid-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

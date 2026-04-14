@@ -1,0 +1,26 @@
+{
+  "blockId": "image_text_block",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Image and Text Block",
+  "description": "Combines imagery and text to highlight specific features or benefits.",
+  "domHints": {
+    "selectors": [
+      ".image-icon-block--home"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

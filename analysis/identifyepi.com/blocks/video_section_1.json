@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section_1",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Video Section 1",
+  "description": "Includes a video player and accordion for transcript related to talking to your doctor.",
+  "domHints": {
+    "selectors": [
+      "div[data-trigger-for='abbv-accordion-blade-1']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

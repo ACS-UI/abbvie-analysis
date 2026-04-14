@@ -1,0 +1,27 @@
+{
+  "blockId": "main_region_2",
+  "templateIds": [
+    "tpl_0",
+    "tpl_6"
+  ],
+  "name": "main region 2",
+  "description": "Major content region in main (div). Preview: A legacy of trust that keeps growing 35+years of clinical experience Since FDA approval of Blepharospasm and Strabismus …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

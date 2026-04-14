@@ -1,0 +1,30 @@
+{
+  "blockId": "select_next_level",
+  "templateIds": [
+    "tpl_2",
+    "tpl_6",
+    "tpl_8",
+    "tpl_11",
+    "tpl_12"
+  ],
+  "name": "Select Next Level",
+  "description": "Encourages users to take further actions with call-to-action buttons.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.select-next-level-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "warnings_precautions",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Warnings and Precautions",
+  "description": "Lists important warnings and precautions related to the product.",
+  "domHints": {
+    "selectors": [
+      ".safety-warning-curve-contain"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

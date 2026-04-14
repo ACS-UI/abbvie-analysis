@@ -1,0 +1,26 @@
+{
+  "blockId": "request_updates_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Request Updates Section",
+  "description": "Allows users to request updates and resources.",
+  "domHints": {
+    "selectors": [
+      ".hcp-request"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Video Section",
+  "description": "Provides a video explaining how Synthroid works.",
+  "domHints": {
+    "selectors": [
+      ".container-outline--video"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

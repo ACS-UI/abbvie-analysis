@@ -1,0 +1,26 @@
+{
+  "blockId": "locator_tool",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Locator Tool",
+  "description": "Allows users to search for HS specialists by location and other filters.",
+  "domHints": {
+    "selectors": [
+      ".hs-dr-locator"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

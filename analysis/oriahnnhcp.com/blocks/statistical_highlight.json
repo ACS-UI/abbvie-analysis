@@ -1,0 +1,26 @@
+{
+  "blockId": "statistical_highlight",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Statistical Highlight",
+  "description": "Highlights key statistics about the condition being discussed.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.orihcp-access-width"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

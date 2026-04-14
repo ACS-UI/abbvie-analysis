@@ -1,0 +1,29 @@
+{
+  "blockId": "prose_columns",
+  "templateIds": [
+    "tpl_4",
+    "tpl_92",
+    "tpl_139",
+    "tpl_161"
+  ],
+  "name": "Prose Columns",
+  "description": "Presents detailed textual information in a columnar layout.",
+  "domHints": {
+    "selectors": [
+      ".cmp-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

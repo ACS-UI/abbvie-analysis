@@ -1,0 +1,33 @@
+{
+  "blockId": "section_navigation",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_11",
+    "tpl_14"
+  ],
+  "name": "Section Navigation",
+  "description": "Sticky navigation for quickly accessing different sections of the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-section-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

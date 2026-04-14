@@ -1,0 +1,26 @@
+{
+  "blockId": "psa_fact_callout",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "PsA Fact Callout",
+  "description": "Callout section providing a fact about Psoriatic Arthritis.",
+  "domHints": {
+    "selectors": [
+      ".callout-psa-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

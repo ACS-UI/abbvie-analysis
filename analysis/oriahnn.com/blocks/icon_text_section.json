@@ -1,0 +1,26 @@
+{
+  "blockId": "icon_text_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Icon and Text Section",
+  "description": "Displays information about proven results with an accompanying icon.",
+  "domHints": {
+    "selectors": [
+      ".ori-x-icon-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

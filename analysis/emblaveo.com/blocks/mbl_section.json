@@ -1,0 +1,26 @@
+{
+  "blockId": "mbl_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "MBL Section",
+  "description": "Details on MBL-producing Enterobacterales.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.inner-container.mbl-producing-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

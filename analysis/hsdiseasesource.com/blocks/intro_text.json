@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Introduction Text",
+  "description": "Introduces the resources available for practice and patients.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flush-first-last.abbv-flex-m-col-d-row > .abbv-flex-item.flex-grow-8"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

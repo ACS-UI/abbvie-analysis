@@ -1,0 +1,26 @@
+{
+  "blockId": "visual_content",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Visual Content",
+  "description": "Displays images and charts relevant to the content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

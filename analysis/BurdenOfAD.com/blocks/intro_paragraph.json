@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_paragraph",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides an introductory explanation of the page's purpose.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section-container.background--lavender-light .abbv-rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

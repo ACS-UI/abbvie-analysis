@@ -1,0 +1,26 @@
+{
+  "blockId": "global_top_nav",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Global Top Navigation",
+  "description": "Displays a message with links to resources and contact information.",
+  "domHints": {
+    "selectors": [
+      "header .top-nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

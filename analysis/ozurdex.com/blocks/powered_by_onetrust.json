@@ -1,0 +1,26 @@
+{
+  "blockId": "powered_by_onetrust",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Powered by OneTrust",
+  "description": "Displays the OneTrust logo and links to their cookie consent product.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-image.external-link > a"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

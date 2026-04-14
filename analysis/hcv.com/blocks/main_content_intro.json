@@ -1,0 +1,27 @@
+{
+  "blockId": "main_content_intro",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2"
+  ],
+  "name": "Main Content Introduction",
+  "description": "Introduction to the main content with a title and description.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1709323885"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

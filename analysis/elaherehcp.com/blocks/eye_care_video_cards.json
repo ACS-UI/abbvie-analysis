@@ -1,0 +1,26 @@
+{
+  "blockId": "eye_care_video_cards",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Eye Care Video Cards",
+  "description": "Displays video cards related to eye care management.",
+  "domHints": {
+    "selectors": [
+      "#main"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

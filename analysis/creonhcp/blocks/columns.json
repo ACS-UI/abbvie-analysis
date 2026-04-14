@@ -1,0 +1,26 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_23"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: Based on the FDA-approved label, CREON is the only PERT specifically studied in patients with EPI due to chronic pancrea…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_23. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

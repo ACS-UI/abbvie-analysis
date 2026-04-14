@@ -1,0 +1,26 @@
+{
+  "blockId": "page_intro",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Page Introduction",
+  "description": "Introductory text explaining the purpose and content of the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.line-height-20"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

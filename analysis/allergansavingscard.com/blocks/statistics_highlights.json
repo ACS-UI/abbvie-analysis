@@ -1,0 +1,26 @@
+{
+  "blockId": "statistics_highlights",
+  "templateIds": [
+    "tpl_20"
+  ],
+  "name": "Statistics Highlights",
+  "description": "Displays key statistics and facts in a visually engaging format.",
+  "domHints": {
+    "selectors": [
+      ".dashboard-card-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_20 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,238 @@
+{
+  "entryUrl": "https://www.botoxspasticity.com/",
+  "discoveredAt": "2026-04-13T12:24:59.924Z",
+  "urls": [
+    {
+      "url": "https://www.botoxspasticity.com/",
+      "normalised": "https://www.botoxspasticity.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/content/dam/botoxspasticity/PDF/Botox_Spasticity_Patient_Brochure.pdf",
+      "normalised": "https://www.botoxspasticity.com/content/dam/botoxspasticity/PDF/Botox_Spasticity_Patient_Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/your-care-team",
+      "normalised": "https://www.botoxspasticity.com/your-care-team",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/find-a-botox-specialist",
+      "normalised": "https://www.botoxspasticity.com/find-a-botox-specialist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/caregiving-matters",
+      "normalised": "https://www.botoxspasticity.com/caregiving-matters",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/resources-and-tools",
+      "normalised": "https://www.botoxspasticity.com/resources-and-tools",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/reviews-and-stories",
+      "normalised": "https://www.botoxspasticity.com/reviews-and-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/savings",
+      "normalised": "https://www.botoxspasticity.com/savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/savings-support",
+      "normalised": "https://www.botoxspasticity.com/savings-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/reviews-and-stories/bobs-testimonial",
+      "normalised": "https://www.botoxspasticity.com/reviews-and-stories/bobs-testimonial",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/understanding-spasticity",
+      "normalised": "https://www.botoxspasticity.com/understanding-spasticity",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/reviews-and-stories/maddis-testimonial",
+      "normalised": "https://www.botoxspasticity.com/reviews-and-stories/maddis-testimonial",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/diagnosis",
+      "normalised": "https://www.botoxspasticity.com/diagnosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/cost",
+      "normalised": "https://www.botoxspasticity.com/cost",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/sitemap",
+      "normalised": "https://www.botoxspasticity.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/reviews-and-stories/in-the-media",
+      "normalised": "https://www.botoxspasticity.com/reviews-and-stories/in-the-media",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/reviews-and-stories/amys-testimonial",
+      "normalised": "https://www.botoxspasticity.com/reviews-and-stories/amys-testimonial",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/side-effects",
+      "normalised": "https://www.botoxspasticity.com/side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/about-botox",
+      "normalised": "https://www.botoxspasticity.com/about-botox",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/reviews-and-stories/progress-takes-commitment",
+      "normalised": "https://www.botoxspasticity.com/reviews-and-stories/progress-takes-commitment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/reviews-and-stories/spasticity-should-be-prioritized",
+      "normalised": "https://www.botoxspasticity.com/reviews-and-stories/spasticity-should-be-prioritized",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/what-to-expect",
+      "normalised": "https://www.botoxspasticity.com/what-to-expect",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/reviews-and-stories/there-are-specialists-who-can-help",
+      "normalised": "https://www.botoxspasticity.com/reviews-and-stories/there-are-specialists-who-can-help",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/abbv-tab-1262967559-1",
+      "normalised": "https://www.botoxspasticity.com/abbv-tab-1262967559-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/abbv-tab-1718400163-1",
+      "normalised": "https://www.botoxspasticity.com/abbv-tab-1718400163-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/abbv-tab-1262967559-0",
+      "normalised": "https://www.botoxspasticity.com/abbv-tab-1262967559-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/abbv-tab-1718400163-0",
+      "normalised": "https://www.botoxspasticity.com/abbv-tab-1718400163-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/abbv-tab-1567703571-1",
+      "normalised": "https://www.botoxspasticity.com/abbv-tab-1567703571-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/abbv-tab-1567703571-0",
+      "normalised": "https://www.botoxspasticity.com/abbv-tab-1567703571-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/abbv-tab-1718400163-3",
+      "normalised": "https://www.botoxspasticity.com/abbv-tab-1718400163-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/abbv-tab-1718400163-4",
+      "normalised": "https://www.botoxspasticity.com/abbv-tab-1718400163-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.botoxspasticity.com/abbv-tab-1718400163-2",
+      "normalised": "https://www.botoxspasticity.com/abbv-tab-1718400163-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 32,
+    "bySource": {
+      "sitemap": 8,
+      "crawl": 24,
+      "manual": 0
+    }
+  }
+}

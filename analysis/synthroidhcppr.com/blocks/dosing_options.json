@@ -1,0 +1,26 @@
+{
+  "blockId": "dosing_options",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Dosing Options",
+  "description": "Displays the available Synthroid dosing options with corresponding pill images.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.pill-dosing-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

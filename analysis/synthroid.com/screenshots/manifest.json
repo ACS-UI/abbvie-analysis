@@ -1,0 +1,304 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.synthroid.com/what-is-synthroid",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.synthroid.com/what-is-synthroid",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.synthroid.com/what-is-synthroid",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-background-container.marquee--image"
+    },
+    {
+      "relativePath": "cards_section__default.png",
+      "sourceUrl": "https://www.synthroid.com/what-is-synthroid",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-flex-container-v2.card-container"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.synthroid.com/what-is-synthroid",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".container-outline--video"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://www.synthroid.com/what-is-synthroid",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-accordion.transcript-accordion"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.synthroid.com/what-is-synthroid",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-container.video-player--cta"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.synthroid.com/what-is-synthroid",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "hero_section_desktop__default.png",
+      "sourceUrl": "https://www.synthroid.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": "#background-container-244389776"
+    },
+    {
+      "relativePath": "hero_section_mobile__default.png",
+      "sourceUrl": "https://www.synthroid.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": "#background-container-1640940319"
+    },
+    {
+      "relativePath": "cta_cards__default.png",
+      "sourceUrl": "https://www.synthroid.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".card-container"
+    },
+    {
+      "relativePath": "info_tree__default.png",
+      "sourceUrl": "https://www.synthroid.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-info-tree"
+    },
+    {
+      "relativePath": "video_story__default.png",
+      "sourceUrl": "https://www.synthroid.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-video-player"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.synthroid.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.synthroid.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "signup_form__default.png",
+      "sourceUrl": "https://www.synthroid.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": "#aemFormFrame"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.synthroid.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.synthroid.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.synthroid.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.synthroid.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.synthroid.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-flex-container-v2"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.synthroid.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "faq_section_synthroid__default.png",
+      "sourceUrl": "https://www.synthroid.com/faq",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-container.section.marquee-shift.no-color--card-bg"
+    },
+    {
+      "relativePath": "faq_section_dosing__default.png",
+      "sourceUrl": "https://www.synthroid.com/faq",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-container.section--full.color--card-bg:nth-of-type(1)"
+    },
+    {
+      "relativePath": "faq_section_payment__default.png",
+      "sourceUrl": "https://www.synthroid.com/faq",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-container.section.no-color--card-bg"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.synthroid.com/synthroid-delivers-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "tabs_section__default.png",
+      "sourceUrl": "https://www.synthroid.com/synthroid-delivers-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-tabs--deliver"
+    },
+    {
+      "relativePath": "benefits_cards__default.png",
+      "sourceUrl": "https://www.synthroid.com/synthroid-delivers-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-flex-container-v2.card-container.pills"
+    },
+    {
+      "relativePath": "steps_to_enroll__default.png",
+      "sourceUrl": "https://www.synthroid.com/synthroid-delivers-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".large-ol.large-ol--secondary"
+    },
+    {
+      "relativePath": "faq_section__default.png",
+      "sourceUrl": "https://www.synthroid.com/synthroid-delivers-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:18:43.076Z",
+      "selector": ".abbv-accordion--secondary"
+    }
+  ]
+}

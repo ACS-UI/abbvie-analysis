@@ -1,0 +1,29 @@
+{
+  "blockId": "video_section",
+  "templateIds": [
+    "tpl_4",
+    "tpl_5",
+    "tpl_7",
+    "tpl_13"
+  ],
+  "name": "Video Section",
+  "description": "Includes a video player showcasing patient stories.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.mavyret-video-container__plain"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

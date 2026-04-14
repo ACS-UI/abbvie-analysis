@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Content Columns",
+  "description": "Displays detailed information about the product in a two-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.lastacaft-max-wd-1490.lastacaft-for-relief-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

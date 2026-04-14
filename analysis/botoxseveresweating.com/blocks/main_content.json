@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Main Content",
+  "description": "Holds the primary information about the product and its benefits.",
+  "domHints": {
+    "selectors": [
+      ".isi_bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,41 @@
+{
+  "blockId": "main_region_2",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_4",
+    "tpl_9",
+    "tpl_11",
+    "tpl_12",
+    "tpl_15",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_19",
+    "tpl_20",
+    "tpl_22",
+    "tpl_23",
+    "tpl_24",
+    "tpl_25"
+  ],
+  "name": "main region 2",
+  "description": "Major content region in main (div). Preview: Trying to figure out IBS-C or CIC? You're not alone. There are millions of people experiencing the same symptoms as you.…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

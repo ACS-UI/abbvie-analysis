@@ -1,0 +1,28 @@
+{
+  "blockId": "information_section",
+  "templateIds": [
+    "tpl_3",
+    "tpl_5",
+    "tpl_9"
+  ],
+  "name": "Information Section",
+  "description": "Explains the condition and its symptoms in detail.",
+  "domHints": {
+    "selectors": [
+      "section.hero01"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

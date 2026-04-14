@@ -1,0 +1,179 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Page layout group 1",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Fl Patient Brochure Spanish — group 2",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 10
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Folleto Para Pacientes Con Ldcbg — group 3",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "2l Fl — group 4",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Clinical Trial Results — group 5",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Dlbcl — group 6",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "What Is Epkinly — group 7",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Treatment — group 8",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Terms Conditions — group 9",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Contact Us — group 10",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Patient Stories — group 11",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Register — group 12",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Site Map — group 13",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Treatment With Epkinly — group 14",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 12
+    },
+    {
+      "templateId": "tpl_14",
+      "humanName": "Clinical Trial Results — group 15",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_15",
+      "humanName": "Site Map — group 16",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_16",
+      "humanName": "Clinical Trial Results — group 17",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_17",
+      "humanName": "Clinical Trial Results — group 18",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_18",
+      "humanName": "Site Map — group 19",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_19",
+      "humanName": "Support — group 20",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_20",
+      "humanName": "Site Map — group 21",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_21",
+      "humanName": "Care Partner Support — group 22",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 11
+    },
+    {
+      "templateId": "tpl_22",
+      "humanName": "Treatment — group 23",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_23",
+      "humanName": "Treatment — group 24",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_24",
+      "humanName": "Patient Support — group 25",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 10
+    },
+    {
+      "templateId": "tpl_25",
+      "humanName": "3l Fl — group 26",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_26",
+      "humanName": "Care Partner Support — group 27",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_27",
+      "humanName": "Search Results — group 28",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_28",
+      "humanName": "Care Partner Support — group 29",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 11
+    }
+  ],
+  "generatedAt": "2026-04-13T12:39:33.156Z"
+}

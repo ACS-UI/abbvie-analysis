@@ -1,0 +1,27 @@
+{
+  "blockId": "how_linzess_works",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "How LINZESS Works",
+  "description": "Section explaining the mechanism of LINZESS and its unique approach.",
+  "domHints": {
+    "selectors": [
+      "#howlinzessworks",
+      ".how-linz-works"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

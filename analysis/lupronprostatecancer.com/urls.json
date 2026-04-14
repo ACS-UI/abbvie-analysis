@@ -1,0 +1,273 @@
+{
+  "entryUrl": "https://www.lupronprostatecancer.com/",
+  "discoveredAt": "2026-04-13T15:17:32.646Z",
+  "urls": [
+    {
+      "url": "https://www.lupronprostatecancer.com/",
+      "normalised": "https://www.lupronprostatecancer.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/content/dam/lupronpatientivy/patient/pdf/keeptrackofscores.pdf",
+      "normalised": "https://www.lupronprostatecancer.com/content/dam/lupronpatientivy/patient/pdf/keeptrackofscores.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "normalised": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/getting-started",
+      "normalised": "https://www.lupronprostatecancer.com/getting-started",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/about-lupron-depot/common-side-effects",
+      "normalised": "https://www.lupronprostatecancer.com/about-lupron-depot/common-side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/support-and-resources",
+      "normalised": "https://www.lupronprostatecancer.com/support-and-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/about-lupron-depot",
+      "normalised": "https://www.lupronprostatecancer.com/about-lupron-depot",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/faqs",
+      "normalised": "https://www.lupronprostatecancer.com/faqs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/your-experience/talking-with-your-healthcare-team",
+      "normalised": "https://www.lupronprostatecancer.com/your-experience/talking-with-your-healthcare-team",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/your-experience",
+      "normalised": "https://www.lupronprostatecancer.com/your-experience",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/search-results",
+      "normalised": "https://www.lupronprostatecancer.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/isi",
+      "normalised": "https://www.lupronprostatecancer.com/isi",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/about-advanced-prostate-cancer",
+      "normalised": "https://www.lupronprostatecancer.com/about-advanced-prostate-cancer",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/about-lupron-depot/what-is-lupron-depot",
+      "normalised": "https://www.lupronprostatecancer.com/about-lupron-depot/what-is-lupron-depot",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/abbv-tab-967520641-3",
+      "normalised": "https://www.lupronprostatecancer.com/abbv-tab-967520641-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/support-and-resources/support-plus-specialist",
+      "normalised": "https://www.lupronprostatecancer.com/support-and-resources/support-plus-specialist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/support-and-resources/community-support",
+      "normalised": "https://www.lupronprostatecancer.com/support-and-resources/community-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/abbv-tab-967520641-0",
+      "normalised": "https://www.lupronprostatecancer.com/abbv-tab-967520641-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/hcp",
+      "normalised": "https://www.lupronprostatecancer.com/hcp",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/abbv-tab-967520641-1",
+      "normalised": "https://www.lupronprostatecancer.com/abbv-tab-967520641-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/your-experience/real-patient-stories",
+      "normalised": "https://www.lupronprostatecancer.com/your-experience/real-patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/getting-started/coverage",
+      "normalised": "https://www.lupronprostatecancer.com/getting-started/coverage",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/sitemap",
+      "normalised": "https://www.lupronprostatecancer.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/about-lupron-depot/results-with-lupron-depot",
+      "normalised": "https://www.lupronprostatecancer.com/about-lupron-depot/results-with-lupron-depot",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/your-experience/taking-care-of-yourself",
+      "normalised": "https://www.lupronprostatecancer.com/your-experience/taking-care-of-yourself",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/getting-started/what-to-expect",
+      "normalised": "https://www.lupronprostatecancer.com/getting-started/what-to-expect",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/support-and-resources/glossary",
+      "normalised": "https://www.lupronprostatecancer.com/support-and-resources/glossary",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/about-advanced-prostate-cancer_updated",
+      "normalised": "https://www.lupronprostatecancer.com/about-advanced-prostate-cancer_updated",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/about-lupron-depot/managing-side-effects",
+      "normalised": "https://www.lupronprostatecancer.com/about-lupron-depot/managing-side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/hcp/sitemap",
+      "normalised": "https://www.lupronprostatecancer.com/hcp/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/hcp/innovative-features",
+      "normalised": "https://www.lupronprostatecancer.com/hcp/innovative-features",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/hcp/search-results",
+      "normalised": "https://www.lupronprostatecancer.com/hcp/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/hcp/commitment",
+      "normalised": "https://www.lupronprostatecancer.com/hcp/commitment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/hcp/inventory-management",
+      "normalised": "https://www.lupronprostatecancer.com/hcp/inventory-management",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/hcp/tools-and-resources",
+      "normalised": "https://www.lupronprostatecancer.com/hcp/tools-and-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/hcp/dosing-options",
+      "normalised": "https://www.lupronprostatecancer.com/hcp/dosing-options",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronprostatecancer.com/hcp/clinical-evidence",
+      "normalised": "https://www.lupronprostatecancer.com/hcp/clinical-evidence",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 37,
+    "bySource": {
+      "sitemap": 8,
+      "crawl": 29,
+      "manual": 0
+    }
+  }
+}

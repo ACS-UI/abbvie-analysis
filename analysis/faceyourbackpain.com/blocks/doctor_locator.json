@@ -1,0 +1,26 @@
+{
+  "blockId": "doctor_locator",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Doctor Locator",
+  "description": "Interactive component to locate rheumatologists by ZIP code.",
+  "domHints": {
+    "selectors": [
+      ".doctor-locator"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

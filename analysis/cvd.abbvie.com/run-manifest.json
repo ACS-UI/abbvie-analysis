@@ -1,0 +1,46 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:24:50.792Z",
+  "completedAt": "2026-04-13T16:26:21.571Z",
+  "input": {
+    "url": "https://cvd.abbvie.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/cvd.abbvie.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "CVD Homepage",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Vulnerability Submission Form",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      }
+    ]
+  }
+}

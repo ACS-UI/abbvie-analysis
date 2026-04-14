@@ -1,0 +1,27 @@
+{
+  "blockId": "study_design_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Study Design Section",
+  "description": "Highlights the study design details and key inclusion and exclusion criteria.",
+  "domHints": {
+    "selectors": [
+      "#study-design",
+      ".abbv-flex-container.ozurdex-hcp-trial"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

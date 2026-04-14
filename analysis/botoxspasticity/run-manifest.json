@@ -1,0 +1,140 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T12:24:59.573Z",
+  "completedAt": "2026-04-13T12:25:55.649Z",
+  "input": {
+    "url": "https://www.botoxspasticity.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/botoxspasticity",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Page layout group 1",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Your Care Team — group 2",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Find A Botox Specialist — group 3",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Caregiving Matters — group 4",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Resources And Tools — group 5",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Reviews And Stories — group 6",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Savings — group 7",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Savings Support — group 8",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Bobs Testimonial — group 9",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Understanding Spasticity — group 10",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Maddis Testimonial — group 11",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Diagnosis — group 12",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Cost — group 13",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Sitemap — group 14",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "Amys Testimonial — group 15",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "Side Effects — group 16",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "About Botox — group 17",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "What To Expect — group 18",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      }
+    ]
+  }
+}

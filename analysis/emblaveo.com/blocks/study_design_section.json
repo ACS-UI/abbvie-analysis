@@ -1,0 +1,26 @@
+{
+  "blockId": "study_design_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Study Design Section",
+  "description": "Provides details about the study design and patient randomization.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.study-design-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Main Content Section",
+  "description": "Contains detailed information about the mechanism of action of LINZESS, including images and textual explanations.",
+  "domHints": {
+    "selectors": [
+      ".ibsc-moa-main-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

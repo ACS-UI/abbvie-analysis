@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_header__default.png",
+      "sourceUrl": "https://www.botoxblepharospasm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:56.269Z",
+      "selector": "header .inner"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.botoxblepharospasm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:56.269Z",
+      "selector": "main > section.body.clearfix > div.content"
+    },
+    {
+      "relativePath": "navigation_column__default.png",
+      "sourceUrl": "https://www.botoxblepharospasm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:56.269Z",
+      "selector": "main > section.body.clearfix > div.navColumn"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.botoxblepharospasm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:56.269Z",
+      "selector": "section#isi.isi"
+    },
+    {
+      "relativePath": "remediation_modal__default.png",
+      "sourceUrl": "https://www.botoxblepharospasm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:56.269Z",
+      "selector": "#remediationModal"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.botoxblepharospasm.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:56.269Z",
+      "selector": "footer"
+    }
+  ]
+}

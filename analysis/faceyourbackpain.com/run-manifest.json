@@ -1,0 +1,172 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:46:18.132Z",
+  "completedAt": "2026-04-13T16:02:04.754Z",
+  "input": {
+    "url": "https://www.faceyourbackpain.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/faceyourbackpain.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Homepage and Personalization",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Information Registration",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Living with Ankylosing Spondylitis",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 13
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Disease Diagnosis",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Symptoms Overview",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Sitemap",
+        "source": "llm_identify",
+        "blockCount": 3,
+        "proposedCount": 5
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Ankylosing Spondylitis Resources — group 7",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Search Results — group 8",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Take The Quiz — group 9",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Find Rheumatologist — group 10",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Before Diagnosis Transcript — group 11",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Page layout group 12",
+        "source": "llm_identify",
+        "blockCount": 4,
+        "proposedCount": 13
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Site Map — group 13",
+        "source": "llm_identify",
+        "blockCount": 2,
+        "proposedCount": 5
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Doctor Discussion Guide — group 14",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "Page layout group 15",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "Ankylosing Spondylitis Nraxspa — group 16",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "Ankylosing Spondylitis Nraxspa Treatment — group 17",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "Why A Rheumatologist — group 18",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_18",
+        "humanName": "Ankylosing Spondylitis Patient Stories — group 19",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_19",
+        "humanName": "Thank You Page — group 20",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      }
+    ]
+  }
+}

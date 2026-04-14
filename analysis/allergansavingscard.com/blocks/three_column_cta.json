@@ -1,0 +1,26 @@
+{
+  "blockId": "three_column_cta",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "Three Column CTA",
+  "description": "Three columns with images and CTAs for specific user groups.",
+  "domHints": {
+    "selectors": [
+      "#container-0220467fb4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

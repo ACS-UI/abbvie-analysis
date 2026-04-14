@@ -1,0 +1,27 @@
+{
+  "blockId": "cta_columns",
+  "templateIds": [
+    "tpl_2",
+    "tpl_11"
+  ],
+  "name": "Call-to-Action Columns",
+  "description": "Displays three columns with links to quizzes, dermatologist finder, and savings information.",
+  "domHints": {
+    "selectors": [
+      ".about_box_col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

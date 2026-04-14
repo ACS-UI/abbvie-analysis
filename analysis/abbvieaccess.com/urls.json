@@ -1,0 +1,791 @@
+{
+  "entryUrl": "https://www.abbvieaccess.com/",
+  "discoveredAt": "2026-04-13T15:42:30.057Z",
+  "urls": [
+    {
+      "url": "https://www.abbvieaccess.com/",
+      "normalised": "https://www.abbvieaccess.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/hcp-registration/abbvieaccess-registration",
+      "normalised": "https://www.abbvieaccess.com/hcp-registration/abbvieaccess-registration",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/preference-center",
+      "normalised": "https://www.abbvieaccess.com/preference-center",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/search-results",
+      "normalised": "https://www.abbvieaccess.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/resource-request",
+      "normalised": "https://www.abbvieaccess.com/resource-request",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/enrollment-forms",
+      "normalised": "https://www.abbvieaccess.com/enrollment-forms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/formulary-coverage",
+      "normalised": "https://www.abbvieaccess.com/formulary-coverage",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/patient-resources",
+      "normalised": "https://www.abbvieaccess.com/patient-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/combigan",
+      "normalised": "https://www.abbvieaccess.com/brand/combigan",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/creon",
+      "normalised": "https://www.abbvieaccess.com/brand/creon",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/$%7Bitem.link%7D",
+      "normalised": "https://www.abbvieaccess.com/$%7Bitem.link%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/lastacaft",
+      "normalised": "https://www.abbvieaccess.com/brand/lastacaft",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/mavyret",
+      "normalised": "https://www.abbvieaccess.com/brand/mavyret",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/reimbursement-program",
+      "normalised": "https://www.abbvieaccess.com/reimbursement-program",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/bystolic",
+      "normalised": "https://www.abbvieaccess.com/brand/bystolic",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/saphris",
+      "normalised": "https://www.abbvieaccess.com/brand/saphris",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/linzess",
+      "normalised": "https://www.abbvieaccess.com/brand/linzess",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/restasis",
+      "normalised": "https://www.abbvieaccess.com/brand/restasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/fetzima",
+      "normalised": "https://www.abbvieaccess.com/brand/fetzima",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/crinone",
+      "normalised": "https://www.abbvieaccess.com/brand/crinone",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/patient-assistance",
+      "normalised": "https://www.abbvieaccess.com/patient-assistance",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/ozurdex",
+      "normalised": "https://www.abbvieaccess.com/brand/ozurdex",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/namzaric",
+      "normalised": "https://www.abbvieaccess.com/brand/namzaric",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/oriahnn",
+      "normalised": "https://www.abbvieaccess.com/brand/oriahnn",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/qulipta",
+      "normalised": "https://www.abbvieaccess.com/brand/qulipta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/prior-authorization",
+      "normalised": "https://www.abbvieaccess.com/prior-authorization",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/humira",
+      "normalised": "https://www.abbvieaccess.com/brand/humira",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/ubrelvy",
+      "normalised": "https://www.abbvieaccess.com/brand/ubrelvy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/skyrizi",
+      "normalised": "https://www.abbvieaccess.com/brand/skyrizi",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/rinvoq",
+      "normalised": "https://www.abbvieaccess.com/brand/rinvoq",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/lumigan",
+      "normalised": "https://www.abbvieaccess.com/brand/lumigan",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/$%7Blink.url%7D",
+      "normalised": "https://www.abbvieaccess.com/$%7Blink.url%7D",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/vraylar",
+      "normalised": "https://www.abbvieaccess.com/brand/vraylar",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/taytulla",
+      "normalised": "https://www.abbvieaccess.com/brand/taytulla",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/durysta",
+      "normalised": "https://www.abbvieaccess.com/brand/durysta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/alphagan",
+      "normalised": "https://www.abbvieaccess.com/brand/alphagan",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/lupron-men",
+      "normalised": "https://www.abbvieaccess.com/brand/lupron-men",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/liletta",
+      "normalised": "https://www.abbvieaccess.com/brand/liletta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/viibryd",
+      "normalised": "https://www.abbvieaccess.com/brand/viibryd",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/lo-loestrin",
+      "normalised": "https://www.abbvieaccess.com/brand/lo-loestrin",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/teflaro",
+      "normalised": "https://www.abbvieaccess.com/brand/teflaro",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/avycaz",
+      "normalised": "https://www.abbvieaccess.com/brand/avycaz",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/emblaveo",
+      "normalised": "https://www.abbvieaccess.com/brand/emblaveo",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/botox",
+      "normalised": "https://www.abbvieaccess.com/brand/botox",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/orilissa",
+      "normalised": "https://www.abbvieaccess.com/brand/orilissa",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/dalvance",
+      "normalised": "https://www.abbvieaccess.com/brand/dalvance",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/patient-savings",
+      "normalised": "https://www.abbvieaccess.com/patient-savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/depakote",
+      "normalised": "https://www.abbvieaccess.com/brand/depakote",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/vuity",
+      "normalised": "https://www.abbvieaccess.com/brand/vuity",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/lupron-children",
+      "normalised": "https://www.abbvieaccess.com/brand/lupron-children",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/viberzi",
+      "normalised": "https://www.abbvieaccess.com/brand/viberzi",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/savella",
+      "normalised": "https://www.abbvieaccess.com/brand/savella",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/epkinly",
+      "normalised": "https://www.abbvieaccess.com/brand/epkinly",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/pred-forte",
+      "normalised": "https://www.abbvieaccess.com/brand/pred-forte",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/duopa",
+      "normalised": "https://www.abbvieaccess.com/brand/duopa",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/venclexta",
+      "normalised": "https://www.abbvieaccess.com/brand/venclexta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/speaker-programs",
+      "normalised": "https://www.abbvieaccess.com/speaker-programs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/refresh",
+      "normalised": "https://www.abbvieaccess.com/brand/refresh",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/skyrizi/gastroenterology",
+      "normalised": "https://www.abbvieaccess.com/brand/skyrizi/gastroenterology",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/imbruvica",
+      "normalised": "https://www.abbvieaccess.com/brand/imbruvica",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/free-trial-offers",
+      "normalised": "https://www.abbvieaccess.com/free-trial-offers",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/synthroid",
+      "normalised": "https://www.abbvieaccess.com/brand/synthroid",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/emrelis",
+      "normalised": "https://www.abbvieaccess.com/brand/emrelis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/header-and-footer",
+      "normalised": "https://www.abbvieaccess.com/header-and-footer",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/wol-hcp/wol-venclexta-speaker",
+      "normalised": "https://www.abbvieaccess.com/wol-hcp/wol-venclexta-speaker",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/wol-hcp",
+      "normalised": "https://www.abbvieaccess.com/wol-hcp",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/wol-hcp/wol-creon-speaker",
+      "normalised": "https://www.abbvieaccess.com/wol-hcp/wol-creon-speaker",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/email-registration",
+      "normalised": "https://www.abbvieaccess.com/email-registration",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/wol-advertising-choices1",
+      "normalised": "https://www.abbvieaccess.com/wol-advertising-choices1",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/wol-hcp/wol-ubrelvy-speaker",
+      "normalised": "https://www.abbvieaccess.com/wol-hcp/wol-ubrelvy-speaker",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/linzess",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/linzess",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/patient--savings",
+      "normalised": "https://www.abbvieaccess.com/patient--savings",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/ubrelvy",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/ubrelvy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/liletta",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/liletta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/qulipta",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/qulipta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/subscribe-for-news",
+      "normalised": "https://www.abbvieaccess.com/subscribe-for-news",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/wol-hcp/wol-hcp",
+      "normalised": "https://www.abbvieaccess.com/wol-hcp/wol-hcp",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/preference-center/medical-preferences",
+      "normalised": "https://www.abbvieaccess.com/preference-center/medical-preferences",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/avycaz",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/avycaz",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/exit-site-mynavcare",
+      "normalised": "https://www.abbvieaccess.com/exit-site-mynavcare",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/viberzi",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/viberzi",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/3dam2o24_p1lot",
+      "normalised": "https://www.abbvieaccess.com/3dam2o24_p1lot",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand",
+      "normalised": "https://www.abbvieaccess.com/brand",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/wol-hcp/wol-vraylar-speaker",
+      "normalised": "https://www.abbvieaccess.com/wol-hcp/wol-vraylar-speaker",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/email-unsubscribe",
+      "normalised": "https://www.abbvieaccess.com/email-unsubscribe",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/prior-authorization-page-exit-parx-",
+      "normalised": "https://www.abbvieaccess.com/prior-authorization-page-exit-parx-",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/vraylar",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/vraylar",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/wol-hcp/wol-qulipta-speaker",
+      "normalised": "https://www.abbvieaccess.com/wol-hcp/wol-qulipta-speaker",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/teflaro",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/teflaro",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/restasis",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/restasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/sitemap",
+      "normalised": "https://www.abbvieaccess.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/vuity",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/vuity",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/hcp-registration",
+      "normalised": "https://www.abbvieaccess.com/hcp-registration",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/lo-loestrin",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/lo-loestrin",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/dalvance",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/dalvance",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/request-a-rep/durysta",
+      "normalised": "https://www.abbvieaccess.com/request-a-rep/durysta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/hcp-registration/qulipta",
+      "normalised": "https://www.abbvieaccess.com/hcp-registration/qulipta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/preference-center/brand-preferences",
+      "normalised": "https://www.abbvieaccess.com/preference-center/brand-preferences",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/eye-care",
+      "normalised": "https://www.abbvieaccess.com/eye-care",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/womens-health",
+      "normalised": "https://www.abbvieaccess.com/womens-health",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/anti-infectives",
+      "normalised": "https://www.abbvieaccess.com/anti-infectives",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/central-nervous-system",
+      "normalised": "https://www.abbvieaccess.com/central-nervous-system",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/view-all",
+      "normalised": "https://www.abbvieaccess.com/view-all",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/gastroenterology",
+      "normalised": "https://www.abbvieaccess.com/gastroenterology",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/prior-authorization-page-exit-CMM",
+      "normalised": "https://www.abbvieaccess.com/prior-authorization-page-exit-CMM",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/visit",
+      "normalised": "https://www.abbvieaccess.com/visit",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/hcp",
+      "normalised": "https://www.abbvieaccess.com/hcp",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/content/abbvieaccess/en-us/hcp-registration/abbvieaccess-registration",
+      "normalised": "https://www.abbvieaccess.com/content/abbvieaccess/en-us/hcp-registration/abbvieaccess-registration",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/delzicol",
+      "normalised": "https://www.abbvieaccess.com/brand/delzicol",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbvieaccess.com/brand/loloestrin",
+      "normalised": "https://www.abbvieaccess.com/brand/loloestrin",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 111,
+    "bySource": {
+      "sitemap": 86,
+      "crawl": 25,
+      "manual": 0
+    }
+  }
+}

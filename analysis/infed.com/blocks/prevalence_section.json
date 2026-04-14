@@ -1,0 +1,26 @@
+{
+  "blockId": "prevalence_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Prevalence Section",
+  "description": "Highlights statistics about the prevalence and impact of ID and IDA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.abbv-siab.about-id-3-images-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

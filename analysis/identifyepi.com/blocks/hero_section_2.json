@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_section_2",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Hero Section 2",
+  "description": "The second hero section with additional content and imagery.",
+  "domHints": {
+    "selectors": [
+      "#background-container-663891971"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

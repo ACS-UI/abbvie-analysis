@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_error",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Error Hero Section",
+  "description": "Displays the main error message and title for the 404 page.",
+  "domHints": {
+    "selectors": [
+      "section[role='main'] > div.columns > div.abbv-row-container.abbv-title-banner"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

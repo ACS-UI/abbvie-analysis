@@ -1,0 +1,26 @@
+{
+  "blockId": "side_effects",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Side Effects",
+  "description": "Section providing information on common side effects of LINZESS and what to do if they occur.",
+  "domHints": {
+    "selectors": [
+      "#sideeffects"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

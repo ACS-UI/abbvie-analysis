@@ -1,0 +1,26 @@
+{
+  "blockId": "stories_banner",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Stories Banner",
+  "description": "Displays a banner with a testimonial and link to stories about ELAHERE.",
+  "domHints": {
+    "selectors": [
+      ".cmp-card.-banner"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

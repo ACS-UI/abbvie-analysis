@@ -1,0 +1,27 @@
+{
+  "blockId": "main_content_section",
+  "templateIds": [
+    "tpl_63",
+    "tpl_144"
+  ],
+  "name": "Main Content Section",
+  "description": "Contains the primary content of the page, including text and links.",
+  "domHints": {
+    "selectors": [
+      "div.nav-bar__primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_63 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

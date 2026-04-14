@@ -1,0 +1,27 @@
+{
+  "blockId": "key_facts_section",
+  "templateIds": [
+    "tpl_26"
+  ],
+  "name": "Key Facts Section",
+  "description": "Highlights key facts about the organization, including metrics and recognitions.",
+  "domHints": {
+    "selectors": [
+      "div.dashboard-card-facts",
+      "div.grid-row__col-with-4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_26 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

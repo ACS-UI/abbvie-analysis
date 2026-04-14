@@ -1,0 +1,26 @@
+{
+  "blockId": "additional_considerations",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Additional Considerations",
+  "description": "Provides additional diagnostic considerations and patient questions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-columns-row--inner-padding"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

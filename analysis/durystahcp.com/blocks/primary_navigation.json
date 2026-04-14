@@ -1,0 +1,33 @@
+{
+  "blockId": "primary_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3",
+    "tpl_7",
+    "tpl_13",
+    "tpl_14",
+    "tpl_15",
+    "tpl_16",
+    "tpl_19"
+  ],
+  "name": "Primary Navigation",
+  "description": "Main site navigation for accessing key sections like About DURYSTA, Clinical Data, and Resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-primary-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

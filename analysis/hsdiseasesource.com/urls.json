@@ -1,0 +1,385 @@
+{
+  "entryUrl": "https://www.hsdiseasesource.com/",
+  "discoveredAt": "2026-04-13T15:47:57.834Z",
+  "urls": [
+    {
+      "url": "https://www.hsdiseasesource.com/",
+      "normalised": "https://www.hsdiseasesource.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/HS_DA_Digital_FAQ_Tear_Sheet.pdf",
+      "normalised": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/HS_DA_Digital_FAQ_Tear_Sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/ConversationGuide_DownloadPDF_FF.pdf",
+      "normalised": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/ConversationGuide_DownloadPDF_FF.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/ConversationGuide_DownloadPDF_Spouse.pdf",
+      "normalised": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/ConversationGuide_DownloadPDF_Spouse.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/ConversationGuide_DownloadPDF_Boss.pdf",
+      "normalised": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/ConversationGuide_DownloadPDF_Boss.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/ConversationGuide_DownloadPDF_Self.pdf",
+      "normalised": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/discussion-guides/ConversationGuide_DownloadPDF_Self.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/hs-da-digital-faq-tear-sheet.pdf",
+      "normalised": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/pdf/hs-da-digital-faq-tear-sheet.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/search-results",
+      "normalised": "https://www.hsdiseasesource.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "normalised": "https://www.hsdiseasesource.com/hs-comorbidities",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/locate-an-hs-specialist",
+      "normalised": "https://www.hsdiseasesource.com/locate-an-hs-specialist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/hs-diagnosis-criteria",
+      "normalised": "https://www.hsdiseasesource.com/hs-diagnosis-criteria",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/personalization",
+      "normalised": "https://www.hsdiseasesource.com/personalization",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/hs-causes",
+      "normalised": "https://www.hsdiseasesource.com/hs-causes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/images/patient/diagnosis/progression-case2-hurleystageI",
+      "normalised": "https://www.hsdiseasesource.com/content/dam/hsdiseasesource/images/patient/diagnosis/progression-case2-hurleystageI",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/events-and-organizations",
+      "normalised": "https://www.hsdiseasesource.com/events-and-organizations",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/sitemap",
+      "normalised": "https://www.hsdiseasesource.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/resources",
+      "normalised": "https://www.hsdiseasesource.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/what-is-hs",
+      "normalised": "https://www.hsdiseasesource.com/what-is-hs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/hs-treatment-options",
+      "normalised": "https://www.hsdiseasesource.com/hs-treatment-options",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/multi-disciplinary-care-team",
+      "normalised": "https://www.hsdiseasesource.com/multi-disciplinary-care-team",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/hs-signs-and-symptoms",
+      "normalised": "https://www.hsdiseasesource.com/hs-signs-and-symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/site-map",
+      "normalised": "https://www.hsdiseasesource.com/site-map",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/hs-progression",
+      "normalised": "https://www.hsdiseasesource.com/hs-progression",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/hs-differential-diagnosis",
+      "normalised": "https://www.hsdiseasesource.com/hs-differential-diagnosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/hs-disease-staging",
+      "normalised": "https://www.hsdiseasesource.com/hs-disease-staging",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/hs-case-studies",
+      "normalised": "https://www.hsdiseasesource.com/hs-case-studies",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-156314112-0",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-156314112-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-6",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-156314112-5",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-156314112-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-156314112-4",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-156314112-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-0",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-8",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-8",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-156314112-6",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-156314112-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-156314112-2",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-156314112-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-156314112-3",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-156314112-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-156314112-1",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-156314112-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-3",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-9",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-9",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-203996045-0",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-203996045-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-203996045-4",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-203996045-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-10",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-10",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-203996045-3",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-203996045-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/'%20+%20comsType%20+%20coms%20+%20'",
+      "normalised": "https://www.hsdiseasesource.com/'%20+%20comsType%20+%20coms%20+%20'",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-1",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-5",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-4",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-2",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-1166587253-7",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-1166587253-7",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-203996045-6",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-203996045-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-203996045-1",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-203996045-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-203996045-5",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-203996045-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/abbv-tab-203996045-2",
+      "normalised": "https://www.hsdiseasesource.com/abbv-tab-203996045-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hsdiseasesource.com/'%20+%20directionLink%20+%20'",
+      "normalised": "https://www.hsdiseasesource.com/'%20+%20directionLink%20+%20'",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 53,
+    "bySource": {
+      "sitemap": 9,
+      "crawl": 44,
+      "manual": 0
+    }
+  }
+}

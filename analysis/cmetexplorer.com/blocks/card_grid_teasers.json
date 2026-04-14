@@ -1,0 +1,26 @@
+{
+  "blockId": "card_grid_teasers",
+  "templateIds": [
+    "tpl_139"
+  ],
+  "name": "Card Grid - Teasers",
+  "description": "Displays a grid of cards with teaser content for articles or sections.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory.card-dashboard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_139 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "resource_links",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Resource Links",
+  "description": "Links to various resources like office resources and helpful links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.allergan-linklistor-bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

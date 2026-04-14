@@ -1,0 +1,102 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:41:04.451Z",
+  "completedAt": "2026-04-13T15:47:54.918Z",
+  "input": {
+    "url": "https://www.creoninfo.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/creoninfo.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_1",
+        "humanName": "Video Transcript",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Creon Information",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Treatment Tracker",
+        "source": "llm_identify",
+        "blockCount": 3,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Associated Conditions",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Treatment Information",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Video Overview",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Frequently Asked Questions",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 5
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Diagnosis Information",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Discussion Guide",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      }
+    ]
+  }
+}

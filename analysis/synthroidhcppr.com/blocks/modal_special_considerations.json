@@ -1,0 +1,27 @@
+{
+  "blockId": "modal_special_considerations",
+  "templateIds": [
+    "tpl_0",
+    "tpl_4"
+  ],
+  "name": "Special Considerations Modal",
+  "description": "Displays important considerations for hypothyroid medications.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.synthroidspecialconsideration"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

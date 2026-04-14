@@ -1,0 +1,33 @@
+{
+  "blockId": "footer_navigation",
+  "templateIds": [
+    "tpl_88",
+    "tpl_123",
+    "tpl_130",
+    "tpl_192",
+    "tpl_207",
+    "tpl_212",
+    "tpl_236",
+    "tpl_309"
+  ],
+  "name": "Footer Navigation",
+  "description": "Provides links to important site sections and legal information.",
+  "domHints": {
+    "selectors": [
+      "#navigation-0ff805b203"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_88 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,31 @@
+{
+  "blockId": "main_content_intro",
+  "templateIds": [
+    "tpl_16",
+    "tpl_157",
+    "tpl_170",
+    "tpl_257",
+    "tpl_271"
+  ],
+  "name": "Main Content Introduction",
+  "description": "Introduction text and links about the organization's mission.",
+  "domHints": {
+    "selectors": [
+      "div#title-7f02b642d8",
+      "div#text-e94cc57eaa"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

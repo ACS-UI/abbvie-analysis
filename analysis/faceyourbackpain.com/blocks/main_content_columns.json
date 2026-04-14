@@ -1,0 +1,28 @@
+{
+  "blockId": "main_content_columns",
+  "templateIds": [
+    "tpl_14",
+    "tpl_15",
+    "tpl_19"
+  ],
+  "name": "Main Content Columns",
+  "description": "Primary content area with text and supporting visuals.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-margin-top-20.fybp-main"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

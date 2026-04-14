@@ -1,0 +1,26 @@
+{
+  "blockId": "signup_section",
+  "templateIds": [
+    "tpl_24"
+  ],
+  "name": "Sign-Up Section",
+  "description": "Encourages users to sign up for a free resource related to the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.epi-signup-block"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_24 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

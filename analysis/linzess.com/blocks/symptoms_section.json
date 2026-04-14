@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_section",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Symptoms Section",
+  "description": "Highlights symptoms associated with IBS-C and CIC.",
+  "domHints": {
+    "selectors": [
+      ".linzess-symptoms"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

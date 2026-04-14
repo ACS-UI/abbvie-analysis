@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_tout_routines",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Inline Tout: Eczema Routines",
+  "description": "Offers tips for creating effective eczema care routines, with visuals and a call-to-action.",
+  "domHints": {
+    "selectors": [
+      "div.personalization-inline-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

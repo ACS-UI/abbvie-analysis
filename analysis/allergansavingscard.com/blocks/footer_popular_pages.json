@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_popular_pages",
+  "templateIds": [
+    "tpl_270"
+  ],
+  "name": "Footer Popular Pages",
+  "description": "Links to popular pages in the footer.",
+  "domHints": {
+    "selectors": [
+      "#linklist-d3de59940d"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_270 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

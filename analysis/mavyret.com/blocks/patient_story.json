@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_story",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Patient Story",
+  "description": "Showcases a video and testimonial from a real patient.",
+  "domHints": {
+    "selectors": [
+      ".mavyret-video-container__large"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

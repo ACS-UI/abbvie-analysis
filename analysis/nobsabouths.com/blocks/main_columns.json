@@ -1,0 +1,26 @@
+{
+  "blockId": "main_columns",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Main Columns",
+  "description": "Displays content in a multi-column layout for structured information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.nobs-main"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

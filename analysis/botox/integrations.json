@@ -1,0 +1,34 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.botox.com/",
+          "https://www.botox.com/log-in",
+          "https://www.botox.com/sitemap",
+          "https://www.botox.com/completeterms",
+          "https://www.botox.com/mobile-terms-conditions",
+          "https://www.botox.com/botox-account-sign-up",
+          "https://www.botox.com/resources/botox-complete",
+          "https://www.botox.com/botox-account-sign-up/confirmation",
+          "https://www.botox.com/reset-password",
+          "https://www.botox.com/botox-complete-sign-up",
+          "https://www.botox.com/resources/frequently-asked-questions",
+          "https://www.botox.com/cost-and-coverage",
+          "https://www.botox.com/botox-complete-sign-up/confirmation",
+          "https://www.botox.com/account"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T12:28:53.607Z"
+}

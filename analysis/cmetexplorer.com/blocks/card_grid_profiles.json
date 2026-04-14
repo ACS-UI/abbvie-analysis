@@ -1,0 +1,26 @@
+{
+  "blockId": "card_grid_profiles",
+  "templateIds": [
+    "tpl_127"
+  ],
+  "name": "Profiles Card Grid",
+  "description": "Displays profiles and related stories in a card format.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_127 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

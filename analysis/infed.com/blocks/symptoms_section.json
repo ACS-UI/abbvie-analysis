@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Symptoms Section",
+  "description": "Lists signs and symptoms associated with ID and IDA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.abbv-siab.what-to-look-for-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

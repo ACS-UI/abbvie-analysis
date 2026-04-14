@@ -1,0 +1,245 @@
+{
+  "entryUrl": "https://www.duopa.com/",
+  "discoveredAt": "2026-04-13T12:30:53.658Z",
+  "urls": [
+    {
+      "url": "https://www.duopa.com/",
+      "normalised": "https://www.duopa.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-220095%20Carrying%20Case%20Brochure%202022%20Update%20(DIGITAL).pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-220095%20Carrying%20Case%20Brochure%202022%20Update%20(DIGITAL).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-230032-Duopa-Daily-Guide-July-2023.pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-230032-Duopa-Daily-Guide-July-2023.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/Ron%20&amp;%20LaJuan%20Testimonial.pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/Ron%20&amp;%20LaJuan%20Testimonial.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-210067%20Carrying%20Case%20Brochure%202021%20Update%20(DIGITAL).pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-210067%20Carrying%20Case%20Brochure%202021%20Update%20(DIGITAL).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-200078%20Daily%20Guide%20Dec%202019%20LU.pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-200078%20Daily%20Guide%20Dec%202019%20LU.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/LimitedWarranty.pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/LimitedWarranty.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-181230%20Daily%20PD%20Tracker.pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-181230%20Daily%20PD%20Tracker.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/US%20DUOP%20220146%20Daily%20Guide%20(Digital).pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/US%20DUOP%20220146%20Daily%20Guide%20(Digital).pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/PatientDecisionBrochure.pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/PatientDecisionBrochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-200103%20Carrying%20Case%20Brochure%20Update%20DIGITALDEC%202019%20LU.pdf",
+      "normalised": "https://www.duopa.com/content/dam/duopa/pdf/US-DUOP-200103%20Carrying%20Case%20Brochure%20Update%20DIGITALDEC%202019%20LU.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.duopa.com/how-duopa-works",
+      "normalised": "https://www.duopa.com/how-duopa-works",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/mentor-program",
+      "normalised": "https://www.duopa.com/mentor-program",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/what-is-duopa",
+      "normalised": "https://www.duopa.com/what-is-duopa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/sitemap",
+      "normalised": "https://www.duopa.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/my-duopa-materials-evening-routine-transcript",
+      "normalised": "https://www.duopa.com/my-duopa-materials-evening-routine-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/my-duopa-materials-pump-cassette-care-transcript",
+      "normalised": "https://www.duopa.com/my-duopa-materials-pump-cassette-care-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/duopa-share",
+      "normalised": "https://www.duopa.com/duopa-share",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/resources-david-video-transcript",
+      "normalised": "https://www.duopa.com/resources-david-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/resources-dale-video-transcript",
+      "normalised": "https://www.duopa.com/resources-dale-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/advanced-parkinsons",
+      "normalised": "https://www.duopa.com/advanced-parkinsons",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/patient-stories",
+      "normalised": "https://www.duopa.com/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/carrying-case",
+      "normalised": "https://www.duopa.com/carrying-case",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/my-duopa-materials",
+      "normalised": "https://www.duopa.com/my-duopa-materials",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/resources",
+      "normalised": "https://www.duopa.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/resources-kern-video-transcript",
+      "normalised": "https://www.duopa.com/resources-kern-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/search-results",
+      "normalised": "https://www.duopa.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/duopa-your-day",
+      "normalised": "https://www.duopa.com/duopa-your-day",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/as-parkinsons-advances",
+      "normalised": "https://www.duopa.com/as-parkinsons-advances",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/my-duopa-materials-morning-routine-transcript",
+      "normalised": "https://www.duopa.com/my-duopa-materials-morning-routine-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/how-duopa-may-help",
+      "normalised": "https://www.duopa.com/how-duopa-may-help",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/education-program",
+      "normalised": "https://www.duopa.com/education-program",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.duopa.com/resources-paul-video-transcript",
+      "normalised": "https://www.duopa.com/resources-paul-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 33,
+    "bySource": {
+      "sitemap": 23,
+      "crawl": 10,
+      "manual": 0
+    }
+  }
+}

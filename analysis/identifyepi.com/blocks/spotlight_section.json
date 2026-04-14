@@ -1,0 +1,26 @@
+{
+  "blockId": "spotlight_section",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Spotlight Section",
+  "description": "Highlights additional information about underlying conditions and procedures.",
+  "domHints": {
+    "selectors": [
+      ".epi-spotlight"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

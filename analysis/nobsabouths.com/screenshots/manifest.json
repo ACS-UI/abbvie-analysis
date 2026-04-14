@@ -1,0 +1,464 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-image-text.target-rcmd-brandbox"
+    },
+    {
+      "relativePath": "main_content_columns__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-row-container.nobs-main"
+    },
+    {
+      "relativePath": "video_player__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-video-player.abv-nobs-mod-video"
+    },
+    {
+      "relativePath": "inline_tout__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-container.inline-tout.call-outs"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa/what-causes-hs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "modal_adchoices__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/hs-patient-stories/meetsterling-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.abbv-modal.nobsAdvertisingChoices"
+    },
+    {
+      "relativePath": "modal_facebook__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/hs-patient-stories/meetsterling-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.abbv-modal.nobsFacebookModal"
+    },
+    {
+      "relativePath": "modal_youtube__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/hs-patient-stories/meetsterling-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.abbv-modal.nobsYoutubeModal"
+    },
+    {
+      "relativePath": "modal_instagram__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/hs-patient-stories/meetsterling-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.abbv-modal.nobsInstagramModal"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/hs-patient-stories/meetsterling-transcript",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "button.abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/dermatologist-near-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "rich_text_intro__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/dermatologist-near-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-rich-text"
+    },
+    {
+      "relativePath": "locator_tool__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/dermatologist-near-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".nobs-locator"
+    },
+    {
+      "relativePath": "side_navigation__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/dermatologist-near-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".nobs-sidenav-linklist"
+    },
+    {
+      "relativePath": "side_tout__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/dermatologist-near-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".side-tout"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/treat-hidradenitis-suppurativa/dermatologist-near-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-header-content-container"
+    },
+    {
+      "relativePath": "main_columns__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-row-container.nobs-main"
+    },
+    {
+      "relativePath": "call_to_action__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-container.call-outs"
+    },
+    {
+      "relativePath": "cookie_consent__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "#ot-sdk-btn1"
+    },
+    {
+      "relativePath": "search_functionality__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "#header-search"
+    },
+    {
+      "relativePath": "personalized_ctas_section__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/personalization/callouts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.abbv-rich-text.divider-title.margin-bottom-65.margin-mobile-bottom-35.abbv-rich-text-common"
+    },
+    {
+      "relativePath": "mega_navigation__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "main_cta_links__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".cta.parbase"
+    },
+    {
+      "relativePath": "main_title__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-title h1"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-rich-text.header-anchor-links"
+    },
+    {
+      "relativePath": "image_with_description__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-image-text.nobs-orange-border"
+    },
+    {
+      "relativePath": "text_content__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-rich-text-common"
+    },
+    {
+      "relativePath": "affected_areas_section__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "#AreasAffected"
+    },
+    {
+      "relativePath": "quiz_section__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/what-is-hidradenitis-suppurativa",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "#NoBSQuiz"
+    },
+    {
+      "relativePath": "global_header__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "header.abbv-header"
+    },
+    {
+      "relativePath": "search_box__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div#abbv-search-util"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.search-results-coveo"
+    },
+    {
+      "relativePath": "modal_dialogs__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.abbv-modal"
+    },
+    {
+      "relativePath": "content_glossary__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/glossary",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-rich-text"
+    },
+    {
+      "relativePath": "hero_title__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.abbv-title h1"
+    },
+    {
+      "relativePath": "sitemap_columns__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.abbv-row-container"
+    },
+    {
+      "relativePath": "modal_overlays__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": "div.abbv-modal"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/thanks-for-the-answer",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-row-container.margin-top-30"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/thanks-for-the-answer",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-row-container.olp-columns-reverse"
+    },
+    {
+      "relativePath": "social_links__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/thanks-for-the-answer",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".flex-container-social-icons"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/thanks-for-the-answer",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "content_columns_1__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/share-your-voice",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-row-container.margin-top-30:nth-of-type(1)"
+    },
+    {
+      "relativePath": "submission_form__default.png",
+      "sourceUrl": "https://www.nobsabouths.com/share-your-voice",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:08.128Z",
+      "selector": ".abbv-html-container.ugc-form-olp"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_statistics",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Hero Statistics",
+  "description": "Statistics and key data points related to the product efficacy.",
+  "domHints": {
+    "selectors": [
+      ".cmp-flex.mb-2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "eligibility_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Eligibility Section",
+  "description": "Details the eligibility criteria for the savings program.",
+  "domHints": {
+    "selectors": [
+      ".durysta-eligibility"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

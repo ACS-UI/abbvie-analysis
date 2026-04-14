@@ -1,0 +1,26 @@
+{
+  "blockId": "science_cta",
+  "templateIds": [
+    "tpl_65"
+  ],
+  "name": "Science CTA",
+  "description": "Highlights the 'Science' section with a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      "#container-7b2c60c60e .cmp-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_65 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,28 @@
+{
+  "blockId": "content_section",
+  "templateIds": [
+    "tpl_211",
+    "tpl_247",
+    "tpl_301"
+  ],
+  "name": "Content Section",
+  "description": "Displays detailed content about Primal Kaur, M.D. and related information.",
+  "domHints": {
+    "selectors": [
+      ".cmp-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_211 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

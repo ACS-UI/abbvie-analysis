@@ -1,0 +1,26 @@
+{
+  "blockId": "statistics_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Statistics Section",
+  "description": "Provides statistics and data about Hepatitis C prevalence.",
+  "domHints": {
+    "selectors": [
+      "#background-container-8208296"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

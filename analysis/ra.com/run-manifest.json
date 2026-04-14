@@ -1,0 +1,123 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:02:06.006Z",
+  "completedAt": "2026-04-13T16:12:02.460Z",
+  "input": {
+    "url": "https://www.ra.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/ra.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Story Pages",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Treatment Pages",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Disease Info",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Personalization Page",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Survey Page",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Generic Information Page",
+        "source": "llm_identify",
+        "blockCount": 1,
+        "proposedCount": 1
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Partnering Information Page",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Subscription Pages",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Resources Pages",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 4,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Find a Rheumatologist",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Search Results Page",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Site Map",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 8
+      }
+    ]
+  }
+}

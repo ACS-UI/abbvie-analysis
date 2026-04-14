@@ -1,0 +1,21 @@
+{
+  "entryUrl": "https://www.talkingibsc.com/",
+  "discoveredAt": "2026-04-13T15:57:37.575Z",
+  "urls": [
+    {
+      "url": "https://www.talkingibsc.com/",
+      "normalised": "https://www.talkingibsc.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 1,
+      "manual": 0
+    }
+  }
+}

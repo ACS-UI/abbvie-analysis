@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Symptoms Section",
+  "description": "Lists common symptoms experienced by Parkinson's Disease patients.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.content-large"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

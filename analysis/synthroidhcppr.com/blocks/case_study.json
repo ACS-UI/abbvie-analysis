@@ -1,0 +1,26 @@
+{
+  "blockId": "case_study",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Case Study",
+  "description": "Detailed case study of a hypothetical patient, including medical history and treatment plan.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.synthroid-tout-4-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

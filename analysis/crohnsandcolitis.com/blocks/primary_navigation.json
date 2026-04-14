@@ -1,0 +1,41 @@
+{
+  "blockId": "primary_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3",
+    "tpl_6",
+    "tpl_10",
+    "tpl_11",
+    "tpl_12",
+    "tpl_14",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_21",
+    "tpl_22",
+    "tpl_23",
+    "tpl_24",
+    "tpl_25",
+    "tpl_27"
+  ],
+  "name": "Primary Navigation",
+  "description": "Main site navigation with links to key sections.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-primary-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

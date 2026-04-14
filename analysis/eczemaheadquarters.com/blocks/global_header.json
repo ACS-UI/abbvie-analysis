@@ -1,0 +1,27 @@
+{
+  "blockId": "global_header",
+  "templateIds": [
+    "tpl_23",
+    "tpl_45"
+  ],
+  "name": "Global Header",
+  "description": "Displays the main navigation, logo, and utility links for the site.",
+  "domHints": {
+    "selectors": [
+      "header.abbv-header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

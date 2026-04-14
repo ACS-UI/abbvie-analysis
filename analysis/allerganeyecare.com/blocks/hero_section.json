@@ -1,0 +1,37 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_4",
+    "tpl_5",
+    "tpl_7",
+    "tpl_8",
+    "tpl_11",
+    "tpl_12",
+    "tpl_13",
+    "tpl_15",
+    "tpl_16"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent hero image and introductory text highlighting the site's mission.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text.allerganeyecare-hero-home"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

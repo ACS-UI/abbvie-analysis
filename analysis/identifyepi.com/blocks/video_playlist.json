@@ -1,0 +1,27 @@
+{
+  "blockId": "video_playlist",
+  "templateIds": [
+    "tpl_11",
+    "tpl_22"
+  ],
+  "name": "Video Playlist",
+  "description": "Showcases a playlist of videos related to EPI.",
+  "domHints": {
+    "selectors": [
+      ".abbv-video-player.abbv-video-playlist"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

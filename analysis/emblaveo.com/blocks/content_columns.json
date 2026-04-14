@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Content Columns",
+  "description": "Displays detailed information about the product's mechanism of action.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.moa-antibiotic-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

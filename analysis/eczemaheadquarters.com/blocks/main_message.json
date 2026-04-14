@@ -1,0 +1,26 @@
+{
+  "blockId": "main_message",
+  "templateIds": [
+    "tpl_26"
+  ],
+  "name": "Main Message",
+  "description": "Highlights the purpose of the page with a headline and supporting text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.max-width-460"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_26 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

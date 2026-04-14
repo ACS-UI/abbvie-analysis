@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_intro",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Main Content Introduction",
+  "description": "Introduces the main content with a brief overview and key points.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-columns-row--std-padding:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

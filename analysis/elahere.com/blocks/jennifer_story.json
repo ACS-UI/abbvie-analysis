@@ -1,0 +1,26 @@
+{
+  "blockId": "jennifer_story",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Jennifer's Story Section",
+  "description": "Highlights Jennifer's story with a video and transcript link.",
+  "domHints": {
+    "selectors": [
+      "#jennifers-story"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

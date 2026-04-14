@@ -1,0 +1,29 @@
+{
+  "blockId": "cta_columns",
+  "templateIds": [
+    "tpl_8",
+    "tpl_22",
+    "tpl_299",
+    "tpl_310"
+  ],
+  "name": "CTA Columns",
+  "description": "Columns with call-to-action links and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".grid-row__col-with-4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

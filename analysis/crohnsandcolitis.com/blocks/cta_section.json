@@ -1,0 +1,27 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2"
+  ],
+  "name": "CTA Section",
+  "description": "Call-to-action section encouraging user engagement.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.mb-50"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

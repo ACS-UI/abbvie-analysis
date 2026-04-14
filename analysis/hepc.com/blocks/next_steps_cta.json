@@ -1,0 +1,26 @@
+{
+  "blockId": "next_steps_cta",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Next Steps CTA",
+  "description": "Encourages users to proceed to the next topic or action.",
+  "domHints": {
+    "selectors": [
+      ".hep-c-next-page"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

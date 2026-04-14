@@ -1,0 +1,420 @@
+{
+  "entryUrl": "https://www.identifyepi.com/hcp",
+  "discoveredAt": "2026-04-13T15:49:47.404Z",
+  "urls": [
+    {
+      "url": "https://www.identifyepi.com/hcp",
+      "normalised": "https://www.identifyepi.com/hcp",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/content/dam/identifyepi/pdf/telemedicine-tips.pdf",
+      "normalised": "https://www.identifyepi.com/content/dam/identifyepi/pdf/telemedicine-tips.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/digestive-pancreatic-enzymes",
+      "normalised": "https://www.identifyepi.com/hcp/digestive-pancreatic-enzymes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/search-results",
+      "normalised": "https://www.identifyepi.com/hcp/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/",
+      "normalised": "https://www.identifyepi.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/pancreatic-insufficiency-symptoms",
+      "normalised": "https://www.identifyepi.com/hcp/pancreatic-insufficiency-symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "normalised": "https://www.identifyepi.com/hcp/epi-clinical-diagnosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-underlying-conditions",
+      "normalised": "https://www.identifyepi.com/hcp/epi-underlying-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/treating-epi-with-pert",
+      "normalised": "https://www.identifyepi.com/hcp/treating-epi-with-pert",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/recognizing-epi-symptoms-transcript",
+      "normalised": "https://www.identifyepi.com/epi-videos/recognizing-epi-symptoms-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/what-is-epi/epi-symptoms",
+      "normalised": "https://www.identifyepi.com/what-is-epi/epi-symptoms",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-treatment",
+      "normalised": "https://www.identifyepi.com/epi-treatment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/site-map",
+      "normalised": "https://www.identifyepi.com/hcp/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-diagnosis-challenges",
+      "normalised": "https://www.identifyepi.com/hcp/epi-diagnosis-challenges",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/watch?ftvid=6282593970001",
+      "normalised": "https://www.identifyepi.com/epi-videos/watch?ftvid=6282593970001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/watch?ftvid=6282593880001",
+      "normalised": "https://www.identifyepi.com/epi-videos/watch?ftvid=6282593880001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/what-is-epi",
+      "normalised": "https://www.identifyepi.com/what-is-epi",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258802138001",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258802138001",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-information",
+      "normalised": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-information",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/sitemap",
+      "normalised": "https://www.identifyepi.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/talking-to-your-doctor",
+      "normalised": "https://www.identifyepi.com/talking-to-your-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/moving-forward-with-epi-treatment-transcript",
+      "normalised": "https://www.identifyepi.com/epi-videos/moving-forward-with-epi-treatment-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos",
+      "normalised": "https://www.identifyepi.com/epi-videos",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/opening-up-to-your-doctor-transcript",
+      "normalised": "https://www.identifyepi.com/epi-videos/opening-up-to-your-doctor-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-symptoms",
+      "normalised": "https://www.identifyepi.com/exocrine-pancreatic-insufficiency-symptoms",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258802051001",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258802051001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270803495001",
+      "normalised": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270803495001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270802037001",
+      "normalised": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270802037001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/what-is-epi/underlying-conditions",
+      "normalised": "https://www.identifyepi.com/what-is-epi/underlying-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/pancreatic-disease-resources",
+      "normalised": "https://www.identifyepi.com/pancreatic-disease-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/diet-and-lifestyle",
+      "normalised": "https://www.identifyepi.com/diet-and-lifestyle",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/find-an-epi-doctor",
+      "normalised": "https://www.identifyepi.com/find-an-epi-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/watch",
+      "normalised": "https://www.identifyepi.com/epi-videos/watch",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/watch?ftvid=6282597144001",
+      "normalised": "https://www.identifyepi.com/epi-videos/watch?ftvid=6282597144001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/watch?ftvid=6282596273001",
+      "normalised": "https://www.identifyepi.com/epi-videos/watch?ftvid=6282596273001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients?ftvid=6258802152001",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients?ftvid=6258802152001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-symptoms",
+      "normalised": "https://www.identifyepi.com/epi-symptoms",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270801185001",
+      "normalised": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270801185001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270803494001",
+      "normalised": "https://www.identifyepi.com/epi-videos/watch?ftvid=6270803494001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/site-map",
+      "normalised": "https://www.identifyepi.com/site-map",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/epi-videos/what-is-epi-transcript",
+      "normalised": "https://www.identifyepi.com/epi-videos/what-is-epi-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/search-results",
+      "normalised": "https://www.identifyepi.com/search-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258803133001",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories/for-your-practice?ftvid=6258803133001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients?ftvid=6258803767001",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients?ftvid=6258803767001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/what-is-epi/exocrine-pancreatic-insufficiency-diagnosis",
+      "normalised": "https://www.identifyepi.com/what-is-epi/exocrine-pancreatic-insufficiency-diagnosis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients?ftvid=6258803494001",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients?ftvid=6258803494001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-resources",
+      "normalised": "https://www.identifyepi.com/hcp/epi-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/frequently-asked-questions",
+      "normalised": "https://www.identifyepi.com/frequently-asked-questions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients?ftvid=6258803495001",
+      "normalised": "https://www.identifyepi.com/hcp/epi-stories/for-your-patients?ftvid=6258803495001",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/identifyepi-symptom-checker",
+      "normalised": "https://www.identifyepi.com/identifyepi-symptom-checker",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/what-is-epi/associated-conditions",
+      "normalised": "https://www.identifyepi.com/what-is-epi/associated-conditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/content/identifyepi/en-us/exocrine-pancreatic-insufficiency-symptoms/jcr:content/contentpar/aemform.iframe.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.identifyepi.com/content/identifyepi/en-us/exocrine-pancreatic-insufficiency-symptoms/jcr:content/contentpar/aemform.iframe.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/content/identifyepi/en-us/exocrine-pancreatic-insufficiency-information/jcr:content/contentpar/aemform.iframe.html?dataRef=&amp;wcmmode=DISABLED",
+      "normalised": "https://www.identifyepi.com/content/identifyepi/en-us/exocrine-pancreatic-insufficiency-information/jcr:content/contentpar/aemform.iframe.html?dataRef=&amp;wcmmode=DISABLED",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/abbv-tab-174141149-0",
+      "normalised": "https://www.identifyepi.com/hcp/abbv-tab-174141149-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.identifyepi.com/hcp/abbv-tab-174141149-1",
+      "normalised": "https://www.identifyepi.com/hcp/abbv-tab-174141149-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 58,
+    "bySource": {
+      "sitemap": 43,
+      "crawl": 15,
+      "manual": 0
+    }
+  }
+}

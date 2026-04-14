@@ -1,0 +1,26 @@
+{
+  "blockId": "what_is_rapid3",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "What is RAPID3",
+  "description": "Explains the RAPID3 survey with details and categories.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.keep-rows-tablet > .abbv-row:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

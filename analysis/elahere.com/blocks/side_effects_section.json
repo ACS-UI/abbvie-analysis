@@ -1,0 +1,26 @@
+{
+  "blockId": "side_effects_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Side Effects Information",
+  "description": "Details potential eye-related side effects and their management.",
+  "domHints": {
+    "selectors": [
+      "#side-effects"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

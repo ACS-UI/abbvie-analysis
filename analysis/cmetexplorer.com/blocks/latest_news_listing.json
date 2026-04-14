@@ -1,0 +1,26 @@
+{
+  "blockId": "latest_news_listing",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Latest News Listing",
+  "description": "Lists the latest news articles or updates.",
+  "domHints": {
+    "selectors": [
+      "ul#linklist-389743224a"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

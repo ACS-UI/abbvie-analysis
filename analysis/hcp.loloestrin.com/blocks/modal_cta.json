@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_cta",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Modal Call-to-Actions",
+  "description": "Interactive links that open modals to provide detailed information, such as 'Estrogen Then and Now'.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.modal-cta-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

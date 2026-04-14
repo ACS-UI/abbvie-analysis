@@ -1,0 +1,26 @@
+{
+  "blockId": "faqs_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "FAQs Section",
+  "description": "Contains frequently asked questions and answers.",
+  "domHints": {
+    "selectors": [
+      "#FAQs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

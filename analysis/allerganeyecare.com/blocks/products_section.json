@@ -1,0 +1,26 @@
+{
+  "blockId": "products_section",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Products Section",
+  "description": "Highlights the products related to the program, displayed in a carousel format.",
+  "domHints": {
+    "selectors": [
+      ".common-instagram-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

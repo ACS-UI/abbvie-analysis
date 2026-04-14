@@ -1,0 +1,26 @@
+{
+  "blockId": "profile_overview",
+  "templateIds": [
+    "tpl_190"
+  ],
+  "name": "Profile Overview",
+  "description": "A brief overview of Andrew L. Campbell's role and contributions.",
+  "domHints": {
+    "selectors": [
+      "#text-10de8beb7d"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_190 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

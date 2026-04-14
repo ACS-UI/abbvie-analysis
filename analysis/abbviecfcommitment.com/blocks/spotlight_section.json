@@ -1,0 +1,26 @@
+{
+  "blockId": "spotlight_section",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Spotlight Section",
+  "description": "Highlights specific program details or achievements.",
+  "domHints": {
+    "selectors": [
+      ".grid__spotlight"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_2",
+    "tpl_4"
+  ],
+  "name": "Call-to-Action Section",
+  "description": "Provides actionable links like 'Request Samples' and 'Savings Program' for healthcare professionals.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.abbv-right-fixed-nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

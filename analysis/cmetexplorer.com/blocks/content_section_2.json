@@ -1,0 +1,30 @@
+{
+  "blockId": "content_section_2",
+  "templateIds": [
+    "tpl_25",
+    "tpl_96",
+    "tpl_116",
+    "tpl_258",
+    "tpl_290"
+  ],
+  "name": "Content Section 2",
+  "description": "Displays a featured story with an image and description.",
+  "domHints": {
+    "selectors": [
+      "#container-e3b37c5553 > .grid > .grid-container > .grid-row > .grid-row__col-with-3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

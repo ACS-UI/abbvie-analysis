@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.BurdenOfAD.com",
+  "normalisedUrl": "https://www.burdenofad.com/",
+  "finalUrlAfterRedirects": "https://www.burdenofad.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:16:06.781Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

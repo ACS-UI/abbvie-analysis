@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_1",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Content Section 1",
+  "description": "Details about how the product is administered at the doctor's office.",
+  "domHints": {
+    "selectors": [
+      ".doctors-office-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

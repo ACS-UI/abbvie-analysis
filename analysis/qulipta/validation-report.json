@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.qulipta.com/",
+  "normalisedUrl": "https://www.qulipta.com/",
+  "finalUrlAfterRedirects": "https://www.qulipta.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T10:49:25.694Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

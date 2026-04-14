@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.vyalevhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:24.541Z",
+      "selector": "#hdrv2-utilnav"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.vyalevhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:24.541Z",
+      "selector": "header.abbv-header-v2"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.vyalevhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:24.541Z",
+      "selector": "#background-container-1335530890"
+    },
+    {
+      "relativePath": "callout_section__default.png",
+      "sourceUrl": "https://www.vyalevhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:24.541Z",
+      "selector": "#background-container-651450273"
+    },
+    {
+      "relativePath": "cta_grid__default.png",
+      "sourceUrl": "https://www.vyalevhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:24.541Z",
+      "selector": ".flexbox--four-column"
+    },
+    {
+      "relativePath": "graph_section__default.png",
+      "sourceUrl": "https://www.vyalevhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:24.541Z",
+      "selector": "#background-container-57469242"
+    },
+    {
+      "relativePath": "patient_benefit_section__default.png",
+      "sourceUrl": "https://www.vyalevhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:24.541Z",
+      "selector": "#background-container-1832134064"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.vyalevhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:17:24.541Z",
+      "selector": "footer.abbv-footer"
+    }
+  ]
+}

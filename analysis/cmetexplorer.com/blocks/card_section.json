@@ -1,0 +1,26 @@
+{
+  "blockId": "card_section",
+  "templateIds": [
+    "tpl_277"
+  ],
+  "name": "Card Section",
+  "description": "Showcases featured content in a card format.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_277 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

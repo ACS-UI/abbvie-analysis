@@ -1,0 +1,27 @@
+{
+  "blockId": "dermatologist_reacts_section",
+  "templateIds": [
+    "tpl_22"
+  ],
+  "name": "Dermatologist Reacts Section",
+  "description": "Includes a video and text featuring a dermatologist's perspective.",
+  "domHints": {
+    "selectors": [
+      "#derm-reacts",
+      ".abbv-video-player.video-3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_22 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

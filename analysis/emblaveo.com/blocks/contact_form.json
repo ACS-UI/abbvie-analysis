@@ -1,0 +1,26 @@
+{
+  "blockId": "contact_form",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Contact Form",
+  "description": "Embedded form for users to contact a representative.",
+  "domHints": {
+    "selectors": [
+      "#aemFormFrame"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

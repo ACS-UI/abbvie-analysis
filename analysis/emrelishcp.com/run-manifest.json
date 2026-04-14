@@ -1,0 +1,123 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:22:24.328Z",
+  "completedAt": "2026-04-13T15:31:40.482Z",
+  "input": {
+    "url": "https://www.emrelishcp.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/emrelishcp.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_1",
+        "humanName": "Error Page",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "About Information Page",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Contact Us Page",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Safety Profile",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Support Resources",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "User Sign-Up Page",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Search Results Page",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Efficacy Details",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Adverse Reaction Guidelines",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Study Design Page",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Dosing Information",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Sitemap Page",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      }
+    ]
+  }
+}

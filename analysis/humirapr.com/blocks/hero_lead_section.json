@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_lead_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Hero Lead Section",
+  "description": "Highlights a key message or call-to-action for the audience.",
+  "domHints": {
+    "selectors": [
+      "section.arthritis-hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

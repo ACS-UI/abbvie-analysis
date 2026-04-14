@@ -1,0 +1,26 @@
+{
+  "blockId": "site_footer",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Site Footer",
+  "description": "Contains footer links, trademarks, and legal disclaimers.",
+  "domHints": {
+    "selectors": [
+      "footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

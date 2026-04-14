@@ -1,0 +1,28 @@
+{
+  "blockId": "story_cards",
+  "templateIds": [
+    "tpl_68",
+    "tpl_95"
+  ],
+  "name": "Story Cards",
+  "description": "Displays featured stories in a card layout with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory.card-dashboard.card-medium",
+      "div.card-content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_68 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

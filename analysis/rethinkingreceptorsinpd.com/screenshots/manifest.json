@@ -1,0 +1,344 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": "#background-container-244389776"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".home-video"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "unmet_need_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".background-gradient-yellow"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/emerging-pd-research",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/emerging-pd-research",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "intro_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/emerging-pd-research",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": "#background-container-22301073"
+    },
+    {
+      "relativePath": "content_highlights__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/emerging-pd-research",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-container.section.background-gradient-yellow"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/emerging-pd-research",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-container .abbv-flex-container-v2.content-extra-large.callout"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/emerging-pd-research",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/role-of-dopamine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "dopamine_receptor_intro__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/role-of-dopamine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-container.section.first"
+    },
+    {
+      "relativePath": "d1_receptors__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/role-of-dopamine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-flex-container-v2.callout.callout-with-border.forward"
+    },
+    {
+      "relativePath": "d2_receptors__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/role-of-dopamine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-flex-container-v2.callout.callout-with-border-reverse"
+    },
+    {
+      "relativePath": "dopamine_receptor_summary__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/role-of-dopamine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-container.section.last"
+    },
+    {
+      "relativePath": "accordion_transcript__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/role-of-dopamine",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-accordion.transcript-accordion"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/current-pd-treatments",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-rich-text.content-small.abbv-text-center"
+    },
+    {
+      "relativePath": "tabs_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/current-pd-treatments",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-tabs"
+    },
+    {
+      "relativePath": "adverse_effects_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/current-pd-treatments",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": "#background-container-1827591813"
+    },
+    {
+      "relativePath": "icon_text_grid__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/current-pd-treatments",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-flex-container-v2.icon-text-stacked"
+    },
+    {
+      "relativePath": "references_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/current-pd-treatments",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-rich-text.reference-container"
+    },
+    {
+      "relativePath": "chart_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/burden-of-pd",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-container.content-extra-large.section.background-lavander"
+    },
+    {
+      "relativePath": "symptoms_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/burden-of-pd",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-container.content-large"
+    },
+    {
+      "relativePath": "therapeutic_window_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/burden-of-pd",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-container.section.background-gradient-yellow.last"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "sitemap_cta_links__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".sitemap-cta"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "form_section__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/request-msl",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".aemform iframe"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/request-msl",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.rethinkingreceptorsinpd.com/request-msl",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:26:55.970Z",
+      "selector": ".abbv-legal-text"
+    }
+  ]
+}

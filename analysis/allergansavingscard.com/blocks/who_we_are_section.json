@@ -1,0 +1,32 @@
+{
+  "blockId": "who_we_are_section",
+  "templateIds": [
+    "tpl_224",
+    "tpl_226",
+    "tpl_265",
+    "tpl_294",
+    "tpl_298",
+    "tpl_306"
+  ],
+  "name": "Who We Are Section",
+  "description": "Introduces the 'Who We Are' content with text, links, and a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      "div#title-5e4f37584b",
+      "div#text-a004783dce"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_224 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,2373 @@
+{
+  "entryUrl": "https://www.abbviecfcommitment.com/",
+  "discoveredAt": "2026-04-13T16:22:02.102Z",
+  "urls": [
+    {
+      "url": "https://www.abbviecfcommitment.com/",
+      "normalised": "https://www.abbviecfcommitment.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/content/dam/remotedam/approved-assets/abbvie/consumer/documents/AbbVieCFScholarship-FAQ.pdf",
+      "normalised": "https://www.abbviecfcommitment.com/content/dam/remotedam/approved-assets/abbvie/consumer/documents/AbbVieCFScholarship-FAQ.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-guide",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-guide/healthy-eating",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-guide/healthy-eating",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-tips/college-and-cystic-fibrosis",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-tips/college-and-cystic-fibrosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-guide/exercise",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-guide/exercise",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-tips/cf-winter-recipes",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-tips/cf-winter-recipes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/dinner/curried-chicken-casserole",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/dinner/curried-chicken-casserole",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/samantha-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/samantha-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-tips/vacationing-with-cystic-fibrosis",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-tips/vacationing-with-cystic-fibrosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/resources/qa-resources",
+      "normalised": "https://www.abbviecfcommitment.com/resources/qa-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/snacks/extra-calorie-pudding-snack",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/snacks/extra-calorie-pudding-snack",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/olivia-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/olivia-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-tips/summer-party-tips",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-tips/summer-party-tips",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/breakfast/inside-out-omelette",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/breakfast/inside-out-omelette",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/megane-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/megane-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/kate-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/kate-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/irvin-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/irvin-a",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-tips/spice-up-cf-dinner",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-tips/spice-up-cf-dinner",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/dinner/beef-taquitos",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/dinner/beef-taquitos",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/snacks/yummy-sweet-potato-bites",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/snacks/yummy-sweet-potato-bites",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/dinner/spicy-peanut-chicken-with-rice",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/dinner/spicy-peanut-chicken-with-rice",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/dinner/baked-potato-soup",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/dinner/baked-potato-soup",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/madison-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/madison-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-guide/cooking-tips-tricks",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-guide/cooking-tips-tricks",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/dinner/chicken-cheese-broccoli-orzo-casserole",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/dinner/chicken-cheese-broccoli-orzo-casserole",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/get-involved",
+      "normalised": "https://www.abbviecfcommitment.com/get-involved",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sophia-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sophia-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/louisakathleen-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/louisakathleen-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/site-map",
+      "normalised": "https://www.abbviecfcommitment.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/breakfast/bacon-cheese-quiche",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/breakfast/bacon-cheese-quiche",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-tips/planning-shopping",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-tips/planning-shopping",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-guide/staying-healthy",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-guide/staying-healthy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/dinner/chicken-tortilla-soup",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/dinner/chicken-tortilla-soup",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/madison-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/madison-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/snacks/banana-muffins",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/snacks/banana-muffins",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/breakfast/banoffee-stuffed-french-toast",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/breakfast/banoffee-stuffed-french-toast",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/mary-o",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/mary-o",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/taylor-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/taylor-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/allie-v",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/allie-v",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/breakfast/power-oatmeal",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/breakfast/power-oatmeal",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elizabeth-s-3",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elizabeth-s-3",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/snacks/meat-roll-ups",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/snacks/meat-roll-ups",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/mariam-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/mariam-a",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/samantha-j",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/samantha-j",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/joshua-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/joshua-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sara-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sara-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/grace-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/grace-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes",
+      "normalised": "https://www.abbviecfcommitment.com/recipes",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/nutrition-tips/summer-nutrition-cystic-fibrosis",
+      "normalised": "https://www.abbviecfcommitment.com/nutrition-tips/summer-nutrition-cystic-fibrosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/caden-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/caden-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/gabriel-n",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/gabriel-n",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/emma-j",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/emma-j",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/snacks/chocolate-pudding",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/snacks/chocolate-pudding",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/jordan-j",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/jordan-j",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/resources",
+      "normalised": "https://www.abbviecfcommitment.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/dinner/chicken-cordon-bleu",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/dinner/chicken-cordon-bleu",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/travis-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/travis-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/mica-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/mica-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/emma-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/emma-g",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/dinner/baked-chicken",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/dinner/baked-chicken",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/grace-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/grace-a",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/recipes/snacks/no-bake-peanut-butter-bars",
+      "normalised": "https://www.abbviecfcommitment.com/recipes/snacks/no-bake-peanut-butter-bars",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/about",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/about",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/tovah-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/tovah-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/ashley-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/ashley-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/sierra-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/sierra-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/leila-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/leila-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/lauren-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/lauren-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/katherine-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/katherine-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/lucy-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/lucy-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/alyssa-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/alyssa-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/montgomery-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/montgomery-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/montgomery-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/montgomery-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/cade-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/cade-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/elyse-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/elyse-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/jennifer-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/jennifer-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/emily-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/emily-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/annika-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/annika-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/faith-e",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/faith-e",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/rachel-v",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/rachel-v",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/paige-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/paige-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/macee-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/macee-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/olivia-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/olivia-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/lilykate-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/lilykate-a",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/christa-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/christa-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/ivan-j",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/ivan-j",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elliot-v",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elliot-v",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/lillith-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/lillith-r",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/sarah-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/sarah-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/chyann-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/chyann-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/samantha-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/samantha-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elizabeth-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elizabeth-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/montgomery-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/montgomery-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/tzvi-k",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/tzvi-k",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/anne-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/anne-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/meghan-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/meghan-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/annika-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/annika-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/cameron-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/cameron-g",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/brittney-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/brittney-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/heather-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/heather-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/chloe-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/chloe-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/micah-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/micah-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/faith-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/faith-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/molly-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/molly-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/sophia-k",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/sophia-k",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/ashley-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/ashley-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/joshua-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/joshua-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/katherine-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/katherine-r",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/laynee-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/laynee-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/katherine-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/katherine-r",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/mike-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/mike-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/katherine-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/katherine-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/amanda-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/amanda-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/kenzie-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/kenzie-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/faith-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/faith-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/grace-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/grace-a",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/alexandra-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/alexandra-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/sara-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/sara-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/chyann-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/chyann-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/abigail-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/abigail-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/ava-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/ava-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/mary-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/mary-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/samantha-j",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/samantha-j",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/kaitlyn-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/kaitlyn-r",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/emma-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/emma-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/cameron-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/cameron-g",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/jacob-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/jacob-g",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/zach-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/zach-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/taylor-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/taylor-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/leila-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/leila-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/david-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/david-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/elyse-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/elyse-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/sophia-k",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/sophia-k",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/brian-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/brian-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/mary-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/mary-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/brooklyn-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/brooklyn-a",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/mackenzie-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/mackenzie-a",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/marcelo-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/marcelo-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/emily-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/emily-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/valanci-v",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/valanci-v",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/jennifer-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/jennifer-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/ryleigh-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/ryleigh-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/taylor-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/taylor-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/chris-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/chris-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/corinne-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/corinne-g",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/emily-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/emily-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/brandon-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/brandon-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/ellison-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/ellison-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/leah-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/leah-a",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/ava-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/ava-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/elyse-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/elyse-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/gabriel-n",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/gabriel-n",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/jadyn-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/jadyn-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/christa-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/christa-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/victoria-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/victoria-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/leila-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/leila-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sarina-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sarina-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sydney-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sydney-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/nolan-z",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/nolan-z",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/marc-e",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/marc-e",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/rocki-f",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/rocki-f",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/brynn-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/brynn-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/bonnie-rose-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/bonnie-rose-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/josh-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/josh-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/maggie-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/maggie-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/pearl-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/pearl-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/alliekay-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/alliekay-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/jessica-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/jessica-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/ryan-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/ryan-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/sean-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/sean-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elyse-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elyse-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elyse-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/elyse-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/hayden-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/hayden-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/libbey-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/libbey-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/connor-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/connor-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/lillian-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/lillian-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/mea-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/mea-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/cassidy-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/cassidy-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/dara-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/dara-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/emily-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/emily-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/jennifer-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/jennifer-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/caitlyn-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/caitlyn-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/louisakathleen-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/louisakathleen-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/else-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/else-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/joey-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/joey-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/alyssa-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/alyssa-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/mikayla-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/mikayla-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/madison-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/madison-d",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/caden-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/caden-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/haley-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/haley-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/emma-j",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/emma-j",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-0",
+      "normalised": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/will-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/will-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/mckenzie-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/mckenzie-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-3",
+      "normalised": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/will-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/will-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/marcanthony-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/marcanthony-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/monica-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/monica-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/madelynn-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/madelynn-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-2",
+      "normalised": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/erik-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/erik-g",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-1",
+      "normalised": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/lauren-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/lauren-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/madison-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/madison-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-4",
+      "normalised": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/bryce-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/bryce-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/grace-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/grace-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/kevin-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/kevin-r",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/caden-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/caden-p",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/lakyn-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/lakyn-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/macee-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/macee-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/melissa-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/melissa-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-5",
+      "normalised": "https://www.abbviecfcommitment.com/abbv-tab-1275836021-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/alliekay-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/alliekay-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/abbey-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/abbey-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/elena-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/elena-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/jordan-j",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/jordan-j",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/alyssa-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/alyssa-b",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/spencer-e",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/spencer-e",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/ashley-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/ashley-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/kristy-o",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/kristy-o",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/alihamza-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/alihamza-r",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/brayden-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/brayden-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/chanlar-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/chanlar-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/megan-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/megan-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/lauren-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/lauren-l",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/mariela-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/mariela-a",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/liam-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/liam-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/samantha-j",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/samantha-j",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/ivan-j",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/ivan-j",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/justin-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/justin-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/andrew-n",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/andrew-n",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/shahd-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/shahd-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/avery-f",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/avery-f",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/allison-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/allison-g",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/abby-f",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/abby-f",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/adrian-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/adrian-m",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/abbey-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/abbey-l",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/marcelo-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/marcelo-s",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sydney-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/sydney-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/sydney-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/sydney-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/bryce-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/bryce-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/elyse-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/elyse-m",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/francesca-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/francesca-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/reagan-l",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/reagan-l",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/joshua-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/joshua-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/alexa-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/alexa-h",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/henri-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/henri-r",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/caitlyn-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/caitlyn-h",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/carli-k",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/carli-k",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020/",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2020",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021/",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2021",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/lillian-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2023/lillian-w",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022/",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2022",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/abbv-tab-1919836450-1",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/abbv-tab-1919836450-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/abbv-tab-1919836450-3",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/abbv-tab-1919836450-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/jared-e",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/jared-e",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/brendan-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/brendan-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/mackenzie-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/mackenzie-a",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/hannah-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/hannah-c",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/abbv-tab-1919836450-2",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/abbv-tab-1919836450-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/abbv-tab-1919836450-0",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/abbv-tab-1919836450-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/lillith-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/lillith-r",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/connor-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/connor-p",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/lauren-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/lauren-b",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/madelynn-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/madelynn-h",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/adam-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/adam-b",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/madison-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/madison-d",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/lola-f",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/lola-f",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/mea-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/mea-m",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/faith-e",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/faith-e",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/tiffany-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/tiffany-h",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/riddhi-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/riddhi-m",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/heather-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/heather-h",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/connor-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/connor-p",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/quinn-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/quinn-d",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/catherine-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/catherine-a",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/ford-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/ford-r",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/chloe-o",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/chloe-o",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/johnny-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/johnny-p",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/john-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/john-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/morgan-v",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/morgan-v",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/anthony-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/anthony-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/bailey-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/bailey-g",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/katherine-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/katherine-r",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/lillith-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/lillith-r",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/vivian-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/vivian-w",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/jordan-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/jordan-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/lola-f",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/lola-f",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/alihamza-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/alihamza-r",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/grace-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/grace-a",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/bonnie-rose-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/bonnie-rose-w",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/else-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/else-m",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/madelyn-f",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/madelyn-f",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/vanessa-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/vanessa-h",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/benjamin-f",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/benjamin-f",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/ashley-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/ashley-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/hayden-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/hayden-b",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/robert-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/robert-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/taylor-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/taylor-r",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/alexa-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/alexa-h",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/tate-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/tate-p",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/ayla-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/ayla-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/lillian-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/lillian-w",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/cade-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/cade-b",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/morgan-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/morgan-h",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/savannah-h",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/savannah-h",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/jillian-f",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/jillian-f",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/ava-c",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/ava-c",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/katherine-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/katherine-r",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/nancy-o",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/nancy-o",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/reagan-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/reagan-b",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/mackenzie-a",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/mackenzie-a",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/samantha-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/samantha-p",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/leila-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/leila-b",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/blair-o",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/blair-o",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/christopher-m",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/christopher-m",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/william-w",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/william-w",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/wesley-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/wesley-g",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sophia-k",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sophia-k",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sophia-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sophia-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/mikayla-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/mikayla-p",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/quinn-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/quinn-d",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/reagan-b",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/reagan-b",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/samantha-g",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/samantha-g",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/scott-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/scott-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/madison-d",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/madison-d",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/rachael-r",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/rachael-r",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sarena-s",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sarena-s",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sean-p",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/sean-p",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019/",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2019",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025/",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2025",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024/",
+      "normalised": "https://www.abbviecfcommitment.com/cfscholarship/scholars/2024",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 337,
+    "bySource": {
+      "sitemap": 216,
+      "crawl": 121,
+      "manual": 0
+    }
+  }
+}

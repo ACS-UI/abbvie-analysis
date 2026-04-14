@@ -1,0 +1,26 @@
+{
+  "blockId": "events_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Events Section",
+  "description": "Highlights specific events related to Hidradenitis Suppurativa.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.mb3.mt9"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

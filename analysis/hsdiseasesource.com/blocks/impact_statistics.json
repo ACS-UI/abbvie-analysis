@@ -1,0 +1,26 @@
+{
+  "blockId": "impact_statistics",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Impact Statistics",
+  "description": "Displays statistical data on the impact of HS.",
+  "domHints": {
+    "selectors": [
+      ".boxed-3-bullet-image"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

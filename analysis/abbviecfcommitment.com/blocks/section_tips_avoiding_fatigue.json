@@ -1,0 +1,26 @@
+{
+  "blockId": "section_tips_avoiding_fatigue",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Tips for Avoiding Fatigue Section",
+  "description": "Provides tips to manage weight and energy during exercise.",
+  "domHints": {
+    "selectors": [
+      "#background-container-230274268"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

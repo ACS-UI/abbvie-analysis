@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.orilissa.com/",
+  "normalisedUrl": "https://www.orilissa.com/",
+  "finalUrlAfterRedirects": "https://www.orilissa.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:31:42.560Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

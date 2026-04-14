@@ -1,0 +1,26 @@
+{
+  "blockId": "header_bar",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Header Bar",
+  "description": "The header section providing branding and navigation.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.header-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

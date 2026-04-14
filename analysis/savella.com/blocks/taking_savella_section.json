@@ -1,0 +1,26 @@
+{
+  "blockId": "taking_savella_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Taking Savella Section",
+  "description": "Provides information on how to take Savella and what to expect.",
+  "domHints": {
+    "selectors": [
+      "#taking-savella"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

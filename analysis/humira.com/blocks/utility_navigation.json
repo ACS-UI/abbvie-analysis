@@ -1,0 +1,26 @@
+{
+  "blockId": "utility_navigation",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Utility Navigation",
+  "description": "Provides quick access to utility links like conditions and safety information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

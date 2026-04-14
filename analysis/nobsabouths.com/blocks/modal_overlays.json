@@ -1,0 +1,27 @@
+{
+  "blockId": "modal_overlays",
+  "templateIds": [
+    "tpl_9",
+    "tpl_10"
+  ],
+  "name": "Modal Overlays",
+  "description": "Handles modal dialogs for external links and additional information.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

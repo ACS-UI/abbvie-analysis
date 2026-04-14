@@ -1,0 +1,26 @@
+{
+  "blockId": "references_list",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "References List",
+  "description": "Displays a detailed list of references used on the site.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.synthroid-refrence-list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

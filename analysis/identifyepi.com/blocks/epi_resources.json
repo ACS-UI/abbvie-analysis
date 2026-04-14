@@ -1,0 +1,26 @@
+{
+  "blockId": "epi_resources",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "EPI Resources",
+  "description": "Provides resources related to EPI, including finding a doctor and learning about diagnosis and treatment.",
+  "domHints": {
+    "selectors": [
+      "#background-container-769003351"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_savings_intro",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Patient Savings Introduction",
+  "description": "Introduction text explaining the purpose of the patient savings programs.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.allegan-ptnt-products"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

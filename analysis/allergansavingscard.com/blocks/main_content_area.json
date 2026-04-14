@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_area",
+  "templateIds": [
+    "tpl_312"
+  ],
+  "name": "Main Content Area",
+  "description": "Holds the primary content for the privacy inquiry page.",
+  "domHints": {
+    "selectors": [
+      "#auraErrorMask"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_312 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

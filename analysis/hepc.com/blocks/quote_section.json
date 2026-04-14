@@ -1,0 +1,26 @@
+{
+  "blockId": "quote_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Quote Section",
+  "description": "Features a patient quote about living with Hepatitis C.",
+  "domHints": {
+    "selectors": [
+      ".hep-c-quote-a"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Quote"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "experience_tool_section",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Experience Tool Section",
+  "description": "Interactive section for users to engage with the eczema experience tool.",
+  "domHints": {
+    "selectors": [
+      ".experience-tool"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

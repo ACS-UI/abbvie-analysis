@@ -1,0 +1,43 @@
+{
+  "blockId": "main_region_4",
+  "templateIds": [
+    "tpl_0",
+    "tpl_11",
+    "tpl_13",
+    "tpl_15",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_20",
+    "tpl_21",
+    "tpl_22",
+    "tpl_26",
+    "tpl_30",
+    "tpl_31",
+    "tpl_35",
+    "tpl_41",
+    "tpl_50",
+    "tpl_52",
+    "tpl_57"
+  ],
+  "name": "main region 4",
+  "description": "Major content region in main (div). Preview: Looking for more information on SKYRIZI? Get the information you need delivered straight to your inbox. Sign Up for SKYR…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

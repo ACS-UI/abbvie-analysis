@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_considerations_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Treatment Considerations Section",
+  "description": "Includes information and videos about treatment options for atopic dermatitis.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1450286694"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

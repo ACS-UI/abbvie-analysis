@@ -1,0 +1,26 @@
+{
+  "blockId": "references",
+  "templateIds": [
+    "tpl_30"
+  ],
+  "name": "References Section",
+  "description": "Lists references and sources for the content provided.",
+  "domHints": {
+    "selectors": [
+      ".epi-identifyepi-references"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_30 (selectors validated in representative HTML).",
+  "aemCatalogName": "Table"
+}

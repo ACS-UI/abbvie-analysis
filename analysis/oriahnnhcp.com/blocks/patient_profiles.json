@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_profiles",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Patient Profiles",
+  "description": "Showcases individual patient stories and profiles with their images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.patient-block"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

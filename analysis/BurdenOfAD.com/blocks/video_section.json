@@ -1,0 +1,27 @@
+{
+  "blockId": "video_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_4"
+  ],
+  "name": "Video Section",
+  "description": "Features a video player with a transcript about the burdens of atopic dermatitis.",
+  "domHints": {
+    "selectors": [
+      ".abbv-video-player"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

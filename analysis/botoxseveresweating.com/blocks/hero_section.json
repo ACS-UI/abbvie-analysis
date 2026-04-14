@@ -1,0 +1,31 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_8",
+    "tpl_9",
+    "tpl_11"
+  ],
+  "name": "Hero Section",
+  "description": "The main banner with a headline and introductory text about the treatment experience.",
+  "domHints": {
+    "selectors": [
+      ".banner-treatment-experience"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

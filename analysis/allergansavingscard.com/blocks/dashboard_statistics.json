@@ -1,0 +1,27 @@
+{
+  "blockId": "dashboard_statistics",
+  "templateIds": [
+    "tpl_159"
+  ],
+  "name": "Dashboard Statistics",
+  "description": "Displays key statistics and recognitions in a dashboard format.",
+  "domHints": {
+    "selectors": [
+      ".dashboardcards.medium-theme-stroke",
+      ".dashboardcards.dark-theme"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_159 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

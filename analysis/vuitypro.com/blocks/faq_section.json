@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "FAQ Section",
+  "description": "Accordion-style FAQ section providing detailed answers to common questions about VUITY.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

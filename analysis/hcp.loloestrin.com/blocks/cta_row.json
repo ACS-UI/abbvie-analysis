@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_row",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Call-to-Action Row",
+  "description": "Provides direct links to request samples, access savings programs, and view formulary coverage.",
+  "domHints": {
+    "selectors": [
+      ".abbv-support-for-your-practice-resources"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

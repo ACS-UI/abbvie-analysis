@@ -1,0 +1,26 @@
+{
+  "blockId": "common_signs_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Common Signs Section",
+  "description": "Details common signs and symptoms of puberty in children.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.understanding-cpp-inner-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

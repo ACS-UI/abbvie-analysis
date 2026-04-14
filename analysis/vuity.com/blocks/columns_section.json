@@ -1,0 +1,27 @@
+{
+  "blockId": "columns_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_6"
+  ],
+  "name": "Columns Section",
+  "description": "Describes the benefits of the product and provides a call-to-action link.",
+  "domHints": {
+    "selectors": [
+      ".vuity-about-adults-age-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

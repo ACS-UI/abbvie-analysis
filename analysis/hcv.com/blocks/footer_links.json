@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_links",
+  "templateIds": [
+    "tpl_2",
+    "tpl_3"
+  ],
+  "name": "Footer Links",
+  "description": "Provides additional navigation links and site-related information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2.footer-link-list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

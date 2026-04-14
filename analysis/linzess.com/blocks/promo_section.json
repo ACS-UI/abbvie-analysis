@@ -1,0 +1,26 @@
+{
+  "blockId": "promo_section",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Promotional Section",
+  "description": "Information about potential savings for Linzess prescriptions.",
+  "domHints": {
+    "selectors": [
+      ".linzess-promo"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

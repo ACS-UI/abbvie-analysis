@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_columns",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "CTA Columns",
+  "description": "Displays call-to-action elements in a two-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-padding-top-60 > .abbv-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

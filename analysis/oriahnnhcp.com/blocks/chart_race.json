@@ -1,0 +1,27 @@
+{
+  "blockId": "chart_race",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Race Chart",
+  "description": "Chart showing racial demographics and their correlation with clinical outcomes.",
+  "domHints": {
+    "selectors": [
+      "#abbv-barchart-361540024-data",
+      ".abbv-interactive-chart[data-graph-w='300']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

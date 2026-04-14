@@ -1,0 +1,26 @@
+{
+  "blockId": "call_to_action",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Call to Action",
+  "description": "Encourages users to sign up for the savings program via text or online registration.",
+  "domHints": {
+    "selectors": [
+      ".signup-today-right"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

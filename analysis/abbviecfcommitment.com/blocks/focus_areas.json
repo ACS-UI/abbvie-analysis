@@ -1,0 +1,26 @@
+{
+  "blockId": "focus_areas",
+  "templateIds": [
+    "tpl_30"
+  ],
+  "name": "Focus Areas",
+  "description": "Highlights key focus areas for the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.color-blocks"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_30 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

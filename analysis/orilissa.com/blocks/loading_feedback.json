@@ -1,0 +1,30 @@
+{
+  "blockId": "loading_feedback",
+  "templateIds": [
+    "tpl_1",
+    "tpl_7"
+  ],
+  "name": "Loading Feedback",
+  "description": "Shows loading animations and success/error messages during form submission.",
+  "domHints": {
+    "selectors": [
+      ".loading",
+      ".abbv-animation-loading",
+      ".main-success",
+      ".main-error"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

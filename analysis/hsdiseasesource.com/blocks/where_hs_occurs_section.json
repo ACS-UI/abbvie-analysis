@@ -1,0 +1,27 @@
+{
+  "blockId": "where_hs_occurs_section",
+  "templateIds": [
+    "tpl_3",
+    "tpl_7"
+  ],
+  "name": "Where HS Occurs Section",
+  "description": "Explains common areas affected by HS.",
+  "domHints": {
+    "selectors": [
+      ".justify-content-space-between"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.amlexpertconnect.com/",
+  "normalisedUrl": "https://www.amlexpertconnect.com/",
+  "finalUrlAfterRedirects": "https://www.amlexpertconnect.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:21:46.825Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

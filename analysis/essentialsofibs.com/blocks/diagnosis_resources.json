@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosis_resources",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Diagnosis Resources",
+  "description": "Provides downloadable resources for IBS diagnosis.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1369172196"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cookie_consent",
+  "templateIds": [
+    "tpl_282"
+  ],
+  "name": "Cookie Consent Banner",
+  "description": "Informs users about cookie usage and allows consent management.",
+  "domHints": {
+    "selectors": [
+      "body > div:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_282 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

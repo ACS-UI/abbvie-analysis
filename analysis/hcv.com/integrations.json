@@ -1,0 +1,28 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.hcv.com/living-with-hcv/meet-maria",
+          "https://www.hcv.com/awareness/people-who-use-drugs",
+          "https://www.hcv.com/resources/spanish-resources",
+          "https://www.hcv.com/management",
+          "https://www.hcv.com/screening-assessments",
+          "https://www.hcv.com/new-hcv-providers",
+          "https://www.hcv.com/",
+          "https://www.hcv.com/search-results"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:23:45.335Z"
+}

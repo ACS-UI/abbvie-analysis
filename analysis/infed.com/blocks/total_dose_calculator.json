@@ -1,0 +1,26 @@
+{
+  "blockId": "total_dose_calculator",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Total Dose Calculator",
+  "description": "Provides formulas and examples for calculating the total dose.",
+  "domHints": {
+    "selectors": [
+      ".total-dose-calculator"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

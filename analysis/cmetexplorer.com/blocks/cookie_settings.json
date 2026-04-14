@@ -1,0 +1,26 @@
+{
+  "blockId": "cookie_settings",
+  "templateIds": [
+    "tpl_309"
+  ],
+  "name": "Cookie Settings",
+  "description": "Allows users to adjust their cookie preferences.",
+  "domHints": {
+    "selectors": [
+      "#ot-sdk-btn"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_309 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

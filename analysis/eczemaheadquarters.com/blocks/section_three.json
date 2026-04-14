@@ -1,0 +1,26 @@
+{
+  "blockId": "section_three",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Third Content Section",
+  "description": "Covers the third topic with a focus on long-term doctor-patient relationships.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.eqh-learning-partnering-third-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

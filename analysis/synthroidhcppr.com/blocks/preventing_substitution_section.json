@@ -1,0 +1,27 @@
+{
+  "blockId": "preventing_substitution_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Preventing Substitution Section",
+  "description": "Explains how to prevent nonmedical substitutions at the pharmacy.",
+  "domHints": {
+    "selectors": [
+      "#prevent",
+      ".abbv-container.synthroid-preventing"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "disease_education_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Disease Education Section",
+  "description": "Contains content and media related to disease education.",
+  "domHints": {
+    "selectors": [
+      "#background-container-872984000"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_links",
+  "templateIds": [
+    "tpl_1",
+    "tpl_3"
+  ],
+  "name": "Footer Links",
+  "description": "Contains footer navigation links like 'Site Map' and 'Privacy Notice'.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-horizontal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

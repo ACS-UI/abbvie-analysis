@@ -1,0 +1,26 @@
+{
+  "blockId": "post_marketing_data",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Post-Marketing Data",
+  "description": "Shares data collected post-approval, including rare adverse reactions.",
+  "domHints": {
+    "selectors": [
+      ".safety-post-marketing-curve"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

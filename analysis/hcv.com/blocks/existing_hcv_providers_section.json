@@ -1,0 +1,26 @@
+{
+  "blockId": "existing_hcv_providers_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Existing HCV Providers Section",
+  "description": "Offers advanced resources and research for existing HCV providers.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1493112836 .abbv-col:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

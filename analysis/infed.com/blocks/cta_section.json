@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Call-to-Action Section",
+  "description": "Provides actionable links for users to explore more about INFeD.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.anchor-nav-mob-hide"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

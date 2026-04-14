@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_grid",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Resources Grid",
+  "description": "Displays key resources such as product samples, starter kits, patient education, and savings brochures.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.abbv-support-for-your-practice-resources"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

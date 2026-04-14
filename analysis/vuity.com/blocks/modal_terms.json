@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_terms",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Terms Modal",
+  "description": "Displays terms and conditions for the loyalty program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.TermsModal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "form_embed",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Form Embed",
+  "description": "Embedded form for user interaction, such as signing up for a savings card.",
+  "domHints": {
+    "selectors": [
+      ".cmp-formsembed-widget"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

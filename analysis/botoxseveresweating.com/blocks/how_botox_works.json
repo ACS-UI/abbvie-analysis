@@ -1,0 +1,26 @@
+{
+  "blockId": "how_botox_works",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "How Botox Works",
+  "description": "Explains the mechanism of Botox in reducing sweating.",
+  "domHints": {
+    "selectors": [
+      "#aAboutServere"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

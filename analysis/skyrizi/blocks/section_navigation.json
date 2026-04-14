@@ -1,0 +1,26 @@
+{
+  "blockId": "section_navigation",
+  "templateIds": [
+    "tpl_35"
+  ],
+  "name": "section navigation",
+  "description": "Major content region in main (div). Preview: Symptom Relief Symptom Relief Visible Repair* of Intestinal Lining Damage Remission…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_35. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

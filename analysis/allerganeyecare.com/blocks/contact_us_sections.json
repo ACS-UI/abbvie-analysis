@@ -1,0 +1,26 @@
+{
+  "blockId": "contact_us_sections",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Contact Us Sections",
+  "description": "Detailed contact information for various departments such as Customer Relations, Drug Safety, and Medical Information.",
+  "domHints": {
+    "selectors": [
+      ".allergan-contact-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

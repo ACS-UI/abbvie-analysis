@@ -1,0 +1,27 @@
+{
+  "blockId": "cta_banner",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "CTA Banner",
+  "description": "Provides a call-to-action link for important safety updates.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text .cta",
+      "body > .abbv-content .abbv-rich-text .cta"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "data_highlight_cards",
+  "templateIds": [
+    "tpl_166"
+  ],
+  "name": "Data Highlight Cards",
+  "description": "Showcases key statistics and achievements in a visually engaging format.",
+  "domHints": {
+    "selectors": [
+      ".dashboardcards .cmp-dashboardcard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_166 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,112 @@
+{
+  "entryUrl": "https://www.savewithays.com/",
+  "discoveredAt": "2026-04-13T16:24:23.872Z",
+  "urls": [
+    {
+      "url": "https://www.savewithays.com/",
+      "normalised": "https://www.savewithays.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/content/dam/savewithays/pdf/SaveWithAYSCard.pdf",
+      "normalised": "https://www.savewithays.com/content/dam/savewithays/pdf/SaveWithAYSCard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.savewithays.com/contact",
+      "normalised": "https://www.savewithays.com/contact",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/sitemap",
+      "normalised": "https://www.savewithays.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/unsubscribe-success",
+      "normalised": "https://www.savewithays.com/unsubscribe-success",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/www.savewithays.com/copay",
+      "normalised": "https://www.savewithays.com/www.savewithays.com/copay",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/www.savewithays.com/mobiletermsconditions",
+      "normalised": "https://www.savewithays.com/www.savewithays.com/mobiletermsconditions",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/mobiletermsconditions",
+      "normalised": "https://www.savewithays.com/mobiletermsconditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/savings",
+      "normalised": "https://www.savewithays.com/savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/enroll-now",
+      "normalised": "https://www.savewithays.com/enroll-now",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/www.savewithays.com/savings",
+      "normalised": "https://www.savewithays.com/www.savewithays.com/savings",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/unsubscribe",
+      "normalised": "https://www.savewithays.com/unsubscribe",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/www.savewithays.com/contact",
+      "normalised": "https://www.savewithays.com/www.savewithays.com/contact",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savewithays.com/www.savewithays.com/",
+      "normalised": "https://www.savewithays.com/www.savewithays.com",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 14,
+    "bySource": {
+      "sitemap": 11,
+      "crawl": 3,
+      "manual": 0
+    }
+  }
+}

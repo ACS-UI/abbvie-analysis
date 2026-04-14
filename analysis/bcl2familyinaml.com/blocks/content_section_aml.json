@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_aml",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "AML Overview Section",
+  "description": "Provides detailed information about AML and related research.",
+  "domHints": {
+    "selectors": [
+      "#overexpression-in-aml"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

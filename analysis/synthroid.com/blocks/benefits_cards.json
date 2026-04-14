@@ -1,0 +1,26 @@
+{
+  "blockId": "benefits_cards",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Benefits Cards",
+  "description": "Displays the key benefits of the program in a card layout for quick understanding.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2.card-container.pills"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

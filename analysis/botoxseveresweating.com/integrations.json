@@ -1,0 +1,34 @@
+{
+  "integrations": [
+    {
+      "id": "google-tag-manager",
+      "name": "Google Tag Manager",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.botoxseveresweating.com/",
+          "https://www.botoxseveresweating.com/about_severe_underarm_sweating/what_is",
+          "https://www.botoxseveresweating.com/FAQ",
+          "https://www.botoxseveresweating.com/Site_map",
+          "https://www.botoxseveresweating.com/Can_botox_help/results",
+          "https://www.botoxseveresweating.com/Can_botox_help/treatment_experience",
+          "https://www.botoxseveresweating.com/about_severe_underarm_sweating/how_diagnosed",
+          "https://www.botoxseveresweating.com/Can_botox_help/how_works",
+          "https://www.botoxseveresweating.com/Can_botox_help/is_botox_right_for_me",
+          "https://www.botoxseveresweating.com/find_a_dermatologist",
+          "https://www.botoxseveresweating.com/Can_botox_help/savings_insurance",
+          "https://www.botoxseveresweating.com/contact_us"
+        ],
+        "patterns": [
+          "googletagmanager.com"
+        ],
+        "scriptSrcSamples": [
+          "https://www.googletagmanager.com/gtm.js?id="
+        ]
+      },
+      "confidence": "high",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:57:40.659Z"
+}

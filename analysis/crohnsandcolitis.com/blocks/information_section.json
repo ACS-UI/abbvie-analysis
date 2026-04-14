@@ -1,0 +1,26 @@
+{
+  "blockId": "information_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Information Section",
+  "description": "Provides detailed information about Crohn's disease in a structured layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flex-wrap-wrap.fill-bottom"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

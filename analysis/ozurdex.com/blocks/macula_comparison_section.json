@@ -1,0 +1,26 @@
+{
+  "blockId": "macula_comparison_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Macula Comparison Section",
+  "description": "Visual comparison of macula before and after treatment.",
+  "domHints": {
+    "selectors": [
+      ".hiw-two-after-treat-col-sec"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "fact_highlight",
+  "templateIds": [
+    "tpl_67"
+  ],
+  "name": "Fact Highlight",
+  "description": "Displays a key fact or statistic in a visually engaging format.",
+  "domHints": {
+    "selectors": [
+      ".dashboard-card-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_67 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "symptom_timeline",
+  "templateIds": [
+    "tpl_33"
+  ],
+  "name": "Symptom Timeline",
+  "description": "Illustrates the average time from symptom onset to treatment initiation using charts and data.",
+  "domHints": {
+    "selectors": [
+      ".epi-identify-chart-desktop",
+      ".epi-identify-chart-mb"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_33 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

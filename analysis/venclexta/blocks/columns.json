@@ -1,0 +1,26 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_36"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: $('.doctorList').bind(\"DOMNodeInserted\",function(){ $(this).find('ul li .directions-to').attr(\"target\", \"new-modal\"); })…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(6)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_36. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

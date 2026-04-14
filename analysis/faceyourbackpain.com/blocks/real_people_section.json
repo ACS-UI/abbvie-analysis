@@ -1,0 +1,26 @@
+{
+  "blockId": "real_people_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Real People Section",
+  "description": "Features patient stories and an image.",
+  "domHints": {
+    "selectors": [
+      ".fybp-undiagnosed-patient-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

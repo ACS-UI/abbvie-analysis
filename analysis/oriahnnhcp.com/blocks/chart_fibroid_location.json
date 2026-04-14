@@ -1,0 +1,27 @@
+{
+  "blockId": "chart_fibroid_location",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Fibroid Location Chart",
+  "description": "Chart displaying data on fibroid location and its impact on primary endpoint achievement.",
+  "domHints": {
+    "selectors": [
+      "#abbv-barchart-1238806829-data",
+      ".abbv-interactive-chart[data-graph-w='300']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

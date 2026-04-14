@@ -1,0 +1,27 @@
+{
+  "blockId": "symptoms_section",
+  "templateIds": [
+    "tpl_26"
+  ],
+  "name": "Symptoms Section",
+  "description": "Details about common symptoms of ulcerative colitis.",
+  "domHints": {
+    "selectors": [
+      "#cs",
+      ".abbv-container.border-color_purple"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_26 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_legal",
+  "templateIds": [
+    "tpl_269",
+    "tpl_275"
+  ],
+  "name": "Footer Legal",
+  "description": "Contains legal and accessibility information.",
+  "domHints": {
+    "selectors": [
+      "#container-36a29e83d9 .list-footer-legal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_269 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

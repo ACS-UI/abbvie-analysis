@@ -1,0 +1,27 @@
+{
+  "blockId": "faq_section",
+  "templateIds": [
+    "tpl_15",
+    "tpl_32"
+  ],
+  "name": "FAQ Section",
+  "description": "Provides answers to frequently asked questions about the scholarship.",
+  "domHints": {
+    "selectors": [
+      ".container-scholarship-faq"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

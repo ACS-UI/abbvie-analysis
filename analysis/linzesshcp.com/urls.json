@@ -1,0 +1,203 @@
+{
+  "entryUrl": "https://www.linzesshcp.com/",
+  "discoveredAt": "2026-04-13T15:14:29.219Z",
+  "urls": [
+    {
+      "url": "https://www.linzesshcp.com/",
+      "normalised": "https://www.linzesshcp.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/content/dam/linzesshcp/pdf/Tell-Me-About-Your-Gut_FINAL-UNB116522.pdf",
+      "normalised": "https://www.linzesshcp.com/content/dam/linzesshcp/pdf/Tell-Me-About-Your-Gut_FINAL-UNB116522.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.linzesshcp.com/content/dam/linzesshcp/pdf/11216-LINZESSTelemedKit-FINAL.pdf",
+      "normalised": "https://www.linzesshcp.com/content/dam/linzesshcp/pdf/11216-LINZESSTelemedKit-FINAL.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.linzesshcp.com/content/dam/linzesshcp/pdf/Tell-Me-About-Your-Gut-Intake-Form.pdf",
+      "normalised": "https://www.linzesshcp.com/content/dam/linzesshcp/pdf/Tell-Me-About-Your-Gut-Intake-Form.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-dosing",
+      "normalised": "https://www.linzesshcp.com/linzess-dosing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/ibs-c-moa",
+      "normalised": "https://www.linzesshcp.com/ibs-c-moa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-ibs-c-safety",
+      "normalised": "https://www.linzesshcp.com/linzess-ibs-c-safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-ibs-c-efficacy",
+      "normalised": "https://www.linzesshcp.com/linzess-ibs-c-efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/ibs-c-patient-profiles",
+      "normalised": "https://www.linzesshcp.com/ibs-c-patient-profiles",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/cic-moa",
+      "normalised": "https://www.linzesshcp.com/cic-moa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-cic-safety",
+      "normalised": "https://www.linzesshcp.com/linzess-cic-safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-additional-resources",
+      "normalised": "https://www.linzesshcp.com/linzess-additional-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-cic-efficacy",
+      "normalised": "https://www.linzesshcp.com/linzess-cic-efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-fc-efficacy",
+      "normalised": "https://www.linzesshcp.com/linzess-fc-efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/functional-constipation-moa",
+      "normalised": "https://www.linzesshcp.com/functional-constipation-moa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-coupon-samples",
+      "normalised": "https://www.linzesshcp.com/linzess-coupon-samples",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/functional-constipation-patient-profile",
+      "normalised": "https://www.linzesshcp.com/functional-constipation-patient-profile",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-fc-safety",
+      "normalised": "https://www.linzesshcp.com/linzess-fc-safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-insurance-coverage",
+      "normalised": "https://www.linzesshcp.com/linzess-insurance-coverage",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/cic-patient-profile",
+      "normalised": "https://www.linzesshcp.com/cic-patient-profile",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/cic-patient-identification",
+      "normalised": "https://www.linzesshcp.com/cic-patient-identification",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-mechanism-of-action",
+      "normalised": "https://www.linzesshcp.com/linzess-mechanism-of-action",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/ibs-c-patient-identification",
+      "normalised": "https://www.linzesshcp.com/ibs-c-patient-identification",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/search-results",
+      "normalised": "https://www.linzesshcp.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/legal-policy",
+      "normalised": "https://www.linzesshcp.com/legal-policy",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/linzess-site-map",
+      "normalised": "https://www.linzesshcp.com/linzess-site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.linzesshcp.com/sitemap",
+      "normalised": "https://www.linzesshcp.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 27,
+    "bySource": {
+      "sitemap": 8,
+      "crawl": 19,
+      "manual": 0
+    }
+  }
+}

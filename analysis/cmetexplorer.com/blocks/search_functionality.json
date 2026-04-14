@@ -1,0 +1,26 @@
+{
+  "blockId": "search_functionality",
+  "templateIds": [
+    "tpl_309"
+  ],
+  "name": "Search Functionality",
+  "description": "Enables users to search the site content.",
+  "domHints": {
+    "selectors": [
+      ".cmp-globalnavigation__search"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_309 (selectors validated in representative HTML).",
+  "aemCatalogName": "Search"
+}

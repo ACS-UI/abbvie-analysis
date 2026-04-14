@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_conditions",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Accordion - Conditions",
+  "description": "Collapsible sections providing detailed information about conditions leading to EPI.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "contest_rules",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Contest Rules",
+  "description": "Details the rules and regulations for the scholarship program.",
+  "domHints": {
+    "selectors": [
+      "#contest-rules"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

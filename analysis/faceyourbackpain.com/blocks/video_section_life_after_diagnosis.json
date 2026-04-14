@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section_life_after_diagnosis",
+  "templateIds": [
+    "tpl_18"
+  ],
+  "name": "Video Section - Life After Diagnosis",
+  "description": "Section featuring a video and information about life after diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".fybp-video-life-after-diagnosis"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_18 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

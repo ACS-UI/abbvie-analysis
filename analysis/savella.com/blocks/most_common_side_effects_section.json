@@ -1,0 +1,26 @@
+{
+  "blockId": "most_common_side_effects_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Most Common Side Effects Section",
+  "description": "Lists the common side effects of taking Savella.",
+  "domHints": {
+    "selectors": [
+      "#side-effects"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

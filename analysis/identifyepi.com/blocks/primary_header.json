@@ -1,0 +1,37 @@
+{
+  "blockId": "primary_header",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_7",
+    "tpl_11",
+    "tpl_15",
+    "tpl_17",
+    "tpl_18",
+    "tpl_19",
+    "tpl_20",
+    "tpl_21",
+    "tpl_29",
+    "tpl_33"
+  ],
+  "name": "Primary Header",
+  "description": "Displays the site logo and main navigation links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

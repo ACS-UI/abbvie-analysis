@@ -1,0 +1,26 @@
+{
+  "blockId": "choose_condition_cta",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Choose Condition CTA",
+  "description": "Interactive section for selecting medical conditions treated by Humira.",
+  "domHints": {
+    "selectors": [
+      ".humira-home-indication-expanded"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

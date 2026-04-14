@@ -1,0 +1,324 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.burdenofad.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.burdenofad.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "main_content_area__default.png",
+      "sourceUrl": "https://www.burdenofad.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": "section[role='main']"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.burdenofad.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "footer_legal_text__default.png",
+      "sourceUrl": "https://www.burdenofad.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.burdenofad.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_component__default.png",
+      "sourceUrl": "https://www.burdenofad.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.burdenofad.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.burdenofad.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-header-v2"
+    },
+    {
+      "relativePath": "hero_carousel__default.png",
+      "sourceUrl": "https://www.burdenofad.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-carousel"
+    },
+    {
+      "relativePath": "statistics_section__default.png",
+      "sourceUrl": "https://www.burdenofad.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.section-container.section-container--merge-image"
+    },
+    {
+      "relativePath": "testimonial_section__default.png",
+      "sourceUrl": "https://www.burdenofad.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.speech-bubble"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.burdenofad.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-video-player"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.burdenofad.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.section-container.section-container--hero"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.section-container.background--lavender-light"
+    },
+    {
+      "relativePath": "treatment_accordion__default.png",
+      "sourceUrl": "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-accordion.abbv-accordion-multi"
+    },
+    {
+      "relativePath": "guidelines_section__default.png",
+      "sourceUrl": "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.section-container"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.cta-box"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.burdenofad.com/atopic-dermatitis-treatment-options",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.burdenofad.com/patient-reported-outcomes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "intro_paragraph__default.png",
+      "sourceUrl": "https://www.burdenofad.com/patient-reported-outcomes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.section-container.background--lavender-light .abbv-rich-text"
+    },
+    {
+      "relativePath": "tabbed_content__default.png",
+      "sourceUrl": "https://www.burdenofad.com/patient-reported-outcomes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-tabs"
+    },
+    {
+      "relativePath": "chart_section__default.png",
+      "sourceUrl": "https://www.burdenofad.com/patient-reported-outcomes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-image-text-v2.chart"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://www.burdenofad.com/patient-reported-outcomes",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "introductory_text__default.png",
+      "sourceUrl": "https://www.burdenofad.com/mechanism-of-disease",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.section-container.background--lavender-light .rich-text"
+    },
+    {
+      "relativePath": "content_tabs__default.png",
+      "sourceUrl": "https://www.burdenofad.com/mechanism-of-disease",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-tabs"
+    },
+    {
+      "relativePath": "visual_content__default.png",
+      "sourceUrl": "https://www.burdenofad.com/mechanism-of-disease",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-image-text-v2"
+    },
+    {
+      "relativePath": "modal_dialogs__default.png",
+      "sourceUrl": "https://www.burdenofad.com/mechanism-of-disease",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "tools_information_section__default.png",
+      "sourceUrl": "https://www.burdenofad.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.section-container.background--lavender-light:nth-of-type(1)"
+    },
+    {
+      "relativePath": "patient_eczema_assessment__default.png",
+      "sourceUrl": "https://www.burdenofad.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:19:08.026Z",
+      "selector": ".abbv-container.icon-resource-box:nth-of-type(1)"
+    }
+  ]
+}

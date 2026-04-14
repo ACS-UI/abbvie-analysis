@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns_1",
+  "templateIds": [
+    "tpl_25"
+  ],
+  "name": "Content Columns - Symptoms",
+  "description": "Detailed information about tracking symptoms and their importance.",
+  "domHints": {
+    "selectors": [
+      "#fsat"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

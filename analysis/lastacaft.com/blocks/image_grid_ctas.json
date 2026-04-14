@@ -1,0 +1,26 @@
+{
+  "blockId": "image_grid_ctas",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Image Grid CTAs",
+  "description": "Displays a grid of images with associated calls to action.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-image-grid-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

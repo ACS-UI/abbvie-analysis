@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_component",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Modal Component",
+  "description": "Shows modal dialogs for additional information such as ingredients and safety.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

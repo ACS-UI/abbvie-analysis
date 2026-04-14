@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_terms",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Footer Terms and Conditions",
+  "description": "Displays terms, conditions, and privacy policy links related to the savings program.",
+  "domHints": {
+    "selectors": [
+      ".footnote"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

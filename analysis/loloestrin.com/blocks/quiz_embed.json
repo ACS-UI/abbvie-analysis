@@ -1,0 +1,26 @@
+{
+  "blockId": "quiz_embed",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Quiz Embed",
+  "description": "Interactive section embedding the Estrogen Pop Quiz form.",
+  "domHints": {
+    "selectors": [
+      ".forms-embed"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

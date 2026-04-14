@@ -1,0 +1,26 @@
+{
+  "blockId": "careers_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Careers Section",
+  "description": "Promotes career opportunities at the company with a description and a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      "div#container-32f75940ae div#title-f2191c19bc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

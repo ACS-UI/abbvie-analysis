@@ -1,0 +1,26 @@
+{
+  "blockId": "savings_card_cta",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Savings Card CTA",
+  "description": "Promotes the savings card signup options.",
+  "domHints": {
+    "selectors": [
+      ".savings-card-cards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

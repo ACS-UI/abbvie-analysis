@@ -1,0 +1,26 @@
+{
+  "blockId": "navigation_column",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Navigation Column",
+  "description": "Provides a secondary navigation menu with links to various sections of the site.",
+  "domHints": {
+    "selectors": [
+      "main > section.body.clearfix > div.navColumn"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

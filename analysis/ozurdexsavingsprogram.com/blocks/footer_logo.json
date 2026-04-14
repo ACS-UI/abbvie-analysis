@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_logo",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Footer Logo",
+  "description": "Displays the footer logo and links to the parent company.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer .logo"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,29 @@
+{
+  "blockId": "modal_advertising_choices",
+  "templateIds": [
+    "tpl_5",
+    "tpl_20",
+    "tpl_27",
+    "tpl_35"
+  ],
+  "name": "Advertising Choices Modal",
+  "description": "Modal for displaying advertising choices information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.advertisingchoicesepi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

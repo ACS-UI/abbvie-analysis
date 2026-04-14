@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_subscribe_news",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Subscribe for News Modal",
+  "description": "Modal dialog for subscribing to news and updates.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.subscribeForNews"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

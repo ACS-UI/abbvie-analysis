@@ -1,0 +1,23 @@
+{
+  "integrations": [
+    {
+      "id": "google-tag-manager",
+      "name": "Google Tag Manager",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.refresheyedrops.com/"
+        ],
+        "patterns": [
+          "googletagmanager.com"
+        ],
+        "scriptSrcSamples": [
+          "https://www.googletagmanager.com"
+        ]
+      },
+      "confidence": "high",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:46:16.858Z"
+}

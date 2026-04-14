@@ -1,0 +1,259 @@
+{
+  "entryUrl": "https://www.synthroid.com/",
+  "discoveredAt": "2026-04-13T15:14:29.271Z",
+  "urls": [
+    {
+      "url": "https://www.synthroid.com/",
+      "normalised": "https://www.synthroid.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/understanding_hypothyroidism.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/understanding_hypothyroidism.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/waiting-room.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/waiting-room.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/how-to-take-synthroid.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/how-to-take-synthroid.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/Doctor_Discussion_Guide.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/Doctor_Discussion_Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/symptomjournal.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/symptomjournal.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/Digital_Patient_Brochure.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/Digital_Patient_Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/thyroid_and_pregnancy.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/thyroid_and_pregnancy.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/thyroid_and_pediatrics.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/thyroid_and_pediatrics.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/thyroid_disease_and_aging.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/thyroid_disease_and_aging.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/como-tomar-synthroid-notas-digital.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/como-tomar-synthroid-notas-digital.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/folleto-para-usuarios.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/folleto-para-usuarios.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/content/dam/synthroidivy/docs/sdp-folleto-para-usuarios-digital.pdf",
+      "normalised": "https://www.synthroid.com/content/dam/synthroidivy/docs/sdp-folleto-para-usuarios-digital.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.synthroid.com/what-is-synthroid",
+      "normalised": "https://www.synthroid.com/what-is-synthroid",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/sign-up",
+      "normalised": "https://www.synthroid.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/hypothyroidism-a-closer-look",
+      "normalised": "https://www.synthroid.com/hypothyroidism-a-closer-look",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/search-results",
+      "normalised": "https://www.synthroid.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/myths-facts",
+      "normalised": "https://www.synthroid.com/myths-facts",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/sitemap",
+      "normalised": "https://www.synthroid.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/resources",
+      "normalised": "https://www.synthroid.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/side-effects",
+      "normalised": "https://www.synthroid.com/side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/faq",
+      "normalised": "https://www.synthroid.com/faq",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/support",
+      "normalised": "https://www.synthroid.com/support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/videos",
+      "normalised": "https://www.synthroid.com/videos",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/taking-synthroid",
+      "normalised": "https://www.synthroid.com/taking-synthroid",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/synthroid-delivers-program",
+      "normalised": "https://www.synthroid.com/synthroid-delivers-program",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/abbv-tab-216600437-1",
+      "normalised": "https://www.synthroid.com/abbv-tab-216600437-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/abbv-tab-1777154200-1",
+      "normalised": "https://www.synthroid.com/abbv-tab-1777154200-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/abbv-tab-563746675-1",
+      "normalised": "https://www.synthroid.com/abbv-tab-563746675-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/abbv-tab-1777154200-0",
+      "normalised": "https://www.synthroid.com/abbv-tab-1777154200-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/abbv-tab-563746675-2",
+      "normalised": "https://www.synthroid.com/abbv-tab-563746675-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/abbv-tab-216600437-0",
+      "normalised": "https://www.synthroid.com/abbv-tab-216600437-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/abbv-tab-563746675-0",
+      "normalised": "https://www.synthroid.com/abbv-tab-563746675-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/abbv-tab-1777154200-2",
+      "normalised": "https://www.synthroid.com/abbv-tab-1777154200-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.synthroid.com/taking-synthroid?x#abbv-tab-1777154200-1",
+      "normalised": "https://www.synthroid.com/taking-synthroid?x",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 35,
+    "bySource": {
+      "sitemap": 12,
+      "crawl": 23,
+      "manual": 0
+    }
+  }
+}

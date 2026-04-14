@@ -1,0 +1,27 @@
+{
+  "blockId": "modal_popup",
+  "templateIds": [
+    "tpl_6",
+    "tpl_8"
+  ],
+  "name": "Modal Popup",
+  "description": "Displays a modal dialog with promotional or informational content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.modalpopup"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

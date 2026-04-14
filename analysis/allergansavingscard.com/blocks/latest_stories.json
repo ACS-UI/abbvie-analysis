@@ -1,0 +1,27 @@
+{
+  "blockId": "latest_stories",
+  "templateIds": [
+    "tpl_146",
+    "tpl_147"
+  ],
+  "name": "Latest Stories",
+  "description": "Displays recent stories or articles in a card format.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_146 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

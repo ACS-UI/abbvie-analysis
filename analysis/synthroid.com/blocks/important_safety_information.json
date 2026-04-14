@@ -1,0 +1,28 @@
+{
+  "blockId": "important_safety_information",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_5"
+  ],
+  "name": "Important Safety Information",
+  "description": "Provides critical safety and usage information about Synthroid.",
+  "domHints": {
+    "selectors": [
+      ".abbv-inline-use-isi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

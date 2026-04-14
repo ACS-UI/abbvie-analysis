@@ -1,0 +1,26 @@
+{
+  "blockId": "cf_organizations_intro",
+  "templateIds": [
+    "tpl_20"
+  ],
+  "name": "CF Organizations Intro",
+  "description": "Introduction to CF organizations and events.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container .abbv-col-12"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_20 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

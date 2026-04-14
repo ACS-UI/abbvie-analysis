@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_1",
+      "humanName": "Home Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Interactive Tool",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Sitemap Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 10
+    }
+  ],
+  "generatedAt": "2026-04-13T16:31:32.592Z"
+}

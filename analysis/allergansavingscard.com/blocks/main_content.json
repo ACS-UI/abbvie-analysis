@@ -1,0 +1,70 @@
+{
+  "blockId": "main_content",
+  "templateIds": [
+    "tpl_6",
+    "tpl_28",
+    "tpl_47",
+    "tpl_53",
+    "tpl_54",
+    "tpl_63",
+    "tpl_66",
+    "tpl_70",
+    "tpl_71",
+    "tpl_93",
+    "tpl_94",
+    "tpl_103",
+    "tpl_113",
+    "tpl_114",
+    "tpl_115",
+    "tpl_116",
+    "tpl_120",
+    "tpl_121",
+    "tpl_127",
+    "tpl_130",
+    "tpl_131",
+    "tpl_132",
+    "tpl_138",
+    "tpl_141",
+    "tpl_144",
+    "tpl_148",
+    "tpl_154",
+    "tpl_156",
+    "tpl_164",
+    "tpl_165",
+    "tpl_175",
+    "tpl_179",
+    "tpl_182",
+    "tpl_183",
+    "tpl_185",
+    "tpl_192",
+    "tpl_203",
+    "tpl_206",
+    "tpl_229",
+    "tpl_230",
+    "tpl_236",
+    "tpl_283",
+    "tpl_284",
+    "tpl_305",
+    "tpl_310"
+  ],
+  "name": "Main Content",
+  "description": "Contains the primary content of the leadership profile.",
+  "domHints": {
+    "selectors": [
+      "div.nav-bar__primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

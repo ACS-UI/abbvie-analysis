@@ -1,0 +1,27 @@
+{
+  "blockId": "main_story",
+  "templateIds": [
+    "tpl_129",
+    "tpl_236"
+  ],
+  "name": "Main Story",
+  "description": "Displays the primary content or article of the page.",
+  "domHints": {
+    "selectors": [
+      "div.nav-bar__primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_129 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

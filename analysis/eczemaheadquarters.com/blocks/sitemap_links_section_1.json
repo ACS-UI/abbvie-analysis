@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_links_section_1",
+  "templateIds": [
+    "tpl_23"
+  ],
+  "name": "Sitemap Links Section 1",
+  "description": "Displays the first set of sitemap links categorized by topic.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-row-container.sitemap-links:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

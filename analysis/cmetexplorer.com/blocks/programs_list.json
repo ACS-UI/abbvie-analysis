@@ -1,0 +1,27 @@
+{
+  "blockId": "programs_list",
+  "templateIds": [
+    "tpl_265"
+  ],
+  "name": "Programs List",
+  "description": "A list of available programs with links and brief descriptions.",
+  "domHints": {
+    "selectors": [
+      "ul#linklist-65c97735ae",
+      "li.cmp-list__item"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_265 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,29 @@
+{
+  "blockId": "scholar_achievements",
+  "templateIds": [
+    "tpl_35",
+    "tpl_37",
+    "tpl_45",
+    "tpl_47"
+  ],
+  "name": "Scholar Achievements",
+  "description": "Lists the achievements of the featured scholar.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.container_round-top .abbv-rich-text-common ul.list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_35 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

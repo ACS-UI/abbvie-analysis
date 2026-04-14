@@ -1,0 +1,27 @@
+{
+  "blockId": "logo_display",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Logo Display",
+  "description": "Displays the logo of the brand in various resolutions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-content-container-v2 picture",
+      ".abbv-image-text-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

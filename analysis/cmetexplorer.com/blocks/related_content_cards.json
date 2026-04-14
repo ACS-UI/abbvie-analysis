@@ -1,0 +1,26 @@
+{
+  "blockId": "related_content_cards",
+  "templateIds": [
+    "tpl_187"
+  ],
+  "name": "Related Content Cards",
+  "description": "Displays cards linking to related stories or content.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory.card-dashboard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_187 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

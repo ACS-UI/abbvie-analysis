@@ -1,0 +1,424 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.durystahcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.durystahcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.durystahcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "#background-container-612876366"
+    },
+    {
+      "relativePath": "three_column_cta__default.png",
+      "sourceUrl": "https://www.durystahcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-row-container.pl-30.pr-30"
+    },
+    {
+      "relativePath": "isi_section__default.png",
+      "sourceUrl": "https://www.durystahcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.durystahcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "background_image_section__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/aboutabbvie",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "#background-container-1108571146"
+    },
+    {
+      "relativePath": "image_text_section__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/aboutabbvie",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".traininghcpcta.abbv-image-text-v2"
+    },
+    {
+      "relativePath": "rich_text_section__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/aboutabbvie",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-rich-text"
+    },
+    {
+      "relativePath": "cta_button__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/aboutabbvie",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-button-primary.abbv-cancel-btn"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.durystahcp.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "header > .abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "study_design_rich_text__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/study_design",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "div.abbv-rich-text"
+    },
+    {
+      "relativePath": "video_player_module__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/patient-testimony-video",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".video-player.parbase"
+    },
+    {
+      "relativePath": "transcript_link__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/patient-testimony-video",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".transcript-link"
+    },
+    {
+      "relativePath": "background_container__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/trainingcta",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "#background-container-832332883"
+    },
+    {
+      "relativePath": "tabs_section__default.png",
+      "sourceUrl": "https://www.durystahcp.com/clinical-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "div.abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "background_section__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/patient_site",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "#background-container-129790517"
+    },
+    {
+      "relativePath": "image_text_block__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/patient_site",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".image-text-v2"
+    },
+    {
+      "relativePath": "rich_text_block__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/patient_site",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".rich-text"
+    },
+    {
+      "relativePath": "logo_display__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/logo",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-image-content-container-v2 picture"
+    },
+    {
+      "relativePath": "rich_text_notice__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/logo",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-rich-text"
+    },
+    {
+      "relativePath": "image_logo__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/reimbursementcta",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-image-content-container-v2 picture"
+    },
+    {
+      "relativePath": "proceed_cta_button__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/reimbursementcta",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-button-primary"
+    },
+    {
+      "relativePath": "image_text_component__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/prescibing_information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-image-text-v2"
+    },
+    {
+      "relativePath": "rich_text_content__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/prescibing_information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-rich-text"
+    },
+    {
+      "relativePath": "logo_image__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/durysta-savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-image-content-container-v2 picture"
+    },
+    {
+      "relativePath": "rich_text_message__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/durysta-savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-rich-text"
+    },
+    {
+      "relativePath": "proceed_cta__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/durysta-savings-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-button-primary"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.durystahcp.com/when-to-use",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "div[role='region'][aria-label='Important Safety Information']"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.durystahcp.com/when-to-use",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "footer.abbv-footer"
+    },
+    {
+      "relativePath": "sitemap_list__default.png",
+      "sourceUrl": "https://www.durystahcp.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".sitemap-list-wrap"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.durystahcp.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.durystahcp.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "modal_dialog__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/patientsite_requestrep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "safety_bar__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/patientsite_requestrep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-safety-bar"
+    },
+    {
+      "relativePath": "modal_component__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "promo_drawer__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".abbv-promo-drawer"
+    },
+    {
+      "relativePath": "interactive_image__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/privacy-policy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".interactive-image"
+    },
+    {
+      "relativePath": "rich_text_centered__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/privacy-policy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".rich-text"
+    },
+    {
+      "relativePath": "cta_proceed_button__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/privacy-policy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".cta"
+    },
+    {
+      "relativePath": "call_to_action__default.png",
+      "sourceUrl": "https://www.durystahcp.com/site-modols/terms-of-use",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": ".cta"
+    },
+    {
+      "relativePath": "faq_accordion__default.png",
+      "sourceUrl": "https://www.durystahcp.com/faq",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:26:15.529Z",
+      "selector": "#acc"
+    }
+  ]
+}

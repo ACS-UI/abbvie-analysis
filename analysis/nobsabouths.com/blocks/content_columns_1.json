@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns_1",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Content Columns - Diagnosis Info",
+  "description": "Provides information about HS diagnosis and treatment options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.margin-top-30:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

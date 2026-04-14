@@ -1,0 +1,26 @@
+{
+  "blockId": "video_highlights",
+  "templateIds": [
+    "tpl_22"
+  ],
+  "name": "Video Highlights",
+  "description": "Highlights specific videos with thumbnails and titles.",
+  "domHints": {
+    "selectors": [
+      ".epi-videos-thumbnail-margin"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_22 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

@@ -1,0 +1,304 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/featured-experts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/featured-experts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/featured-experts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".featured-speaker-hero-banner"
+    },
+    {
+      "relativePath": "featured_experts_section__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/featured-experts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".featured-speaker-faculty-speak-section"
+    },
+    {
+      "relativePath": "expert_accordion__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/featured-experts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-accordion.bio-accordian"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/featured-experts",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "welcome_section__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-flex-container.flexbox.ptb-30"
+    },
+    {
+      "relativePath": "endometriosis_resources__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".wh-digitalobgyn-mid-sec .abbv-row-container:nth-of-type(1)"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/resources#patient-advocacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "section_navigation__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/resources#patient-advocacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-section-navigation"
+    },
+    {
+      "relativePath": "patient_advocacy__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/resources#patient-advocacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": "#patient-advocacy"
+    },
+    {
+      "relativePath": "partnerships_section__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/resources#patient-advocacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": "#partnerships"
+    },
+    {
+      "relativePath": "header_logo__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".WH-365-DigitalObgyn-header-logo-img"
+    },
+    {
+      "relativePath": "sitemap_heading__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".sitemap-heading"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".sitemap-link"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "footer_legal_text__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/endometriosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "main_content_columns__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/endometriosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".abbv-row-container.woman-hel-end-sec1-p-lr"
+    },
+    {
+      "relativePath": "video_library__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/endometriosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".endometriosis-series-tab"
+    },
+    {
+      "relativePath": "dyspareunia_section__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/endometriosis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": "#background-container-1273957900"
+    },
+    {
+      "relativePath": "bone_health_101__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/bonehealth",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".wh-digitalobgyn-bone-categories"
+    },
+    {
+      "relativePath": "bone_density_measurement__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/bonehealth",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".wh-digitalobgyn-bone-density-new"
+    },
+    {
+      "relativePath": "bone_mass_overview__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/bonehealth",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".wh-digi-bone-mass-text"
+    },
+    {
+      "relativePath": "bone_mass_factors__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/bonehealth",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".wh-digi-factors-text"
+    },
+    {
+      "relativePath": "bone_and_estrogen__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/bonehealth",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".wh-digi-estrogen-text"
+    },
+    {
+      "relativePath": "bone_summary__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/bonehealth",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".bone-summary-heading"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.digitalobgyn.com/uterinefibroids",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:08:07.866Z",
+      "selector": ".uterine-fibroids-hero-banner"
+    }
+  ]
+}

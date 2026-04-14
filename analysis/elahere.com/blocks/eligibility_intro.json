@@ -1,0 +1,26 @@
+{
+  "blockId": "eligibility_intro",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Eligibility Introduction",
+  "description": "Introduces the eligibility criteria for the treatment.",
+  "domHints": {
+    "selectors": [
+      "main > div.container.theme-barely-coral > div.row:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

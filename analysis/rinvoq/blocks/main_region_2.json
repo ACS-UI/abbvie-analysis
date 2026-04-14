@@ -1,0 +1,53 @@
+{
+  "blockId": "main_region_2",
+  "templateIds": [
+    "tpl_2",
+    "tpl_6",
+    "tpl_10",
+    "tpl_11",
+    "tpl_12",
+    "tpl_14",
+    "tpl_27",
+    "tpl_29",
+    "tpl_30",
+    "tpl_34",
+    "tpl_49",
+    "tpl_54",
+    "tpl_58",
+    "tpl_60",
+    "tpl_62",
+    "tpl_69",
+    "tpl_73",
+    "tpl_74",
+    "tpl_78",
+    "tpl_88",
+    "tpl_98",
+    "tpl_102",
+    "tpl_104",
+    "tpl_108",
+    "tpl_112",
+    "tpl_126",
+    "tpl_130",
+    "tpl_154"
+  ],
+  "name": "main region 2",
+  "description": "Major content region in main (div). Preview: For adults with active non-radiographic axial spondyloarthritis with objective signs of inflammation in whom a TNF block…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

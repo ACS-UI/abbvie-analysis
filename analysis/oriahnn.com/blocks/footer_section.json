@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_section",
+  "templateIds": [
+    "tpl_3",
+    "tpl_6"
+  ],
+  "name": "Footer Section",
+  "description": "Provides links to additional resources, legal information, and company branding.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

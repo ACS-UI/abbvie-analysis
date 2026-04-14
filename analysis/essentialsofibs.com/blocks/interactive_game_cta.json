@@ -1,0 +1,26 @@
+{
+  "blockId": "interactive_game_cta",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Interactive Game CTA",
+  "description": "Promotes an interactive game to learn about IBS.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1915188035"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

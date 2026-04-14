@@ -1,0 +1,26 @@
+{
+  "blockId": "pivotal_studies_section_two",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Pivotal Studies Section Two",
+  "description": "Details improvements in CSBM frequency for LINZESS-treated patients.",
+  "domHints": {
+    "selectors": [
+      ".pivotal-studies-section-two"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

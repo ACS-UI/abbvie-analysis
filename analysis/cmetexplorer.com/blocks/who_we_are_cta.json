@@ -1,0 +1,26 @@
+{
+  "blockId": "who_we_are_cta",
+  "templateIds": [
+    "tpl_65"
+  ],
+  "name": "Who We Are CTA",
+  "description": "Highlights the 'Who We Are' section with a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      "#container-f78e73afe9 .cmp-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_65 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

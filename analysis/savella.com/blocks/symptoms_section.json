@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Symptoms Section",
+  "description": "Details the symptoms of fibromyalgia and their impact.",
+  "domHints": {
+    "selectors": [
+      "#whatAreTheSymptoms"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

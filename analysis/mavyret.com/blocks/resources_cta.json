@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_cta",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Resources Call-to-Action",
+  "description": "Directs users to additional resources for supporting patients.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

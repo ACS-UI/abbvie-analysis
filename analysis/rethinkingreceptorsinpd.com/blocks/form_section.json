@@ -1,0 +1,26 @@
+{
+  "blockId": "form_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Form Section",
+  "description": "Allows users to enter their zip code to connect with an MSL.",
+  "domHints": {
+    "selectors": [
+      ".aemform iframe"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

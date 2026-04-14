@@ -1,0 +1,114 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": "#background-container-244389776"
+    },
+    {
+      "relativePath": "impact_statistics__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": "#background-container-1594455504"
+    },
+    {
+      "relativePath": "interactive_game_cta__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": "#background-container-1915188035"
+    },
+    {
+      "relativePath": "diagnosis_resources__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": "#background-container-1369172196"
+    },
+    {
+      "relativePath": "management_resources__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": "#background-container-1584261666"
+    },
+    {
+      "relativePath": "resources_cta__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": "#background-container-627836090"
+    },
+    {
+      "relativePath": "patient_quotes_carousel__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": "#background-container-771989605"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.essentialsofibs.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:48:31.296Z",
+      "selector": ".abbv-back-to-top"
+    }
+  ]
+}

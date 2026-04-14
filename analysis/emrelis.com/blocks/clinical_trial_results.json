@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_trial_results",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Clinical Trial Results",
+  "description": "Displays the outcomes and statistics from clinical trials of EMRELIS.",
+  "domHints": {
+    "selectors": [
+      "#clinical-trial-results"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,448 @@
+{
+  "entryUrl": "https://www.mavyret.com/",
+  "discoveredAt": "2026-04-13T15:14:28.784Z",
+  "urls": [
+    {
+      "url": "https://www.mavyret.com/",
+      "normalised": "https://www.mavyret.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/es-us/pdf/Spanish-Conversation-Starter-Guide.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/es-us/pdf/Spanish-Conversation-Starter-Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyrethcp2/pdfs/Mavyret-Co-Pay-Card.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyrethcp2/pdfs/Mavyret-Co-Pay-Card.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyrethcp2/pdfs/Patient%20Support%20Enrollment%20Form%20-%20Digital.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyrethcp2/pdfs/Patient%20Support%20Enrollment%20Form%20-%20Digital.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyrethcp2/pdfs/medical-exception-form.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyrethcp2/pdfs/medical-exception-form.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/documents/hep-c-faqs.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/documents/hep-c-faqs.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/documents/talking-with-others-guide.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/documents/talking-with-others-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/es-us/pdf/Spanish-Mavyret-Savings-Card.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/es-us/pdf/Spanish-Mavyret-Savings-Card.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/documents/hcp-discussion-guide.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/documents/hcp-discussion-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/documents/mavyret-patient-brochure.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/documents/mavyret-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/documents/mavyret-savings-card.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/documents/mavyret-savings-card.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/es-us/pdf/Spanish-MavyretBrochure.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/es-us/pdf/Spanish-MavyretBrochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/documents/mavyret-pediatric-brochure.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/documents/mavyret-pediatric-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/documents/low-income-subsidy.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/documents/low-income-subsidy.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/content/dam/admpmavyret/documents/medicaid-payment-plan-guide.pdf",
+      "normalised": "https://www.mavyret.com/content/dam/admpmavyret/documents/medicaid-payment-plan-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.mavyret.com/locator",
+      "normalised": "https://www.mavyret.com/locator",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/cost",
+      "normalised": "https://www.mavyret.com/cost",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol",
+      "normalised": "https://www.mavyret.com/espanol",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/side-effects",
+      "normalised": "https://www.mavyret.com/side-effects",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hep-c-treatment",
+      "normalised": "https://www.mavyret.com/hep-c-treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/what-is-mavyret",
+      "normalised": "https://www.mavyret.com/what-is-mavyret",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/about-hep-c",
+      "normalised": "https://www.mavyret.com/about-hep-c",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/patient-support",
+      "normalised": "https://www.mavyret.com/patient-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hep-c-testing",
+      "normalised": "https://www.mavyret.com/hep-c-testing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/search-results",
+      "normalised": "https://www.mavyret.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/personal-message-transcript",
+      "normalised": "https://www.mavyret.com/personal-message-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/patient-stories",
+      "normalised": "https://www.mavyret.com/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/resources",
+      "normalised": "https://www.mavyret.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/sitemap",
+      "normalised": "https://www.mavyret.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "normalised": "https://www.mavyret.com/hcp/nurse-ambassador",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/access",
+      "normalised": "https://www.mavyret.com/hcp/access",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/about-hep-c",
+      "normalised": "https://www.mavyret.com/hcp/about-hep-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/safety",
+      "normalised": "https://www.mavyret.com/hcp/safety",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/dosing",
+      "normalised": "https://www.mavyret.com/hcp/dosing",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/all-patient-populations",
+      "normalised": "https://www.mavyret.com/hcp/all-patient-populations",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/request-a-representative",
+      "normalised": "https://www.mavyret.com/hcp/request-a-representative",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/atencion-al-paciente",
+      "normalised": "https://www.mavyret.com/espanol/atencion-al-paciente",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp",
+      "normalised": "https://www.mavyret.com/hcp",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/efectos-secundarios",
+      "normalised": "https://www.mavyret.com/espanol/efectos-secundarios",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/localizador",
+      "normalised": "https://www.mavyret.com/espanol/localizador",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/tratamiento-para-hepatitis-c",
+      "normalised": "https://www.mavyret.com/espanol/tratamiento-para-hepatitis-c",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/acerca",
+      "normalised": "https://www.mavyret.com/espanol/acerca",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/costo",
+      "normalised": "https://www.mavyret.com/espanol/costo",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/historias-de-pacientes",
+      "normalised": "https://www.mavyret.com/espanol/historias-de-pacientes",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/recursos",
+      "normalised": "https://www.mavyret.com/espanol/recursos",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/about",
+      "normalised": "https://www.mavyret.com/about",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/what-does-it-cost-transcript",
+      "normalised": "https://www.mavyret.com/what-does-it-cost-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/liver-under-attack-transcript",
+      "normalised": "https://www.mavyret.com/liver-under-attack-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/search-results",
+      "normalised": "https://www.mavyret.com/espanol/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/why-ask-for-mavyret-transcript",
+      "normalised": "https://www.mavyret.com/why-ask-for-mavyret-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/why-choose-mavyret-transcript",
+      "normalised": "https://www.mavyret.com/why-choose-mavyret-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/search-results",
+      "normalised": "https://www.mavyret.com/hcp/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/mavyret-liver-story-transcript",
+      "normalised": "https://www.mavyret.com/mavyret-liver-story-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/sitemap",
+      "normalised": "https://www.mavyret.com/espanol/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/efficacy",
+      "normalised": "https://www.mavyret.com/hcp/efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/site-map",
+      "normalised": "https://www.mavyret.com/hcp/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hep-c-testing-transcript",
+      "normalised": "https://www.mavyret.com/hep-c-testing-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/what-is-treatment-like-transcript",
+      "normalised": "https://www.mavyret.com/what-is-treatment-like-transcript",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/espanol/hep-c-y-el-higado-video-transcripcion",
+      "normalised": "https://www.mavyret.com/espanol/hep-c-y-el-higado-video-transcripcion",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/abbv-tab-1036225696-1",
+      "normalised": "https://www.mavyret.com/hcp/abbv-tab-1036225696-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/abbv-tab-1036225696-0",
+      "normalised": "https://www.mavyret.com/hcp/abbv-tab-1036225696-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.mavyret.com/hcp/abbv-tab-1036225696-2",
+      "normalised": "https://www.mavyret.com/hcp/abbv-tab-1036225696-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 62,
+    "bySource": {
+      "sitemap": 30,
+      "crawl": 32,
+      "manual": 0
+    }
+  }
+}

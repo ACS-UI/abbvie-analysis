@@ -1,0 +1,26 @@
+{
+  "blockId": "hemoglobin_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Hemoglobin Results",
+  "description": "Highlights the impact of the treatment on hemoglobin levels.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.hemoglobin-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

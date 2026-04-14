@@ -1,0 +1,26 @@
+{
+  "blockId": "next_page_cta",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Next Page CTA",
+  "description": "Directs users to the next relevant page with a clear call-to-action link.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.margin-bottom-50"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

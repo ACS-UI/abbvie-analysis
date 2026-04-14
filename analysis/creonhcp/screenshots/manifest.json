@@ -1,0 +1,194 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_chrome__default.png",
+      "sourceUrl": "https://www.creonhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "header"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.creonhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://www.creonhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://www.creonhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.creonhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://www.creonhcp.com/dosing-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://www.creonhcp.com/dosing-administration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "carousel_wrapper__default.png",
+      "sourceUrl": "https://www.creonhcp.com/mechanism-of-action",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    },
+    {
+      "relativePath": "search_results_coveo__default.png",
+      "sourceUrl": "https://www.creonhcp.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "main_region_5__default.png",
+      "sourceUrl": "https://www.creonhcp.com/cp-or-pancreatectomy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(6)"
+    },
+    {
+      "relativePath": "main_region_6__default.png",
+      "sourceUrl": "https://www.creonhcp.com/cp-or-pancreatectomy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(7)"
+    },
+    {
+      "relativePath": "main_region_7__default.png",
+      "sourceUrl": "https://www.creonhcp.com/cp-or-pancreatectomy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(8)"
+    },
+    {
+      "relativePath": "main_region_8__default.png",
+      "sourceUrl": "https://www.creonhcp.com/cp-or-pancreatectomy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(9)"
+    },
+    {
+      "relativePath": "main_region_9__default.png",
+      "sourceUrl": "https://www.creonhcp.com/cp-or-pancreatectomy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(10)"
+    },
+    {
+      "relativePath": "columns__default.png",
+      "sourceUrl": "https://www.creonhcp.com/about-creon",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.creonhcp.com/creon-patient-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.creonhcp.com/creon-patient-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "#nav-consumer"
+    },
+    {
+      "relativePath": "content__default.png",
+      "sourceUrl": "https://www.creonhcp.com/creon-patient-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "#content"
+    },
+    {
+      "relativePath": "cookie_preferences_entry__default.png",
+      "sourceUrl": "https://www.creonhcp.com/creon-patient-support",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T12:30:48.577Z",
+      "selector": "#onetrust-consent-sdk"
+    }
+  ]
+}

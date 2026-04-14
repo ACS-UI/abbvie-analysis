@@ -1,0 +1,48 @@
+{
+  "blockId": "recommended_topics",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4",
+    "tpl_6",
+    "tpl_15",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_19",
+    "tpl_21",
+    "tpl_24",
+    "tpl_26",
+    "tpl_28",
+    "tpl_29",
+    "tpl_31",
+    "tpl_32",
+    "tpl_34",
+    "tpl_35",
+    "tpl_36",
+    "tpl_37",
+    "tpl_39",
+    "tpl_40",
+    "tpl_41",
+    "tpl_45"
+  ],
+  "name": "Recommended Topics",
+  "description": "Displays recommended topics for further reading or exploration.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.analytics-content-view-recommended-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_component",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Modal Component",
+  "description": "Displays modal dialogs with additional information or actions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

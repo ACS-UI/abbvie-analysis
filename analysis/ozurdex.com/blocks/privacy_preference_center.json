@@ -1,0 +1,27 @@
+{
+  "blockId": "privacy_preference_center",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Privacy Preference Center",
+  "description": "Provides an overview of privacy preferences and cookie usage.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-rich-text > h2:nth-of-type(1)",
+      "div.abbv-rich-text > p"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

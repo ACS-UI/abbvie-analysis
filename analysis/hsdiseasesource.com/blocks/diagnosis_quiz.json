@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosis_quiz",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Diagnosis Quiz",
+  "description": "Interactive quiz to test knowledge on HS diagnosis.",
+  "domHints": {
+    "selectors": [
+      "#symptoms-quiz"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,164 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": "#background-container-1328273961"
+    },
+    {
+      "relativePath": "content_highlight__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-container.section--full.color--card-bg"
+    },
+    {
+      "relativePath": "copay_card_section__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-container.container-outline.section"
+    },
+    {
+      "relativePath": "cash_pay_program__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-container.section--min.fifty-fifty--centered"
+    },
+    {
+      "relativePath": "program_benefits__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-container.container-highlight--light"
+    },
+    {
+      "relativePath": "simple_start__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-container.content--min"
+    },
+    {
+      "relativePath": "enrollment_options__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/cost-coverage#savings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-container.section"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section_desktop__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": "#background-container-244389776"
+    },
+    {
+      "relativePath": "hero_section_mobile__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": "#background-container-1978924918"
+    },
+    {
+      "relativePath": "card_grid__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-flex-container-v2"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.synthroidpro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:16:38.268Z",
+      "selector": ".footer-container"
+    }
+  ]
+}

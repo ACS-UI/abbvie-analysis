@@ -1,0 +1,26 @@
+{
+  "blockId": "how_it_works",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "How It Works",
+  "description": "Details the mechanism of action of the product with images and text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.lastacaft-how-does-it-work"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

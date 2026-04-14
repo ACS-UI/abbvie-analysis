@@ -1,0 +1,112 @@
+{
+  "entryUrl": "https://www.ozurdexsavingsprogram.com/",
+  "discoveredAt": "2026-04-13T15:33:38.494Z",
+  "urls": [
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/",
+      "normalised": "https://www.ozurdexsavingsprogram.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/OZU131421-v5-Physician-Reimbursement-Request-Form_STE.pdf",
+      "normalised": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/OZU131421-v5-Physician-Reimbursement-Request-Form_STE.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/US-MULT-220406_Physician-Electronic-Payment-Enrollment-Form_v1.pdf",
+      "normalised": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/US-MULT-220406_Physician-Electronic-Payment-Enrollment-Form_v1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/US-OZU-210647-OZX-EC-Patient-Enrollment-Form_v1.pdf",
+      "normalised": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/US-OZU-210647-OZX-EC-Patient-Enrollment-Form_v1.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/OZURDEX%20Physician%20Reimb%20Request%20Form%20US-OZU-230137.pdf",
+      "normalised": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/OZURDEX%20Physician%20Reimb%20Request%20Form%20US-OZU-230137.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/Allergan%20EyeCue%20EFT%20Enrollment%20Form_US-MULT-231183.pdf",
+      "normalised": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/Allergan%20EyeCue%20EFT%20Enrollment%20Form_US-MULT-231183.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/OZURDEX%20Patient%20Enrollment%20Form_%20US-OZU-230136.pdf",
+      "normalised": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/program-resources-and-forms/OZURDEX%20Patient%20Enrollment%20Form_%20US-OZU-230136.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/homepage/OZURDEX-Savings-Program-Patient-Brochure_US-OZU-220189.pdf",
+      "normalised": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/homepage/OZURDEX-Savings-Program-Patient-Brochure_US-OZU-220189.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/homepage/OZURDEX%20Patient%20Brochure_US-OZU-230110.pdf",
+      "normalised": "https://www.ozurdexsavingsprogram.com/content/dam/ozurdexsavingsprogram/pdf/homepage/OZURDEX%20Patient%20Brochure_US-OZU-230110.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/termsandconditions",
+      "normalised": "https://www.ozurdexsavingsprogram.com/termsandconditions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/program-resources-and-forms",
+      "normalised": "https://www.ozurdexsavingsprogram.com/program-resources-and-forms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "normalised": "https://www.ozurdexsavingsprogram.com/howitworks",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/search-results",
+      "normalised": "https://www.ozurdexsavingsprogram.com/search-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdexsavingsprogram.com/sitemap",
+      "normalised": "https://www.ozurdexsavingsprogram.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 14,
+    "bySource": {
+      "sitemap": 11,
+      "crawl": 3,
+      "manual": 0
+    }
+  }
+}

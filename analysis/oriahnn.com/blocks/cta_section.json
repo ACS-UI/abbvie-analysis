@@ -1,0 +1,28 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_12"
+  ],
+  "name": "Call-to-Action Section",
+  "description": "Highlights key actions users can take, such as learning about ORIAHNN or accessing savings.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.cta-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

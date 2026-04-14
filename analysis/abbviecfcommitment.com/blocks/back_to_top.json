@@ -1,0 +1,54 @@
+{
+  "blockId": "back_to_top",
+  "templateIds": [
+    "tpl_1",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_10",
+    "tpl_11",
+    "tpl_12",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_19",
+    "tpl_22",
+    "tpl_23",
+    "tpl_24",
+    "tpl_25",
+    "tpl_27",
+    "tpl_28",
+    "tpl_30",
+    "tpl_31",
+    "tpl_35",
+    "tpl_36",
+    "tpl_38",
+    "tpl_39",
+    "tpl_41",
+    "tpl_43",
+    "tpl_46",
+    "tpl_47"
+  ],
+  "name": "Back to Top Button",
+  "description": "Allows users to quickly return to the top of the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-back-to-top"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

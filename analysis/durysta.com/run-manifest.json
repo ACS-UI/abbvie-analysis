@@ -1,0 +1,66 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:17:54.964Z",
+  "completedAt": "2026-04-13T15:29:50.585Z",
+  "input": {
+    "url": "https://www.durysta.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/durysta.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Durysta Homepage",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Durysta About Page",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Durysta Sitemap",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 5
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Durysta Doctor Discussion",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Durysta Why Section",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 5
+      }
+    ]
+  }
+}

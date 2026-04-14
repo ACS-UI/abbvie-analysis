@@ -1,0 +1,26 @@
+{
+  "blockId": "detectable_mrd_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Detectable MRD Section",
+  "description": "Explains the condition of detectable MRD after treatment.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-item:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

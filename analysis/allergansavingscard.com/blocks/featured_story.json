@@ -1,0 +1,26 @@
+{
+  "blockId": "featured_story",
+  "templateIds": [
+    "tpl_38"
+  ],
+  "name": "Featured Story",
+  "description": "Highlights a specific story or article with an image and description.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory.card-dashboard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_38 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

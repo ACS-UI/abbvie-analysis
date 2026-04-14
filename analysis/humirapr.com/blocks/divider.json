@@ -1,0 +1,26 @@
+{
+  "blockId": "divider",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Divider",
+  "description": "Visual separator between sections.",
+  "domHints": {
+    "selectors": [
+      ".divider"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

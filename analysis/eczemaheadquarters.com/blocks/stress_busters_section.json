@@ -1,0 +1,26 @@
+{
+  "blockId": "stress_busters_section",
+  "templateIds": [
+    "tpl_32"
+  ],
+  "name": "Stress Busters Section",
+  "description": "Provides tips and techniques to reduce stress.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.bg--green"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_32 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

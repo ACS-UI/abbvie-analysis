@@ -1,0 +1,54 @@
+{
+  "blockId": "primary_navigation",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_13",
+    "tpl_14",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_20",
+    "tpl_21",
+    "tpl_23",
+    "tpl_24",
+    "tpl_25",
+    "tpl_26",
+    "tpl_28",
+    "tpl_29",
+    "tpl_30",
+    "tpl_31",
+    "tpl_32",
+    "tpl_33",
+    "tpl_34",
+    "tpl_35",
+    "tpl_36",
+    "tpl_37",
+    "tpl_40",
+    "tpl_42",
+    "tpl_43",
+    "tpl_44"
+  ],
+  "name": "Primary Navigation",
+  "description": "Main site navigation menu with links to major sections.",
+  "domHints": {
+    "selectors": [
+      "header .abbv-header-primary-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

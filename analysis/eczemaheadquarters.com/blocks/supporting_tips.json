@@ -1,0 +1,26 @@
+{
+  "blockId": "supporting_tips",
+  "templateIds": [
+    "tpl_39"
+  ],
+  "name": "Supporting Tips",
+  "description": "Provides actionable advice and tips for supporting eczema teens.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.bg--green.eqh-learning-supporting-border"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_39 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

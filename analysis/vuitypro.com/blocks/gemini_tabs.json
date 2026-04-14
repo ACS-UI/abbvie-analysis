@@ -1,0 +1,26 @@
+{
+  "blockId": "gemini_tabs",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "GEMINI Study Tabs",
+  "description": "Tabs for switching between GEMINI 1 and GEMINI 2 study results.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs.vuitypro-tabs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

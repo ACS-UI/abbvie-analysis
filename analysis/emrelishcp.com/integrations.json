@@ -1,0 +1,33 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+          "https://www.emrelishcp.com/about-emrelis",
+          "https://www.emrelishcp.com/",
+          "https://www.emrelishcp.com/contact-a-rep",
+          "https://www.emrelishcp.com/safety",
+          "https://www.emrelishcp.com/support#howtoordermetihctesting",
+          "https://www.emrelishcp.com/support/sign-up",
+          "https://www.emrelishcp.com/search-results",
+          "https://www.emrelishcp.com/efficacy/efficacy",
+          "https://www.emrelishcp.com/dosing/adverse-reaction",
+          "https://www.emrelishcp.com/efficacy/study-design",
+          "https://www.emrelishcp.com/dosing",
+          "https://www.emrelishcp.com/sitemap"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:31:40.479Z"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "image_text_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Image and Text Section",
+  "description": "Combines images and text for visual and informational impact.",
+  "domHints": {
+    "selectors": [
+      ".pink-bug-mobile",
+      ".blue-bug"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

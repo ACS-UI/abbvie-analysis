@@ -1,0 +1,26 @@
+{
+  "blockId": "general_resources",
+  "templateIds": [
+    "tpl_24"
+  ],
+  "name": "General Pancreatic Disease Resources",
+  "description": "Lists resources and links for general pancreatic disease information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.creon-heading-h2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_24 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

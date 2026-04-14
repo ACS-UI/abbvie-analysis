@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_navigation",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Footer Navigation",
+  "description": "Navigation links located in the footer for site-wide access.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

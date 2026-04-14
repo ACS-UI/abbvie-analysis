@@ -1,0 +1,26 @@
+{
+  "blockId": "campus_teaser",
+  "templateIds": [
+    "tpl_249"
+  ],
+  "name": "Campus Teaser",
+  "description": "Highlights the campus with a teaser and link to a virtual tour.",
+  "domHints": {
+    "selectors": [
+      "#container-e9b7485235"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_249 (selectors validated in representative HTML).",
+  "aemCatalogName": "Embed"
+}

@@ -1,0 +1,35 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.duopa.com/",
+          "https://www.duopa.com/how-duopa-works",
+          "https://www.duopa.com/mentor-program",
+          "https://www.duopa.com/what-is-duopa",
+          "https://www.duopa.com/sitemap",
+          "https://www.duopa.com/my-duopa-materials-evening-routine-transcript",
+          "https://www.duopa.com/advanced-parkinsons",
+          "https://www.duopa.com/patient-stories",
+          "https://www.duopa.com/carrying-case",
+          "https://www.duopa.com/my-duopa-materials",
+          "https://www.duopa.com/resources",
+          "https://www.duopa.com/search-results",
+          "https://www.duopa.com/duopa-your-day",
+          "https://www.duopa.com/as-parkinsons-advances",
+          "https://www.duopa.com/education-program"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T12:32:50.705Z"
+}

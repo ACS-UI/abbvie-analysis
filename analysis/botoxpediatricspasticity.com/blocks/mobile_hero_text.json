@@ -1,0 +1,26 @@
+{
+  "blockId": "mobile_hero_text",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Mobile Hero Text",
+  "description": "Displays detailed information about the hero section for mobile users.",
+  "domHints": {
+    "selectors": [
+      ".show-in-mobile .hero-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

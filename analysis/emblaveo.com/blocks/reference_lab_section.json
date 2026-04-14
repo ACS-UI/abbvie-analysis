@@ -1,0 +1,26 @@
+{
+  "blockId": "reference_lab_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Reference Lab Section",
+  "description": "Information about reference lab testing and related resources.",
+  "domHints": {
+    "selectors": [
+      ".reference-lab"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

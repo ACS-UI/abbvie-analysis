@@ -1,0 +1,26 @@
+{
+  "blockId": "terms_conditions",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Terms and Conditions",
+  "description": "Outlines the terms and conditions of the program.",
+  "domHints": {
+    "selectors": [
+      ".durysta-terms"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

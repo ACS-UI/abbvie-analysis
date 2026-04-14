@@ -1,0 +1,27 @@
+{
+  "blockId": "about_emrelis_intro",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "About EMRELIS Introduction",
+  "description": "Provides an overview of EMRELIS with a title and subtitle.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.abv-custom-txtcolor-primary-green.mb-20.mb-lg-20",
+      "h1.font-28px"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

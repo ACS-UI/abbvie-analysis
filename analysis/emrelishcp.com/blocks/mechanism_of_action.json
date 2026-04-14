@@ -1,0 +1,27 @@
+{
+  "blockId": "mechanism_of_action",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Mechanism of Action",
+  "description": "Explains how EMRELIS works using a video and supporting text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-video-player",
+      "h2.font-weight-medium"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

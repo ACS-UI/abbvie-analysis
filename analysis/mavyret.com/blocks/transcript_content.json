@@ -1,0 +1,26 @@
+{
+  "blockId": "transcript_content",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Transcript Content",
+  "description": "Displays the main transcript content with text and dialogues.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.transcript-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

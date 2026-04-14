@@ -1,0 +1,27 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_25",
+    "tpl_28"
+  ],
+  "name": "Call-to-Action Section",
+  "description": "Encourages users to download a guide or take a specific action.",
+  "domHints": {
+    "selectors": [
+      ".cta"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

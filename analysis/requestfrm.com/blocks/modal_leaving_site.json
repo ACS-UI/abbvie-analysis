@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_leaving_site",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Modal: Leaving Site",
+  "description": "A modal dialog displayed when leaving the site.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.wolNPI"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

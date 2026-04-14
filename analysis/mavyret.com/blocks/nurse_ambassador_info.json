@@ -1,0 +1,26 @@
+{
+  "blockId": "nurse_ambassador_info",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Nurse Ambassador Information",
+  "description": "Details about the support provided by Nurse Ambassadors at different stages of treatment.",
+  "domHints": {
+    "selectors": [
+      "#background-container-772500488"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

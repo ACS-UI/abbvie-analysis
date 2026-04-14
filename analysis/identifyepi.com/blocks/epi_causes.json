@@ -1,0 +1,26 @@
+{
+  "blockId": "epi_causes",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "EPI Causes",
+  "description": "Discusses the causes of EPI and includes a call-to-action for the Symptom Checker.",
+  "domHints": {
+    "selectors": [
+      ".epi-shape"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

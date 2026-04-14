@@ -1,0 +1,67 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:59:30.609Z",
+  "completedAt": "2026-04-13T16:03:53.002Z",
+  "input": {
+    "url": "https://www.psoriaticarthritisinfo.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/psoriaticarthritisinfo.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Informational Page",
+        "source": "llm_identify",
+        "blockCount": 3,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Functional Page",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Site Map",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Interactive Tool",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      }
+    ]
+  }
+}

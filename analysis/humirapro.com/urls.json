@@ -1,0 +1,847 @@
+{
+  "entryUrl": "https://www.humirapro.com/",
+  "discoveredAt": "2026-04-13T16:08:29.196Z",
+  "urls": [
+    {
+      "url": "https://www.humirapro.com/",
+      "normalised": "https://www.humirapro.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-ped-derm.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-ped-derm.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-ped-gastro.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-ped-gastro.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-ped-rheum.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-ped-rheum.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-gastro.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-gastro.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-derm.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-derm.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-rheum.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/humira-ambassador-program-rheum.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/billing-coding-guide.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/billing-coding-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/formulary-exception-request-guide.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/formulary-exception-request-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/tiering-exception-request-guide.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/tiering-exception-request-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/submit-appeal-letter-guide.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/submit-appeal-letter-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/content/dam/humirapro/documents/submit-medical-necessity-letter-guide.pdf",
+      "normalised": "https://www.humirapro.com/content/dam/humirapro/documents/submit-medical-necessity-letter-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/uveitis-adult",
+      "normalised": "https://www.humirapro.com/dosing/uveitis-adult",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing",
+      "normalised": "https://www.humirapro.com/dosing",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/uveitis",
+      "normalised": "https://www.humirapro.com/uveitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/pediatric-ulcerative-colitis",
+      "normalised": "https://www.humirapro.com/pediatric-ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/juvenile-idiopathic-arthritis",
+      "normalised": "https://www.humirapro.com/dosing/juvenile-idiopathic-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/psoriatic-arthritis",
+      "normalised": "https://www.humirapro.com/dosing/psoriatic-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/ulcerative-colitis-pediatric",
+      "normalised": "https://www.humirapro.com/dosing/ulcerative-colitis-pediatric",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/rheumatoid-arthritis",
+      "normalised": "https://www.humirapro.com/dosing/rheumatoid-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/plaque-psoriasis",
+      "normalised": "https://www.humirapro.com/dosing/plaque-psoriasis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/crohns-disease-pediatric",
+      "normalised": "https://www.humirapro.com/dosing/crohns-disease-pediatric",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/crohns-disease-adult",
+      "normalised": "https://www.humirapro.com/dosing/crohns-disease-adult",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/hidradenitis-suppurativa",
+      "normalised": "https://www.humirapro.com/dosing/hidradenitis-suppurativa",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/uveitis-pediatric",
+      "normalised": "https://www.humirapro.com/dosing/uveitis-pediatric",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/about-humira",
+      "normalised": "https://www.humirapro.com/about-humira",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/ulcerative-colitis",
+      "normalised": "https://www.humirapro.com/dosing/ulcerative-colitis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/request-frm",
+      "normalised": "https://www.humirapro.com/request-frm",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/plaque-psoriasis",
+      "normalised": "https://www.humirapro.com/plaque-psoriasis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/rheumatoid-arthritis",
+      "normalised": "https://www.humirapro.com/rheumatoid-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/psoriatic-arthritis",
+      "normalised": "https://www.humirapro.com/psoriatic-arthritis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/pediatric-crohns-disease",
+      "normalised": "https://www.humirapro.com/pediatric-crohns-disease",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/jia",
+      "normalised": "https://www.humirapro.com/jia",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/hidradenitis-suppurativa",
+      "normalised": "https://www.humirapro.com/hidradenitis-suppurativa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/request-a-specialist",
+      "normalised": "https://www.humirapro.com/request-a-specialist",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/site-map",
+      "normalised": "https://www.humirapro.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/sitemap",
+      "normalised": "https://www.humirapro.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/global-safety",
+      "normalised": "https://www.humirapro.com/global-safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/uveitis-pediatric",
+      "normalised": "https://www.humirapro.com/uveitis-pediatric",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/crohns-disease",
+      "normalised": "https://www.humirapro.com/crohns-disease",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/patient-support",
+      "normalised": "https://www.humirapro.com/patient-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/search-results",
+      "normalised": "https://www.humirapro.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/ankylosing-spondylitis",
+      "normalised": "https://www.humirapro.com/ankylosing-spondylitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/ulcerative-colitis",
+      "normalised": "https://www.humirapro.com/ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/patientsite",
+      "normalised": "https://www.humirapro.com/patientsite",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/prescribinginfo",
+      "normalised": "https://www.humirapro.com/prescribinginfo",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1311808833-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1311808833-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1170476283-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1170476283-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1711876516-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1711876516-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-22567123-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-22567123-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1794877998-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1794877998-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1060168754-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1060168754-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1711876516-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1711876516-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-22567123-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-22567123-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1168316364-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1168316364-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1582614376-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1582614376-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-387246349-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-387246349-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1311808833-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1311808833-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1060168754-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1060168754-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-387246349-2",
+      "normalised": "https://www.humirapro.com/abbv-tab-387246349-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-204095322-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-204095322-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1711876516-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1711876516-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1794877998-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1794877998-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1381465138-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1381465138-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1168316364-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1168316364-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1711876516-2",
+      "normalised": "https://www.humirapro.com/abbv-tab-1711876516-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1499473736-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1499473736-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1170476283-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1170476283-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1582614376-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1582614376-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1381465138-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1381465138-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1381465138-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1381465138-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-618164960-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-618164960-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-204095322-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-204095322-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1170476283-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1170476283-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1060168754-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1060168754-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-387246349-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-387246349-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1499473736-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1499473736-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1711876516-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1711876516-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1269301261-2",
+      "normalised": "https://www.humirapro.com/abbv-tab-1269301261-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1269301261-3",
+      "normalised": "https://www.humirapro.com/abbv-tab-1269301261-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1381465138-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1381465138-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-387246349-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-387246349-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1711876516-2",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1711876516-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-618164960-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-618164960-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-618164960-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-618164960-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1794877998-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1794877998-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-204095322-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-204095322-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-387246349-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-387246349-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-204095322-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-204095322-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-22567123-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-22567123-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1203239811-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1203239811-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-618164960-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-618164960-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1311808833-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1311808833-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1499473736-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1499473736-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-799502279-3",
+      "normalised": "https://www.humirapro.com/abbv-tab-799502279-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1168316364-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1168316364-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1311808833-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1311808833-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1170476283-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1170476283-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1060168754-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1060168754-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1203239811-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1203239811-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-799502279-2",
+      "normalised": "https://www.humirapro.com/abbv-tab-799502279-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-22567123-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-22567123-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1499473736-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1499473736-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1269301261-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-1269301261-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1168316364-0",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1168316364-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-1794877998-1",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-1794877998-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-1269301261-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-1269301261-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/dosing/abbv-tab-387246349-2",
+      "normalised": "https://www.humirapro.com/dosing/abbv-tab-387246349-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-799502279-1",
+      "normalised": "https://www.humirapro.com/abbv-tab-799502279-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/abbv-tab-799502279-0",
+      "normalised": "https://www.humirapro.com/abbv-tab-799502279-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/global/sitemap",
+      "normalised": "https://www.humirapro.com/global/sitemap",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/psoriasis",
+      "normalised": "https://www.humirapro.com/psoriasis",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/crohns",
+      "normalised": "https://www.humirapro.com/crohns",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/juvenile-arthritis",
+      "normalised": "https://www.humirapro.com/juvenile-arthritis",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/pediatric-crohns",
+      "normalised": "https://www.humirapro.com/pediatric-crohns",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/cost",
+      "normalised": "https://www.humirapro.com/cost",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/humira-complete/dashboard",
+      "normalised": "https://www.humirapro.com/humira-complete/dashboard",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/global/frequently-asked-questions",
+      "normalised": "https://www.humirapro.com/global/frequently-asked-questions",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.humirapro.com/humira-complete/cost-and-copay",
+      "normalised": "https://www.humirapro.com/humira-complete/cost-and-copay",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 119,
+    "bySource": {
+      "sitemap": 26,
+      "crawl": 93,
+      "manual": 0
+    }
+  }
+}

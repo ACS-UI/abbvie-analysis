@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_4",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "main region 4",
+  "description": "Major content region in main (div). Preview: DURYSTA® Program Terms and Conditions Available to patients with commercial insurance coverage for DURYSTA® who meet eli…",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

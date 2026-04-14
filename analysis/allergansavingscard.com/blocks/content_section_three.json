@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_three",
+  "templateIds": [
+    "tpl_297"
+  ],
+  "name": "Content Section Three",
+  "description": "Highlights the 'Patients' section with a title, description, and links.",
+  "domHints": {
+    "selectors": [
+      "div#container-d9ee270214"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_297 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_resources",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Patient Resources",
+  "description": "Lists resources and tools for patients, including links to external sites.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container .abbv-row-container.abbv-columns-row--std-padding"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

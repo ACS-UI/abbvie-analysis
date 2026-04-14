@@ -1,0 +1,27 @@
+{
+  "blockId": "quiz_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Quiz Section",
+  "description": "Interactive quiz to engage users and provide information.",
+  "domHints": {
+    "selectors": [
+      "#NoBSQuiz",
+      ".abbv-tabs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

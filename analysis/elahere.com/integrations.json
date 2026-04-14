@@ -1,0 +1,34 @@
+{
+  "integrations": [
+    {
+      "id": "google-tag-manager",
+      "name": "Google Tag Manager",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.elahere.com/resources/elahere-stories",
+          "https://www.elahere.com/resources/talking-to-your-doctor",
+          "https://www.elahere.com/resources/helpful-downloads",
+          "https://www.elahere.com/",
+          "https://www.elahere.com/results",
+          "https://www.elahere.com/sign-up/",
+          "https://www.elahere.com/eye-care",
+          "https://www.elahere.com/about/is-elahere-right-for-me",
+          "https://www.elahere.com/safety",
+          "https://www.elahere.com/starting-elahere",
+          "https://www.elahere.com/resources/elahere-support-services",
+          "https://www.elahere.com/resources/advocacy-groups"
+        ],
+        "patterns": [
+          "googletagmanager.com"
+        ],
+        "scriptSrcSamples": [
+          "https://www.googletagmanager.com/gtm.js?id=GTM-PMFVD5TG"
+        ]
+      },
+      "confidence": "high",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:42:26.707Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "key_features",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Key Features",
+  "description": "Highlights the key features of EMRELIS with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flex-column.flex-lg-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

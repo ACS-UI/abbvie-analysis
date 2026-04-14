@@ -1,0 +1,26 @@
+{
+  "blockId": "formulary_lookup",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Formulary Lookup",
+  "description": "Interactive form for users to check formulary coverage by ZIP code.",
+  "domHints": {
+    "selectors": [
+      ".abbv-formulary-zipcode"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

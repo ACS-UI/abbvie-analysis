@@ -1,0 +1,27 @@
+{
+  "blockId": "main_region_10",
+  "templateIds": [
+    "tpl_17",
+    "tpl_18"
+  ],
+  "name": "main region 10",
+  "description": "Major content region in main (div). Preview: “I tried topiramate and it wasn’t right for me. If you're considering QULIPTA, you should ask your doctor about it.” Cas…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(11)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_17. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

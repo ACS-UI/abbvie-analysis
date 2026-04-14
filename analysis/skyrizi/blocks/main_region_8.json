@@ -1,0 +1,31 @@
+{
+  "blockId": "main_region_8",
+  "templateIds": [
+    "tpl_11",
+    "tpl_15",
+    "tpl_16",
+    "tpl_18",
+    "tpl_21",
+    "tpl_22"
+  ],
+  "name": "main region 8",
+  "description": "Major content region in main (div). Preview: SKYRIZI Pen Michael, an experienced SKYRIZI patient, gives step-by-step instructions on using the SKYRIZI Pen. Learn to …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(9)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_11. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

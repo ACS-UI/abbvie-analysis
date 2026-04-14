@@ -1,0 +1,27 @@
+{
+  "blockId": "how_to_take_linzess",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "How to Take Linzess",
+  "description": "Provides information and a video on how to properly take Linzess.",
+  "domHints": {
+    "selectors": [
+      "#howtotake",
+      ".abbv-container.background-off-white"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

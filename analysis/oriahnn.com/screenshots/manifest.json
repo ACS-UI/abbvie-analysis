@@ -1,0 +1,484 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.oriahnn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.oriahnn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-background-container.hero-home"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-container.cta-container"
+    },
+    {
+      "relativePath": "icon_text_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".ori-x-icon-tout"
+    },
+    {
+      "relativePath": "savings_card_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".oriah-fibroids-symp-flex-box"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.oriahnn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.oriahnn.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "intro_columns__default.png",
+      "sourceUrl": "https://www.oriahnn.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-row-container.abbv-padding-top-20"
+    },
+    {
+      "relativePath": "eligibility_form__default.png",
+      "sourceUrl": "https://www.oriahnn.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".cmp-formsembed-widget"
+    },
+    {
+      "relativePath": "support_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/savings-card",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-container.ori-x-support-tout"
+    },
+    {
+      "relativePath": "side_effects_summary__default.png",
+      "sourceUrl": "https://www.oriahnn.com/side-effects-and-safety-considerations",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".ori-x-icon-tout"
+    },
+    {
+      "relativePath": "side_effects_details__default.png",
+      "sourceUrl": "https://www.oriahnn.com/side-effects-and-safety-considerations",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".text-reference"
+    },
+    {
+      "relativePath": "discontinuation_statistics__default.png",
+      "sourceUrl": "https://www.oriahnn.com/side-effects-and-safety-considerations",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".ori-flex__container--trials-image"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.oriahnn.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.oriahnn.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "quick_benefits_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/what-is-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-row-container.ori-x-icon-tout.ori-x-margin-top-30"
+    },
+    {
+      "relativePath": "detailed_info_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/what-is-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-row-container.ori-x-icon-tout.ori-x-accent-teal"
+    },
+    {
+      "relativePath": "cta_section_1__default.png",
+      "sourceUrl": "https://www.oriahnn.com/what-is-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".cta.parbase > a[aria-label='See Proven Results']"
+    },
+    {
+      "relativePath": "cta_section_2__default.png",
+      "sourceUrl": "https://www.oriahnn.com/what-is-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".cta.parbase > a[aria-label='Talk to your Gynecologist']"
+    },
+    {
+      "relativePath": "two_column_cta__default.png",
+      "sourceUrl": "https://www.oriahnn.com/savings-and-insurance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-row-container.savings-two-col"
+    },
+    {
+      "relativePath": "form_embed__default.png",
+      "sourceUrl": "https://www.oriahnn.com/savings-and-insurance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".cmp-formsembed-widget"
+    },
+    {
+      "relativePath": "site_map_content__default.png",
+      "sourceUrl": "https://www.oriahnn.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".columns.parbase > .abbv-row-container"
+    },
+    {
+      "relativePath": "quiz_intro__default.png",
+      "sourceUrl": "https://www.oriahnn.com/heavy-periods-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".quiz-container"
+    },
+    {
+      "relativePath": "quiz_form__default.png",
+      "sourceUrl": "https://www.oriahnn.com/heavy-periods-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".cmp-formsembed-widget"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.oriahnn.com/heavy-periods-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "daily_routine_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/how-to-take-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".ori-x-interior-hero--new--large"
+    },
+    {
+      "relativePath": "morning_capsule_instruction__default.png",
+      "sourceUrl": "https://www.oriahnn.com/how-to-take-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".four-box-first-box .abbv-col-2 img[alt='Morning Icon.']"
+    },
+    {
+      "relativePath": "evening_capsule_instruction__default.png",
+      "sourceUrl": "https://www.oriahnn.com/how-to-take-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".four-box-moon .abbv-col-2 img[alt='Evening Icon.']"
+    },
+    {
+      "relativePath": "schedule_guidance__default.png",
+      "sourceUrl": "https://www.oriahnn.com/how-to-take-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".four-box-clock .abbv-col-2 img[alt='Clock Icon.']"
+    },
+    {
+      "relativePath": "food_guidance__default.png",
+      "sourceUrl": "https://www.oriahnn.com/how-to-take-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".schedule-time .abbv-col-2 img[alt='Silverware Icon.']"
+    },
+    {
+      "relativePath": "savings_information__default.png",
+      "sourceUrl": "https://www.oriahnn.com/how-to-take-oriahnn",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".uterine-fibroids-symp-flex-box"
+    },
+    {
+      "relativePath": "symptoms_highlight__default.png",
+      "sourceUrl": "https://www.oriahnn.com/uterine-fibroids-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".ori-ufs-top-column"
+    },
+    {
+      "relativePath": "interactive_quiz_cta__default.png",
+      "sourceUrl": "https://www.oriahnn.com/uterine-fibroids-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".ufs-pink-box"
+    },
+    {
+      "relativePath": "symptoms_details__default.png",
+      "sourceUrl": "https://www.oriahnn.com/uterine-fibroids-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".ori-ufs-second-column"
+    },
+    {
+      "relativePath": "signs_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/uterine-fibroids-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": "#background-container-1509565868"
+    },
+    {
+      "relativePath": "helpful_resources__default.png",
+      "sourceUrl": "https://www.oriahnn.com/uterine-fibroids-symptoms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".uterine-fibroids-symp-flex-box"
+    },
+    {
+      "relativePath": "who_gets_columns__default.png",
+      "sourceUrl": "https://www.oriahnn.com/what-are-uterine-fibroids",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-row-container.what-are-uf-who-get-uterine-col"
+    },
+    {
+      "relativePath": "types_of_fibroids__default.png",
+      "sourceUrl": "https://www.oriahnn.com/what-are-uterine-fibroids",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-row-container.what-are-uf-types-fibroids-col"
+    },
+    {
+      "relativePath": "cta_tout_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/what-are-uterine-fibroids",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-row-container.bg-teal-soft.tout-container"
+    },
+    {
+      "relativePath": "next_page_cta__default.png",
+      "sourceUrl": "https://www.oriahnn.com/what-are-uterine-fibroids",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-row-container.ori-x-margin-top-64"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.oriahnn.com/clinical-trials",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.oriahnn.com/clinical-trials",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-title.ori-x-accent-teal"
+    },
+    {
+      "relativePath": "clinical_trial_summary__default.png",
+      "sourceUrl": "https://www.oriahnn.com/clinical-trials",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-row-container.cstm-margin-7-10-section"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/clinical-trials",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-flex-container.ori-x-trial-accordions"
+    },
+    {
+      "relativePath": "hemoglobin_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/clinical-trials",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-container.hemoglobin-container"
+    },
+    {
+      "relativePath": "carousel_section__default.png",
+      "sourceUrl": "https://www.oriahnn.com/clinical-trials",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:35:28.341Z",
+      "selector": ".abbv-carousel.owl-carousel"
+    }
+  ]
+}

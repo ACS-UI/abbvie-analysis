@@ -1,0 +1,29 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_3",
+    "tpl_6"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent banner area introducing the FAQ page with background imagery and text.",
+  "domHints": {
+    "selectors": [
+      "#background-container-896586806"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

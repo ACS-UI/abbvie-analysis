@@ -1,0 +1,26 @@
+{
+  "blockId": "content_form",
+  "templateIds": [
+    "tpl_312"
+  ],
+  "name": "Content Form",
+  "description": "The form section where users can submit their privacy inquiries.",
+  "domHints": {
+    "selectors": [
+      "#auraErrorMask"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_312 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

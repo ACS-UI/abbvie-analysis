@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_checklist",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Symptoms Checklist",
+  "description": "Details a checklist of symptoms and information to share with a doctor.",
+  "domHints": {
+    "selectors": [
+      ".epi-left-content-image"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

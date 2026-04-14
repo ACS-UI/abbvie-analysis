@@ -1,0 +1,26 @@
+{
+  "blockId": "telemedicine_tips",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Telemedicine Tips",
+  "description": "Provides a CTA for downloading telemedicine tips for doctor appointments.",
+  "domHints": {
+    "selectors": [
+      "div.creon-talking-doctor-bottom-ref"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

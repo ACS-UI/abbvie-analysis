@@ -1,0 +1,2194 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Oncology — group 1",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Page layout group 2",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Policies Disclosures — group 3",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Major League Baseball — group 4",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Our Rd Leaders — group 5",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Partnering Days — group 6",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Patient Focused Drug Development — group 7",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Independent Educational Grants — group 8",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Commercial — group 9",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Our Leaders — group 10",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Cubs — group 11",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Eye Care — group 12",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Abbvies Code Of Conduct — group 13",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Research And Development — group 14",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_14",
+      "humanName": "Product Quality And Safety — group 15",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_15",
+      "humanName": "Publications — group 16",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_16",
+      "humanName": "Areas Of Innovation — group 17",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_17",
+      "humanName": "Operating With Integrity — group 18",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_18",
+      "humanName": "Clinical Trials — group 19",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_19",
+      "humanName": "Our People — group 20",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_20",
+      "humanName": "Neuroscience — group 21",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_21",
+      "humanName": "Who We Are — group 22",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_22",
+      "humanName": "Operations — group 23",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_23",
+      "humanName": "Patient Support — group 24",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_24",
+      "humanName": "Immunology — group 25",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_25",
+      "humanName": "Abbvie Ventures — group 26",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_26",
+      "humanName": "Key Facts — group 27",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_27",
+      "humanName": "Science — group 28",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_28",
+      "humanName": "Positions Views — group 29",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_29",
+      "humanName": "Other Specialties — group 30",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_30",
+      "humanName": "Corporate — group 31",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_31",
+      "humanName": "Rd Sites — group 32",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_32",
+      "humanName": "Patients — group 33",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_33",
+      "humanName": "Opportunities — group 34",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_34",
+      "humanName": "Partner With Us — group 35",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_35",
+      "humanName": "Patient Assistance — group 36",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_36",
+      "humanName": "Our Stories — group 37",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_37",
+      "humanName": "The Persistence Lab Podcasts — group 38",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_38",
+      "humanName": "Community Of Science — group 39",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_39",
+      "humanName": "Our Principles — group 40",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_40",
+      "humanName": "Responsible Supply Chain — group 41",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_41",
+      "humanName": "Protecting Human Rights And Workplace Safety — group 42",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_42",
+      "humanName": "Precision Medicine — group 43",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_43",
+      "humanName": "A History Of Impact — group 44",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_44",
+      "humanName": "Life At Abbvie — group 45",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_45",
+      "humanName": "Pipeline — group 46",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_46",
+      "humanName": "Transparency In Payment — group 47",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_47",
+      "humanName": "Benefits — group 48",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_48",
+      "humanName": "Aesthetics — group 49",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_49",
+      "humanName": "Products — group 50",
+      "source": "llm_identify",
+      "blockCount": 1,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_50",
+      "humanName": "Equity Equality Inclusion Diversity — group 51",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_51",
+      "humanName": "Grants And Contribution Disclosures — group 52",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_52",
+      "humanName": "Ai And Data Convergence — group 53",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_53",
+      "humanName": "How To Apply — group 54",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_54",
+      "humanName": "Brand Partnerships — group 55",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_55",
+      "humanName": "Areas Of Focus — group 56",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_56",
+      "humanName": "Genomics — group 57",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_57",
+      "humanName": "Requestor Training Guide — group 58",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_58",
+      "humanName": "Allergan Aesthetics — group 59",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_59",
+      "humanName": "Living With An Illness — group 60",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_60",
+      "humanName": "Page layout group 61",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_61",
+      "humanName": "Investigator Initiated Studies — group 62",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_62",
+      "humanName": "Learning And Development — group 63",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_63",
+      "humanName": "Request Types — group 64",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_64",
+      "humanName": "Therapeutic Modalities And Platforms — group 65",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_65",
+      "humanName": "Contact Center — group 66",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_66",
+      "humanName": "Abbvie Inquiry — group 67",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_67",
+      "humanName": "Jag Dosanjh — group 68",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_68",
+      "humanName": "Join Us — group 69",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_69",
+      "humanName": "Student And New Graduates — group 70",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_70",
+      "humanName": "Sustainability — group 71",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_71",
+      "humanName": "Environmental Social And Governance — group 72",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_72",
+      "humanName": "Terms Of Use — group 73",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 3
+    },
+    {
+      "templateId": "tpl_73",
+      "humanName": "United States — group 74",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_74",
+      "humanName": "Latif Akintade — group 75",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_75",
+      "humanName": "Robert Michael — group 76",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_76",
+      "humanName": "Why Abbvie — group 77",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_77",
+      "humanName": "Liz Shea — group 78",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_78",
+      "humanName": "New Graduates And Entry Level Positions — group 79",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_79",
+      "humanName": "Nicholas Donoghoe — group 80",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_80",
+      "humanName": "Page layout group 81",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_81",
+      "humanName": "Algeria — group 82",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_82",
+      "humanName": "Supplier Resources — group 83",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_83",
+      "humanName": "Internships — group 84",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_84",
+      "humanName": "Croatia — group 85",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_85",
+      "humanName": "Jeffrey Stewart — group 86",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_86",
+      "humanName": "Page layout group 87",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_87",
+      "humanName": "Lebanon — group 88",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_88",
+      "humanName": "Lithuania — group 89",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_89",
+      "humanName": "Nicole Mowad Nassar — group 90",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_90",
+      "humanName": "Disaster Relief — group 91",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_91",
+      "humanName": "Estonia — group 92",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_92",
+      "humanName": "Student Programs — group 93",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_93",
+      "humanName": "Page layout group 94",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_94",
+      "humanName": "Bosnia And Herzegovina — group 95",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_95",
+      "humanName": "Allergan Ous Disclosures — group 96",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_96",
+      "humanName": "Serbia — group 97",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_97",
+      "humanName": "Roopal Thakkar — group 98",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_98",
+      "humanName": "Page layout group 99",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_99",
+      "humanName": "Well Being In The Workplace — group 100",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_100",
+      "humanName": "Timothy Richmond — group 101",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_101",
+      "humanName": "Resources — group 102",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_102",
+      "humanName": "Alberto Colzi — group 103",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_103",
+      "humanName": "Accessibility Statement — group 104",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_104",
+      "humanName": "Saudi Arabia — group 105",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_105",
+      "humanName": "Perry Siatis — group 106",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_106",
+      "humanName": "Impact Through Inclusion — group 107",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_107",
+      "humanName": "Slovenia — group 108",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_108",
+      "humanName": "Tunisia — group 109",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_109",
+      "humanName": "Romania — group 110",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_110",
+      "humanName": "Azita Saleki Gerhardt — group 111",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_111",
+      "humanName": "South Africa And Sub Saharan Africa — group 112",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_112",
+      "humanName": "Latvia — group 113",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_113",
+      "humanName": "Scott Reents — group 114",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_114",
+      "humanName": "Abbvie Foundation — group 115",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_115",
+      "humanName": "United Arab Emirates — group 116",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_116",
+      "humanName": "Addressing Systemic Barriers — group 117",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_117",
+      "humanName": "Postdoctoral Program — group 118",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_118",
+      "humanName": "Page layout group 119",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_119",
+      "humanName": "Innovative Impact — group 120",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_120",
+      "humanName": "Employee Resource Groups — group 121",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_121",
+      "humanName": "Site Map — group 122",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_122",
+      "humanName": "Wulff Erik Von Borcke — group 123",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_123",
+      "humanName": "Page layout group 124",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_124",
+      "humanName": "Tracie Haas — group 125",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_125",
+      "humanName": "Page layout group 126",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_126",
+      "humanName": "Page layout group 127",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_127",
+      "humanName": "Demetris Crum — group 128",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_128",
+      "humanName": "Abbvie Volunteers Return To Serving — group 129",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_129",
+      "humanName": "Btk Protein Good Bad And Ugly — group 130",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_130",
+      "humanName": "Jerome Bouyer — group 131",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_131",
+      "humanName": "Linda Ray — group 132",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_132",
+      "humanName": "Everyones Talking About Data Science — group 133",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_133",
+      "humanName": "The Power Love In Ibd — group 134",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_134",
+      "humanName": "Page layout group 135",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_135",
+      "humanName": "Magnified Featuring Linda Scarazzini — group 136",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_136",
+      "humanName": "How Patient Voices Are Changing Medicine — group 137",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_137",
+      "humanName": "Inside Dream Initiative — group 138",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_138",
+      "humanName": "Dave Purdue — group 139",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_139",
+      "humanName": "Page layout group 140",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_140",
+      "humanName": "Page layout group 141",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_141",
+      "humanName": "Page layout group 142",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_142",
+      "humanName": "Page layout group 143",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_143",
+      "humanName": "Can Unlocking One Million Genomes — group 144",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_144",
+      "humanName": "They Wont Back Down — group 145",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_145",
+      "humanName": "Page layout group 146",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_146",
+      "humanName": "Page layout group 147",
+      "source": "llm_identify",
+      "blockCount": 13,
+      "proposedCount": 14
+    },
+    {
+      "templateId": "tpl_147",
+      "humanName": "Page layout group 148",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_148",
+      "humanName": "Page layout group 149",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_149",
+      "humanName": "Page layout group 150",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_150",
+      "humanName": "Living With Unknowns Alzheimers Disease — group 151",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_151",
+      "humanName": "Page layout group 152",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_152",
+      "humanName": "Magnified Featuring Matt Widman — group 153",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_153",
+      "humanName": "Jason Smith — group 154",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_154",
+      "humanName": "Page layout group 155",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_155",
+      "humanName": "Magnified Featuring Jonathon Sedgwick — group 156",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_156",
+      "humanName": "Page layout group 157",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_157",
+      "humanName": "Page layout group 158",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_158",
+      "humanName": "Page layout group 159",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_159",
+      "humanName": "Trapped In Your Own Skin — group 160",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_160",
+      "humanName": "Why Isnt Medicine One Size Fits All — group 161",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_161",
+      "humanName": "Page layout group 162",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_162",
+      "humanName": "Page layout group 163",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_163",
+      "humanName": "Page layout group 164",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_164",
+      "humanName": "Magnified Featuring Shuhong Zhang — group 165",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_165",
+      "humanName": "Page layout group 166",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_166",
+      "humanName": "The Math Of Migraine — group 167",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_167",
+      "humanName": "Magnified Featuring Darin Messina — group 168",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_168",
+      "humanName": "Magnified Featuring Sean Mcewen — group 169",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_169",
+      "humanName": "A Journey Of Sight Progress — group 170",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_170",
+      "humanName": "What Does It Take To Discover A New Medicine — group 171",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_171",
+      "humanName": "Shining Light On Glaucoma And Eye Health — group 172",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_172",
+      "humanName": "Page layout group 173",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_173",
+      "humanName": "Page layout group 174",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_174",
+      "humanName": "Navigating Ulcerative Colitis As A Child — group 175",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_175",
+      "humanName": "Page layout group 176",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_176",
+      "humanName": "Page layout group 177",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_177",
+      "humanName": "Page layout group 178",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_178",
+      "humanName": "Page layout group 179",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_179",
+      "humanName": "Page layout group 180",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_180",
+      "humanName": "Stronger Together Convergence Minds And Data — group 181",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_181",
+      "humanName": "Page layout group 182",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_182",
+      "humanName": "Chasing The Value Of A Walk Down The Aisle — group 183",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_183",
+      "humanName": "Page layout group 184",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_184",
+      "humanName": "Page layout group 185",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_185",
+      "humanName": "Page layout group 186",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_186",
+      "humanName": "Nisha Patel Burns — group 187",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_187",
+      "humanName": "Injecting Hope One Vaccine At A Time — group 188",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_188",
+      "humanName": "Profile Stories — group 189",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_189",
+      "humanName": "Magnified Featuring Edrice Simmons — group 190",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 11
+    },
+    {
+      "templateId": "tpl_190",
+      "humanName": "Company Stories — group 191",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_191",
+      "humanName": "Eedi Stories — group 192",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_192",
+      "humanName": "Sustainability Stories — group 193",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_193",
+      "humanName": "Abbvie Research Collaborative — group 194",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_194",
+      "humanName": "Page layout group 195",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_195",
+      "humanName": "A Legacy Of Leadership In Mental Health — group 196",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_196",
+      "humanName": "Magnified Featuring Johanna Corbin — group 197",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_197",
+      "humanName": "Page layout group 198",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_198",
+      "humanName": "Voices Abbvie Reflecting On Decade Impact — group 199",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_199",
+      "humanName": "Page layout group 200",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_200",
+      "humanName": "Page layout group 201",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_201",
+      "humanName": "Science Stories — group 202",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_202",
+      "humanName": "Why You Cant Wait With Rheumatoid Arthritis — group 203",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_203",
+      "humanName": "Page layout group 204",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_204",
+      "humanName": "Page layout group 205",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_205",
+      "humanName": "Page layout group 206",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_206",
+      "humanName": "Page layout group 207",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_207",
+      "humanName": "Page layout group 208",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_208",
+      "humanName": "Digital Science Lab — group 209",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_209",
+      "humanName": "Immunologys Next Frontier — group 210",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_210",
+      "humanName": "Magnified Featuring Nicholas Donoghoe — group 211",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_211",
+      "humanName": "Eye Care Stories — group 212",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_212",
+      "humanName": "Time Is Hours — group 213",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_213",
+      "humanName": "Page layout group 214",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_214",
+      "humanName": "Neuroscience Stories — group 215",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_215",
+      "humanName": "Page layout group 216",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_216",
+      "humanName": "Immunology Stories — group 217",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_217",
+      "humanName": "Page layout group 218",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_218",
+      "humanName": "Page layout group 219",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_219",
+      "humanName": "Page layout group 220",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_220",
+      "humanName": "Page layout group 221",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_221",
+      "humanName": "Page layout group 222",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_222",
+      "humanName": "Page layout group 223",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_223",
+      "humanName": "Oncology Stories — group 224",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_224",
+      "humanName": "Page layout group 225",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_225",
+      "humanName": "Page layout group 226",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_226",
+      "humanName": "Transforming Cancer Care From The Inside Out — group 227",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_227",
+      "humanName": "Aesthetics Stories — group 228",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_228",
+      "humanName": "Can We Find Cures Faster — group 229",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_229",
+      "humanName": "Navigating The Hidden Side Of Cancer — group 230",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_230",
+      "humanName": "Ambassadors In Action — group 231",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_231",
+      "humanName": "Working At Abbvie Stories — group 232",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_232",
+      "humanName": "Page layout group 233",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_233",
+      "humanName": "Page layout group 234",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_234",
+      "humanName": "Elevating Health Care For All — group 235",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_235",
+      "humanName": "Page layout group 236",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_236",
+      "humanName": "Page layout group 237",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_237",
+      "humanName": "Page layout group 238",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_238",
+      "humanName": "Page layout group 239",
+      "source": "llm_identify",
+      "blockCount": 1,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_239",
+      "humanName": "Real People Real Inspiration Joes Story — group 240",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_240",
+      "humanName": "Page layout group 241",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_241",
+      "humanName": "Philanthropy Stories — group 242",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_242",
+      "humanName": "Serving Communities Stories — group 243",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_243",
+      "humanName": "Virology Stories — group 244",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_244",
+      "humanName": "Synthetic Control Arm End Placebos — group 245",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_245",
+      "humanName": "Little Patients Big Impact — group 246",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_246",
+      "humanName": "Page layout group 247",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_247",
+      "humanName": "Patient Support Stories — group 248",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_248",
+      "humanName": "Page layout group 249",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_249",
+      "humanName": "Change From Within — group 250",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_250",
+      "humanName": "Partnerships Stories — group 251",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_251",
+      "humanName": "Page layout group 252",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_252",
+      "humanName": "Bay Area Opportunities — group 253",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_253",
+      "humanName": "Social Media Community Guidelines — group 254",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_254",
+      "humanName": "Cerevel — group 255",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_255",
+      "humanName": "Mitokinin — group 256",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_256",
+      "humanName": "Celsius Therapeutics — group 257",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_257",
+      "humanName": "Immunogen — group 258",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_258",
+      "humanName": "Discovery Files — group 259",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_259",
+      "humanName": "Allergan — group 260",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_260",
+      "humanName": "Behind The Science — group 261",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_261",
+      "humanName": "Linda Scarazzini — group 262",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_262",
+      "humanName": "Equal Employment Opportunity Employer — group 263",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_263",
+      "humanName": "Capstan Therapeutics — group 264",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_264",
+      "humanName": "Savings Card — group 265",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_265",
+      "humanName": "Available Programs — group 266",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_266",
+      "humanName": "Eligibility Criteria — group 267",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_267",
+      "humanName": "Science In 60 Seconds — group 268",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_268",
+      "humanName": "Aliada Therapeutics — group 269",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_269",
+      "humanName": "Contactus — group 270",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_270",
+      "humanName": "Online Application Overview — group 271",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_271",
+      "humanName": "Locations — group 272",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_272",
+      "humanName": "Daejin Abidoye — group 273",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_273",
+      "humanName": "Wolfram Nothaft — group 274",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_274",
+      "humanName": "Eleni Lagkadinou — group 275",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_275",
+      "humanName": "Raymond Votzmeyer — group 276",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_276",
+      "humanName": "Abbvie Pride — group 277",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_277",
+      "humanName": "Income Criteria — group 278",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_278",
+      "humanName": "Philip Hajduk — group 279",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_279",
+      "humanName": "Access To Investigational Drugs Policy — group 280",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_280",
+      "humanName": "Michael Foley — group 281",
+      "source": "llm_identify",
+      "blockCount": 1,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_281",
+      "humanName": "Page layout group 282",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_282",
+      "humanName": "Asian Leadership Network — group 283",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_283",
+      "humanName": "Veterans — group 284",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 12
+    },
+    {
+      "templateId": "tpl_284",
+      "humanName": "Human Capital Management — group 285",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_285",
+      "humanName": "Declaracion De Accessibilidad — group 286",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_286",
+      "humanName": "Page layout group 287",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_287",
+      "humanName": "Patents — group 288",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_288",
+      "humanName": "Page layout group 289",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_289",
+      "humanName": "Primal Kaur — group 290",
+      "source": "llm_identify",
+      "blockCount": 1,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_290",
+      "humanName": "Reasonable Accommodations — group 291",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_291",
+      "humanName": "Page layout group 292",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_292",
+      "humanName": "Ahora Hispanic Latino — group 293",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_293",
+      "humanName": "Abbvie Ventures Portfolio — group 294",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_294",
+      "humanName": "Environmental Sustainability — group 295",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_295",
+      "humanName": "Lab To Life — group 296",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_296",
+      "humanName": "Jonathon Sedgwick — group 297",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_297",
+      "humanName": "Andrew Campbell — group 298",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_298",
+      "humanName": "Page layout group 299",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_299",
+      "humanName": "Lab Of The Future — group 300",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_300",
+      "humanName": "Darin Messina — group 301",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_301",
+      "humanName": "Ability At Abbvie — group 302",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_302",
+      "humanName": "Shuhong Zhang — group 303",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_303",
+      "humanName": "Black Business Network — group 304",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_304",
+      "humanName": "Women Leaders In Action — group 305",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_305",
+      "humanName": "Allergan Labeling — group 306",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_306",
+      "humanName": "Page layout group 307",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_307",
+      "humanName": "Abbvie Research Collaborative Endometrosis — group 308",
+      "source": "llm_identify",
+      "blockCount": 1,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_308",
+      "humanName": "Nimbletherapeutics — group 309",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_309",
+      "humanName": "Privacy — group 310",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_310",
+      "humanName": "Partnerships Chicago Cubs — group 311",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_311",
+      "humanName": "Latest Earnings — group 312",
+      "source": "llm_identify",
+      "blockCount": 13,
+      "proposedCount": 13
+    },
+    {
+      "templateId": "tpl_312",
+      "humanName": "Privacy Inquiry — group 313",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    }
+  ],
+  "generatedAt": "2026-04-13T18:31:31.287Z"
+}

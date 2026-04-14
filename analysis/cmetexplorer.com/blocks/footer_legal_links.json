@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_legal_links",
+  "templateIds": [
+    "tpl_256",
+    "tpl_263"
+  ],
+  "name": "Footer Legal Links",
+  "description": "Legal and informational links in the footer.",
+  "domHints": {
+    "selectors": [
+      "#linklist-bd74c6ddda"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_256 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

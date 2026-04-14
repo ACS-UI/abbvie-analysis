@@ -1,0 +1,26 @@
+{
+  "blockId": "testimonial_katie",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Testimonial - Katie",
+  "description": "Features a testimonial from a scholarship recipient.",
+  "domHints": {
+    "selectors": [
+      ".background__container-pattern-bottom-left"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

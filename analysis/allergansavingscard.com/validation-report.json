@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.allergansavingscard.com/",
+  "normalisedUrl": "https://www.allergansavingscard.com/",
+  "finalUrlAfterRedirects": "https://www.abbvie.com/allergan.html",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:23:48.316Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

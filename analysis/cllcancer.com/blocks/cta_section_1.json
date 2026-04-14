@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_section_1",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "CTA Section 1",
+  "description": "Call-to-action section encouraging users to sign up for updates.",
+  "domHints": {
+    "selectors": [
+      ".flexbox-container__home-cta-callouts--teal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "baseline_characteristics",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Baseline Characteristics",
+  "description": "Displays baseline patient characteristics with demographic and clinical data.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flex-column.flex-lg-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

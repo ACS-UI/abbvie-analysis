@@ -1,0 +1,27 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://hcp.loloestrin.com/",
+          "https://hcp.loloestrin.com/hcp-resources",
+          "https://hcp.loloestrin.com/why-loloestrinfe",
+          "https://hcp.loloestrin.com/hcp-resources/formulary-coverage",
+          "https://hcp.loloestrin.com/is-lo-loestrin-fe-right-for-her",
+          "https://hcp.loloestrin.com/hcp-resources/support-for-your-practice",
+          "https://hcp.loloestrin.com/sitemap"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:33:57.330Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "enrollment_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Enrollment Section",
+  "description": "Contains the enrollment form and related content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-enroll-form"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

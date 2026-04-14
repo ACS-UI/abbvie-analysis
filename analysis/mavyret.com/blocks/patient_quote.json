@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_quote",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Patient Quote",
+  "description": "Displays a patient quote related to the treatment.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.quote-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Quote"
+}

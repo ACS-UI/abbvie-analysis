@@ -1,0 +1,27 @@
+{
+  "blockId": "main_content_intro",
+  "templateIds": [
+    "tpl_2",
+    "tpl_38"
+  ],
+  "name": "Main Content Introduction",
+  "description": "Introductory content describing the importance of nutrition for CF patients.",
+  "domHints": {
+    "selectors": [
+      "a.abbv-skip-to-main-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

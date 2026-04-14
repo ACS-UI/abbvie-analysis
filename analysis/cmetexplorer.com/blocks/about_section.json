@@ -1,0 +1,26 @@
+{
+  "blockId": "about_section",
+  "templateIds": [
+    "tpl_75"
+  ],
+  "name": "About Section",
+  "description": "Provides an overview of the organization's mission and values.",
+  "domHints": {
+    "selectors": [
+      "div#text-f70e675748"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_75 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

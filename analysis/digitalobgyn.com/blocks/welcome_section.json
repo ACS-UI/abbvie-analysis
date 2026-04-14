@@ -1,0 +1,26 @@
+{
+  "blockId": "welcome_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Welcome Section",
+  "description": "Introduction to AbbVie Women’s Health with a heading, description, and a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flexbox.ptb-30"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

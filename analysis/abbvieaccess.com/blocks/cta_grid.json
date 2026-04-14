@@ -1,0 +1,27 @@
+{
+  "blockId": "cta_grid",
+  "templateIds": [
+    "tpl_3",
+    "tpl_5"
+  ],
+  "name": "CTA Grid",
+  "description": "Grid layout of call-to-action buttons for navigating to specific tools or resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.abbvieaccess-primaryHeaderNav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "utility_navigation",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Utility Navigation",
+  "description": "Provides quick links for sponsorship and social media.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

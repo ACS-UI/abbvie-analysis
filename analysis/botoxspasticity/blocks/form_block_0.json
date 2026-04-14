@@ -1,0 +1,38 @@
+{
+  "blockId": "form_block_0",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_9",
+    "tpl_11",
+    "tpl_15",
+    "tpl_16",
+    "tpl_17"
+  ],
+  "name": "Form / subscription",
+  "description": "Email capture, subscribe, or lead form (may include captcha).",
+  "domHints": {
+    "selectors": [
+      "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "fields",
+        "type": "custom",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Form on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

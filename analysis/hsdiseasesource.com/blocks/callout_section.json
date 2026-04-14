@@ -1,0 +1,28 @@
+{
+  "blockId": "callout_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_12",
+    "tpl_13"
+  ],
+  "name": "Callout Section",
+  "description": "Emphasizes the importance of multidisciplinary collaboration for managing HS.",
+  "domHints": {
+    "selectors": [
+      ".main-page-callout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

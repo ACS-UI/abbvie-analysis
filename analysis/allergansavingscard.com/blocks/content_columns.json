@@ -1,0 +1,35 @@
+{
+  "blockId": "content_columns",
+  "templateIds": [
+    "tpl_14",
+    "tpl_22",
+    "tpl_46",
+    "tpl_57",
+    "tpl_110",
+    "tpl_160",
+    "tpl_228",
+    "tpl_244",
+    "tpl_260",
+    "tpl_308"
+  ],
+  "name": "Content Columns",
+  "description": "Organizes text and images into multiple columns for readability.",
+  "domHints": {
+    "selectors": [
+      ".grid-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

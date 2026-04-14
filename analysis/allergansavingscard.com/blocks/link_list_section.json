@@ -1,0 +1,26 @@
+{
+  "blockId": "link_list_section",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Link List Section",
+  "description": "List of related links for further exploration.",
+  "domHints": {
+    "selectors": [
+      "ul#linklist-aaa24a93ff"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

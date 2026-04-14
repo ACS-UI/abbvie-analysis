@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Informational Homepage",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Sitemap Page",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    }
+  ],
+  "generatedAt": "2026-04-13T16:22:04.418Z"
+}

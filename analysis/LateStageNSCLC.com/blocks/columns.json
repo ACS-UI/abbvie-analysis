@@ -1,0 +1,27 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: Biomarker testing can help guide treatment approaches New biomarkers are being identified in non-small cell lung cancer …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(1)",
+      "[role='main'] > div:nth-of-type(6)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Columns"
+}

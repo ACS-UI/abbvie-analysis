@@ -1,0 +1,26 @@
+{
+  "blockId": "about_hep_c_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "About Hep C Section",
+  "description": "Provides information about Hepatitis C, including causes and effects.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1647669526"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

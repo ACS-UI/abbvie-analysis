@@ -1,0 +1,28 @@
+{
+  "blockId": "rich_text_notice",
+  "templateIds": [
+    "tpl_9",
+    "tpl_10"
+  ],
+  "name": "Rich Text Notice",
+  "description": "Provides a notice or message in rich text format.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text",
+      ".abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

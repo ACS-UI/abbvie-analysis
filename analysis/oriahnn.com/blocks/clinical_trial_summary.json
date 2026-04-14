@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_trial_summary",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Clinical Trial Summary",
+  "description": "Summarizes the key findings from the clinical trials, including statistics on effectiveness.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.cstm-margin-7-10-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

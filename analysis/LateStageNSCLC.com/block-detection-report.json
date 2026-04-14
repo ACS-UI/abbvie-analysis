@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Informational Article",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Sitemap",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Signup Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Resource Page",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    }
+  ],
+  "generatedAt": "2026-04-13T16:10:27.286Z"
+}

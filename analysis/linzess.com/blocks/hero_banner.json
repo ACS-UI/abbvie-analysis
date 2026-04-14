@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_banner",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Hero Banner",
+  "description": "Displays the primary message and call-to-action for the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.linzess-top-banner"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

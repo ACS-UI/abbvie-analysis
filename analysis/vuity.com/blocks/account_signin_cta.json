@@ -1,0 +1,26 @@
+{
+  "blockId": "account_signin_cta",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Account Sign-In CTA",
+  "description": "Section prompting the user to sign in or recover their password if an account already exists.",
+  "domHints": {
+    "selectors": [
+      ".account-already-exists-signin"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

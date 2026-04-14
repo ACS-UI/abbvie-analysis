@@ -1,0 +1,301 @@
+{
+  "entryUrl": "https://www.ra.com/",
+  "discoveredAt": "2026-04-13T16:02:07.677Z",
+  "urls": [
+    {
+      "url": "https://www.ra.com/",
+      "normalised": "https://www.ra.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/content/dam/ra/documents/Joint_Profiler.pdf",
+      "normalised": "https://www.ra.com/content/dam/ra/documents/Joint_Profiler.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ra.com/content/dam/ra/documents/RAPID3_Calculation.pdf",
+      "normalised": "https://www.ra.com/content/dam/ra/documents/RAPID3_Calculation.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/find-a-rheumatologist",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/find-a-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/rapid3-survey",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/rapid3-survey",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/what-is-rheumatoid-arthritis/symptoms",
+      "normalised": "https://www.ra.com/what-is-rheumatoid-arthritis/symptoms",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/global-isi/use-stmt-generic",
+      "normalised": "https://www.ra.com/global-isi/use-stmt-generic",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/what-is-rheumatoid-arthritis/about-ra",
+      "normalised": "https://www.ra.com/what-is-rheumatoid-arthritis/about-ra",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/search-results",
+      "normalised": "https://www.ra.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/what-is-rheumatoid-arthritis",
+      "normalised": "https://www.ra.com/what-is-rheumatoid-arthritis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-treatment/ra-treatments-explained",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-treatment/ra-treatments-explained",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/sitemap",
+      "normalised": "https://www.ra.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/convo-with-rheum-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/convo-with-rheum-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/partner-with-rheumatologist",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/partner-with-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/subscribe",
+      "normalised": "https://www.ra.com/subscribe",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/looking-back-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/looking-back-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-treatment/partner-with-rheumatologist",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-treatment/partner-with-rheumatologist",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/ra-check-in",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/ra-check-in",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/ra-remission-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/ra-remission-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/keeping-ra-under-control-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/keeping-ra-under-control-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-treatment/remission",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-treatment/remission",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/ra-support",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/ra-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/setting-ra-treatment-goals-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/setting-ra-treatment-goals-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/finding-treatment-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/finding-treatment-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/charis-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/charis-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/partner-with-rheum-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/partner-with-rheum-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/personalization-activation",
+      "normalised": "https://www.ra.com/personalization-activation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/impact-on-life-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/impact-on-life-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/carol-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/carol-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/global-isi",
+      "normalised": "https://www.ra.com/global-isi",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/drive-for-change-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/drive-for-change-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/personalization-realization",
+      "normalised": "https://www.ra.com/personalization-realization",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/treatment-goals-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/treatment-goals-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/personalization-motivation",
+      "normalised": "https://www.ra.com/personalization-motivation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/tom-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/tom-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/subscribe/confirmation",
+      "normalised": "https://www.ra.com/subscribe/confirmation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/monica-transcript",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/monica-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-treatment",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-treatment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ra.com/rheumatoid-arthritis-treatment/options",
+      "normalised": "https://www.ra.com/rheumatoid-arthritis-treatment/options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 41,
+    "bySource": {
+      "sitemap": 26,
+      "crawl": 15,
+      "manual": 0
+    }
+  }
+}

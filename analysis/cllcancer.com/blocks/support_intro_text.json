@@ -1,0 +1,26 @@
+{
+  "blockId": "support_intro_text",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Support Intro Text",
+  "description": "Introductory text providing information about support resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.content-container .abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

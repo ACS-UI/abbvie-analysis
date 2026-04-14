@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.hsdiseasesource.com",
+  "normalisedUrl": "https://www.hsdiseasesource.com/",
+  "finalUrlAfterRedirects": "https://www.hsdiseasesource.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:47:57.831Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

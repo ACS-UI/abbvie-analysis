@@ -1,0 +1,26 @@
+{
+  "blockId": "download_tool_cta",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Download Tool CTA",
+  "description": "Call-to-action for downloading the eczema experience tool.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text a"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

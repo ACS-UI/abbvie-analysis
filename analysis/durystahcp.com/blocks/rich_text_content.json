@@ -1,0 +1,28 @@
+{
+  "blockId": "rich_text_content",
+  "templateIds": [
+    "tpl_11",
+    "tpl_15"
+  ],
+  "name": "Rich Text Content",
+  "description": "Contains styled text content, such as the message displayed to the user.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text",
+      ".abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

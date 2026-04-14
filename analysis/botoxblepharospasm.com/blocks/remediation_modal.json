@@ -1,0 +1,26 @@
+{
+  "blockId": "remediation_modal",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Remediation Modal",
+  "description": "A modal providing information about the combined company and privacy notices.",
+  "domHints": {
+    "selectors": [
+      "#remediationModal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Symptoms Section",
+  "description": "Lists symptoms associated with the condition, including visual examples.",
+  "domHints": {
+    "selectors": [
+      ".symptoms-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

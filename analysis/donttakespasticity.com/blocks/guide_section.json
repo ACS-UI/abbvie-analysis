@@ -1,0 +1,26 @@
+{
+  "blockId": "guide_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Guide Section",
+  "description": "Promotes a downloadable guide for doctor discussions.",
+  "domHints": {
+    "selectors": [
+      ".botox-guide-sec"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

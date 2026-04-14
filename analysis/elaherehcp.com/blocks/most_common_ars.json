@@ -1,0 +1,26 @@
+{
+  "blockId": "most_common_ars",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Most Common ARs Section",
+  "description": "Displays adverse reactions occurring in 10% or more patients.",
+  "domHints": {
+    "selectors": [
+      "#most-common-ars"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

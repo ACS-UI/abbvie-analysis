@@ -1,0 +1,26 @@
+{
+  "blockId": "office_resources_heading",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Office Resources Heading",
+  "description": "Heading section for the Office Resources content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.ofc-res-heading"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

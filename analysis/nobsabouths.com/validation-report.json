@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.nobsabouths.com/",
+  "normalisedUrl": "https://www.nobsabouths.com/",
+  "finalUrlAfterRedirects": "https://www.nobsabouths.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:53:48.247Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

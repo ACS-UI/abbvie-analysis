@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_links",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Footer Links",
+  "description": "Contains links to site map, privacy policy, and other footer navigation options.",
+  "domHints": {
+    "selectors": [
+      "footer .abbv-footer-horizontal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

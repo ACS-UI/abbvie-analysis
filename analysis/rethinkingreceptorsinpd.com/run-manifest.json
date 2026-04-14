@@ -1,0 +1,81 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:21:25.319Z",
+  "completedAt": "2026-04-13T16:28:34.844Z",
+  "input": {
+    "url": "https://www.rethinkingreceptorsinpd.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/rethinkingreceptorsinpd.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Homepage Overview",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Emerging PD Research",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Dopamine Functions",
+        "source": "llm_identify",
+        "blockCount": 13,
+        "proposedCount": 13
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Current PD Treatments",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Burden of Parkinson's Disease",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Website Navigation",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Medical Liaison Contact",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      }
+    ]
+  }
+}

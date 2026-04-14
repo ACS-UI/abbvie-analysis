@@ -1,0 +1,27 @@
+{
+  "blockId": "content_section_one",
+  "templateIds": [
+    "tpl_267",
+    "tpl_297"
+  ],
+  "name": "Content Section One",
+  "description": "A content section featuring a title, text, and a call-to-action button.",
+  "domHints": {
+    "selectors": [
+      "#title-12e7b71bc6"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_267 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

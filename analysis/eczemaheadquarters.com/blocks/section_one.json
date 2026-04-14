@@ -1,0 +1,27 @@
+{
+  "blockId": "section_one",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "First Content Section",
+  "description": "Provides detailed information on the first topic of the page, including headings and text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.eqh-learning-partnering-first-title",
+      "section:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cost_factors_section",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Cost Factors Section",
+  "description": "Details the factors impacting the cost of CLL treatment.",
+  "domHints": {
+    "selectors": [
+      "#explore-cost-factors-of-treatment"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

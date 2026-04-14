@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_columns",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Treatment Factors Columns",
+  "description": "Columns detailing factors to consider for treatment.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.stacked-bullets"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

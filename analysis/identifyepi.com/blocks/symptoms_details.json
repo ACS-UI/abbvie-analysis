@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_details",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Symptoms Details",
+  "description": "Detailed descriptions of individual EPI symptoms.",
+  "domHints": {
+    "selectors": [
+      ".epi-content-only"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

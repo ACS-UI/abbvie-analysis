@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides introductory information about finding a healthcare provider.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-item.find-ap-bg .abbv-rich-text.find-ap-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

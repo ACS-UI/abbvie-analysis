@@ -1,0 +1,53 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:29:11.525Z",
+  "completedAt": "2026-04-13T16:32:55.495Z",
+  "input": {
+    "url": "https://www.usdermed.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/usdermed.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Tool Pages",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Overview Pages",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Navigation Pages",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      }
+    ]
+  }
+}

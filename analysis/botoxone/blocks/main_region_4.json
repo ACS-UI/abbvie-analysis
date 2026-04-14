@@ -1,0 +1,45 @@
+{
+  "blockId": "main_region_4",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_5",
+    "tpl_10",
+    "tpl_12",
+    "tpl_19",
+    "tpl_22",
+    "tpl_23",
+    "tpl_24",
+    "tpl_36",
+    "tpl_39",
+    "tpl_41",
+    "tpl_42",
+    "tpl_43",
+    "tpl_45",
+    "tpl_47",
+    "tpl_48",
+    "tpl_57",
+    "tpl_66",
+    "tpl_81"
+  ],
+  "name": "main region 4",
+  "description": "Major content region in main (div). Preview: Dashboard See key information in a single location Create a profile and view your practice’s BOTOX® dashboard, which con…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

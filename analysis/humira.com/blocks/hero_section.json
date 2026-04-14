@@ -1,0 +1,30 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_3"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent introductory section with a background image and title.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1525721908",
+      ".abbv-background-container.humira-indication-hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

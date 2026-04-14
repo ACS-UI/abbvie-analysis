@@ -1,0 +1,70 @@
+{
+  "entryUrl": "https://www.lastacaft.com/",
+  "discoveredAt": "2026-04-13T16:14:38.127Z",
+  "urls": [
+    {
+      "url": "https://www.lastacaft.com/",
+      "normalised": "https://www.lastacaft.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lastacaft.com/frequently-asked-questions",
+      "normalised": "https://www.lastacaft.com/frequently-asked-questions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lastacaft.com/understanding-eye-allergies",
+      "normalised": "https://www.lastacaft.com/understanding-eye-allergies",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lastacaft.com/about",
+      "normalised": "https://www.lastacaft.com/about",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lastacaft.com/doc",
+      "normalised": "https://www.lastacaft.com/doc",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lastacaft.com/where-to-buy",
+      "normalised": "https://www.lastacaft.com/where-to-buy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lastacaft.com/savings",
+      "normalised": "https://www.lastacaft.com/savings",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lastacaft.com/sitemap",
+      "normalised": "https://www.lastacaft.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 8,
+      "manual": 0
+    }
+  }
+}

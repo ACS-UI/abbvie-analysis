@@ -1,0 +1,26 @@
+{
+  "blockId": "data_highlight_card",
+  "templateIds": [
+    "tpl_170"
+  ],
+  "name": "Data Highlight Card",
+  "description": "Card displaying key data points or statistics.",
+  "domHints": {
+    "selectors": [
+      ".dashboard-card-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_170 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "telemedicine_video",
+  "templateIds": [
+    "tpl_33"
+  ],
+  "name": "Telemedicine Video",
+  "description": "Highlights a video discussing telemedicine insights for diagnosing EPI.",
+  "domHints": {
+    "selectors": [
+      ".creon-hcp-challenges-lower-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_33 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

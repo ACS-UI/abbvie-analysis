@@ -1,0 +1,30 @@
+{
+  "blockId": "card_grid_section",
+  "templateIds": [
+    "tpl_13",
+    "tpl_23",
+    "tpl_86",
+    "tpl_152",
+    "tpl_264"
+  ],
+  "name": "Card Grid Section",
+  "description": "Displays cards with images and text in a grid layout.",
+  "domHints": {
+    "selectors": [
+      "div.grid-row .grid-cell .cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

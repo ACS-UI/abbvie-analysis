@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_paragraph",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Introduction Paragraph",
+  "description": "Provides an overview of the condition discussed on the page.",
+  "domHints": {
+    "selectors": [
+      ".vuity-about-heading"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

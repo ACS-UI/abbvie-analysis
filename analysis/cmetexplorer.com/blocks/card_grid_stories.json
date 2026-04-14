@@ -1,0 +1,27 @@
+{
+  "blockId": "card_grid_stories",
+  "templateIds": [
+    "tpl_210",
+    "tpl_231"
+  ],
+  "name": "Card Grid - Stories",
+  "description": "Displays a grid of story cards with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory.card-dashboard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_210 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

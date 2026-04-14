@@ -1,0 +1,26 @@
+{
+  "blockId": "uveitis_treatment",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Treatment Options",
+  "description": "Details treatment options for uveitis.",
+  "domHints": {
+    "selectors": [
+      "section.how-poly"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

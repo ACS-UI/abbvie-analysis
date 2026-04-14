@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_videos_section",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Patient Videos Section",
+  "description": "Showcases videos intended for patient education.",
+  "domHints": {
+    "selectors": [
+      ".epi-video-container-border-line"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

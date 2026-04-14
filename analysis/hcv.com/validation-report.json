@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.hcv.com/",
+  "normalisedUrl": "https://www.hcv.com/",
+  "finalUrlAfterRedirects": "https://www.hcv.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:15:03.393Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

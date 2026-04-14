@@ -1,0 +1,203 @@
+{
+  "entryUrl": "https://www.lupronped.com/",
+  "discoveredAt": "2026-04-13T15:26:28.858Z",
+  "urls": [
+    {
+      "url": "https://www.lupronped.com/",
+      "normalised": "https://www.lupronped.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/about-lupron-depot-ped?3#flexible-dosing",
+      "normalised": "https://www.lupronped.com/about-lupron-depot-ped?3",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/site-map",
+      "normalised": "https://www.lupronped.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/starting-therapy?1#expect-atdoctor",
+      "normalised": "https://www.lupronped.com/starting-therapy?1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/isi",
+      "normalised": "https://www.lupronped.com/isi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/starting-therapy",
+      "normalised": "https://www.lupronped.com/starting-therapy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/glossary",
+      "normalised": "https://www.lupronped.com/glossary",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/lupron-support-plus",
+      "normalised": "https://www.lupronped.com/lupron-support-plus",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/about-lupron-depot-ped",
+      "normalised": "https://www.lupronped.com/about-lupron-depot-ped",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/understanding-central-precocious-puberty?1#signs-of-cpp",
+      "normalised": "https://www.lupronped.com/understanding-central-precocious-puberty?1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/starting-therapy?2#look-urchild",
+      "normalised": "https://www.lupronped.com/starting-therapy?2",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/faqs",
+      "normalised": "https://www.lupronped.com/faqs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/lupron-support-plus?3#live-nurse",
+      "normalised": "https://www.lupronped.com/lupron-support-plus?3",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/about-lupron-depot-ped?2#18year-long",
+      "normalised": "https://www.lupronped.com/about-lupron-depot-ped?2",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/sign-up-lupron-updates",
+      "normalised": "https://www.lupronped.com/sign-up-lupron-updates",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/about-lupron-depot-ped?1#about-lupron",
+      "normalised": "https://www.lupronped.com/about-lupron-depot-ped?1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/lupron-support-plus?2#savings-card",
+      "normalised": "https://www.lupronped.com/lupron-support-plus?2",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/about-lupron-depot-ped?4#side-effects",
+      "normalised": "https://www.lupronped.com/about-lupron-depot-ped?4",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/lupron-support-plus?1#understanding-insurance",
+      "normalised": "https://www.lupronped.com/lupron-support-plus?1",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/understanding-central-precocious-puberty",
+      "normalised": "https://www.lupronped.com/understanding-central-precocious-puberty",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/search-results",
+      "normalised": "https://www.lupronped.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/lupron-support-plus?4#download-resource",
+      "normalised": "https://www.lupronped.com/lupron-support-plus?4",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/understanding-central-precocious-puberty?2#potential-complications",
+      "normalised": "https://www.lupronped.com/understanding-central-precocious-puberty?2",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/starting-therapy?3#staying-ontrack",
+      "normalised": "https://www.lupronped.com/starting-therapy?3",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/abbv-tab-594972266-1",
+      "normalised": "https://www.lupronped.com/abbv-tab-594972266-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/abbv-tab-594972266-0",
+      "normalised": "https://www.lupronped.com/abbv-tab-594972266-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.lupronped.com/abbv-tab-594972266-2",
+      "normalised": "https://www.lupronped.com/abbv-tab-594972266-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 27,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 27,
+      "manual": 0
+    }
+  }
+}

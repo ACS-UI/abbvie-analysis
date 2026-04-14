@@ -1,0 +1,34 @@
+{
+  "blockId": "important_safety_information",
+  "templateIds": [
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_8",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11"
+  ],
+  "name": "Important Safety Information",
+  "description": "Provides critical safety and usage information for the product.",
+  "domHints": {
+    "selectors": [
+      "div[role='region'][aria-label='Important Safety Information']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

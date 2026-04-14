@@ -1,0 +1,26 @@
+{
+  "blockId": "medical_conditions",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Medical Conditions",
+  "description": "Lists medical conditions to discuss with the doctor before treatment.",
+  "domHints": {
+    "selectors": [
+      ".container.theme-plum-1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

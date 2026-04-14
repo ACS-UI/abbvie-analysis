@@ -1,0 +1,26 @@
+{
+  "blockId": "main_cta_links",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Main CTA Links",
+  "description": "Call-to-action links for quick navigation to key content.",
+  "domHints": {
+    "selectors": [
+      ".cta.parbase"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

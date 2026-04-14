@@ -1,0 +1,28 @@
+{
+  "blockId": "rich_text_block",
+  "templateIds": [
+    "tpl_8",
+    "tpl_18"
+  ],
+  "name": "Rich Text Content",
+  "description": "Displays a centered text message with bold formatting.",
+  "domHints": {
+    "selectors": [
+      ".rich-text",
+      ".abbv-rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,46 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_3",
+    "tpl_6",
+    "tpl_9",
+    "tpl_10",
+    "tpl_11",
+    "tpl_12",
+    "tpl_13",
+    "tpl_14",
+    "tpl_15",
+    "tpl_20",
+    "tpl_21",
+    "tpl_23",
+    "tpl_28",
+    "tpl_31",
+    "tpl_32",
+    "tpl_39",
+    "tpl_42",
+    "tpl_43",
+    "tpl_47"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Contains utility navigation links and options for quick access.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "expert_locator_form",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Expert Locator Form",
+  "description": "Provides a form for users to search for AML specialists by ZIP code and radius.",
+  "domHints": {
+    "selectors": [
+      "div.find-a-provider.parbase",
+      "form[name='providerSearch']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

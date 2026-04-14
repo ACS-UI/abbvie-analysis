@@ -1,0 +1,26 @@
+{
+  "blockId": "image_with_description",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Image with Description",
+  "description": "Image with accompanying descriptive text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text.nobs-orange-border"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

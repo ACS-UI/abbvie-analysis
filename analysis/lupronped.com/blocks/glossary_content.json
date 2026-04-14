@@ -1,0 +1,26 @@
+{
+  "blockId": "glossary_content",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Glossary Content",
+  "description": "Displays detailed glossary entries organized by letter.",
+  "domHints": {
+    "selectors": [
+      ".glossary-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Table"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "profile_story",
+  "templateIds": [
+    "tpl_38"
+  ],
+  "name": "Profile Story",
+  "description": "Details the personal story and achievements of the scholar.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text-common > p"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_38 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

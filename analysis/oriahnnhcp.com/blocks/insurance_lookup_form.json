@@ -1,0 +1,26 @@
+{
+  "blockId": "insurance_lookup_form",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Insurance Lookup Form",
+  "description": "Form for users to input their ZIP code to check insurance coverage.",
+  "domHints": {
+    "selectors": [
+      ".abbv-formulary-zipcode"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

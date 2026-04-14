@@ -1,0 +1,27 @@
+{
+  "blockId": "story_cards_grid",
+  "templateIds": [
+    "tpl_118",
+    "tpl_149"
+  ],
+  "name": "Story Cards Grid",
+  "description": "Displays a grid of story cards with images, titles, and descriptions.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory.card-dashboard.card-medium"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_118 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "video_cards_row_2",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Video Cards Row 2",
+  "description": "Displays another set of video cards related to ELAHERE treatment.",
+  "domHints": {
+    "selectors": [
+      "#main"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

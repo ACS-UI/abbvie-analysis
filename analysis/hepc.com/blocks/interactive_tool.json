@@ -1,0 +1,26 @@
+{
+  "blockId": "interactive_tool",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Interactive Tool",
+  "description": "Provides an interactive element for user engagement.",
+  "domHints": {
+    "selectors": [
+      ".abbv-info-tree"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

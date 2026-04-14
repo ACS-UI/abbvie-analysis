@@ -1,0 +1,27 @@
+{
+  "blockId": "stress_faces_section",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Stress Faces Section",
+  "description": "Explains various stressors and solutions related to IBD.",
+  "domHints": {
+    "selectors": [
+      "#cs",
+      ".stress-types-table"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Table"
+}

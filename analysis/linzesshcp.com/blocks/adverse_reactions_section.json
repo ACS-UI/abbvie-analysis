@@ -1,0 +1,26 @@
+{
+  "blockId": "adverse_reactions_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Adverse Reactions Section",
+  "description": "Details common adverse reactions and their frequencies.",
+  "domHints": {
+    "selectors": [
+      ".cic-adverse-reaction-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

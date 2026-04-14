@@ -1,0 +1,26 @@
+{
+  "blockId": "statistic_highlight",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Statistic Highlight",
+  "description": "Emphasizes an important statistic related to the content.",
+  "domHints": {
+    "selectors": [
+      ".synthroid-patients"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

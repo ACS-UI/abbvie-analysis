@@ -1,0 +1,26 @@
+{
+  "blockId": "columns_why_get_tested",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Why Get Tested Columns",
+  "description": "Displays multiple columns with icons and text explaining the importance of getting tested.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.four-column-grid"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

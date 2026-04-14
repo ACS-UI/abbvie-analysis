@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_terms",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Accordion - Terms and Conditions",
+  "description": "Contains expandable content with terms, conditions, and eligibility criteria.",
+  "domHints": {
+    "selectors": [
+      ".linzess-terms"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

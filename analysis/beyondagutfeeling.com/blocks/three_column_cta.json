@@ -1,0 +1,26 @@
+{
+  "blockId": "three_column_cta",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Three Column CTA",
+  "description": "Displays three call-to-action sections in a grid layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.mt-lg-40"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

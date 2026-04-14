@@ -1,0 +1,324 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": "#background-container-1003477565"
+    },
+    {
+      "relativePath": "breadcrumb_navigation__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".hepc-custom-breadcrumb"
+    },
+    {
+      "relativePath": "main_content_intro__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".hep-c-title-mp"
+    },
+    {
+      "relativePath": "icon_grid_spread__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".hep-c-icon-grid"
+    },
+    {
+      "relativePath": "fact_section__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": "#background-container-1618789500"
+    },
+    {
+      "relativePath": "testing_recommendations__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": "#hep-c-testing"
+    },
+    {
+      "relativePath": "risk_factors__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".hepc-risk-box-container"
+    },
+    {
+      "relativePath": "statistics_section__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": "#background-container-8208296"
+    },
+    {
+      "relativePath": "quote_section__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".hep-c-quote-a"
+    },
+    {
+      "relativePath": "next_steps_cta__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".hep-c-next-page"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.hepc.com/how-hep-c-transmitted",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.hepc.com/personalization",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-header-v2"
+    },
+    {
+      "relativePath": "interactive_tool__default.png",
+      "sourceUrl": "https://www.hepc.com/personalization",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-info-tree"
+    },
+    {
+      "relativePath": "three_column_cta__default.png",
+      "sourceUrl": "https://www.hepc.com/personalization",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-flex-container.hep-c-hero-features"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.hepc.com/personalization",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-container.hepc-covid-violator"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.hepc.com/personalization",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.hepc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.hepc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": "section[role='main']"
+    },
+    {
+      "relativePath": "modal_terms_of_use__default.png",
+      "sourceUrl": "https://www.hepc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-modal.termsofuse"
+    },
+    {
+      "relativePath": "modal_map_directions__default.png",
+      "sourceUrl": "https://www.hepc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-modal.wolMapDirections"
+    },
+    {
+      "relativePath": "modal_advertising__default.png",
+      "sourceUrl": "https://www.hepc.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-modal.advertising"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.hepc.com/living-with-hep-c/video-transcript-12",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "header_logo__default.png",
+      "sourceUrl": "https://www.hepc.com/living-with-hep-c/video-transcript-12",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-header-v2-content .abbv-header-v2-left"
+    },
+    {
+      "relativePath": "search_bar__default.png",
+      "sourceUrl": "https://www.hepc.com/living-with-hep-c/video-transcript-12",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": "#abbv-search-util"
+    },
+    {
+      "relativePath": "info_poll__default.png",
+      "sourceUrl": "https://www.hepc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-info-tree"
+    },
+    {
+      "relativePath": "feature_columns__default.png",
+      "sourceUrl": "https://www.hepc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-flex-container.hep-c-hero-features"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.hepc.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "search_hero__default.png",
+      "sourceUrl": "https://www.hepc.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": "#background-container-1455740496"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.hepc.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "modal_dialogs__default.png",
+      "sourceUrl": "https://www.hepc.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:50:55.038Z",
+      "selector": ".abbv-modal"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "blockId": "main_content_intro",
+  "templateIds": [
+    "tpl_59",
+    "tpl_133",
+    "tpl_187",
+    "tpl_230"
+  ],
+  "name": "Main Content Introduction",
+  "description": "Introductory text and links providing an overview of the page.",
+  "domHints": {
+    "selectors": [
+      "div#text-75e55662ad"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_59 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "information_intro",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Information Introduction",
+  "description": "Provides an overview of the information and resources available.",
+  "domHints": {
+    "selectors": [
+      ".fybp-get-more-info-heading2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Durysta Home",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Site Map",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    }
+  ],
+  "generatedAt": "2026-04-13T15:19:50.823Z"
+}

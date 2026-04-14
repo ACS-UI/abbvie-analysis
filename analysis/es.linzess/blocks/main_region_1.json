@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_1",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "main region 1",
+  "description": "Major content region in main (div). Preview: ¿Tienes síntomas de IBS-C o CIC? Llevar una vida y dieta saludables podría ayudar a controlar los síntomas, pero podrías…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_5. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

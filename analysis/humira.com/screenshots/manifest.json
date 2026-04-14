@@ -1,0 +1,164 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.humira.com/crohns",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.humira.com/crohns",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.humira.com/crohns",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": "#background-container-1525721908"
+    },
+    {
+      "relativePath": "what_is_humira__default.png",
+      "sourceUrl": "https://www.humira.com/crohns",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".abbv-title.mt-20.mt-md-30.mb-30"
+    },
+    {
+      "relativePath": "clinical_study_graphics__default.png",
+      "sourceUrl": "https://www.humira.com/crohns",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".abbv-image-content-container-v2"
+    },
+    {
+      "relativePath": "common_side_effects__default.png",
+      "sourceUrl": "https://www.humira.com/crohns",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".abbv-title:contains('Common side effects of HUMIRA')"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.humira.com/crohns",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "choose_condition_cta__default.png",
+      "sourceUrl": "https://www.humira.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".humira-home-indication-expanded"
+    },
+    {
+      "relativePath": "promo_section__default.png",
+      "sourceUrl": "https://www.humira.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".humira-hero-promo"
+    },
+    {
+      "relativePath": "page_intro__default.png",
+      "sourceUrl": "https://www.humira.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".abbv-rich-text.line-height-20"
+    },
+    {
+      "relativePath": "on_this_page_ctas__default.png",
+      "sourceUrl": "https://www.humira.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".humira-anchor-links-cost"
+    },
+    {
+      "relativePath": "humira_list_price__default.png",
+      "sourceUrl": "https://www.humira.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": "#hlp"
+    },
+    {
+      "relativePath": "insurance_information__default.png",
+      "sourceUrl": "https://www.humira.com/cost",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": "#ii"
+    },
+    {
+      "relativePath": "form_embed__default.png",
+      "sourceUrl": "https://www.humira.com/humira-complete/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".forms-embed"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.humira.com/humira-complete/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.humira.com/humira-complete/landing/app-injection-detect",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:12:22.296Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    }
+  ]
+}

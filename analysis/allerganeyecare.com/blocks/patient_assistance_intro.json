@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_assistance_intro",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Patient Assistance Introduction",
+  "description": "Section introducing the patient assistance programs with a title and description.",
+  "domHints": {
+    "selectors": [
+      ".allergen-assistance-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

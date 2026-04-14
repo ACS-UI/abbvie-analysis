@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_1",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "main region 1",
+  "description": "Major content region in main (div). Preview: .abbv-image-text-v1-1394421087-large { display: inline-block; } GET MORE INFORMATION ABOUT CPP Sign up now to receive em…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Cards"
+}

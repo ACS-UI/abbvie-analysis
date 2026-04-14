@@ -1,0 +1,26 @@
+{
+  "blockId": "primary_cta_grid",
+  "templateIds": [
+    "tpl_217"
+  ],
+  "name": "Primary CTA Grid",
+  "description": "Displays call-to-action links and brief descriptions for key site sections.",
+  "domHints": {
+    "selectors": [
+      "div.grid-row__col-with-1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_217 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

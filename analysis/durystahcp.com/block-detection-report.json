@@ -1,0 +1,138 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "About Us Page",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Resources Page",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Study Design Page",
+      "source": "llm_identify",
+      "blockCount": 1,
+      "proposedCount": 1
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Video Module",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 2
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Training Module",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Clinical Data Page",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Patient Site Module",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Logo Module",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Reimbursement Module",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Prescribing Info Module",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Savings Program Module",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Usage Guidelines Page",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_14",
+      "humanName": "Sitemap Page",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_15",
+      "humanName": "Request Rep Module",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_16",
+      "humanName": "Overview Module",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_17",
+      "humanName": "Privacy Policy Page",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_18",
+      "humanName": "Terms of Use Page",
+      "source": "llm_identify",
+      "blockCount": 4,
+      "proposedCount": 4
+    },
+    {
+      "templateId": "tpl_19",
+      "humanName": "FAQ Page",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    }
+  ],
+  "generatedAt": "2026-04-13T15:33:13.553Z"
+}

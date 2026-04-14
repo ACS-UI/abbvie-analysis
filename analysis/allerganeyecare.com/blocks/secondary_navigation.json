@@ -1,0 +1,27 @@
+{
+  "blockId": "secondary_navigation",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Secondary Navigation",
+  "description": "Provides links to specific resources and programs for eye care providers.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-header-v2-utility-navigation",
+      "header.alleyecare-header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "symptom_checker_tool",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Symptom Checker Tool",
+  "description": "Interactive tool for users to check their symptoms.",
+  "domHints": {
+    "selectors": [
+      ".forms-embed"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

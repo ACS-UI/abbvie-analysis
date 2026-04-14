@@ -1,0 +1,26 @@
+{
+  "blockId": "comorbidity_overview",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Comorbidity Overview",
+  "description": "Provides an overview of comorbidities associated with HS.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-columns-row--std-padding"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_tout",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Inline Callouts",
+  "description": "Inline callouts providing additional information or links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.inline-tout.call-outs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

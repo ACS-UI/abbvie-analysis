@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Agent Unassigned",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    }
+  ],
+  "generatedAt": "2026-04-13T15:17:53.818Z"
+}

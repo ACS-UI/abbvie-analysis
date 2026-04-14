@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_considerations",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Clinical Considerations",
+  "description": "Lists clinical considerations for healthcare providers regarding LINZESS usage.",
+  "domHints": {
+    "selectors": [
+      ".clinical-considerations"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

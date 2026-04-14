@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.linzess.com",
+  "normalisedUrl": "https://www.linzess.com/",
+  "finalUrlAfterRedirects": "https://www.linzess.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:14:28.775Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

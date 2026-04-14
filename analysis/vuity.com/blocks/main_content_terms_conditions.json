@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_terms_conditions",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Main Content - Terms and Conditions",
+  "description": "Contains the detailed terms and conditions text for the loyalty program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.vuitypro-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

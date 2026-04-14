@@ -1,0 +1,49 @@
+{
+  "blockId": "footer",
+  "templateIds": [
+    "tpl_0",
+    "tpl_4",
+    "tpl_24",
+    "tpl_50",
+    "tpl_54",
+    "tpl_56",
+    "tpl_57",
+    "tpl_62",
+    "tpl_74",
+    "tpl_87",
+    "tpl_91",
+    "tpl_93",
+    "tpl_94",
+    "tpl_132",
+    "tpl_136",
+    "tpl_149",
+    "tpl_190",
+    "tpl_224",
+    "tpl_253",
+    "tpl_265",
+    "tpl_267",
+    "tpl_272",
+    "tpl_276",
+    "tpl_285"
+  ],
+  "name": "Footer",
+  "description": "Contains links to additional resources, social media, and legal information.",
+  "domHints": {
+    "selectors": [
+      "div#experiencefragment-3bdac637b1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

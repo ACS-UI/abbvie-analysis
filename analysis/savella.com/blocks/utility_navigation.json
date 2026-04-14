@@ -1,0 +1,27 @@
+{
+  "blockId": "utility_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1"
+  ],
+  "name": "Utility Navigation",
+  "description": "Provides quick access to important links like Prescribing Information and Medication Guide.",
+  "domHints": {
+    "selectors": [
+      "#hdrv2-utilnav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Header"
+}

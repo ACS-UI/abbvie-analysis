@@ -1,0 +1,26 @@
+{
+  "blockId": "health_tips",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Health Tips",
+  "description": "Lists actionable health tips for managing CLL.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.borderbox__aquarium"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "hero_banner",
+  "templateIds": [
+    "tpl_8",
+    "tpl_9"
+  ],
+  "name": "Hero Banner",
+  "description": "Displays the main visual and title for the email verification page.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1119913429"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

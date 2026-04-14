@@ -1,0 +1,26 @@
+{
+  "blockId": "etiology_intro",
+  "templateIds": [
+    "tpl_26"
+  ],
+  "name": "Etiology Introduction",
+  "description": "Introduces the topic of EPI etiologies with a heading and descriptive text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.epi-below-header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_26 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

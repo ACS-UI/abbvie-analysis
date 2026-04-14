@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.ozurdexsavingsprogram.com/",
+  "normalisedUrl": "https://www.ozurdexsavingsprogram.com/",
+  "finalUrlAfterRedirects": "https://www.ozurdexsavingsprogram.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:33:38.492Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

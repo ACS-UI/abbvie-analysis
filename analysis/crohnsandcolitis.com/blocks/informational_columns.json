@@ -1,0 +1,26 @@
+{
+  "blockId": "informational_columns",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Informational Columns",
+  "description": "Presents information in a multi-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flex-wrap-wrap.fill-bottom"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

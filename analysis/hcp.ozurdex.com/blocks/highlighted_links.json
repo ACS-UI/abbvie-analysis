@@ -1,0 +1,26 @@
+{
+  "blockId": "highlighted_links",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Highlighted Links",
+  "description": "Sticky menu providing quick navigation to specific sections of the page.",
+  "domHints": {
+    "selectors": [
+      ".ozurdex-sticky-menu"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

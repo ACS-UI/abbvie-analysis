@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_trials_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Clinical Trials Section",
+  "description": "Provides information on clinical trials and efficacy data for Ozurdex.",
+  "domHints": {
+    "selectors": [
+      ".ozurdex-hcp-gray-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

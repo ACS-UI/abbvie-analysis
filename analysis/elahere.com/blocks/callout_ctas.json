@@ -1,0 +1,27 @@
+{
+  "blockId": "callout_ctas",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Callout CTAs",
+  "description": "A section with three call-to-action cards for exploring ELAHERE options, eye care, and email sign-up.",
+  "domHints": {
+    "selectors": [
+      ".container.theme-plum--deeper-plum",
+      ".cmp-card.-action-anchord-bottom"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "form_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Form Section",
+  "description": "Provides a form for users to complete their information and receive coupons.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.lastacaft-coupon-form"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

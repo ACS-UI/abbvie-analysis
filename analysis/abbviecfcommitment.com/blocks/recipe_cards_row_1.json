@@ -1,0 +1,26 @@
+{
+  "blockId": "recipe_cards_row_1",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Recipe Cards Row 1",
+  "description": "Displays the first set of recipe cards with images and links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.primary-wrapper.card_row:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,264 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": "#background-container-1685454319 .abbv-title h1"
+    },
+    {
+      "relativePath": "main_content_columns__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-row-container.page-main-content"
+    },
+    {
+      "relativePath": "quick_poll__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-quick-poll"
+    },
+    {
+      "relativePath": "image_text_block__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-image-text"
+    },
+    {
+      "relativePath": "video_player__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-video-player"
+    },
+    {
+      "relativePath": "side_navigation__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-container.side-nav"
+    },
+    {
+      "relativePath": "recommended_topics__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/find-a-psoriasis-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": "#background-container-1814132466"
+    },
+    {
+      "relativePath": "thank_you_message__default.png",
+      "sourceUrl": "https://www.psoriasis.com/about-psoriasis/symptoms-quiz/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-title h2"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.psoriasis.com/about-psoriasis/symptoms-quiz/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "intro_content__default.png",
+      "sourceUrl": "https://www.psoriasis.com/about-psoriasis/psoriasis-types",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-rich-text p"
+    },
+    {
+      "relativePath": "image_text_component__default.png",
+      "sourceUrl": "https://www.psoriasis.com/about-psoriasis/psoriasis-types",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-image-text"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://www.psoriasis.com/about-psoriasis/psoriasis-types",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.psoriasis.com/about-psoriasis/psoriasis-types",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-patients/tips/finding-psoriasis-doctor-dermatology-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "support_section__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-patients/tips/finding-psoriasis-doctor-dermatology-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-row-container.psoriasis-diet_find-specialist"
+    },
+    {
+      "relativePath": "referral_section__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-patients/tips/finding-psoriasis-doctor-dermatology-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-row-container.super-column-633"
+    },
+    {
+      "relativePath": "insurance_section__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-patients/tips/finding-psoriasis-doctor-dermatology-specialist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-row-container.super-column-336-simple"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/questions-to-ask-your-doctor-v2/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "thank_you_section__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/questions-to-ask-your-doctor-v2/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-row-container.list-image-text"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.psoriasis.com/psoriasis-treatment-doctor/questions-to-ask-your-doctor-v2/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "find_doctor_cta__default.png",
+      "sourceUrl": "https://www.psoriasis.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-find-the-right-doctor"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.psoriasis.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "search_bar__default.png",
+      "sourceUrl": "https://www.psoriasis.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".abbv-search-input-container"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.psoriasis.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:06:19.057Z",
+      "selector": ".search-results-coveo"
+    }
+  ]
+}

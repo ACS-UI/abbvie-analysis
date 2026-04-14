@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_science",
+  "templateIds": [
+    "tpl_88"
+  ],
+  "name": "Content Section: Science",
+  "description": "Details the organization's scientific efforts and innovations.",
+  "domHints": {
+    "selectors": [
+      "div#container-ce6ddfeaa5"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_88 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

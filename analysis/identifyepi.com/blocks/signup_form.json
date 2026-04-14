@@ -1,0 +1,26 @@
+{
+  "blockId": "signup_form",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Sign-Up Form",
+  "description": "Form for users to sign up for more information about EPI.",
+  "domHints": {
+    "selectors": [
+      ".signup-epi-form-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

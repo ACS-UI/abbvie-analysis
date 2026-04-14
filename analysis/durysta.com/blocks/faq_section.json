@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "FAQ Section",
+  "description": "Contains frequently asked questions and their answers.",
+  "domHints": {
+    "selectors": [
+      ".faq"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

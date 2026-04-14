@@ -1,0 +1,33 @@
+{
+  "blockId": "cta_button",
+  "templateIds": [
+    "tpl_35",
+    "tpl_75",
+    "tpl_79",
+    "tpl_120",
+    "tpl_146",
+    "tpl_178",
+    "tpl_277",
+    "tpl_303"
+  ],
+  "name": "CTA Button",
+  "description": "Encourages users to navigate to a specific page.",
+  "domHints": {
+    "selectors": [
+      "a#button-c382774f24"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_35 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "diet_advice_cta",
+  "templateIds": [
+    "tpl_31"
+  ],
+  "name": "Diet Advice CTA",
+  "description": "Call-to-action encouraging users to sign up for diet advice and magazine.",
+  "domHints": {
+    "selectors": [
+      ".looking-for-additional-diet-advice"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_31 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

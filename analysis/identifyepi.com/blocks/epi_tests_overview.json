@@ -1,0 +1,26 @@
+{
+  "blockId": "epi_tests_overview",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "EPI Tests Overview",
+  "description": "Highlights the three main tests used for EPI diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".epi-tests"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

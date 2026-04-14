@@ -1,0 +1,26 @@
+{
+  "blockId": "header_navigation",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Header Navigation",
+  "description": "The header section containing the logo, utility navigation, and main navigation links.",
+  "domHints": {
+    "selectors": [
+      "header.abbv-header-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

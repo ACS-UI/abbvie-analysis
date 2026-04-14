@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_area",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Main Content Area",
+  "description": "Primary content section of the page.",
+  "domHints": {
+    "selectors": [
+      "section[role='main']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

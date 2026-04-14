@@ -1,0 +1,27 @@
+{
+  "blockId": "main_title",
+  "templateIds": [
+    "tpl_1",
+    "tpl_5"
+  ],
+  "name": "Main Title",
+  "description": "Displays the primary heading and subheading for the page content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

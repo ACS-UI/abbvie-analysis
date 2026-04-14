@@ -1,0 +1,26 @@
+{
+  "blockId": "brochure_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Brochure Section",
+  "description": "Offers a downloadable brochure for quick reference on injection techniques.",
+  "domHints": {
+    "selectors": [
+      ".brochure-injection"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

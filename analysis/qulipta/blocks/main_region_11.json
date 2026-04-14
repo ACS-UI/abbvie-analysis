@@ -1,0 +1,26 @@
+{
+  "blockId": "main_region_11",
+  "templateIds": [
+    "tpl_18"
+  ],
+  "name": "main region 11",
+  "description": "Major content region in main (div). Preview: SPARK THE CONVERSATION Use our discussion guide to help share your treatment goals with your doctor START DISCUSSION GUI…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(12)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_18. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

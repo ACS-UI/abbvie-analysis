@@ -1,0 +1,26 @@
+{
+  "blockId": "resource_links_grid",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Resource Links Grid",
+  "description": "Displays a grid of links to external resources with descriptions and images.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-row-border"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

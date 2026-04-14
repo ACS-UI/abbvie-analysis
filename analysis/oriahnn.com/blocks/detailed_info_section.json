@@ -1,0 +1,26 @@
+{
+  "blockId": "detailed_info_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Detailed Information Section",
+  "description": "Provides detailed information about the product's functionality and differences.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.ori-x-icon-tout.ori-x-accent-teal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

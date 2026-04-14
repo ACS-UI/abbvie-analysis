@@ -1,0 +1,26 @@
+{
+  "blockId": "embedded_form",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Embedded Form",
+  "description": "Allows users to submit information via an embedded form.",
+  "domHints": {
+    "selectors": [
+      "#aemFormFrame"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

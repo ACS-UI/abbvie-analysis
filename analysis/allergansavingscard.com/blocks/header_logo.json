@@ -1,0 +1,26 @@
+{
+  "blockId": "header_logo",
+  "templateIds": [
+    "tpl_35"
+  ],
+  "name": "Header Logo",
+  "description": "Displays the AbbVie logo linking to the homepage.",
+  "domHints": {
+    "selectors": [
+      "div.nav-logo > a > img"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_35 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

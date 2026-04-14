@@ -1,0 +1,27 @@
+{
+  "blockId": "save_on_savella_cta",
+  "templateIds": [
+    "tpl_4",
+    "tpl_5"
+  ],
+  "name": "Save on Savella CTA",
+  "description": "Encourages users to learn about savings options for Savella.",
+  "domHints": {
+    "selectors": [
+      ".save-on-savella-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "content_highlight",
+  "templateIds": [
+    "tpl_250"
+  ],
+  "name": "Content Highlight",
+  "description": "Features highlighted content or announcements.",
+  "domHints": {
+    "selectors": [
+      ".container.abbvie-container .cmp-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_250 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

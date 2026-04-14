@@ -1,0 +1,26 @@
+{
+  "blockId": "doctor_video",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Doctor Video Section",
+  "description": "Features a video discussing the importance of finding the right doctor.",
+  "domHints": {
+    "selectors": [
+      ".flexbox-video-cards--single"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

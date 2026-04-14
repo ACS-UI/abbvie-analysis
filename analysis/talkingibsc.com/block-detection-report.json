@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Home Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    }
+  ],
+  "generatedAt": "2026-04-13T15:58:51.121Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_study_highlights",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Clinical Study Highlights",
+  "description": "Summarizes key clinical study data with visual and textual representation.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.data-cols-small"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

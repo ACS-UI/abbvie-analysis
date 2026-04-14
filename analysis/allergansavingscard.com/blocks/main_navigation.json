@@ -1,0 +1,34 @@
+{
+  "blockId": "main_navigation",
+  "templateIds": [
+    "tpl_11",
+    "tpl_67",
+    "tpl_84",
+    "tpl_92",
+    "tpl_207",
+    "tpl_235",
+    "tpl_265",
+    "tpl_290",
+    "tpl_306"
+  ],
+  "name": "Main Navigation",
+  "description": "The main site navigation menu with dropdowns for different sections.",
+  "domHints": {
+    "selectors": [
+      "#navigation-3f60a6511f"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

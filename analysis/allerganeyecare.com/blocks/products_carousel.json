@@ -1,0 +1,29 @@
+{
+  "blockId": "products_carousel",
+  "templateIds": [
+    "tpl_0",
+    "tpl_3",
+    "tpl_7",
+    "tpl_13"
+  ],
+  "name": "Products Carousel",
+  "description": "Carousel showcasing the site's products.",
+  "domHints": {
+    "selectors": [
+      ".allerrgan-global-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

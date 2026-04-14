@@ -1,0 +1,133 @@
+{
+  "entryUrl": "https://www.ozurdex.com/",
+  "discoveredAt": "2026-04-13T15:33:42.871Z",
+  "urls": [
+    {
+      "url": "https://www.ozurdex.com/",
+      "normalised": "https://www.ozurdex.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdex.com/content/dam/ozurdex/pdf/DME_Patient_Brochure.pdf",
+      "normalised": "https://www.ozurdex.com/content/dam/ozurdex/pdf/DME_Patient_Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdex.com/content/dam/ozurdex/pdf/RVO_Patient_Brochure.pdf",
+      "normalised": "https://www.ozurdex.com/content/dam/ozurdex/pdf/RVO_Patient_Brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230013_021100_OZX%20DME%20Patient%20Slim%20Jim_HR.pdf",
+      "normalised": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230013_021100_OZX%20DME%20Patient%20Slim%20Jim_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230016_021103_OZX%20RVO%20Patient%20Brochure_HR.pdf",
+      "normalised": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230016_021103_OZX%20RVO%20Patient%20Brochure_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230017_021104_OZX%20Uveitis%20Patient%20Brochure_HR.pdf",
+      "normalised": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230017_021104_OZX%20Uveitis%20Patient%20Brochure_HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230107_023977_Uveitis%20Patient%20Slim%20Jim_Veeva_FINAL.pdf",
+      "normalised": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230107_023977_Uveitis%20Patient%20Slim%20Jim_Veeva_FINAL.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230106_023976_RVO%20Patient%20Slim%20Jim_Veeva_FINAL.pdf",
+      "normalised": "https://www.ozurdex.com/content/dam/ozurdex/pdf/US-OZU-230106_023976_RVO%20Patient%20Slim%20Jim_Veeva_FINAL.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdex.com/content/dam/ozurdex/pdf/OZX-DME-Patient-Slim-Jim-HR.pdf",
+      "normalised": "https://www.ozurdex.com/content/dam/ozurdex/pdf/OZX-DME-Patient-Slim-Jim-HR.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.ozurdex.com/howitworks",
+      "normalised": "https://www.ozurdex.com/howitworks",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdex.com/aboutyourcondition",
+      "normalised": "https://www.ozurdex.com/aboutyourcondition",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdex.com/header-site-nav",
+      "normalised": "https://www.ozurdex.com/header-site-nav",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdex.com/warn-on-leave",
+      "normalised": "https://www.ozurdex.com/warn-on-leave",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdex.com/search-results",
+      "normalised": "https://www.ozurdex.com/search-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdex.com/cookies-settings",
+      "normalised": "https://www.ozurdex.com/cookies-settings",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdex.com/whattoexpect",
+      "normalised": "https://www.ozurdex.com/whattoexpect",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.ozurdex.com/ulcerative-colitis",
+      "normalised": "https://www.ozurdex.com/ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 17,
+    "bySource": {
+      "sitemap": 12,
+      "crawl": 5,
+      "manual": 0
+    }
+  }
+}

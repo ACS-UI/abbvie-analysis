@@ -1,0 +1,28 @@
+{
+  "blockId": "promo_drawer",
+  "templateIds": [
+    "tpl_24",
+    "tpl_35",
+    "tpl_40"
+  ],
+  "name": "Promo Drawer",
+  "description": "Interactive drawer prompting user feedback or additional actions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-promo-drawer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_24 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

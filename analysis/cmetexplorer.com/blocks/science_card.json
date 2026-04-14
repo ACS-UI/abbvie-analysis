@@ -1,0 +1,26 @@
+{
+  "blockId": "science_card",
+  "templateIds": [
+    "tpl_268"
+  ],
+  "name": "Science Card",
+  "description": "Card displaying a specific scientific innovation or achievement.",
+  "domHints": {
+    "selectors": [
+      "#container-5f1167fc37 .cardpagestory"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_268 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

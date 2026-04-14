@@ -1,0 +1,26 @@
+{
+  "blockId": "how_to_talk_with_doctor",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "How to Talk With Your Doctor",
+  "description": "Offers resources for discussing treatment with a doctor.",
+  "domHints": {
+    "selectors": [
+      "#get-a-discussion-guide"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

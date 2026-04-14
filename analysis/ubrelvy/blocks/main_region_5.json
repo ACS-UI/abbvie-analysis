@@ -1,0 +1,29 @@
+{
+  "blockId": "main_region_5",
+  "templateIds": [
+    "tpl_4",
+    "tpl_7",
+    "tpl_12",
+    "tpl_21"
+  ],
+  "name": "main region 5",
+  "description": "Major content region in main (div). Preview: Browsing with your symptoms in mind Turn on to enjoy a more migraine-friendly experience. TRY MIGRAINE MODETM HERE Turn …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(6)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_4. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

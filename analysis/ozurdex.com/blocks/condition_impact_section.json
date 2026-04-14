@@ -1,0 +1,26 @@
+{
+  "blockId": "condition_impact_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Condition Impact Section",
+  "description": "Explains how the condition impacts vision with detailed text and links.",
+  "domHints": {
+    "selectors": [
+      ".ozu-abut-sec2-dv"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

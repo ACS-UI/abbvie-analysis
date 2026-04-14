@@ -1,0 +1,26 @@
+{
+  "blockId": "share_your_story",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Share Your Story",
+  "description": "Encourages users to share their own experiences.",
+  "domHints": {
+    "selectors": [
+      "#share-your-story"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

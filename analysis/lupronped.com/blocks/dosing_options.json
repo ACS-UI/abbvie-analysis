@@ -1,0 +1,26 @@
+{
+  "blockId": "dosing_options",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Dosing Options",
+  "description": "Explains the available dosing options for the treatment.",
+  "domHints": {
+    "selectors": [
+      "#flexible-dosing"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

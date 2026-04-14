@@ -1,0 +1,26 @@
+{
+  "blockId": "conversation_guides",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Conversation Guides",
+  "description": "Provides downloadable guides for patient conversations.",
+  "domHints": {
+    "selectors": [
+      ".hs-conversation-guides"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

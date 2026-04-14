@@ -1,0 +1,27 @@
+{
+  "blockId": "site_map_listing",
+  "templateIds": [
+    "tpl_56"
+  ],
+  "name": "Site Map Listing",
+  "description": "Displays the hierarchical structure of the website with links to all sections.",
+  "domHints": {
+    "selectors": [
+      ".cmp-navigation__group",
+      "ul.cmp-navigation__group"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_56 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

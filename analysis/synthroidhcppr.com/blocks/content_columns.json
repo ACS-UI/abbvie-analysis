@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Content Columns",
+  "description": "Displays detailed information about Synthroid, including its goals and therapeutic index.",
+  "domHints": {
+    "selectors": [
+      ".synthroid-home-list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

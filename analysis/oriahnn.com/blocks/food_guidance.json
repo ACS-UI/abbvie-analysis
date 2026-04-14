@@ -1,0 +1,26 @@
+{
+  "blockId": "food_guidance",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Food Guidance",
+  "description": "Advises on taking the medication with or without food.",
+  "domHints": {
+    "selectors": [
+      ".schedule-time .abbv-col-2 img[alt='Silverware Icon.']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

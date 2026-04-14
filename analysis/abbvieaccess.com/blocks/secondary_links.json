@@ -1,0 +1,26 @@
+{
+  "blockId": "secondary_links",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Secondary Links",
+  "description": "Provides additional links to important documents and resources.",
+  "domHints": {
+    "selectors": [
+      ".abbvieaccess-secondaryLinks"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,45 @@
+{
+  "blockId": "main_region_3",
+  "templateIds": [
+    "tpl_0",
+    "tpl_6",
+    "tpl_7",
+    "tpl_11",
+    "tpl_13",
+    "tpl_15",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_19",
+    "tpl_20",
+    "tpl_24",
+    "tpl_26",
+    "tpl_30",
+    "tpl_31",
+    "tpl_35",
+    "tpl_41",
+    "tpl_50",
+    "tpl_52",
+    "tpl_57"
+  ],
+  "name": "main region 3",
+  "description": "Major content region in main (div). Preview: @media (min-width: 985px) { #background-container-2998955 .abbv-background-container-display { background-image : url(\"/…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

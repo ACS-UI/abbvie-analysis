@@ -1,0 +1,26 @@
+{
+  "blockId": "digestion_section",
+  "templateIds": [
+    "tpl_28"
+  ],
+  "name": "Digestion Section",
+  "description": "Explains how EPI affects digestion and provides dietary recommendations.",
+  "domHints": {
+    "selectors": [
+      "#background-container-717909243"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_28 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

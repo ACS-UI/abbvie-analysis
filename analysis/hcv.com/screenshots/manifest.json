@@ -1,0 +1,424 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header_navigation__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-1705132442"
+    },
+    {
+      "relativePath": "breadcrumb_navigation__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-456544508"
+    },
+    {
+      "relativePath": "main_content_intro__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-1709323885"
+    },
+    {
+      "relativePath": "closer_look_section__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".flex-green-pink-box"
+    },
+    {
+      "relativePath": "healthcare_outlook_section__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".flex-blue-bg"
+    },
+    {
+      "relativePath": "bigger_picture_section__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".flex-white-bg"
+    },
+    {
+      "relativePath": "additional_resources__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".flex-card-container"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".footer-link-list"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.hcv.com/awareness/people-who-use-drugs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "section_title__default.png",
+      "sourceUrl": "https://www.hcv.com/awareness/people-who-use-drugs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-973616166 .abbv-title h2"
+    },
+    {
+      "relativePath": "video_highlight__default.png",
+      "sourceUrl": "https://www.hcv.com/awareness/people-who-use-drugs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-flex-container-v2.flex-card-container.first-bigger"
+    },
+    {
+      "relativePath": "video_grid__default.png",
+      "sourceUrl": "https://www.hcv.com/awareness/people-who-use-drugs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-flex-container-v2.flex-card-container.four-col"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.hcv.com/resources/spanish-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "resources_card_grid__default.png",
+      "sourceUrl": "https://www.hcv.com/resources/spanish-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-flex-container-v2.flex-card-container"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.hcv.com/resources/spanish-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-flex-container-v2.footer-link-list"
+    },
+    {
+      "relativePath": "on_treatment_monitoring__default.png",
+      "sourceUrl": "https://www.hcv.com/management",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-302999601"
+    },
+    {
+      "relativePath": "screening_guides_section__default.png",
+      "sourceUrl": "https://www.hcv.com/screening-assessments",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-712228558"
+    },
+    {
+      "relativePath": "new_hcv_providers_section__default.png",
+      "sourceUrl": "https://www.hcv.com/new-hcv-providers",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-1493112836"
+    },
+    {
+      "relativePath": "existing_hcv_providers_section__default.png",
+      "sourceUrl": "https://www.hcv.com/new-hcv-providers",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-1493112836 .abbv-col:nth-of-type(2)"
+    },
+    {
+      "relativePath": "tabs_section__default.png",
+      "sourceUrl": "https://www.hcv.com/new-hcv-providers",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-tabs"
+    },
+    {
+      "relativePath": "awareness_tab__default.png",
+      "sourceUrl": "https://www.hcv.com/new-hcv-providers",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#abbv-tab-964238560-0"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.hcv.com/new-hcv-providers",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "new_hcv_providers__default.png",
+      "sourceUrl": "https://www.hcv.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-1454065931 .abbv-row-container.hcv-provider .abbv-col:nth-of-type(1)"
+    },
+    {
+      "relativePath": "existing_hcv_providers__default.png",
+      "sourceUrl": "https://www.hcv.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-1454065931 .abbv-row-container.hcv-provider .abbv-col:nth-of-type(2)"
+    },
+    {
+      "relativePath": "welcome_section__default.png",
+      "sourceUrl": "https://www.hcv.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-2045404616 .abbv-row-container .abbv-col:nth-of-type(1)"
+    },
+    {
+      "relativePath": "awareness_card__default.png",
+      "sourceUrl": "https://www.hcv.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-2045404616 .flexboxitem-v2:nth-of-type(1)"
+    },
+    {
+      "relativePath": "screening_assessments_card__default.png",
+      "sourceUrl": "https://www.hcv.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-2045404616 .flexboxitem-v2:nth-of-type(2)"
+    },
+    {
+      "relativePath": "management_card__default.png",
+      "sourceUrl": "https://www.hcv.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-2045404616 .flexboxitem-v2:nth-of-type(3)"
+    },
+    {
+      "relativePath": "living_with_hcv_card__default.png",
+      "sourceUrl": "https://www.hcv.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-2045404616 .flexboxitem-v2:nth-of-type(4)"
+    },
+    {
+      "relativePath": "resources_card__default.png",
+      "sourceUrl": "https://www.hcv.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "#background-container-2045404616 .flexboxitem-v2:nth-of-type(5)"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.hcv.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "search_results_header__default.png",
+      "sourceUrl": "https://www.hcv.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": "header.abbv-header-v2"
+    },
+    {
+      "relativePath": "search_controls__default.png",
+      "sourceUrl": "https://www.hcv.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-flex-container-v2.mobile-filter-buttons"
+    },
+    {
+      "relativePath": "sort_accordion__default.png",
+      "sourceUrl": "https://www.hcv.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".sort-accordion"
+    },
+    {
+      "relativePath": "filter_accordion__default.png",
+      "sourceUrl": "https://www.hcv.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".filter-accordion"
+    },
+    {
+      "relativePath": "search_results_list__default.png",
+      "sourceUrl": "https://www.hcv.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".search-page-container"
+    },
+    {
+      "relativePath": "modal_header__default.png",
+      "sourceUrl": "https://www.hcv.com/modals/wolexternallink/wolcdcviralhepatitisamongpeoplewithhiv",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-title > h3"
+    },
+    {
+      "relativePath": "modal_body__default.png",
+      "sourceUrl": "https://www.hcv.com/modals/wolexternallink/wolcdcviralhepatitisamongpeoplewithhiv",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-rich-text"
+    },
+    {
+      "relativePath": "modal_cta_yes__default.png",
+      "sourceUrl": "https://www.hcv.com/modals/wolexternallink/wolcdcviralhepatitisamongpeoplewithhiv",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-button-primary.abbv-continue-btn"
+    },
+    {
+      "relativePath": "modal_cta_cancel__default.png",
+      "sourceUrl": "https://www.hcv.com/modals/wolexternallink/wolcdcviralhepatitisamongpeoplewithhiv",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:20:21.271Z",
+      "selector": ".abbv-button-tertiary.abbv-modal-close-inline"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "bone_and_estrogen",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Bone and Estrogen",
+  "description": "Explores the relationship between estrogen and bone health.",
+  "domHints": {
+    "selectors": [
+      ".wh-digi-estrogen-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "FAQ Section",
+  "description": "Answers common questions about the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.lastacaft-faq"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

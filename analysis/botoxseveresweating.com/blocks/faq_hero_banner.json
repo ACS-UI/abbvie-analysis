@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_hero_banner",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "FAQ Hero Banner",
+  "description": "Displays the main banner for the FAQ page with a headline and background image.",
+  "domHints": {
+    "selectors": [
+      ".banner.faq_banner_bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

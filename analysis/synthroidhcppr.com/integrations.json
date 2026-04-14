@@ -1,0 +1,28 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.synthroidhcppr.com/",
+          "https://www.synthroidhcppr.com/prescribing",
+          "https://www.synthroidhcppr.com/dosing",
+          "https://www.synthroidhcppr.com/sitemap",
+          "https://www.synthroidhcppr.com/contact-a-representative",
+          "https://www.synthroidhcppr.com/references",
+          "https://www.synthroidhcppr.com/protect-the-script",
+          "https://www.synthroidhcppr.com/clinical-scenarios"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:22:23.166Z"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "chart_age",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Age Chart",
+  "description": "Chart displaying age categories and their relation to clinical outcomes.",
+  "domHints": {
+    "selectors": [
+      "#abbv-barchart-142685306-data",
+      ".abbv-interactive-chart[data-graph-w='300']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

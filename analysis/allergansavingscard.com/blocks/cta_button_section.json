@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_button_section",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "CTA Button Section",
+  "description": "Call-to-action button for navigating to the 'Who We Are' page.",
+  "domHints": {
+    "selectors": [
+      "a#button-36554185fd"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

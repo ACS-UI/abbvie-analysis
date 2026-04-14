@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_social_links",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Footer Social Links",
+  "description": "Provides links to social media platforms.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.social-buttons"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

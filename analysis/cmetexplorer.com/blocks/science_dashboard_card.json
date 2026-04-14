@@ -1,0 +1,26 @@
+{
+  "blockId": "science_dashboard_card",
+  "templateIds": [
+    "tpl_146"
+  ],
+  "name": "Science Dashboard Card",
+  "description": "Displays key science-related metrics in a concise format.",
+  "domHints": {
+    "selectors": [
+      ".dashboardcards.dark-theme"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_146 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

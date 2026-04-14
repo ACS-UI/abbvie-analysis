@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_footer_information",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Modal Footer Information",
+  "description": "Displays additional information and references, such as document identifiers.",
+  "domHints": {
+    "selectors": [
+      "div.pricing-information-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "content_highlights",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Content Highlights",
+  "description": "Presents key points about challenges and ongoing research in PD treatment.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section.background-gradient-yellow"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

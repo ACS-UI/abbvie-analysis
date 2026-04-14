@@ -1,0 +1,434 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/lupron-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/lupron-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/lupron-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-headerBanner"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/lupron-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-primaryHeaderNav"
+    },
+    {
+      "relativePath": "card_grid_support_education__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/lupron-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-flex-cards-container"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/lupron-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/lupron-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_exit_site__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/lupron-men",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-modal.PageExitPARx"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/combigan",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "cta_buttons__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/combigan",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-primaryHeaderNav"
+    },
+    {
+      "relativePath": "secondary_links__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/combigan",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-secondaryLinks"
+    },
+    {
+      "relativePath": "card_grid__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/combigan",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-flex-cards-container"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/brand/combigan",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-footer-container"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/request-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/request-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "product_cards__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/request-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-flex-cards-container"
+    },
+    {
+      "relativePath": "cta_grid__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/womens-health",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-flex-container.abbvieaccess-primaryHeaderNav"
+    },
+    {
+      "relativePath": "content_grid__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/womens-health",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-grid.abbvieaccess-homegrid"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/womens-health",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "modal_subscribe__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/womens-health",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-modal.subscribeForNews"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "subscribe_modal__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-modal.subscribeForNews"
+    },
+    {
+      "relativePath": "form_section__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/hcp-registration/abbvieaccess-registration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-container.abbvieaccess-RAR-formsection"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/hcp-registration/abbvieaccess-registration",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "preferences_intro__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/preference-center",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-rich-text h1"
+    },
+    {
+      "relativePath": "preferences_ctas__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/preference-center",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-row-container.left-col"
+    },
+    {
+      "relativePath": "modal_subscribe_news__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/preference-center",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-modal.subscribeForNews"
+    },
+    {
+      "relativePath": "search_box__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": "#header-search"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-searchresult"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "exit_modal__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-modal.PageExitPARx"
+    },
+    {
+      "relativePath": "cta_links__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/resource-request",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-flex-container.abbvieaccess-primaryHeaderNav"
+    },
+    {
+      "relativePath": "secondary_cta_links__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/resource-request",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-flex-container.abbvieaccess-secondaryHeaderNav"
+    },
+    {
+      "relativePath": "content_cards__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/enrollment-forms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-flex-container-v2"
+    },
+    {
+      "relativePath": "modal_exit__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/enrollment-forms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-modal.PageExitPARx"
+    },
+    {
+      "relativePath": "global_header__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/formulary-coverage",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-header-v2"
+    },
+    {
+      "relativePath": "contact_information__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/patient-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-contacts-mi"
+    },
+    {
+      "relativePath": "contact_info__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/reimbursement-program",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-contacts-mi"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/patient-assistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "rich_text_intro__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/patient-assistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-patientassist-container .rich-text"
+    },
+    {
+      "relativePath": "interactive_image__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/patient-assistance",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbvieaccess-patientassist-container .interactive-image"
+    },
+    {
+      "relativePath": "video_modal__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/prior-authorization",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-modal.PARxVideo"
+    },
+    {
+      "relativePath": "image_text_section__default.png",
+      "sourceUrl": "https://www.abbvieaccess.com/prior-authorization",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:52:34.285Z",
+      "selector": ".abbv-image-text"
+    }
+  ]
+}

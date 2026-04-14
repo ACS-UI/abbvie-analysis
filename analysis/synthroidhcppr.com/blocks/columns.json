@@ -1,0 +1,33 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: @media (min-width: 985px) { #background-container-1471804351 .abbv-background-container-display { background-image : url…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(1)",
+      "[role='main'] > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

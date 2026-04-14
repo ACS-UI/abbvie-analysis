@@ -1,0 +1,26 @@
+{
+  "blockId": "adverse_reactions_table",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Adverse Reactions Table",
+  "description": "Presents a table summarizing adverse reactions data.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-flex-container.oriahnn-sarf-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

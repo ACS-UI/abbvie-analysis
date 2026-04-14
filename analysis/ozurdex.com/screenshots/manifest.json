@@ -1,0 +1,414 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": "#background-container-1655733802"
+    },
+    {
+      "relativePath": "image_text_section_1__default.png",
+      "sourceUrl": "https://www.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".ozure-home-pres-main-contain"
+    },
+    {
+      "relativePath": "image_text_section_2__default.png",
+      "sourceUrl": "https://www.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".ozure-home-tiny-container"
+    },
+    {
+      "relativePath": "image_text_section_3__default.png",
+      "sourceUrl": "https://www.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".procedure-section"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.ozurdex.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.ozurdex.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "how_it_works_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".ozure-hiw-what-contain"
+    },
+    {
+      "relativePath": "ozurdex_implant_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".ozure-liberty-sec"
+    },
+    {
+      "relativePath": "what_does_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".ozure-hiw-what-does-sec"
+    },
+    {
+      "relativePath": "macula_comparison_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".hiw-two-after-treat-col-sec"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/howitworks",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".ozurdex-video"
+    },
+    {
+      "relativePath": "condition_impact_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/aboutyourcondition",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".ozu-abut-sec2-dv"
+    },
+    {
+      "relativePath": "visual_acuity_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/aboutyourcondition",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".visual-acuity-section"
+    },
+    {
+      "relativePath": "symptoms_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/aboutyourcondition",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".symptoms-container"
+    },
+    {
+      "relativePath": "dme_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/aboutyourcondition",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".center-image.dme"
+    },
+    {
+      "relativePath": "rvo_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/aboutyourcondition",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".rvo-section"
+    },
+    {
+      "relativePath": "header_logo__default.png",
+      "sourceUrl": "https://www.ozurdex.com/header-site-nav",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".ozurdex-logo-desktop"
+    },
+    {
+      "relativePath": "mobile_menu_toggle__default.png",
+      "sourceUrl": "https://www.ozurdex.com/header-site-nav",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-header-v2-mobile-primary-navigation"
+    },
+    {
+      "relativePath": "banner_navigation__default.png",
+      "sourceUrl": "https://www.ozurdex.com/header-site-nav",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".ozurdex-banner-nav"
+    },
+    {
+      "relativePath": "headline_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/warn-on-leave",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-rich-text.abbv-siab-title h1"
+    },
+    {
+      "relativePath": "cta_columns__default.png",
+      "sourceUrl": "https://www.ozurdex.com/warn-on-leave",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-row-container .abbv-col-6 .cta a"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.ozurdex.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.ozurdex.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.ozurdex.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "cookie_settings_modal__default.png",
+      "sourceUrl": "https://www.ozurdex.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-modal.cookieSettings"
+    },
+    {
+      "relativePath": "page_title__default.png",
+      "sourceUrl": "https://www.ozurdex.com/cookies-settings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": "div.abbv-title > h1"
+    },
+    {
+      "relativePath": "privacy_preference_center__default.png",
+      "sourceUrl": "https://www.ozurdex.com/cookies-settings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": "div.abbv-rich-text > h2:nth-of-type(1)"
+    },
+    {
+      "relativePath": "manage_consent_preferences__default.png",
+      "sourceUrl": "https://www.ozurdex.com/cookies-settings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": "div.abbv-rich-text > h2:nth-of-type(2)"
+    },
+    {
+      "relativePath": "required_cookies_accordion__default.png",
+      "sourceUrl": "https://www.ozurdex.com/cookies-settings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": "div.abbv-accordion-blade-1"
+    },
+    {
+      "relativePath": "functional_cookies_accordion__default.png",
+      "sourceUrl": "https://www.ozurdex.com/cookies-settings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": "div.abbv-accordion-blade-2"
+    },
+    {
+      "relativePath": "advertising_cookies_accordion__default.png",
+      "sourceUrl": "https://www.ozurdex.com/cookies-settings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": "div.abbv-accordion-blade-3"
+    },
+    {
+      "relativePath": "confirm_choices_cta__default.png",
+      "sourceUrl": "https://www.ozurdex.com/cookies-settings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": "a.abbv-button-primary"
+    },
+    {
+      "relativePath": "powered_by_onetrust__default.png",
+      "sourceUrl": "https://www.ozurdex.com/cookies-settings",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": "div.abbv-image.external-link > a"
+    },
+    {
+      "relativePath": "columns_what_to_expect__default.png",
+      "sourceUrl": "https://www.ozurdex.com/whattoexpect",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-row-container.ozure-whatshould-sec"
+    },
+    {
+      "relativePath": "before_procedure_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/whattoexpect",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".flex-container.before-procedure"
+    },
+    {
+      "relativePath": "during_procedure_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/whattoexpect",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-row-container.during-procedure-hero"
+    },
+    {
+      "relativePath": "after_procedure_section__default.png",
+      "sourceUrl": "https://www.ozurdex.com/whattoexpect",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".flex-container.after-procedure"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.ozurdex.com/whattoexpect",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:50.189Z",
+      "selector": ".abbv-back-to-top"
+    }
+  ]
+}

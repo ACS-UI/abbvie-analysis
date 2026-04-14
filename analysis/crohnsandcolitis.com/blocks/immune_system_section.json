@@ -1,0 +1,27 @@
+{
+  "blockId": "immune_system_section",
+  "templateIds": [
+    "tpl_21",
+    "tpl_28"
+  ],
+  "name": "Immune System Section",
+  "description": "Content describing the immune system's role in ulcerative colitis.",
+  "domHints": {
+    "selectors": [
+      "#ibdvsibs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_21 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

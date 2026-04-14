@@ -1,0 +1,26 @@
+{
+  "blockId": "three_card_grid",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Three Card Grid",
+  "description": "Displays a grid of three cards with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      "#talk-with-your-doctor"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

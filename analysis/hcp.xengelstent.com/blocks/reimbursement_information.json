@@ -1,0 +1,26 @@
+{
+  "blockId": "reimbursement_information",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Reimbursement Information",
+  "description": "Provides detailed information and resources related to reimbursement.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

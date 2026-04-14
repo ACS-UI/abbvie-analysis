@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_adchoices",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "AdChoices Modal",
+  "description": "A modal providing information about advertising choices.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-modal.nobsAdvertisingChoices"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

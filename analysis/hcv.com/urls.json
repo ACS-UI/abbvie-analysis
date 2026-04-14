@@ -1,0 +1,224 @@
+{
+  "entryUrl": "https://www.hcv.com/",
+  "discoveredAt": "2026-04-13T16:15:03.395Z",
+  "urls": [
+    {
+      "url": "https://www.hcv.com/",
+      "normalised": "https://www.hcv.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/awareness/people-who-use-drugs",
+      "normalised": "https://www.hcv.com/awareness/people-who-use-drugs",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "normalised": "https://www.hcv.com/living-with-hcv/meet-maria",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/living-with-hcv",
+      "normalised": "https://www.hcv.com/living-with-hcv",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/awareness",
+      "normalised": "https://www.hcv.com/awareness",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/awareness/liver-and-cirrhosis",
+      "normalised": "https://www.hcv.com/awareness/liver-and-cirrhosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/new-hcv-providers",
+      "normalised": "https://www.hcv.com/new-hcv-providers",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/resources/spanish-resources",
+      "normalised": "https://www.hcv.com/resources/spanish-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/resources",
+      "normalised": "https://www.hcv.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/management",
+      "normalised": "https://www.hcv.com/management",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/awareness/additional-key-populations",
+      "normalised": "https://www.hcv.com/awareness/additional-key-populations",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/management/hcv-and-substance-use",
+      "normalised": "https://www.hcv.com/management/hcv-and-substance-use",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/resources/resources-for-your-patient",
+      "normalised": "https://www.hcv.com/resources/resources-for-your-patient",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/existing-hcv-providers",
+      "normalised": "https://www.hcv.com/existing-hcv-providers",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/resources/glossary",
+      "normalised": "https://www.hcv.com/resources/glossary",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/management/posttreatment-follow-up",
+      "normalised": "https://www.hcv.com/management/posttreatment-follow-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/living-with-hcv/meet-mark",
+      "normalised": "https://www.hcv.com/living-with-hcv/meet-mark",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/living-with-hcv/meet-alyssa",
+      "normalised": "https://www.hcv.com/living-with-hcv/meet-alyssa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/screening-assessments",
+      "normalised": "https://www.hcv.com/screening-assessments",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/screening-assessments/pretreatment-assessments",
+      "normalised": "https://www.hcv.com/screening-assessments/pretreatment-assessments",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/screening-assessments/clinical-calculators",
+      "normalised": "https://www.hcv.com/screening-assessments/clinical-calculators",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/living-with-hcv/meet-phil",
+      "normalised": "https://www.hcv.com/living-with-hcv/meet-phil",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/search-results",
+      "normalised": "https://www.hcv.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/modals/wolexternallink/wolcdcviralhepatitisamongpeoplewithhiv",
+      "normalised": "https://www.hcv.com/modals/wolexternallink/wolcdcviralhepatitisamongpeoplewithhiv",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/abbv-tab-964238560-2",
+      "normalised": "https://www.hcv.com/abbv-tab-964238560-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/abbv-tab-436047531-0",
+      "normalised": "https://www.hcv.com/abbv-tab-436047531-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/abbv-tab-964238560-1",
+      "normalised": "https://www.hcv.com/abbv-tab-964238560-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/abbv-tab-964238560-0",
+      "normalised": "https://www.hcv.com/abbv-tab-964238560-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/abbv-tab-436047531-1",
+      "normalised": "https://www.hcv.com/abbv-tab-436047531-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.hcv.com/abbv-tab-436047531-2",
+      "normalised": "https://www.hcv.com/abbv-tab-436047531-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 30,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 30,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "assessment_tool_embed",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Assessment Tool Embed",
+  "description": "Embedded iframe for the patient assessment tool.",
+  "domHints": {
+    "selectors": [
+      "iframe#aemFormFrame"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Embed"
+}

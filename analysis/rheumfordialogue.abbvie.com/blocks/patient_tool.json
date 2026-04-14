@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_tool",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Patient Assessment Tool",
+  "description": "Promotes the patient assessment tool with a call-to-action.",
+  "domHints": {
+    "selectors": [
+      ".patient-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

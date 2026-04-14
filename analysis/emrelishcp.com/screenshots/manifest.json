@@ -1,0 +1,364 @@
+{
+  "entries": [
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": "#background-container-1040096360"
+    },
+    {
+      "relativePath": "main_title__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-title h1"
+    },
+    {
+      "relativePath": "content_accordion__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "image_section_1__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-image-text-v2:nth-of-type(1)"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/dosing/adverse-reaction-copy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "about_emrelis_intro__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/about-emrelis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-title.abv-custom-txtcolor-primary-green.mb-20.mb-lg-20"
+    },
+    {
+      "relativePath": "key_features__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/about-emrelis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-flex-container.flex-column.flex-lg-row"
+    },
+    {
+      "relativePath": "mechanism_of_action__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/about-emrelis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-video-player"
+    },
+    {
+      "relativePath": "accordion_transcript__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/about-emrelis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-flex-container.pt-md-180.pb-md-30"
+    },
+    {
+      "relativePath": "important_safety_info__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-inline-safety"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "main_content_intro__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-flex-container .abbv-title"
+    },
+    {
+      "relativePath": "contact_form__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": "#aemFormFrame"
+    },
+    {
+      "relativePath": "safety_information__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-inline-safety"
+    },
+    {
+      "relativePath": "references_section__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-container .abbv-rich-text"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "intro_prose__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-rich-text.mb-15"
+    },
+    {
+      "relativePath": "detailed_prose__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-rich-text.mb-40"
+    },
+    {
+      "relativePath": "adverse_reaction_chart__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-image-text-v2 picture img"
+    },
+    {
+      "relativePath": "accordion_adverse_reactions__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "support_brochures__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/support#howtoordermetihctesting",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".support-brochures"
+    },
+    {
+      "relativePath": "how_to_order__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/support#howtoordermetihctesting",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": "#howtoorderemrelis"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "efficacy_highlight__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/efficacy/efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-flex-container.border-gradient-green-gold.border-gradient-bgcolor-green-gradient"
+    },
+    {
+      "relativePath": "response_duration__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/efficacy/efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-flex-container.border-gradient-green-gold"
+    },
+    {
+      "relativePath": "image_text_dosage_chart__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/dosing/adverse-reaction",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-image-text-v2:nth-of-type(1)"
+    },
+    {
+      "relativePath": "study_design_overview__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/efficacy/study-design",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".emrelis-study-design"
+    },
+    {
+      "relativePath": "baseline_characteristics__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/efficacy/study-design",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-flex-container.flex-column.flex-lg-row"
+    },
+    {
+      "relativePath": "dosing_schedule_section__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/dosing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-flex-container.border-gradient-green-gold"
+    },
+    {
+      "relativePath": "sitemap_overview__default.png",
+      "sourceUrl": "https://www.emrelishcp.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:28:28.474Z",
+      "selector": ".abbv-flex-container.flex-column.flex-lg-row"
+    }
+  ]
+}

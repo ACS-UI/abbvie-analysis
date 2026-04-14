@@ -1,0 +1,26 @@
+{
+  "blockId": "thumbnail_box_3",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Thumbnail Box 3",
+  "description": "Shares AbbVie's commitment to supporting patients.",
+  "domHints": {
+    "selectors": [
+      "#navHeader"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

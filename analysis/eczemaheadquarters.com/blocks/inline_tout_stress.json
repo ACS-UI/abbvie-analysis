@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_tout_stress",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Inline Tout: Stress and Eczema",
+  "description": "Explores the relationship between stress and eczema, with visuals and a call-to-action.",
+  "domHints": {
+    "selectors": [
+      "div.personalization-inline-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

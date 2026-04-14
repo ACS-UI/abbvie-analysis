@@ -1,0 +1,26 @@
+{
+  "blockId": "comparison_table",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Comparison Table",
+  "description": "Compares symptoms and characteristics between AS and nr-axSpA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-title-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Table"
+}

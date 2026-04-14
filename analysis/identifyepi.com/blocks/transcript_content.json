@@ -1,0 +1,26 @@
+{
+  "blockId": "transcript_content",
+  "templateIds": [
+    "tpl_20"
+  ],
+  "name": "Transcript Content",
+  "description": "Contains the main transcript text and related content for the video.",
+  "domHints": {
+    "selectors": [
+      ".epi-transcript-video-content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_20 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

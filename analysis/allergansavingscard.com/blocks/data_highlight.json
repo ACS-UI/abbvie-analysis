@@ -1,0 +1,27 @@
+{
+  "blockId": "data_highlight",
+  "templateIds": [
+    "tpl_36",
+    "tpl_133"
+  ],
+  "name": "Data Highlight",
+  "description": "Displays key data points or statistics in a visually engaging format.",
+  "domHints": {
+    "selectors": [
+      ".dashboardcards.medium-theme-stroke"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_36 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

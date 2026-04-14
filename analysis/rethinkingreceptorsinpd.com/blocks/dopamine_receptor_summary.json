@@ -1,0 +1,26 @@
+{
+  "blockId": "dopamine_receptor_summary",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Dopamine Receptor Summary",
+  "description": "Summarizes the information about dopamine receptors and their significance.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section.last"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "patented_applicator",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Patented Applicator",
+  "description": "Details about the applicator used for administering the product, including a video demonstration.",
+  "domHints": {
+    "selectors": [
+      ".ozurdex-hcp-intravitreal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

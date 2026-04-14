@@ -1,0 +1,27 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: Home ORILISSA Savings You may pay as little as $5 a month* with the Orilissa Savings Card, if you have commercial insura…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)",
+      "[role='main'] > div:nth-of-type(3)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Columns"
+}

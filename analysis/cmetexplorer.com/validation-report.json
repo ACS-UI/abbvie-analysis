@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.cmetexplorer.com/",
+  "normalisedUrl": "https://www.cmetexplorer.com/",
+  "finalUrlAfterRedirects": "https://www.abbvie.com/science/areas-of-focus/oncology.html",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:16:56.185Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_links_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Sitemap Links Section",
+  "description": "Lists all the links and categories available in the sitemap for easy navigation.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.brandexplorer__links"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

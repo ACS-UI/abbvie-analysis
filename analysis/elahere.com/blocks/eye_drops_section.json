@@ -1,0 +1,26 @@
+{
+  "blockId": "eye_drops_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Eye Drops Information",
+  "description": "Provides details on the use and tracking of eye drops during treatment.",
+  "domHints": {
+    "selectors": [
+      "#eye-drops"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

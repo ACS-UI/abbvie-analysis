@@ -1,0 +1,26 @@
+{
+  "blockId": "site_map_links_home",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Site Map Links - Home",
+  "description": "Contains links related to the Home section of the site map.",
+  "domHints": {
+    "selectors": [
+      "header.abbv-header-utility-navigation_mobile_home"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

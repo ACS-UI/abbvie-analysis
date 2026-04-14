@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_section_desktop",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Hero Section (Desktop)",
+  "description": "Prominent introductory section for desktop users featuring a video background and key messaging.",
+  "domHints": {
+    "selectors": [
+      "#background-container-244389776"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

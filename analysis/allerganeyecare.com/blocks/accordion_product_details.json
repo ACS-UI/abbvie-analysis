@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_product_details",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Accordion Product Details",
+  "description": "Accordion component displaying detailed information about each product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion.allergan-accordian-product-information"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

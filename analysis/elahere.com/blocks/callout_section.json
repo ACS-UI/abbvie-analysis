@@ -1,0 +1,29 @@
+{
+  "blockId": "callout_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_6",
+    "tpl_11"
+  ],
+  "name": "Callout Section",
+  "description": "Provides additional resources and actions for users.",
+  "domHints": {
+    "selectors": [
+      ".container.theme-plum--deeper-plum"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

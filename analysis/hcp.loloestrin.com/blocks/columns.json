@@ -1,0 +1,26 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: The only available ultra-low-dose oral contraceptive (OC) with just 10 mcg of daily estrogen1,2 Discover Why There Is On…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

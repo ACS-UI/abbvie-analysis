@@ -1,0 +1,26 @@
+{
+  "blockId": "rich_text_intro",
+  "templateIds": [
+    "tpl_23"
+  ],
+  "name": "Rich Text Introduction",
+  "description": "Introductory text about finding a gastroenterologist.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.pr-lg-90.mt-lg-50"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "bottom_cta",
+  "templateIds": [
+    "tpl_23",
+    "tpl_33"
+  ],
+  "name": "Bottom Call-to-Action",
+  "description": "Encourages users to learn more about diagnosing EPI.",
+  "domHints": {
+    "selectors": [
+      ".epi-bottom-cta-center"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

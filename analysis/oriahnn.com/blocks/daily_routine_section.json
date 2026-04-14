@@ -1,0 +1,26 @@
+{
+  "blockId": "daily_routine_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Daily Routine Section",
+  "description": "Explains how to incorporate the medication into daily life with clear instructions.",
+  "domHints": {
+    "selectors": [
+      ".ori-x-interior-hero--new--large"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

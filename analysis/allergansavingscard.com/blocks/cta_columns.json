@@ -1,0 +1,29 @@
+{
+  "blockId": "cta_columns",
+  "templateIds": [
+    "tpl_83",
+    "tpl_231",
+    "tpl_282",
+    "tpl_296"
+  ],
+  "name": "Call-to-Action Columns",
+  "description": "Displays multiple call-to-action items in a column layout.",
+  "domHints": {
+    "selectors": [
+      ".grid-row__col-with-4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_83 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

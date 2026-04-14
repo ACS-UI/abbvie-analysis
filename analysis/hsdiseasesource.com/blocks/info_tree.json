@@ -1,0 +1,26 @@
+{
+  "blockId": "info_tree",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Interactive Info Tree",
+  "description": "Interactive component for selecting specialty-specific information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-info-tree.hs-info-tree-primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

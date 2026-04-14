@@ -1,0 +1,26 @@
+{
+  "blockId": "supportive_care_section",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Supportive Care Section",
+  "description": "Information on palliative care and its benefits.",
+  "domHints": {
+    "selectors": [
+      "#understand-supportive-care"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

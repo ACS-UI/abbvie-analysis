@@ -1,0 +1,26 @@
+{
+  "blockId": "insurance_coverage_intro",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Insurance Coverage Introduction",
+  "description": "Introduces the insurance coverage lookup feature with a title and description.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container .orihcp-access-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

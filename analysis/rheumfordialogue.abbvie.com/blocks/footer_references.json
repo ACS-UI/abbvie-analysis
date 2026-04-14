@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_references",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Footer References",
+  "description": "Displays references and additional information in the footer.",
+  "domHints": {
+    "selectors": [
+      ".footnote.left"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

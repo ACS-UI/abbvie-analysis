@@ -1,0 +1,194 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": "header > .abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": "header > .abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/what-is-psoriatic-arthritis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": "footer.abbv-footer"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/emailsetup",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/emailsetup",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-header-content-container"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/emailsetup",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": "section[role='main']"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/emailsetup",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-rich-text h3"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/emailsetup",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-footer-content"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-container.callout-primary"
+    },
+    {
+      "relativePath": "quick_poll__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-info-tree.quick-poll"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "breadcrumb_navigation__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-breadcrumb-navigation"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-rich-text.pt3.pt2-sm"
+    },
+    {
+      "relativePath": "quiz_description__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/psoriatic-arthritis-symptoms-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-rich-text.mb0"
+    },
+    {
+      "relativePath": "quiz_disclaimer__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/psoriatic-arthritis-symptoms-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".abbv-rich-text.pb3"
+    },
+    {
+      "relativePath": "quiz_form__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/psoriatic-arthritis-symptoms-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": "#aemFormFrame"
+    },
+    {
+      "relativePath": "psa_fact_callout__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/psoriatic-arthritis-symptoms-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".callout-psa-facts"
+    },
+    {
+      "relativePath": "cta_doctor_guide__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/psoriatic-arthritis-symptoms-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".cta.parbase > a[href*='discussion-guide.pdf']"
+    },
+    {
+      "relativePath": "find_doctor_callout__default.png",
+      "sourceUrl": "https://www.psoriaticarthritisinfo.com/psoriatic-arthritis-symptoms-quiz",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:02:11.407Z",
+      "selector": ".callout-primary"
+    }
+  ]
+}

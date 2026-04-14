@@ -1,0 +1,26 @@
+{
+  "blockId": "provider_locator_form",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Provider Locator Form",
+  "description": "Allows users to search for healthcare providers based on location and other criteria.",
+  "domHints": {
+    "selectors": [
+      ".abbv-find-a-provider.fap-physician-locator"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

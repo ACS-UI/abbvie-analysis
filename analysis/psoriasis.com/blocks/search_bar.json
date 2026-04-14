@@ -1,0 +1,26 @@
+{
+  "blockId": "search_bar",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Search Bar",
+  "description": "Allows users to search the site for content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-search-input-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Search"
+}

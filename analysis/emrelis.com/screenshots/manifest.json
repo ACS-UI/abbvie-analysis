@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.emrelis.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.emrelis.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.emrelis.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-image-text-v2.abbv-image-swap"
+    },
+    {
+      "relativePath": "about_emrelis_section__default.png",
+      "sourceUrl": "https://www.emrelis.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": "#about-emrelis"
+    },
+    {
+      "relativePath": "clinical_trial_results__default.png",
+      "sourceUrl": "https://www.emrelis.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": "#clinical-trial-results"
+    },
+    {
+      "relativePath": "side_effects_section__default.png",
+      "sourceUrl": "https://www.emrelis.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": "#side-effects"
+    },
+    {
+      "relativePath": "how_it_works_section__default.png",
+      "sourceUrl": "https://www.emrelis.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": "#how-emrelis-works"
+    },
+    {
+      "relativePath": "taking_emrelis_section__default.png",
+      "sourceUrl": "https://www.emrelis.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": "#taking-emrelis"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.emrelis.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "cta_links_section__default.png",
+      "sourceUrl": "https://www.emrelis.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-flex-item .cta"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.emrelis.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.emrelis.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.emrelis.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "safety_bar__default.png",
+      "sourceUrl": "https://www.emrelis.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-safety-bar"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.emrelis.com/copayterms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.emrelis.com/copayterms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.emrelis.com/copayterms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "about_section__default.png",
+      "sourceUrl": "https://www.emrelis.com/copayterms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": "#about-emrelis"
+    },
+    {
+      "relativePath": "results_section__default.png",
+      "sourceUrl": "https://www.emrelis.com/copayterms",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": "#clinical-trial-results"
+    },
+    {
+      "relativePath": "sign_up_form__default.png",
+      "sourceUrl": "https://www.emrelis.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": "#aemFormFrame"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.emrelis.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "cookie_settings__default.png",
+      "sourceUrl": "https://www.emrelis.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:22:01.898Z",
+      "selector": "#ot-sdk-btn1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "discussion_prompts",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Discussion Prompts",
+  "description": "Provides questions to help healthcare providers start conversations with patients.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.start-conv"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

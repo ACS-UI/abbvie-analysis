@@ -1,0 +1,26 @@
+{
+  "blockId": "quiz_results",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Quiz Results",
+  "description": "Displays the results of the quiz based on user input.",
+  "domHints": {
+    "selectors": [
+      "#divQuizResult"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "comparison_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Comparison Section",
+  "description": "Compares different types of back pain with detailed descriptions.",
+  "domHints": {
+    "selectors": [
+      ".symptoms"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

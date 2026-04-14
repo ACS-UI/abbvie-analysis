@@ -1,0 +1,26 @@
+{
+  "blockId": "image_text_component",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Image and Text Component",
+  "description": "Displays an image alongside descriptive text, providing visual context to the content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_columns",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Call-to-Action Columns",
+  "description": "Displays two columns with images and CTAs for saving on LINZESS and talking to a doctor.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.background-light-purple"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

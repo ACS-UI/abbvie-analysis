@@ -1,0 +1,26 @@
+{
+  "blockId": "low_dose_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Low Dose Section",
+  "description": "Highlights the low estrogen content of the product with supporting visuals and text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.purple-background"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "references_section",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4"
+  ],
+  "name": "References Section",
+  "description": "Lists references and citations for the content presented on the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.reference-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "innovation_highlights",
+  "templateIds": [
+    "tpl_191"
+  ],
+  "name": "Innovation Highlights",
+  "description": "Showcases key areas of innovation with cards and descriptions.",
+  "domHints": {
+    "selectors": [
+      "div#container-457af92334"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_191 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

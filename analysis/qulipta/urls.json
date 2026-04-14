@@ -1,0 +1,259 @@
+{
+  "entryUrl": "https://www.qulipta.com/",
+  "discoveredAt": "2026-04-13T10:49:25.701Z",
+  "urls": [
+    {
+      "url": "https://www.qulipta.com/",
+      "normalised": "https://www.qulipta.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/content/dam/qulipta/pdf/ATF-CAF-03022022/qulipta-patient-brochure.pdf",
+      "normalised": "https://www.qulipta.com/content/dam/qulipta/pdf/ATF-CAF-03022022/qulipta-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.qulipta.com/content/dam/qulipta/pdf/qulipta-patient-brochure.pdf",
+      "normalised": "https://www.qulipta.com/content/dam/qulipta/pdf/qulipta-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.qulipta.com/why-qulipta",
+      "normalised": "https://www.qulipta.com/why-qulipta",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/migraine-center",
+      "normalised": "https://www.qulipta.com/migraine-center",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/how-qulipta-works",
+      "normalised": "https://www.qulipta.com/how-qulipta-works",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/the-cost-of-qulipta",
+      "normalised": "https://www.qulipta.com/savings-support/the-cost-of-qulipta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/video-transcript-know-more-about-cgrp",
+      "normalised": "https://www.qulipta.com/video-transcript-know-more-about-cgrp",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/resources-savings",
+      "normalised": "https://www.qulipta.com/resources-savings",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/about-qulipta",
+      "normalised": "https://www.qulipta.com/about-qulipta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/video-transcript-know-more-about-CGRP",
+      "normalised": "https://www.qulipta.com/video-transcript-know-more-about-CGRP",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/sign-up",
+      "normalised": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/cost",
+      "normalised": "https://www.qulipta.com/cost",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/additional-resources",
+      "normalised": "https://www.qulipta.com/savings-support/additional-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program",
+      "normalised": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/sign-up-confirmation",
+      "normalised": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/sign-up-confirmation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/find-a-doctor",
+      "normalised": "https://www.qulipta.com/savings-support/find-a-doctor",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/sitemap",
+      "normalised": "https://www.qulipta.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/video-transcript-qulipta-weather",
+      "normalised": "https://www.qulipta.com/video-transcript-qulipta-weather",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/confirmation-savings-card",
+      "normalised": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/confirmation-savings-card",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/patient-stories/kelsi-video-transcript",
+      "normalised": "https://www.qulipta.com/patient-stories/kelsi-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/video-transcript-patients-taking-qulipta",
+      "normalised": "https://www.qulipta.com/video-transcript-patients-taking-qulipta",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/qulipta-discussion-guide",
+      "normalised": "https://www.qulipta.com/savings-support/qulipta-discussion-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/patient-stories",
+      "normalised": "https://www.qulipta.com/patient-stories",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/patient-stories/latoya-video-transcript",
+      "normalised": "https://www.qulipta.com/patient-stories/latoya-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/qulipta-vs-topiramate",
+      "normalised": "https://www.qulipta.com/qulipta-vs-topiramate",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/migraine-education",
+      "normalised": "https://www.qulipta.com/migraine-education",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/sign-up-confirmation",
+      "normalised": "https://www.qulipta.com/savings-support/sign-up-confirmation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/video-transcript-qulipta-introductions",
+      "normalised": "https://www.qulipta.com/video-transcript-qulipta-introductions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/frequently-asked-questions",
+      "normalised": "https://www.qulipta.com/savings-support/frequently-asked-questions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/patient-stories/casey-video-transcript",
+      "normalised": "https://www.qulipta.com/patient-stories/casey-video-transcript",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/video-transcript-what-is-migraine-like-for-you",
+      "normalised": "https://www.qulipta.com/video-transcript-what-is-migraine-like-for-you",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/resources-savings/QULIPTA-discussion-guide",
+      "normalised": "https://www.qulipta.com/resources-savings/QULIPTA-discussion-guide",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support",
+      "normalised": "https://www.qulipta.com/savings-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/sign-up?user=prospect",
+      "normalised": "https://www.qulipta.com/savings-support/qulipta-complete-savings-program/sign-up?user=prospect",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 35,
+    "bySource": {
+      "sitemap": 21,
+      "crawl": 14,
+      "manual": 0
+    }
+  }
+}

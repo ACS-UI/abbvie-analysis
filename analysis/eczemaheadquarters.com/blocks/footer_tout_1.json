@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_tout_1",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Footer Tout 1",
+  "description": "Highlights the first recommended topic with an image, text, and call-to-action.",
+  "domHints": {
+    "selectors": [
+      "div.target-rcmd-footertout-one"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

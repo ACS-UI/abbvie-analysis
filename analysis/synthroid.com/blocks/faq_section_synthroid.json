@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_section_synthroid",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "FAQ Section: Synthroid",
+  "description": "Contains accordion items addressing questions about Synthroid.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section.marquee-shift.no-color--card-bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "tabs_component",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Tabs Component",
+  "description": "Tabbed interface for viewing different content categories.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs.hs-tabs-default"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

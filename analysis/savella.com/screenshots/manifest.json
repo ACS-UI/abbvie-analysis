@@ -1,0 +1,474 @@
+{
+  "entries": [
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.savella.com/savella-savingscard",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#hdrv2-utilnav"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.savella.com/savella-savingscard",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.savella.com/savella-savingscard",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-flex-container.savella-head-title"
+    },
+    {
+      "relativePath": "savings_program_section__default.png",
+      "sourceUrl": "https://www.savella.com/savella-savingscard",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-flex-container.savella-savings-program"
+    },
+    {
+      "relativePath": "program_description__default.png",
+      "sourceUrl": "https://www.savella.com/savella-savingscard",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-flex-container.saving-program-description"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.savella.com/savella-savingscard",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.savella.com/savella-savingscard",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "signup_columns__default.png",
+      "sourceUrl": "https://www.savella.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".signup-container"
+    },
+    {
+      "relativePath": "isi_section__default.png",
+      "sourceUrl": "https://www.savella.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.savella.com/sign-up",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.savella.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#hdrv2-utilnav"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.savella.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "header.abbv-header-v2"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.savella.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.savella.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "footer.abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.savella.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_dialog__default.png",
+      "sourceUrl": "https://www.savella.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "cta_tiles__default.png",
+      "sourceUrl": "https://www.savella.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".home-tile-section"
+    },
+    {
+      "relativePath": "signup_section__default.png",
+      "sourceUrl": "https://www.savella.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".signup-container"
+    },
+    {
+      "relativePath": "save_on_savella_cta__default.png",
+      "sourceUrl": "https://www.savella.com/why-savella",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".save-on-savella-container"
+    },
+    {
+      "relativePath": "why_savella_section__default.png",
+      "sourceUrl": "https://www.savella.com/why-savella",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".why-savella-container"
+    },
+    {
+      "relativePath": "efficacy_results_section__default.png",
+      "sourceUrl": "https://www.savella.com/why-savella",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#efficacy-results"
+    },
+    {
+      "relativePath": "taking_savella_section__default.png",
+      "sourceUrl": "https://www.savella.com/why-savella",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#taking-savella"
+    },
+    {
+      "relativePath": "available_dosing_section__default.png",
+      "sourceUrl": "https://www.savella.com/why-savella",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".available-dosing-container"
+    },
+    {
+      "relativePath": "continuing_treatment_section__default.png",
+      "sourceUrl": "https://www.savella.com/why-savella",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".continuing-treatment-container"
+    },
+    {
+      "relativePath": "remember_savella_section__default.png",
+      "sourceUrl": "https://www.savella.com/why-savella",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".remember-savella"
+    },
+    {
+      "relativePath": "most_common_side_effects_section__default.png",
+      "sourceUrl": "https://www.savella.com/why-savella",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#side-effects"
+    },
+    {
+      "relativePath": "link_list_navigation__default.png",
+      "sourceUrl": "https://www.savella.com/fibromyalgia-basics",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".section-navbar.abbv-link-list"
+    },
+    {
+      "relativePath": "fibromyalgia_common_section__default.png",
+      "sourceUrl": "https://www.savella.com/fibromyalgia-basics",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".fibromyalgia-common-think"
+    },
+    {
+      "relativePath": "what_is_fibromyalgia__default.png",
+      "sourceUrl": "https://www.savella.com/fibromyalgia-basics",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#whatIsFibromyalgia"
+    },
+    {
+      "relativePath": "fibromyalgia_highlight__default.png",
+      "sourceUrl": "https://www.savella.com/fibromyalgia-basics",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".fibromyalgia-highlight"
+    },
+    {
+      "relativePath": "other_facts_about_fibromyalgia__default.png",
+      "sourceUrl": "https://www.savella.com/fibromyalgia-basics",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".fibromyalgia-other-facts"
+    },
+    {
+      "relativePath": "symptoms_section__default.png",
+      "sourceUrl": "https://www.savella.com/fibromyalgia-basics",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#whatAreTheSymptoms"
+    },
+    {
+      "relativePath": "diagnosing_fibromyalgia__default.png",
+      "sourceUrl": "https://www.savella.com/fibromyalgia-basics",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".fibromyalgia-diagnosing"
+    },
+    {
+      "relativePath": "causes_section__default.png",
+      "sourceUrl": "https://www.savella.com/fibromyalgia-basics",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#whatAreTheCauses"
+    },
+    {
+      "relativePath": "living_with_fibromyalgia__default.png",
+      "sourceUrl": "https://www.savella.com/fibromyalgia-basics",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#livingWithFibromyalgia"
+    },
+    {
+      "relativePath": "primary_header_navigation__default.png",
+      "sourceUrl": "https://www.savella.com/savings-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-header-v2"
+    },
+    {
+      "relativePath": "savings_program__default.png",
+      "sourceUrl": "https://www.savella.com/savings-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".eligle-pink-card-container"
+    },
+    {
+      "relativePath": "patient_assistance__default.png",
+      "sourceUrl": "https://www.savella.com/savings-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".savella-patient-assistance"
+    },
+    {
+      "relativePath": "treatment_plan__default.png",
+      "sourceUrl": "https://www.savella.com/savings-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#treatment-plan"
+    },
+    {
+      "relativePath": "updates_support__default.png",
+      "sourceUrl": "https://www.savella.com/savings-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".savella-treatment-plan"
+    },
+    {
+      "relativePath": "common_questions__default.png",
+      "sourceUrl": "https://www.savella.com/savings-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "#common-questions"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.savella.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": ".abbv-link-list"
+    },
+    {
+      "relativePath": "modal_header__default.png",
+      "sourceUrl": "https://www.savella.com/site-modals/warn-on-leave-extra-help",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "div.abbv-title > h1"
+    },
+    {
+      "relativePath": "modal_body_text__default.png",
+      "sourceUrl": "https://www.savella.com/site-modals/warn-on-leave-extra-help",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "div.abbv-rich-text.exit-modal-body"
+    },
+    {
+      "relativePath": "cta_ok_button__default.png",
+      "sourceUrl": "https://www.savella.com/site-modals/warn-on-leave-extra-help",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "a.abbv-button-plain[href='https://www.medicare.gov/basics/costs/help/drug-costs']"
+    },
+    {
+      "relativePath": "cta_cancel_button__default.png",
+      "sourceUrl": "https://www.savella.com/site-modals/warn-on-leave-extra-help",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "a.abbv-button-plain.gray-bg.abbv-modal-close-inline"
+    },
+    {
+      "relativePath": "modal_footer_text__default.png",
+      "sourceUrl": "https://www.savella.com/site-modals/warn-on-leave-extra-help",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:21:30.796Z",
+      "selector": "div.abbv-rich-text.exit-modal-bottom-txt"
+    }
+  ]
+}

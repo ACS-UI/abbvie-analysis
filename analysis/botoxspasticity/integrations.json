@@ -1,0 +1,38 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.botoxspasticity.com/",
+          "https://www.botoxspasticity.com/your-care-team",
+          "https://www.botoxspasticity.com/find-a-botox-specialist",
+          "https://www.botoxspasticity.com/caregiving-matters",
+          "https://www.botoxspasticity.com/resources-and-tools",
+          "https://www.botoxspasticity.com/reviews-and-stories",
+          "https://www.botoxspasticity.com/savings",
+          "https://www.botoxspasticity.com/savings-support",
+          "https://www.botoxspasticity.com/reviews-and-stories/bobs-testimonial",
+          "https://www.botoxspasticity.com/understanding-spasticity",
+          "https://www.botoxspasticity.com/reviews-and-stories/maddis-testimonial",
+          "https://www.botoxspasticity.com/diagnosis",
+          "https://www.botoxspasticity.com/cost",
+          "https://www.botoxspasticity.com/sitemap",
+          "https://www.botoxspasticity.com/reviews-and-stories/amys-testimonial",
+          "https://www.botoxspasticity.com/side-effects",
+          "https://www.botoxspasticity.com/about-botox",
+          "https://www.botoxspasticity.com/what-to-expect"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T12:25:55.647Z"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_education_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Patient Education Section",
+  "description": "Highlights educational resources and events for patients and their families.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1412561203"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

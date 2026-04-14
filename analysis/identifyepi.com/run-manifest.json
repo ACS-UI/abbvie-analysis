@@ -1,0 +1,284 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:48:44.167Z",
+  "completedAt": "2026-04-13T16:15:00.364Z",
+  "input": {
+    "url": "https://www.identifyepi.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/identifyepi.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Page layout group 1",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Search Results — group 2",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Epi Symptoms — group 3",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Underlying Conditions — group 4",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Epi Videos — group 5",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "What Is Epi Transcript — group 6",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Frequently Asked Questions — group 7",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Page layout group 8",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Exocrine Pancreatic Insufficiency Diagnosis — group 9",
+        "source": "llm_identify",
+        "blockCount": 13,
+        "proposedCount": 13
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "What Is Epi — group 10",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Exocrine Pancreatic Insufficiency Symptoms — group 11",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Watch — group 12",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Talking To Your Doctor — group 13",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Pancreatic Insufficiency Symptoms — group 14",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "Search Results — group 15",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "Epi Treatment — group 16",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "For Your Practice — group 17",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "Epi Clinical Diagnosis — group 18",
+        "source": "llm_identify",
+        "blockCount": 12,
+        "proposedCount": 12
+      },
+      {
+        "templateId": "tpl_18",
+        "humanName": "Hcp — group 19",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_19",
+        "humanName": "Find An Epi Doctor — group 20",
+        "source": "llm_identify",
+        "blockCount": 11,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_20",
+        "humanName": "Moving Forward With Epi Treatment Transcript — group 21",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_21",
+        "humanName": "Site Map — group 22",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_22",
+        "humanName": "For Your Patients — group 23",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_23",
+        "humanName": "Epi Stories — group 24",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_24",
+        "humanName": "Pancreatic Disease Resources — group 25",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_25",
+        "humanName": "Recognizing Epi Symptoms Transcript — group 26",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_26",
+        "humanName": "Epi Underlying Conditions — group 27",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_27",
+        "humanName": "Sitemap — group 28",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_28",
+        "humanName": "Diet And Lifestyle — group 29",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_29",
+        "humanName": "Epi Resources — group 30",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_30",
+        "humanName": "Epi Symptoms — group 31",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 11
+      },
+      {
+        "templateId": "tpl_31",
+        "humanName": "Digestive Pancreatic Enzymes — group 32",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_32",
+        "humanName": "Treating Epi With Pert — group 33",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_33",
+        "humanName": "Epi Diagnosis Challenges — group 34",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_34",
+        "humanName": "Aemform Iframe — group 35",
+        "source": "heuristic_fallback_identify_empty",
+        "blockCount": 0,
+        "proposedCount": 1
+      },
+      {
+        "templateId": "tpl_35",
+        "humanName": "Site Map — group 36",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      }
+    ]
+  }
+}

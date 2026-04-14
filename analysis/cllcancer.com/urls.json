@@ -1,0 +1,140 @@
+{
+  "entryUrl": "https://www.cllcancer.com/",
+  "discoveredAt": "2026-04-13T16:05:12.245Z",
+  "urls": [
+    {
+      "url": "https://www.cllcancer.com/",
+      "normalised": "https://www.cllcancer.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/content/dam/cllcancer/pdf/discussion-guide-managing-cll-that-has-been-treated-before.pdf",
+      "normalised": "https://www.cllcancer.com/content/dam/cllcancer/pdf/discussion-guide-managing-cll-that-has-been-treated-before.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.cllcancer.com/content/dam/cllcancer/pdf/discussion-guide-preparing-for-the-first-cll-treatment.pdf",
+      "normalised": "https://www.cllcancer.com/content/dam/cllcancer/pdf/discussion-guide-preparing-for-the-first-cll-treatment.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.cllcancer.com/register",
+      "normalised": "https://www.cllcancer.com/register",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/cll-prognosis",
+      "normalised": "https://www.cllcancer.com/cll-prognosis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/search-results",
+      "normalised": "https://www.cllcancer.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/living-with-cll",
+      "normalised": "https://www.cllcancer.com/living-with-cll",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/sitemap",
+      "normalised": "https://www.cllcancer.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/cll-treatments",
+      "normalised": "https://www.cllcancer.com/cll-treatments",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/find-a-provider",
+      "normalised": "https://www.cllcancer.com/find-a-provider",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/cll-goals-of-therapy/cll-goals-mrd",
+      "normalised": "https://www.cllcancer.com/cll-goals-of-therapy/cll-goals-mrd",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/what-is-cll",
+      "normalised": "https://www.cllcancer.com/what-is-cll",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/cll-goals-of-therapy",
+      "normalised": "https://www.cllcancer.com/cll-goals-of-therapy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/cll-support",
+      "normalised": "https://www.cllcancer.com/cll-support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/site-map",
+      "normalised": "https://www.cllcancer.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/cost-of-cll-treatment",
+      "normalised": "https://www.cllcancer.com/cost-of-cll-treatment",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/abbv-tab-247230742-0",
+      "normalised": "https://www.cllcancer.com/abbv-tab-247230742-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cllcancer.com/abbv-tab-247230742-1",
+      "normalised": "https://www.cllcancer.com/abbv-tab-247230742-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 18,
+    "bySource": {
+      "sitemap": 4,
+      "crawl": 14,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "additional_info",
+  "templateIds": [
+    "tpl_19"
+  ],
+  "name": "Additional Information",
+  "description": "Displays additional information and tips for users.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.epi-dr-gardient-block"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_19 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

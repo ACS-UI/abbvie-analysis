@@ -1,0 +1,29 @@
+{
+  "blockId": "savings_information",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Savings Information",
+  "description": "Details about the savings program, including benefits and eligibility.",
+  "domHints": {
+    "selectors": [
+      ".sc-content1",
+      ".sc-content2",
+      ".sc-content3",
+      ".sc-content4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

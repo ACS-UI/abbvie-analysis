@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.vuitypro.com/",
+  "normalisedUrl": "https://www.vuitypro.com/",
+  "finalUrlAfterRedirects": "https://www.vuitypro.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:40:08.781Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_accordion",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "FAQ Accordion",
+  "description": "Contains the expandable sections with questions and answers about Botox.",
+  "domHints": {
+    "selectors": [
+      ".glossymenu"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

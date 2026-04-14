@@ -1,0 +1,26 @@
+{
+  "blockId": "risk_factors",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Risk Factors",
+  "description": "Outlines specific risk factors for Hepatitis C.",
+  "domHints": {
+    "selectors": [
+      ".hepc-risk-box-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "content_section_2",
+  "templateIds": [
+    "tpl_252",
+    "tpl_303"
+  ],
+  "name": "Content Section 2",
+  "description": "Showcases stories and profiles related to the organization.",
+  "domHints": {
+    "selectors": [
+      ".cardpagestory.card-dashboard.card-medium"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_252 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

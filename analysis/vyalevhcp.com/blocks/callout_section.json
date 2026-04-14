@@ -1,0 +1,26 @@
+{
+  "blockId": "callout_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Callout Section",
+  "description": "Highlights key features and benefits of the product.",
+  "domHints": {
+    "selectors": [
+      "#background-container-651450273"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

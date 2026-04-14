@@ -1,0 +1,27 @@
+{
+  "blockId": "endometriosis_resources",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2"
+  ],
+  "name": "Endometriosis Resources",
+  "description": "Section highlighting resources and videos related to endometriosis, with images and CTAs.",
+  "domHints": {
+    "selectors": [
+      ".wh-digitalobgyn-mid-sec .abbv-row-container:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

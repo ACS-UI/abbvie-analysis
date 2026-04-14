@@ -1,0 +1,26 @@
+{
+  "blockId": "testimonial_olivia",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Testimonial - Olivia",
+  "description": "Features a testimonial from another scholarship recipient.",
+  "domHints": {
+    "selectors": [
+      ".background__container-pattern-center-right"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

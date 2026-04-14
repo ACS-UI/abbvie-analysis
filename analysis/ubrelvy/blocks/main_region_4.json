@@ -1,0 +1,30 @@
+{
+  "blockId": "main_region_4",
+  "templateIds": [
+    "tpl_4",
+    "tpl_7",
+    "tpl_12",
+    "tpl_21",
+    "tpl_24"
+  ],
+  "name": "main region 4",
+  "description": "Major content region in main (div). Preview: Ask your healthcare provider about UBRELVY Find a healthcare provider near you and schedule an appointment to discuss ad…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_4. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "office_resources_tabs",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Office Resources Tabs",
+  "description": "Tab navigation for different office resources categories.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.ofc-res-tab"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

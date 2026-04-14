@@ -1,0 +1,26 @@
+{
+  "blockId": "highlighted_tips",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Highlighted Tips Section",
+  "description": "Presents actionable tips and advice for managing UC.",
+  "domHints": {
+    "selectors": [
+      "#lwu ~ .abbv-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

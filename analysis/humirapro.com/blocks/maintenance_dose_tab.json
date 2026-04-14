@@ -1,0 +1,26 @@
+{
+  "blockId": "maintenance_dose_tab",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Maintenance Dose Tab",
+  "description": "Content for the maintenance dose including images and descriptions.",
+  "domHints": {
+    "selectors": [
+      "#abbv-tab-1381465138-1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

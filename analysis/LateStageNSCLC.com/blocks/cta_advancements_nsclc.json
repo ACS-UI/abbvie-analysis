@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_advancements_nsclc",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "CTA Advancements in NSCLC",
+  "description": "Provides information about advancements in late-stage NSCLC.",
+  "domHints": {
+    "selectors": [
+      ".nsclc-biomarkers-columns .abbv-find-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

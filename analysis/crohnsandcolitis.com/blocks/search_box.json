@@ -1,0 +1,26 @@
+{
+  "blockId": "search_box",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Search Box",
+  "description": "Provides a search input field and suggestions for users to search content.",
+  "domHints": {
+    "selectors": [
+      "#header-search"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Search"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "progression_free_survival",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Progression-Free Survival Section",
+  "description": "Details about how the treatment affects progression-free survival.",
+  "domHints": {
+    "selectors": [
+      "#progression-free-survival"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

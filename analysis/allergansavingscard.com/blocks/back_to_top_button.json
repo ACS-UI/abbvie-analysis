@@ -1,0 +1,43 @@
+{
+  "blockId": "back_to_top_button",
+  "templateIds": [
+    "tpl_16",
+    "tpl_25",
+    "tpl_38",
+    "tpl_52",
+    "tpl_119",
+    "tpl_133",
+    "tpl_155",
+    "tpl_166",
+    "tpl_177",
+    "tpl_188",
+    "tpl_225",
+    "tpl_238",
+    "tpl_270",
+    "tpl_271",
+    "tpl_275",
+    "tpl_276",
+    "tpl_281",
+    "tpl_295"
+  ],
+  "name": "Back to Top Button",
+  "description": "Button for navigating back to the top of the page.",
+  "domHints": {
+    "selectors": [
+      "button.back-btn"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

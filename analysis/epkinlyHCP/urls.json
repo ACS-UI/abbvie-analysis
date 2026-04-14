@@ -1,0 +1,448 @@
+{
+  "entryUrl": "https://www.epkinlyhcp.com/",
+  "discoveredAt": "2026-04-13T12:40:04.676Z",
+  "urls": [
+    {
+      "url": "https://www.epkinlyhcp.com/",
+      "normalised": "https://www.epkinlyhcp.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/fl-patient-brochure-spanish.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/fl-patient-brochure-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/dlbcl-care-partner-brochure.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/dlbcl-care-partner-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/fl-hcp-brochure.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/fl-hcp-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/fl-care-partner-brochure.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/fl-care-partner-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/what-to-expect-guide.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/what-to-expect-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/wallet-card.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/wallet-card.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/product-replacement-card.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/product-replacement-card.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/fl-patient-brochure.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/fl-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/product-acquisition-flashcard.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/product-acquisition-flashcard.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/adverse-reactions-management-guide.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/adverse-reactions-management-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/remotedam/approved-assets/epkinly/hcp/documents/dlbcl-patient-brochure.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/remotedam/approved-assets/epkinly/hcp/documents/dlbcl-patient-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/wallet-card-spanish.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/wallet-card-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/dlbcl-hcp-brochure.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/dlbcl-hcp-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/what-to-expect-guide-spanish.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/what-to-expect-guide-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/dosing-administration-guide.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/dosing-administration-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/dlbcl-patient-brochure-spanish.pdf",
+      "normalised": "https://www.epkinlyhcp.com/content/dam/epcoritamabhcp/docs/dlbcl-patient-brochure-spanish.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/2l-fl",
+      "normalised": "https://www.epkinlyhcp.com/2l-fl",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/important-safety-information",
+      "normalised": "https://www.epkinlyhcp.com/important-safety-information",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/study-design",
+      "normalised": "https://www.epkinlyhcp.com/study-design",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/crs-icans-management",
+      "normalised": "https://www.epkinlyhcp.com/crs-icans-management",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/site-map",
+      "normalised": "https://www.epkinlyhcp.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/mechanism-of-action",
+      "normalised": "https://www.epkinlyhcp.com/mechanism-of-action",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/terms-conditions",
+      "normalised": "https://www.epkinlyhcp.com/terms-conditions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/contact-us",
+      "normalised": "https://www.epkinlyhcp.com/contact-us",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/support-resources",
+      "normalised": "https://www.epkinlyhcp.com/support-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl/clinical-trial-results",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl/clinical-trial-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/3l-fl/dosing-administration",
+      "normalised": "https://www.epkinlyhcp.com/3l-fl/dosing-administration",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/register",
+      "normalised": "https://www.epkinlyhcp.com/register",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/3l-fl/adverse-reactions",
+      "normalised": "https://www.epkinlyhcp.com/3l-fl/adverse-reactions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/order",
+      "normalised": "https://www.epkinlyhcp.com/order",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/3l-fl/study-design",
+      "normalised": "https://www.epkinlyhcp.com/3l-fl/study-design",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/adverse-reactions",
+      "normalised": "https://www.epkinlyhcp.com/adverse-reactions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/3l-fl/crs-icans-events",
+      "normalised": "https://www.epkinlyhcp.com/3l-fl/crs-icans-events",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/2l-fl/adverse-reactions",
+      "normalised": "https://www.epkinlyhcp.com/2l-fl/adverse-reactions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/3l-fl/treatment-landscape",
+      "normalised": "https://www.epkinlyhcp.com/3l-fl/treatment-landscape",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/2l-fl/clinical-trial-results",
+      "normalised": "https://www.epkinlyhcp.com/2l-fl/clinical-trial-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/2l-fl/study-design",
+      "normalised": "https://www.epkinlyhcp.com/2l-fl/study-design",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl/crs-icans-events",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl/crs-icans-events",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/2l-fl/crs-icans-events",
+      "normalised": "https://www.epkinlyhcp.com/2l-fl/crs-icans-events",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl/study-design",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl/study-design",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/clinical-trial-results",
+      "normalised": "https://www.epkinlyhcp.com/clinical-trial-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/3l-fl/clinical-trial-results",
+      "normalised": "https://www.epkinlyhcp.com/3l-fl/clinical-trial-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/crs-icans-events",
+      "normalised": "https://www.epkinlyhcp.com/crs-icans-events",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/contact-a-rep",
+      "normalised": "https://www.epkinlyhcp.com/contact-a-rep",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dosing-administration",
+      "normalised": "https://www.epkinlyhcp.com/dosing-administration",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/3l-fl",
+      "normalised": "https://www.epkinlyhcp.com/3l-fl",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl/adverse-reactions",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl/adverse-reactions",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/2l-fl/dosing-administration",
+      "normalised": "https://www.epkinlyhcp.com/2l-fl/dosing-administration",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl/dosing-administration",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl/dosing-administration",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl/treatment-landscape",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl/treatment-landscape",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/abbv-tab-160941096-0",
+      "normalised": "https://www.epkinlyhcp.com/abbv-tab-160941096-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/abbv-tab-160941096-1",
+      "normalised": "https://www.epkinlyhcp.com/abbv-tab-160941096-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/2l-fl/abbv-tab-1488928219-0",
+      "normalised": "https://www.epkinlyhcp.com/2l-fl/abbv-tab-1488928219-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/2l-fl/abbv-tab-1488928219-2",
+      "normalised": "https://www.epkinlyhcp.com/2l-fl/abbv-tab-1488928219-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/3l-fl/abbv-tab-278243881-0",
+      "normalised": "https://www.epkinlyhcp.com/3l-fl/abbv-tab-278243881-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl/abbv-tab-1981602918-0",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl/abbv-tab-1981602918-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl/abbv-tab-1981602918-1",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl/abbv-tab-1981602918-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/2l-fl/abbv-tab-1488928219-1",
+      "normalised": "https://www.epkinlyhcp.com/2l-fl/abbv-tab-1488928219-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/3l-fl/abbv-tab-278243881-1",
+      "normalised": "https://www.epkinlyhcp.com/3l-fl/abbv-tab-278243881-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.epkinlyhcp.com/dlbcl/abbv-tab-1981602918-2",
+      "normalised": "https://www.epkinlyhcp.com/dlbcl/abbv-tab-1981602918-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 62,
+    "bySource": {
+      "sitemap": 33,
+      "crawl": 29,
+      "manual": 0
+    }
+  }
+}

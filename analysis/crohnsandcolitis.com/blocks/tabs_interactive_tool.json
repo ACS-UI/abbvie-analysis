@@ -1,0 +1,26 @@
+{
+  "blockId": "tabs_interactive_tool",
+  "templateIds": [
+    "tpl_28"
+  ],
+  "name": "Tabs Interactive Tool",
+  "description": "Interactive tabs to explore symptoms and complications of Crohn's disease.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_28 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

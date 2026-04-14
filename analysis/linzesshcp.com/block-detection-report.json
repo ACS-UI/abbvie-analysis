@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Agent Unassigned",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Mechanism of Action",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Home Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Dosing Information",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Safety Profile",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Efficacy Data",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Patient Profiles",
+      "source": "llm_identify",
+      "blockCount": 2,
+      "proposedCount": 10
+    }
+  ],
+  "generatedAt": "2026-04-13T15:18:37.847Z"
+}

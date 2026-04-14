@@ -1,0 +1,236 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T12:30:09.619Z",
+  "completedAt": "2026-04-13T12:31:53.224Z",
+  "input": {
+    "url": "https://www.creonhcp.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/creonhcp",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Page layout group 1",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Symptoms Of Epi — group 2",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Managing Epi — group 3",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Dosing Administration — group 4",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Understanding Epi — group 5",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Patient Support — group 6",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Dosing 160 315lb Patients Transcript — group 7",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Site Map — group 8",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Formulary Lookup — group 9",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Sitemap — group 10",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 2
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Epi Differential Diagnosis Transcript — group 11",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Mechanism Of Action — group 12",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Access Coverage — group 13",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Symptoms Features Epi Transcript — group 14",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "Resources — group 15",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "Dosing Cp Py Patient Transcript — group 16",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "Search Results — group 17",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "Cp Or Pancreatectomy — group 18",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 12
+      },
+      {
+        "templateId": "tpl_18",
+        "humanName": "Safety Data — group 19",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_19",
+        "humanName": "Discussion Guide — group 20",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_20",
+        "humanName": "Diagnosing Epi — group 21",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_21",
+        "humanName": "Underlying Conditions — group 22",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_22",
+        "humanName": "Efficacy — group 23",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_23",
+        "humanName": "About Creon — group 24",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_24",
+        "humanName": "Dosing Calculator — group 25",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_25",
+        "humanName": "Contact A Rep — group 26",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_26",
+        "humanName": "Collaborative Epi Management Transcript — group 27",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_27",
+        "humanName": "Optimizing Epi Management Transcript — group 28",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_28",
+        "humanName": "Dosing Epi — group 29",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_29",
+        "humanName": "Creon Starting Dose — group 30",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_30",
+        "humanName": "Treatment Tracker — group 31",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_31",
+        "humanName": "Communication Diagnosing Epi Transcript — group 32",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      },
+      {
+        "templateId": "tpl_32",
+        "humanName": "Challenges To Diagnosis — group 33",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_33",
+        "humanName": "Creon Patient Support — group 34",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      }
+    ]
+  }
+}

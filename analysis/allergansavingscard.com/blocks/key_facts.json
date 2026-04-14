@@ -1,0 +1,26 @@
+{
+  "blockId": "key_facts",
+  "templateIds": [
+    "tpl_147"
+  ],
+  "name": "Key Facts Section",
+  "description": "Presents important statistics or achievements.",
+  "domHints": {
+    "selectors": [
+      ".dashboard-card-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_147 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

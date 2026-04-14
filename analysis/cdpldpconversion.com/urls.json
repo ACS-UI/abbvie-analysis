@@ -1,0 +1,35 @@
+{
+  "entryUrl": "https://www.cdpldpconversion.com/",
+  "discoveredAt": "2026-04-13T16:19:16.410Z",
+  "urls": [
+    {
+      "url": "https://www.cdpldpconversion.com/",
+      "normalised": "https://www.cdpldpconversion.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cdpldpconversion.com/content/cdpldpconversion/en-us",
+      "normalised": "https://www.cdpldpconversion.com/content/cdpldpconversion/en-us",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.cdpldpconversion.com/content/cdpldpconversion/en-us/sitemap",
+      "normalised": "https://www.cdpldpconversion.com/content/cdpldpconversion/en-us/sitemap",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "bySource": {
+      "sitemap": 2,
+      "crawl": 1,
+      "manual": 0
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "rich_text_content",
+  "templateIds": [
+    "tpl_0",
+    "tpl_6"
+  ],
+  "name": "Rich Text Content",
+  "description": "Displays rich text content with bold highlights.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

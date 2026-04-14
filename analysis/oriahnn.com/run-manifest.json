@@ -1,0 +1,123 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:29:20.337Z",
+  "completedAt": "2026-04-13T15:37:13.348Z",
+  "input": {
+    "url": "https://www.oriahnn.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/oriahnn.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Homepage",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Savings Card",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Side Effects",
+        "source": "llm_identify",
+        "blockCount": 8,
+        "proposedCount": 8
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Search Results",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Product Overview",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Insurance Information",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "Site Map",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Interactive Quiz",
+        "source": "llm_identify",
+        "blockCount": 7,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Usage Instructions",
+        "source": "llm_identify",
+        "blockCount": 10,
+        "proposedCount": 10
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Discussion Guide",
+        "source": "llm_identify",
+        "blockCount": 2,
+        "proposedCount": 7
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Symptoms Information",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Fibroids Information",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Clinical Trials",
+        "source": "llm_identify",
+        "blockCount": 9,
+        "proposedCount": 9
+      }
+    ]
+  }
+}

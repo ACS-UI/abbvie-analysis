@@ -1,0 +1,28 @@
+{
+  "blockId": "primary_content",
+  "templateIds": [
+    "tpl_35",
+    "tpl_121",
+    "tpl_272"
+  ],
+  "name": "Primary Content",
+  "description": "Displays the main content of the page, including text and links.",
+  "domHints": {
+    "selectors": [
+      "div#text-1e08ee9a81"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_35 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

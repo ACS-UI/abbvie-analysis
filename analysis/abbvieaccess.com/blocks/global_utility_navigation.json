@@ -1,0 +1,32 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_5",
+    "tpl_7",
+    "tpl_9",
+    "tpl_11",
+    "tpl_14"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides utility links such as signing up for updates.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

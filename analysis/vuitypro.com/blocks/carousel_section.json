@@ -1,0 +1,26 @@
+{
+  "blockId": "carousel_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Carousel Section",
+  "description": "Displays testimonials and feedback from trial participants in a carousel format.",
+  "domHints": {
+    "selectors": [
+      ".vuitypro-carousel-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

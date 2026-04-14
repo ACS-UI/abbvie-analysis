@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_paragraph",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Introduction Paragraph",
+  "description": "Provides an introductory paragraph describing the purpose of the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.grey-bar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

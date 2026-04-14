@@ -1,0 +1,27 @@
+{
+  "blockId": "how_linzess_can_help",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "How LINZESS Can Help",
+  "description": "Section detailing how LINZESS helps with IBS-C and CIC symptoms.",
+  "domHints": {
+    "selectors": [
+      "#howlinzesscanhelp",
+      ".howlinz-flex"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

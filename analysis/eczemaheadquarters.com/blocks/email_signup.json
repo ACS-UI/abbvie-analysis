@@ -1,0 +1,26 @@
+{
+  "blockId": "email_signup",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Email Signup",
+  "description": "Section for users to sign up for email updates and receive a magazine.",
+  "domHints": {
+    "selectors": [
+      ".sign-up-for-mails"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

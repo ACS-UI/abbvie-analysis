@@ -1,0 +1,26 @@
+{
+  "blockId": "starting_elahere",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Starting ELAHERE Section",
+  "description": "Provides information on starting treatment with ELAHERE.",
+  "domHints": {
+    "selectors": [
+      "div.container.theme-plum--deeper-plum > div.row.-equal-height-col > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

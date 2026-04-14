@@ -1,0 +1,26 @@
+{
+  "blockId": "section_navigation",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Section Navigation",
+  "description": "Sticky navigation for quick access to page sections.",
+  "domHints": {
+    "selectors": [
+      ".abbv-section-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

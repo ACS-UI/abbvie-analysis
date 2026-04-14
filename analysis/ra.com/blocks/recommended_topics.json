@@ -1,0 +1,26 @@
+{
+  "blockId": "recommended_topics",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Recommended Topics",
+  "description": "Provides links to related topics and resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abv-custom-bgcolor-white"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

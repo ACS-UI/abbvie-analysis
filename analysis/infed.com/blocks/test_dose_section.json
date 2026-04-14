@@ -1,0 +1,26 @@
+{
+  "blockId": "test_dose_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Administering a Test Dose",
+  "description": "Details the procedure for administering a test dose of INFeD.",
+  "domHints": {
+    "selectors": [
+      ".administering-a-test-dose"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

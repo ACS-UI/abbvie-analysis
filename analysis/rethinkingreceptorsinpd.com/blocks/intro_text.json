@@ -1,0 +1,27 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_3",
+    "tpl_4"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides an introductory overview of the page content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.content-small.abbv-text-center"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

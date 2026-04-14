@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_tout_doctor_guide",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Inline Tout: Doctor Discussion Guide",
+  "description": "Provides a guide to prepare for discussions with doctors about eczema, with visuals and a call-to-action.",
+  "domHints": {
+    "selectors": [
+      "div.personalization-inline-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

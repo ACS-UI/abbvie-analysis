@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_reimbursement",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Reimbursement Accordion",
+  "description": "Contains expandable details about reimbursement processes.",
+  "domHints": {
+    "selectors": [
+      ".ozurdex-how-it-works-accordion.ozurdex-how-it-works-reimbursement"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

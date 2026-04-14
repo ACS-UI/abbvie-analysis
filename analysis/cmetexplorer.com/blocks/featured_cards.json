@@ -1,0 +1,27 @@
+{
+  "blockId": "featured_cards",
+  "templateIds": [
+    "tpl_178"
+  ],
+  "name": "Featured Cards",
+  "description": "Displays cards with featured content and links.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory",
+      "div.dashboardcards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_178 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

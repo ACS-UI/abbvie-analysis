@@ -1,0 +1,25 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.latestagensclc.com/biomarker-testing",
+          "https://www.latestagensclc.com/sitemap",
+          "https://www.latestagensclc.com/",
+          "https://www.latestagensclc.com/sign-up",
+          "https://www.latestagensclc.com/conversation-guide"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:10:27.314Z"
+}

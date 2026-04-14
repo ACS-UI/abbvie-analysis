@@ -1,0 +1,37 @@
+{
+  "blockId": "main_region_3",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_3",
+    "tpl_5",
+    "tpl_6",
+    "tpl_7",
+    "tpl_13",
+    "tpl_15",
+    "tpl_16",
+    "tpl_17",
+    "tpl_18",
+    "tpl_21"
+  ],
+  "name": "main region 3",
+  "description": "Major content region in main (div). Preview: The Results Are In: QULIPTA vs Topiramate A head-to-head study shows how QULIPTA stacked up against topiramate. SEE THE …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

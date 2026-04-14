@@ -1,0 +1,26 @@
+{
+  "blockId": "tools_information_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Tools and Information Section",
+  "description": "Provides tools and information for managing atopic dermatitis.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section-container.background--lavender-light:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

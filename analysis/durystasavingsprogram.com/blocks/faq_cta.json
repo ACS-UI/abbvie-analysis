@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_cta",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "FAQ Call-to-Action",
+  "description": "Encourages users to visit the FAQ section for more information.",
+  "domHints": {
+    "selectors": [
+      ".sign-up-section.faq-banner-bottom-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "how_to_order",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "How to Order",
+  "description": "Provides information on how to order EMRELIS, including contact details for distributors.",
+  "domHints": {
+    "selectors": [
+      "#howtoorderemrelis"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

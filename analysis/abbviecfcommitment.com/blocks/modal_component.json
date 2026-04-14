@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_component",
+  "templateIds": [
+    "tpl_36"
+  ],
+  "name": "Modal Component",
+  "description": "Displays additional content in a modal format.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_36 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

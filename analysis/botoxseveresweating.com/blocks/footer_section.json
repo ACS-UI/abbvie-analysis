@@ -1,0 +1,28 @@
+{
+  "blockId": "footer_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_7"
+  ],
+  "name": "Footer Section",
+  "description": "Contains site-wide footer links, copyright, and legal information.",
+  "domHints": {
+    "selectors": [
+      ".footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

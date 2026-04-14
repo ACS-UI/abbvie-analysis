@@ -1,0 +1,26 @@
+{
+  "blockId": "bigger_picture_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "The Bigger Picture Section",
+  "description": "Highlights broader implications and recommendations for HCV management.",
+  "domHints": {
+    "selectors": [
+      ".flex-white-bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

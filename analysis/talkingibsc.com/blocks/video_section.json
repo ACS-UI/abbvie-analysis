@@ -1,0 +1,26 @@
+{
+  "blockId": "video_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Video Section",
+  "description": "Includes a video player for showcasing multimedia content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-video-player"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

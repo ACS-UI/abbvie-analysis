@@ -1,0 +1,26 @@
+{
+  "blockId": "savings_program",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Savings Program Information",
+  "description": "Details about the SAVELLA savings program and eligibility.",
+  "domHints": {
+    "selectors": [
+      ".eligle-pink-card-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

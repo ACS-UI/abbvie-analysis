@@ -1,0 +1,26 @@
+{
+  "blockId": "description_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Description Section",
+  "description": "Details about MAVYRET, including its use and benefits.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.patient-stories-reviews"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

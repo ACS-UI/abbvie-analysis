@@ -1,0 +1,26 @@
+{
+  "blockId": "request_updates",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Request Updates",
+  "description": "Allows users to request updates, resources, or follow-ups.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.home-request"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

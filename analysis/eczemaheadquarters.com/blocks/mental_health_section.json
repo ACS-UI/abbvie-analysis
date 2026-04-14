@@ -1,0 +1,26 @@
+{
+  "blockId": "mental_health_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Mental Health Section",
+  "description": "Discusses the mental health impacts related to eczema and provides resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.margin-bottom-70.analytics-content-view-50-eczema-and-other-conditions"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

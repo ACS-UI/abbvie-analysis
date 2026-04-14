@@ -1,0 +1,26 @@
+{
+  "blockId": "pert_explanation",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "PERT Explanation",
+  "description": "Explains the working of PERT with supporting visuals and text.",
+  "domHints": {
+    "selectors": [
+      ".epi-four-blocks"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

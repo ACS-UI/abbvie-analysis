@@ -1,0 +1,26 @@
+{
+  "blockId": "references_list",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "References List",
+  "description": "Displays a list of references relevant to the page content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.infed-references-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

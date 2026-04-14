@@ -1,0 +1,194 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": "#background-container-244389776"
+    },
+    {
+      "relativePath": "cta_columns__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-main-banner-bts"
+    },
+    {
+      "relativePath": "testimonial_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-spasticity-testimonial-sec"
+    },
+    {
+      "relativePath": "causes_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-spasticity-causes-sec"
+    },
+    {
+      "relativePath": "signs_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-signs-section"
+    },
+    {
+      "relativePath": "care_team_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-care-team-section"
+    },
+    {
+      "relativePath": "treatment_options_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-treatment-options"
+    },
+    {
+      "relativePath": "impact_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-impact"
+    },
+    {
+      "relativePath": "guide_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-guide-sec"
+    },
+    {
+      "relativePath": "video_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-video-container"
+    },
+    {
+      "relativePath": "resources_section__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".botox-resources"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".abbv-container.botox-sitemap"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "footer_legal_text__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_exit__default.png",
+      "sourceUrl": "https://www.donttakespasticity.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:54.178Z",
+      "selector": ".abbv-modal.exitmodal"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cards_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Cards Section",
+  "description": "Displays a series of cards with CTAs for video advice, dose calculator, and savings options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

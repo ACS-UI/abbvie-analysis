@@ -1,0 +1,26 @@
+{
+  "blockId": "testimonial_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Testimonial Section",
+  "description": "Features a patient testimonial with supporting image.",
+  "domHints": {
+    "selectors": [
+      ".botox-spasticity-testimonial-sec"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

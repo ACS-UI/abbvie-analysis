@@ -1,0 +1,26 @@
+{
+  "blockId": "additional_tips",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Additional Tips",
+  "description": "Offers supplementary advice and suggestions related to the main content.",
+  "domHints": {
+    "selectors": [
+      "a.abbv-skip-to-main-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,35 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.mavyret.com/hcp/nurse-ambassador",
+          "https://www.mavyret.com/liver-under-attack-transcript",
+          "https://www.mavyret.com/cost",
+          "https://www.mavyret.com/hep-c-treatment",
+          "https://www.mavyret.com/about-hep-c",
+          "https://www.mavyret.com/search-results",
+          "https://www.mavyret.com/",
+          "https://www.mavyret.com/locator",
+          "https://www.mavyret.com/side-effects",
+          "https://www.mavyret.com/patient-support",
+          "https://www.mavyret.com/patient-stories",
+          "https://www.mavyret.com/sitemap",
+          "https://www.mavyret.com/what-is-mavyret",
+          "https://www.mavyret.com/hep-c-testing",
+          "https://www.mavyret.com/espanol/hep-c-y-el-higado-video-transcripcion"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:26:27.063Z"
+}

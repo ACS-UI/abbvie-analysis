@@ -1,0 +1,26 @@
+{
+  "blockId": "identifying_id_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Identifying ID Section",
+  "description": "Explains the definition and causes of ID and IDA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-siab.identifying-id-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

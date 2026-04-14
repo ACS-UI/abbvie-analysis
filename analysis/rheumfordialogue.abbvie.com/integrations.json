@@ -1,0 +1,39 @@
+{
+  "integrations": [
+    {
+      "id": "youtube-embed",
+      "name": "YouTube embed",
+      "category": "video",
+      "evidence": {
+        "urls": [
+          "https://www.rheumfordialogue.abbvie.com/"
+        ],
+        "patterns": [
+          "youtube.com/embed|youtu.be"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    },
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.rheumfordialogue.abbvie.com/",
+          "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+          "https://www.rheumfordialogue.abbvie.com/sitemap"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:31:32.607Z"
+}

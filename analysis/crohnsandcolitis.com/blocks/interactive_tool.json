@@ -1,0 +1,26 @@
+{
+  "blockId": "interactive_tool",
+  "templateIds": [
+    "tpl_20"
+  ],
+  "name": "Interactive Tool",
+  "description": "Embeds an interactive tool for users to measure the impact of IBD.",
+  "domHints": {
+    "selectors": [
+      ".cmp-formsembed-widget"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_20 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

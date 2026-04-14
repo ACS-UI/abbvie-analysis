@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.skyrizi.com/",
+  "normalisedUrl": "https://www.skyrizi.com/",
+  "finalUrlAfterRedirects": "https://www.skyrizi.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T11:06:42.642Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

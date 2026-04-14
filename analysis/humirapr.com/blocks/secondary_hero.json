@@ -1,0 +1,26 @@
+{
+  "blockId": "secondary_hero",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Secondary Hero",
+  "description": "Additional emphasis on the page topic with a call-to-action.",
+  "domHints": {
+    "selectors": [
+      "section.arthritis-hero"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

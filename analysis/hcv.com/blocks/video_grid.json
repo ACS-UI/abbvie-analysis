@@ -1,0 +1,26 @@
+{
+  "blockId": "video_grid",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Video Grid",
+  "description": "Displays a grid of videos with titles and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2.flex-card-container.four-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

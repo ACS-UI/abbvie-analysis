@@ -1,0 +1,26 @@
+{
+  "blockId": "efficacy_outcomes",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Efficacy Outcomes",
+  "description": "Presents the key efficacy outcomes and safety measures.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.ozurdex-hcp-outcome"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

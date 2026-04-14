@@ -1,0 +1,27 @@
+{
+  "blockId": "form_embed",
+  "templateIds": [
+    "tpl_1",
+    "tpl_13"
+  ],
+  "name": "Form Embed",
+  "description": "Contains the form for users to sign up for the wellness book.",
+  "domHints": {
+    "selectors": [
+      ".cmp-formsembed-widget"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

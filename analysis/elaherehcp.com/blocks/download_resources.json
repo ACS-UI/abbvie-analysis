@@ -1,0 +1,26 @@
+{
+  "blockId": "download_resources",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Downloadable Resources",
+  "description": "Links to download additional resources like booklets and information sheets.",
+  "domHints": {
+    "selectors": [
+      "#main"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

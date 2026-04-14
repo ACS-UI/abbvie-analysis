@@ -1,0 +1,26 @@
+{
+  "blockId": "skip_to_main_content",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Skip to Main Content Link",
+  "description": "Provides a link for users to skip directly to the main content area of the page.",
+  "domHints": {
+    "selectors": [
+      "a.skip-to-main-content-link"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

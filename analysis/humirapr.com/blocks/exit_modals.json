@@ -1,0 +1,26 @@
+{
+  "blockId": "exit_modals",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Exit Modals",
+  "description": "Contains modal dialogs for exit warnings and confirmations.",
+  "domHints": {
+    "selectors": [
+      ".modal.exit-modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.ozurdex.com/",
+  "normalisedUrl": "https://www.ozurdex.com/",
+  "finalUrlAfterRedirects": "https://www.ozurdex.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:33:42.868Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

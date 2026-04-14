@@ -1,0 +1,26 @@
+{
+  "blockId": "resource_ctas",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Resource CTAs",
+  "description": "Provides call-to-action blocks for resources, doctor locator, and additional information.",
+  "domHints": {
+    "selectors": [
+      "#background-container-9901557"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

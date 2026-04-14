@@ -1,0 +1,254 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-header-v2-content"
+    },
+    {
+      "relativePath": "hero_carousel__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-carousel"
+    },
+    {
+      "relativePath": "introduce_section__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": "#thejointmovement"
+    },
+    {
+      "relativePath": "tabs_section__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-tabs"
+    },
+    {
+      "relativePath": "joint_discussion__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": "#ajointdiscussion"
+    },
+    {
+      "relativePath": "resource_hub__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": "#resourcehub"
+    },
+    {
+      "relativePath": "patient_tool__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".patient-section"
+    },
+    {
+      "relativePath": "footer_references__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".footnote.left"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": "header.abbv-header-v2"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": "section[role='main']"
+    },
+    {
+      "relativePath": "assessment_tool_embed__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": "iframe#aemFormFrame"
+    },
+    {
+      "relativePath": "rich_text_information__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".coming-soon-wrapper"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": "footer.abbv-footer"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "cookie_consent__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": "#ot-sdk-btn1"
+    },
+    {
+      "relativePath": "modal_dialogs__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/patient-assessment-tool",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-modal"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "sitemap_title__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-rich-text > h1"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-link-list"
+    },
+    {
+      "relativePath": "footer_support_section__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-footer-vertical:nth-of-type(1)"
+    },
+    {
+      "relativePath": "footer_legal_text__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-legal-text"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "modal_wolonleave__default.png",
+      "sourceUrl": "https://www.rheumfordialogue.abbvie.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:29:01.227Z",
+      "selector": ".abbv-modal.wolOnLeave"
+    }
+  ]
+}

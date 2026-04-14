@@ -1,0 +1,36 @@
+{
+  "blockId": "cta_grid",
+  "templateIds": [
+    "tpl_26",
+    "tpl_40",
+    "tpl_105",
+    "tpl_129",
+    "tpl_146",
+    "tpl_168",
+    "tpl_172",
+    "tpl_214",
+    "tpl_239",
+    "tpl_300",
+    "tpl_308"
+  ],
+  "name": "Call-to-Action Grid",
+  "description": "Grid layout featuring links to key pages and sections.",
+  "domHints": {
+    "selectors": [
+      ".grid-container > .grid-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_26 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

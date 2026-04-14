@@ -1,0 +1,39 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T15:33:58.833Z",
+  "completedAt": "2026-04-13T15:46:16.862Z",
+  "input": {
+    "url": "https://www.refresheyedrops.com",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/refresheyedrops.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Unassigned Agent Pages",
+        "source": "llm_identify",
+        "blockCount": 6,
+        "proposedCount": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "support_services_section",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Support Services Section",
+  "description": "Details the support services available to users.",
+  "domHints": {
+    "selectors": [
+      "#ESS"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

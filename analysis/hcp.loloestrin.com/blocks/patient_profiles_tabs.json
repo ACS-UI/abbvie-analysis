@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_profiles_tabs",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Patient Profiles Tabs",
+  "description": "Interactive tabs for exploring different patient profiles and their suitability for Lo Loestrin Fe.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs.is-loloright-tabs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

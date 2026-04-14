@@ -1,0 +1,26 @@
+{
+  "blockId": "columns_vitamins_and_healthy_eating",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Columns: Vitamins and Healthy Eating",
+  "description": "Two-column layout highlighting vitamins and healthy eating.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.primary-wrapper"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

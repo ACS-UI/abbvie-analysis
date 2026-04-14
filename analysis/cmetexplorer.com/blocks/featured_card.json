@@ -1,0 +1,31 @@
+{
+  "blockId": "featured_card",
+  "templateIds": [
+    "tpl_16",
+    "tpl_21",
+    "tpl_75",
+    "tpl_80",
+    "tpl_246"
+  ],
+  "name": "Featured Card",
+  "description": "A prominent card highlighting a specific story or feature, including an image and description.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory",
+      "div.card-content-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

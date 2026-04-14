@@ -1,0 +1,26 @@
+{
+  "blockId": "qa_section",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Q&A Section",
+  "description": "Frequently Asked Questions section with accordion-style content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion.abc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

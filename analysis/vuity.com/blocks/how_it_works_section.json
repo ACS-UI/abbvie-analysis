@@ -1,0 +1,26 @@
+{
+  "blockId": "how_it_works_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "How It Works",
+  "description": "Explains the mechanism of action of VUITY and its effects.",
+  "domHints": {
+    "selectors": [
+      "header.vuity-header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

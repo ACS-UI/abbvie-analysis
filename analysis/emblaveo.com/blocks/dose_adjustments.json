@@ -1,0 +1,26 @@
+{
+  "blockId": "dose_adjustments",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Dose Adjustments",
+  "description": "Explains how dosing should be adjusted based on the patient's creatinine clearance.",
+  "domHints": {
+    "selectors": [
+      ".dose-adjustments-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

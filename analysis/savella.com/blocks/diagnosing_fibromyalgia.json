@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnosing_fibromyalgia",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Diagnosing Fibromyalgia",
+  "description": "Explains the process and criteria for diagnosing fibromyalgia.",
+  "domHints": {
+    "selectors": [
+      ".fibromyalgia-diagnosing"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,27 @@
+{
+  "blockId": "functional_cookies_accordion",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Functional Cookies Accordion",
+  "description": "Accordion section detailing information about functional cookies.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-accordion-blade-2",
+      "div.abbv-accordion-blade-2 > div.abbv-accordion-content"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

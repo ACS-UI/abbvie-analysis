@@ -1,0 +1,26 @@
+{
+  "blockId": "hero_title",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Hero Title",
+  "description": "Displays the main title of the page, providing context for the content.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-title h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

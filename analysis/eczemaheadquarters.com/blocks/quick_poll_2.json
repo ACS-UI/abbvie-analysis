@@ -1,0 +1,26 @@
+{
+  "blockId": "quick_poll_2",
+  "templateIds": [
+    "tpl_45"
+  ],
+  "name": "Quick Poll 2",
+  "description": "The second quick poll asks the user about their upcoming doctor appointments.",
+  "domHints": {
+    "selectors": [
+      ".abbv-quick-poll[data-pollID='registration_form_thank_you_page_2']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_45 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

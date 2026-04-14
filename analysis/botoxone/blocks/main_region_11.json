@@ -1,0 +1,28 @@
+{
+  "blockId": "main_region_11",
+  "templateIds": [
+    "tpl_30",
+    "tpl_36",
+    "tpl_43"
+  ],
+  "name": "main region 11",
+  "description": "Major content region in main (div). Preview: Did you know? “Patients may leave out milder headache days. To uncover their true disease burden, consider asking a pati…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(12)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_30. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

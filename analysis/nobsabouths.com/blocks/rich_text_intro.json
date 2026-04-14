@@ -1,0 +1,26 @@
+{
+  "blockId": "rich_text_intro",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Introductory Text",
+  "description": "Provides a brief introduction and context for the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

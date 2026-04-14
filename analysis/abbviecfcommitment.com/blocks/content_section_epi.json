@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_epi",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "EPI Information Section",
+  "description": "Details about EPI and its impact on nutrition.",
+  "domHints": {
+    "selectors": [
+      "#background-container-751537124"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

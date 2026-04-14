@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Product Information",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Informational Articles",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Sitemap",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Modal Information",
+      "source": "llm_identify",
+      "blockCount": 3,
+      "proposedCount": 3
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Home Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Search Results",
+      "source": "llm_identify",
+      "blockCount": 10,
+      "proposedCount": 10
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "FAQ Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Interactive Quiz",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    }
+  ],
+  "generatedAt": "2026-04-13T15:33:40.735Z"
+}

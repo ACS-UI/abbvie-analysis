@@ -1,0 +1,105 @@
+{
+  "entryUrl": "https://www.savella.com/",
+  "discoveredAt": "2026-04-13T16:16:42.937Z",
+  "urls": [
+    {
+      "url": "https://www.savella.com/",
+      "normalised": "https://www.savella.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/why-savella",
+      "normalised": "https://www.savella.com/why-savella",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/fibromyalgia-basics",
+      "normalised": "https://www.savella.com/fibromyalgia-basics",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/savings-and-resources",
+      "normalised": "https://www.savella.com/savings-and-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/savella-savingscard",
+      "normalised": "https://www.savella.com/savella-savingscard",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/savella-savingscard/terms",
+      "normalised": "https://www.savella.com/savella-savingscard/terms",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/sitemap",
+      "normalised": "https://www.savella.com/sitemap",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/sign-up",
+      "normalised": "https://www.savella.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/savella-savingscard/activate",
+      "normalised": "https://www.savella.com/savella-savingscard/activate",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/sign-up-confirmation",
+      "normalised": "https://www.savella.com/sign-up-confirmation",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/search-results",
+      "normalised": "https://www.savella.com/search-results",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/301",
+      "normalised": "https://www.savella.com/301",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.savella.com/site-modals/warn-on-leave-extra-help",
+      "normalised": "https://www.savella.com/site-modals/warn-on-leave-extra-help",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 13,
+    "bySource": {
+      "sitemap": 5,
+      "crawl": 8,
+      "manual": 0
+    }
+  }
+}

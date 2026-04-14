@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.patientenrollmentsupport.com/",
+  "normalisedUrl": "https://www.patientenrollmentsupport.com/",
+  "finalUrlAfterRedirects": "https://www.patientenrollmentsupport.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:26:12.444Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_banner",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Resources Banner",
+  "description": "Promotes resources and guides available for patients.",
+  "domHints": {
+    "selectors": [
+      ".container.theme-plum--deeper-plum"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

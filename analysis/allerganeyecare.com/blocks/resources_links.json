@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_links",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Resources Links",
+  "description": "Links to office resources and helpful links for users.",
+  "domHints": {
+    "selectors": [
+      ".allergan-linklistor-bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

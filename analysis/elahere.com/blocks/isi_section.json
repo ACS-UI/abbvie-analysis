@@ -1,0 +1,28 @@
+{
+  "blockId": "isi_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_3",
+    "tpl_4"
+  ],
+  "name": "Important Safety Information",
+  "description": "Displays important safety information for the product.",
+  "domHints": {
+    "selectors": [
+      "cmp-isi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

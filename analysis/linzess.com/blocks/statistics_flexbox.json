@@ -1,0 +1,26 @@
+{
+  "blockId": "statistics_flexbox",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Statistics Flexbox",
+  "description": "Presents key statistics about IBS-C and CIC in a visually engaging format.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2.flexbox-column-mobile.flexbox-cards.c-dark-purple"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "interactive_image",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Interactive Image",
+  "description": "Clickable image linking to external resources.",
+  "domHints": {
+    "selectors": [
+      ".abbvieaccess-patientassist-container .interactive-image"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

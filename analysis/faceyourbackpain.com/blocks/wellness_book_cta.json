@@ -1,0 +1,26 @@
+{
+  "blockId": "wellness_book_cta",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Wellness Book CTA",
+  "description": "Encourages users to sign up for a wellness book with recipes and tips.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.bg-color-natual-light"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

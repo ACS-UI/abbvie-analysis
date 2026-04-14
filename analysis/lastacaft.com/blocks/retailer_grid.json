@@ -1,0 +1,26 @@
+{
+  "blockId": "retailer_grid",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Retailer Grid",
+  "description": "Displays a grid of retailers where the product can be purchased.",
+  "domHints": {
+    "selectors": [
+      ".lastacaft-retail-options"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

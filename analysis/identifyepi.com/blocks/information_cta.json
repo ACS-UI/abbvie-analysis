@@ -1,0 +1,26 @@
+{
+  "blockId": "information_cta",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Information CTA",
+  "description": "Offers users the option to sign up for a free informational book.",
+  "domHints": {
+    "selectors": [
+      ".epi-gray-block .cta a[href='/exocrine-pancreatic-insufficiency-information']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

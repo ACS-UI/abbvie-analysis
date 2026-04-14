@@ -1,0 +1,26 @@
+{
+  "blockId": "bone_mass_factors",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Bone Mass Factors",
+  "description": "Discusses factors influencing bone mass, including gender, race, and diseases.",
+  "domHints": {
+    "selectors": [
+      ".wh-digi-factors-text"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

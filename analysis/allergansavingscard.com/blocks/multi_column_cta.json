@@ -1,0 +1,27 @@
+{
+  "blockId": "multi_column_cta",
+  "templateIds": [
+    "tpl_79",
+    "tpl_189"
+  ],
+  "name": "Multi-Column CTAs",
+  "description": "Displays call-to-action elements in a multi-column layout.",
+  "domHints": {
+    "selectors": [
+      ".grid-row__col-with-4"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_79 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "tips_section",
+  "templateIds": [
+    "tpl_35"
+  ],
+  "name": "Tips Section",
+  "description": "Offers actionable tips for managing eczema.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.bg--green"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_35 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

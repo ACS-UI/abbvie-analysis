@@ -1,0 +1,27 @@
+{
+  "blockId": "poll_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_9"
+  ],
+  "name": "Poll Section",
+  "description": "Interactive section for collecting user feedback.",
+  "domHints": {
+    "selectors": [
+      ".abbv-quick-poll"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

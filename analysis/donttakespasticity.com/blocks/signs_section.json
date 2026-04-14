@@ -1,0 +1,26 @@
+{
+  "blockId": "signs_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Signs Section",
+  "description": "Details the signs of spasticity with visual aids.",
+  "domHints": {
+    "selectors": [
+      ".botox-signs-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

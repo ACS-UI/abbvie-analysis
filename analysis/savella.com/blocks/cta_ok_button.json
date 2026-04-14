@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_ok_button",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "CTA OK Button",
+  "description": "Provides a call-to-action for users to proceed to the external site.",
+  "domHints": {
+    "selectors": [
+      "a.abbv-button-plain[href='https://www.medicare.gov/basics/costs/help/drug-costs']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

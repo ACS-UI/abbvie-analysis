@@ -1,0 +1,30 @@
+{
+  "blockId": "cta_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_6"
+  ],
+  "name": "Call to Action Section",
+  "description": "Encourages users to contact MSL for more information about D1/D5 selectivity.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container .abbv-flex-container-v2.content-extra-large.callout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

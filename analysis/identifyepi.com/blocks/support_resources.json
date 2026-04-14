@@ -1,0 +1,26 @@
+{
+  "blockId": "support_resources",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Support Resources",
+  "description": "Section providing links to support resources and further reading.",
+  "domHints": {
+    "selectors": [
+      ".epi-image-text-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

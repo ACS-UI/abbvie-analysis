@@ -1,0 +1,26 @@
+{
+  "blockId": "insurance_support",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Insurance Support",
+  "description": "Information and support options for insurance coverage and financial assistance.",
+  "domHints": {
+    "selectors": [
+      "#mavyret-coverage-and-support"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

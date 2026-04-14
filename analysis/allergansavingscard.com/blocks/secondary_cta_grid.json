@@ -1,0 +1,26 @@
+{
+  "blockId": "secondary_cta_grid",
+  "templateIds": [
+    "tpl_217"
+  ],
+  "name": "Secondary CTA Grid",
+  "description": "Provides additional call-to-action links and descriptions for secondary site sections.",
+  "domHints": {
+    "selectors": [
+      "div.grid-row__col-with-3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_217 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

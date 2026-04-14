@@ -1,0 +1,483 @@
+{
+  "entryUrl": "https://www.crohnsandcolitis.com/",
+  "discoveredAt": "2026-04-13T15:44:51.156Z",
+  "urls": [
+    {
+      "url": "https://www.crohnsandcolitis.com/",
+      "normalised": "https://www.crohnsandcolitis.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/content/dam/crohnsandcolitis/documents/Gastro_Discussion_Guide.pdf",
+      "normalised": "https://www.crohnsandcolitis.com/content/dam/crohnsandcolitis/documents/Gastro_Discussion_Guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns",
+      "normalised": "https://www.crohnsandcolitis.com/crohns",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/biologics-for-crohns",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/biologics-for-crohns",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/targeted-treatments",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/targeted-treatments",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/severity-and-progression",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/severity-and-progression",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/treatment-options",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/treatment-options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/what-is-ulcerative-colitis",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/what-is-ulcerative-colitis",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/search-results",
+      "normalised": "https://www.crohnsandcolitis.com/search-results",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/sign-up",
+      "normalised": "https://www.crohnsandcolitis.com/sign-up",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/personalization",
+      "normalised": "https://www.crohnsandcolitis.com/personalization",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/you-and-your-doctor",
+      "normalised": "https://www.crohnsandcolitis.com/you-and-your-doctor",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/living-with-uc",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/living-with-uc",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/targeted-treatments",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/targeted-treatments",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/severity-and-progression",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/severity-and-progression",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/site-map",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/site-map",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ibd/stress-and-ibd",
+      "normalised": "https://www.crohnsandcolitis.com/ibd/stress-and-ibd",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/what-is-crohns-disease",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/what-is-crohns-disease",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/tools-and-support/support-and-resources",
+      "normalised": "https://www.crohnsandcolitis.com/tools-and-support/support-and-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/sitemap",
+      "normalised": "https://www.crohnsandcolitis.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/treatment-options",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/treatment-options",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ibd/impact-of-ibd",
+      "normalised": "https://www.crohnsandcolitis.com/ibd/impact-of-ibd",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/causes",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/causes",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/site-map",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/site-map",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/find-a-gastroenterologist",
+      "normalised": "https://www.crohnsandcolitis.com/find-a-gastroenterologist",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ibd",
+      "normalised": "https://www.crohnsandcolitis.com/ibd",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/tools-and-support",
+      "normalised": "https://www.crohnsandcolitis.com/tools-and-support",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ibd/diet-and-exercise",
+      "normalised": "https://www.crohnsandcolitis.com/ibd/diet-and-exercise",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/living-with-crohns",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/living-with-crohns",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/prepare-for-your-appointment",
+      "normalised": "https://www.crohnsandcolitis.com/prepare-for-your-appointment",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/symptoms-flare-ups",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/symptoms-flare-ups",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/symptoms-flare-ups",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/symptoms-flare-ups",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/causes",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/causes",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/gdg-brochure",
+      "normalised": "https://www.crohnsandcolitis.com/gdg-brochure",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-2",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1146244821-3",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1146244821-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-2068288700-3",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-2068288700-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1146244821-1",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1146244821-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-7",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-7",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1409588229-3",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1409588229-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-2068288700-0",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-2068288700-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1327006410-1",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1327006410-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-9",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-9",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-1",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1146244821-2",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1146244821-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1409588229-2",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1409588229-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-2",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-4",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1327006410-0",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1327006410-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-8",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-8",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-0",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/advanced-treatments",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/advanced-treatments",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-2068288700-2",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-2068288700-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1327006410-3",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1327006410-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1409588229-1",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1409588229-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-1",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1146244821-0",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1146244821-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-0",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1327006410-2",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1327006410-2",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-6",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-6",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-3",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-5",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-5",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-4",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-631428239-4",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-3",
+      "normalised": "https://www.crohnsandcolitis.com/crohns/abbv-tab-1856690247-3",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-2068288700-1",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-2068288700-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1409588229-0",
+      "normalised": "https://www.crohnsandcolitis.com/ulcerative-colitis/abbv-tab-1409588229-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 67,
+    "bySource": {
+      "sitemap": 28,
+      "crawl": 39,
+      "manual": 0
+    }
+  }
+}

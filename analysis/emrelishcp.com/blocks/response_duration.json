@@ -1,0 +1,26 @@
+{
+  "blockId": "response_duration",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Response Duration",
+  "description": "Section detailing the duration of response with visual timelines and supporting information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.border-gradient-green-gold"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

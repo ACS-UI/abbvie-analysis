@@ -1,0 +1,26 @@
+{
+  "blockId": "information_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Information Section",
+  "description": "Provides detailed information about the product, including benefits and usage.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.indication-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

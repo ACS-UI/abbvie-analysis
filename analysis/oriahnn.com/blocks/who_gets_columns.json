@@ -1,0 +1,26 @@
+{
+  "blockId": "who_gets_columns",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Who Gets Uterine Fibroids?",
+  "description": "Explains demographics and statistics about uterine fibroids.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.what-are-uf-who-get-uterine-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

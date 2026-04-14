@@ -1,0 +1,26 @@
+{
+  "blockId": "savings_and_faqs",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Savings and FAQs",
+  "description": "Provides information about savings programs and answers to frequently asked questions.",
+  "domHints": {
+    "selectors": [
+      ".save-on-viberzi"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

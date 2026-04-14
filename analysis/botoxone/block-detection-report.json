@@ -1,0 +1,515 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Page layout group 1",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 11
+    },
+    {
+      "templateId": "tpl_1",
+      "humanName": "Hyperhidrosis — group 2",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Register — group 3",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Sign In — group 4",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Patient Access And Support — group 5",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Request A Rep — group 6",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Blepharospasm — group 7",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Oab — group 8",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_8",
+      "humanName": "Dosing — group 9",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_9",
+      "humanName": "Strabismus — group 10",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_10",
+      "humanName": "Adult Ndo — group 11",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 9
+    },
+    {
+      "templateId": "tpl_11",
+      "humanName": "Maxedge — group 12",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_12",
+      "humanName": "Botox Services — group 13",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_13",
+      "humanName": "Online Training — group 14",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_14",
+      "humanName": "Practice Resources — group 15",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_15",
+      "humanName": "Patient Id — group 16",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_16",
+      "humanName": "Patient Id — group 17",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_17",
+      "humanName": "Search Results — group 18",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_18",
+      "humanName": "Efficacy — group 19",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_19",
+      "humanName": "Cm Additional Data — group 20",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_20",
+      "humanName": "Patient Id — group 21",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_21",
+      "humanName": "Safety — group 22",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_22",
+      "humanName": "Dosing — group 23",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 10
+    },
+    {
+      "templateId": "tpl_23",
+      "humanName": "Efficacy — group 24",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_24",
+      "humanName": "Efficacy — group 25",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_25",
+      "humanName": "Safety — group 26",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_26",
+      "humanName": "Safety — group 27",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_27",
+      "humanName": "Efficacy — group 28",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_28",
+      "humanName": "Resources — group 29",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_29",
+      "humanName": "Resources — group 30",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_30",
+      "humanName": "Patient Id — group 31",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_31",
+      "humanName": "Dosing — group 32",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_32",
+      "humanName": "Safety — group 33",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_33",
+      "humanName": "Efficacy — group 34",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_34",
+      "humanName": "Efficacy — group 35",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_35",
+      "humanName": "Resources — group 36",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_36",
+      "humanName": "Since 2010 — group 37",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 21
+    },
+    {
+      "templateId": "tpl_37",
+      "humanName": "Find An Injector — group 38",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_38",
+      "humanName": "Clinical Information — group 39",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_39",
+      "humanName": "Pediatric Ndo — group 40",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 9
+    },
+    {
+      "templateId": "tpl_40",
+      "humanName": "Adult Spasticity — group 41",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_41",
+      "humanName": "Cervical Dystonia — group 42",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_42",
+      "humanName": "Pediatric Spasticity — group 43",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 8
+    },
+    {
+      "templateId": "tpl_43",
+      "humanName": "Chronic Migraine — group 44",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 15
+    },
+    {
+      "templateId": "tpl_44",
+      "humanName": "Faqs — group 45",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_45",
+      "humanName": "Efficacy — group 46",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_46",
+      "humanName": "Patient Id — group 47",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_47",
+      "humanName": "Dosing — group 48",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_48",
+      "humanName": "Dosing — group 49",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_49",
+      "humanName": "Site Map — group 50",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_50",
+      "humanName": "Resources — group 51",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_51",
+      "humanName": "Safety — group 52",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_52",
+      "humanName": "Dosing — group 53",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_53",
+      "humanName": "Safety — group 54",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_54",
+      "humanName": "Patient Id — group 55",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_55",
+      "humanName": "Safety — group 56",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_56",
+      "humanName": "Safety — group 57",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_57",
+      "humanName": "Efficacy — group 58",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 7
+    },
+    {
+      "templateId": "tpl_58",
+      "humanName": "Reset Password — group 59",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_59",
+      "humanName": "Dosing — group 60",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_60",
+      "humanName": "Forgot Password — group 61",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_61",
+      "humanName": "Dosing — group 62",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_62",
+      "humanName": "Sitemap — group 63",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 2
+    },
+    {
+      "templateId": "tpl_63",
+      "humanName": "Page layout group 64",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_64",
+      "humanName": "Patient Id — group 65",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_65",
+      "humanName": "Resources — group 66",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_66",
+      "humanName": "Dosing — group 67",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_67",
+      "humanName": "Dosing — group 68",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_68",
+      "humanName": "Resources — group 69",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_69",
+      "humanName": "Efficacy — group 70",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 6
+    },
+    {
+      "templateId": "tpl_70",
+      "humanName": "Safety — group 71",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_71",
+      "humanName": "Patient Id — group 72",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_72",
+      "humanName": "Patient Id — group 73",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_73",
+      "humanName": "Maxedge Update Profile — group 74",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_74",
+      "humanName": "Efficacy — group 75",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 4
+    },
+    {
+      "templateId": "tpl_75",
+      "humanName": "Aemform Iframe En — group 76",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 1
+    },
+    {
+      "templateId": "tpl_76",
+      "humanName": "Aemform Iframe En — group 77",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 2
+    },
+    {
+      "templateId": "tpl_77",
+      "humanName": "Aemform Iframe En — group 78",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 2
+    },
+    {
+      "templateId": "tpl_78",
+      "humanName": "Aemform Iframe En — group 79",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 2
+    },
+    {
+      "templateId": "tpl_79",
+      "humanName": "Aemform Iframe En — group 80",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 2
+    },
+    {
+      "templateId": "tpl_80",
+      "humanName": "Safety — group 81",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 5
+    },
+    {
+      "templateId": "tpl_81",
+      "humanName": "Patient Id — group 82",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 9
+    },
+    {
+      "templateId": "tpl_82",
+      "humanName": "Page layout group 83",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_83",
+      "humanName": "Introducing Botox Complete — group 84",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 3
+    },
+    {
+      "templateId": "tpl_84",
+      "humanName": "Aemform Iframe En — group 85",
+      "source": "heuristic_fallback_identify_error",
+      "blockCount": 2
+    }
+  ],
+  "generatedAt": "2026-04-13T12:28:16.143Z"
+}

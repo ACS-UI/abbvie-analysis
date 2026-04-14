@@ -1,0 +1,26 @@
+{
+  "blockId": "severity_levels_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Severity Levels Section",
+  "description": "Details the varying levels of ulcerative colitis severity.",
+  "domHints": {
+    "selectors": [
+      "#howsevereisyouruc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

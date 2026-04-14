@@ -1,0 +1,26 @@
+{
+  "blockId": "faq_section_dosing",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "FAQ Section: Dosing",
+  "description": "Contains accordion items addressing questions about Synthroid dosing.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section--full.color--card-bg:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

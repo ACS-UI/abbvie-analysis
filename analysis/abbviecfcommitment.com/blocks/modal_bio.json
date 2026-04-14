@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_bio",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Modal Bio",
+  "description": "Displays detailed information about Suzanne Michel in a modal window.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.SusanBioModal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

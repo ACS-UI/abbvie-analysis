@@ -1,0 +1,27 @@
+{
+  "blockId": "chart_bmi",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "BMI Chart",
+  "description": "Chart depicting body mass index categories and their relation to clinical outcomes.",
+  "domHints": {
+    "selectors": [
+      "#abbv-barchart-1676516265-data",
+      ".abbv-interactive-chart[data-graph-w='300']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

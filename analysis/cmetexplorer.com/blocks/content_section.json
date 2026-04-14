@@ -1,0 +1,34 @@
+{
+  "blockId": "content_section",
+  "templateIds": [
+    "tpl_10",
+    "tpl_39",
+    "tpl_51",
+    "tpl_52",
+    "tpl_113",
+    "tpl_115",
+    "tpl_172",
+    "tpl_253",
+    "tpl_294"
+  ],
+  "name": "Content Section",
+  "description": "Displays the main content of the page, including text and images.",
+  "domHints": {
+    "selectors": [
+      "div.aem-Grid.aem-Grid--12"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "designed_for_efficacy",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Designed for Efficacy",
+  "description": "Details the product's design and efficacy.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.home-designed"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_columns",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Main Content Columns",
+  "description": "Main content area with text and images arranged in columns.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.nobs-main"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

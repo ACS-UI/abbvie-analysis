@@ -1,0 +1,27 @@
+{
+  "blockId": "product_logos",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1"
+  ],
+  "name": "Product Logos",
+  "description": "Displays logos for associated products with links to their respective sites.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.complete-logos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

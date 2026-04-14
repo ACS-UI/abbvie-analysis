@@ -1,0 +1,26 @@
+{
+  "blockId": "quick_poll_1",
+  "templateIds": [
+    "tpl_45"
+  ],
+  "name": "Quick Poll 1",
+  "description": "The first quick poll asks the user about their primary doctor for eczema.",
+  "domHints": {
+    "selectors": [
+      ".abbv-quick-poll[data-pollID='registration_form_thank_you_page']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_45 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

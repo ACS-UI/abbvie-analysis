@@ -1,0 +1,28 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_1",
+    "tpl_4",
+    "tpl_6"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick access to utility links such as contact, terms, and privacy settings.",
+  "domHints": {
+    "selectors": [
+      ".abbv-footer-horizontal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

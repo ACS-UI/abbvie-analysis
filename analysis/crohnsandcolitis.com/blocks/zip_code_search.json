@@ -1,0 +1,26 @@
+{
+  "blockId": "zip_code_search",
+  "templateIds": [
+    "tpl_23"
+  ],
+  "name": "ZIP Code Search",
+  "description": "Interactive tool to find a gastroenterologist by ZIP code.",
+  "domHints": {
+    "selectors": [
+      ".doctor-locator-app"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_23 (selectors validated in representative HTML).",
+  "aemCatalogName": "Search"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "planning_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Planning Section",
+  "description": "Highlights the importance of planning and packing meals.",
+  "domHints": {
+    "selectors": [
+      "#background-container-220468888"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

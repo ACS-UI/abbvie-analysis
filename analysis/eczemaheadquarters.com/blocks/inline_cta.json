@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_cta",
+  "templateIds": [
+    "tpl_35"
+  ],
+  "name": "Inline Call to Action",
+  "description": "Encourages users to sign up for additional resources or magazines.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.personalization-inline-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_35 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

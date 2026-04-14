@@ -1,0 +1,26 @@
+{
+  "blockId": "signup_methods",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Signup Methods",
+  "description": "Details the two methods for signing up for the Savings Program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.saving-signup-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

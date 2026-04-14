@@ -1,0 +1,27 @@
+{
+  "blockId": "content_section_3",
+  "templateIds": [
+    "tpl_96",
+    "tpl_290"
+  ],
+  "name": "Content Section 3",
+  "description": "Contains information about 'Patients' with links and descriptions.",
+  "domHints": {
+    "selectors": [
+      "div#container-73411ff1dd"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_96 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

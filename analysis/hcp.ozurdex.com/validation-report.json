@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://hcp.ozurdex.com/",
+  "normalisedUrl": "https://hcp.ozurdex.com/",
+  "finalUrlAfterRedirects": "https://hcp.ozurdex.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:33:16.575Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

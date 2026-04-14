@@ -1,0 +1,61 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.eczemaheadquarters.com/",
+          "https://www.eczemaheadquarters.com/sign-up",
+          "https://www.eczemaheadquarters.com/search-results",
+          "https://www.eczemaheadquarters.com/understanding-eczema/eczema-comorbidities",
+          "https://www.eczemaheadquarters.com/about-eczema/types-of-eczema",
+          "https://www.eczemaheadquarters.com/understanding-eczema/what-causes-eczema",
+          "https://www.eczemaheadquarters.com/understanding-eczema/eczema-severity-and-impact",
+          "https://www.eczemaheadquarters.com/about-eczema/what-is-eczema",
+          "https://www.eczemaheadquarters.com/about-eczema/eczema-symptoms-and-pictures",
+          "https://www.eczemaheadquarters.com/understanding-eczema/eczema-experience-tool",
+          "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus/scratch-cycle-video-transcript",
+          "https://www.eczemaheadquarters.com/learnings-from-the-lab/partnering-with-your-doctor",
+          "https://www.eczemaheadquarters.com/understanding-eczema/eczema-itch-pruritus",
+          "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/trigger-words-transcript",
+          "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/derm-reacts-transcript",
+          "https://www.eczemaheadquarters.com/understanding-eczema",
+          "https://www.eczemaheadquarters.com/learnings-from-the-lab/home-remedies",
+          "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories",
+          "https://www.eczemaheadquarters.com/sitemap",
+          "https://www.eczemaheadquarters.com/treating-eczema/eczema-specialists",
+          "https://www.eczemaheadquarters.com/treating-eczema/doctor-discussion-guide",
+          "https://www.eczemaheadquarters.com/landing/thanks",
+          "https://www.eczemaheadquarters.com/learnings-from-the-lab/invisible-impact",
+          "https://www.eczemaheadquarters.com/living-with-eczema/eczema-and-emotional-health",
+          "https://www.eczemaheadquarters.com/landing/stay-tuned",
+          "https://www.eczemaheadquarters.com/personalization/homepage-experience-full",
+          "https://www.eczemaheadquarters.com/learnings-from-the-lab/eczema-diets",
+          "https://www.eczemaheadquarters.com/living-with-eczema/eczema-and-stress",
+          "https://www.eczemaheadquarters.com/eczema-support-and-resources/voc-survey",
+          "https://www.eczemaheadquarters.com/treating-eczema/eczema-treatment-options",
+          "https://www.eczemaheadquarters.com/living-with-eczema/eczema-routine",
+          "https://www.eczemaheadquarters.com/learnings-from-the-lab/winter-eczema",
+          "https://www.eczemaheadquarters.com/treating-eczema/options-for-eczema-treatment/treatment-video-transcript",
+          "https://www.eczemaheadquarters.com/treating-eczema/options-for-eczema-treatment",
+          "https://www.eczemaheadquarters.com/learnings-from-the-lab/supporting-eczema-teens",
+          "https://www.eczemaheadquarters.com/connect-with-us",
+          "https://www.eczemaheadquarters.com/living-with-eczema/eczema-stories/fill-in-the-blank-transcript",
+          "https://www.eczemaheadquarters.com/treating-eczema/doctor-near-me",
+          "https://www.eczemaheadquarters.com/eczema-support-and-resources",
+          "https://www.eczemaheadquarters.com/learnings-from-the-lab",
+          "https://www.eczemaheadquarters.com/sign-up/confirmation"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:32:29.289Z"
+}

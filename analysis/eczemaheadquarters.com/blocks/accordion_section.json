@@ -1,0 +1,26 @@
+{
+  "blockId": "accordion_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Accordion Section",
+  "description": "Provides expandable sections for detailed content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "section_root_cause",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Root Cause Section",
+  "description": "Explains the root causes of eczema with detailed text content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.margin-bottom-70 .abbv-col-12"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

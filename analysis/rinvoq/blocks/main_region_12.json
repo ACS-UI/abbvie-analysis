@@ -1,0 +1,31 @@
+{
+  "blockId": "main_region_12",
+  "templateIds": [
+    "tpl_2",
+    "tpl_30",
+    "tpl_54",
+    "tpl_58",
+    "tpl_60",
+    "tpl_88"
+  ],
+  "name": "main region 12",
+  "description": "Major content region in main (div). Preview: Find a rheumatologist near you Make sure you’re getting the most appropriate care for your condition. Partner with a doc…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(13)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

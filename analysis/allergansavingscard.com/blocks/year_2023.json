@@ -1,0 +1,26 @@
+{
+  "blockId": "year_2023",
+  "templateIds": [
+    "tpl_309"
+  ],
+  "name": "Year 2023 Milestones",
+  "description": "Highlights and achievements from the year 2023.",
+  "domHints": {
+    "selectors": [
+      "#2023"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_309 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

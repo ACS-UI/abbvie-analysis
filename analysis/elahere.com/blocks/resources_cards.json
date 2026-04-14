@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_cards",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Resources Cards",
+  "description": "Displays a grid of downloadable resources with descriptions and links.",
+  "domHints": {
+    "selectors": [
+      "#resources-cards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

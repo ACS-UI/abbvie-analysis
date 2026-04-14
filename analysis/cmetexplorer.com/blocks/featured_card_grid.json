@@ -1,0 +1,27 @@
+{
+  "blockId": "featured_card_grid",
+  "templateIds": [
+    "tpl_59"
+  ],
+  "name": "Featured Card Grid",
+  "description": "Grid of cards highlighting key stories or sections.",
+  "domHints": {
+    "selectors": [
+      "div.cardpagestory",
+      "div.dashboardcards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_59 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

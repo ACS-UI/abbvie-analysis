@@ -1,0 +1,26 @@
+{
+  "blockId": "uveitis_types",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Types of Uveitis",
+  "description": "Describes various types of uveitis with images and explanations.",
+  "domHints": {
+    "selectors": [
+      "section.types-uveitis"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

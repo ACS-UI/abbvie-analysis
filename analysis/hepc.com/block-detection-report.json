@@ -1,0 +1,47 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_1",
+      "humanName": "Information Page",
+      "source": "llm_identify",
+      "blockCount": 13,
+      "proposedCount": 13
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Interactive Tool",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Sitemap",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Transcript Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Search Page",
+      "source": "llm_identify",
+      "blockCount": 9,
+      "proposedCount": 9
+    }
+  ],
+  "generatedAt": "2026-04-13T15:53:45.419Z"
+}

@@ -1,0 +1,204 @@
+{
+  "entries": [
+    {
+      "relativePath": "tabs_section__default.png",
+      "sourceUrl": "https://www.humirapro.com/dosing/uveitis-adult",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-tabs"
+    },
+    {
+      "relativePath": "tab_controls__default.png",
+      "sourceUrl": "https://www.humirapro.com/dosing/uveitis-adult",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-tabs-controls"
+    },
+    {
+      "relativePath": "induction_dose_tab__default.png",
+      "sourceUrl": "https://www.humirapro.com/dosing/uveitis-adult",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": "#abbv-tab-1381465138-0"
+    },
+    {
+      "relativePath": "maintenance_dose_tab__default.png",
+      "sourceUrl": "https://www.humirapro.com/dosing/uveitis-adult",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": "#abbv-tab-1381465138-1"
+    },
+    {
+      "relativePath": "dosing_images__default.png",
+      "sourceUrl": "https://www.humirapro.com/dosing/uveitis-adult",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-image-text-img"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": "header.abbv-header"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-container.brandexplorer__content"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-container.brandexplorer__accordion"
+    },
+    {
+      "relativePath": "cta_links__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-container.brandexplorer__links"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-content-container"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis-pediatric",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-header-primary-navigation"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis-pediatric",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-container.brandexplorer__links"
+    },
+    {
+      "relativePath": "image_text_section__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis-pediatric",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-container.brandexplorer__blade .image-text"
+    },
+    {
+      "relativePath": "rich_text_section__default.png",
+      "sourceUrl": "https://www.humirapro.com/uveitis-pediatric",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-rich-text"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.humirapro.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-header-utility-navigation"
+    },
+    {
+      "relativePath": "sitemap_hero_section__default.png",
+      "sourceUrl": "https://www.humirapro.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-container.brandexplorer__content"
+    },
+    {
+      "relativePath": "sitemap_links_section__default.png",
+      "sourceUrl": "https://www.humirapro.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-container.brandexplorer__links"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.humirapro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": ".abbv-content-container"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.humirapro.com/global-safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:13:59.583Z",
+      "selector": "div.abbv-header-utility-navigation"
+    }
+  ]
+}

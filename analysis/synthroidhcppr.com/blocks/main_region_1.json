@@ -1,0 +1,27 @@
+{
+  "blockId": "main_region_1",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2"
+  ],
+  "name": "main region 1",
+  "description": "Major content region in main (div). Preview: .abbv-image-text-v1-59749370-large { display: inline-block; } 12 precise dosing options1 With careful titration, Synthro…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(2)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_1. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

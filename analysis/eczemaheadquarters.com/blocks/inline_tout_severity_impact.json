@@ -1,0 +1,26 @@
+{
+  "blockId": "inline_tout_severity_impact",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Inline Tout: Severity and Impact",
+  "description": "Explains how eczema severity is assessed and its impact on life, with visuals and a call-to-action.",
+  "domHints": {
+    "selectors": [
+      "div.personalization-inline-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

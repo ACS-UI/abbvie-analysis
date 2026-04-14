@@ -1,0 +1,26 @@
+{
+  "blockId": "before_treatment_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Before Treatment Section",
+  "description": "Provides information about the state of CLL before treatment.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-item:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

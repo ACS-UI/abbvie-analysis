@@ -1,0 +1,210 @@
+{
+  "entryUrl": "https://www.vyalevhcp.com/",
+  "discoveredAt": "2026-04-13T15:14:30.106Z",
+  "urls": [
+    {
+      "url": "https://www.vyalevhcp.com/",
+      "normalised": "https://www.vyalevhcp.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/content/dam/vyalevhcp/docs/billing-coding-guide.pdf",
+      "normalised": "https://www.vyalevhcp.com/content/dam/vyalevhcp/docs/billing-coding-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/content/dam/vyalevhcp/docs/patient-decision-brochure.pdf",
+      "normalised": "https://www.vyalevhcp.com/content/dam/vyalevhcp/docs/patient-decision-brochure.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/content/dam/vyalevhcp/docs/patient-enrollment-form.pdf",
+      "normalised": "https://www.vyalevhcp.com/content/dam/vyalevhcp/docs/patient-enrollment-form.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/content/dam/vyalevhcp/docs/user-guide.pdf",
+      "normalised": "https://www.vyalevhcp.com/content/dam/vyalevhcp/docs/user-guide.pdf",
+      "source": "sitemap",
+      "httpStatus": null,
+      "contentType": "site-analyser/skipped-static-asset"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/patient-identification",
+      "normalised": "https://www.vyalevhcp.com/patient-identification",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/dosing-administration",
+      "normalised": "https://www.vyalevhcp.com/dosing-administration",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/study-design",
+      "normalised": "https://www.vyalevhcp.com/study-design",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/efficacy",
+      "normalised": "https://www.vyalevhcp.com/efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/get-started/treatment-resources/the-5-ps-of-vyalev-admin",
+      "normalised": "https://www.vyalevhcp.com/get-started/treatment-resources/the-5-ps-of-vyalev-admin",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/get-started/treatment-resources/initial-dose-programming",
+      "normalised": "https://www.vyalevhcp.com/get-started/treatment-resources/initial-dose-programming",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/get-started/treatment-resources/confirming-and-adjusting-doses",
+      "normalised": "https://www.vyalevhcp.com/get-started/treatment-resources/confirming-and-adjusting-doses",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/get-started/faqs",
+      "normalised": "https://www.vyalevhcp.com/get-started/faqs",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/safety-adverse-reactions",
+      "normalised": "https://www.vyalevhcp.com/safety-adverse-reactions",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/access",
+      "normalised": "https://www.vyalevhcp.com/access",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/get-started/dosing-calculator",
+      "normalised": "https://www.vyalevhcp.com/get-started/dosing-calculator",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/support",
+      "normalised": "https://www.vyalevhcp.com/support",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/resources",
+      "normalised": "https://www.vyalevhcp.com/resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/resources/failure",
+      "normalised": "https://www.vyalevhcp.com/resources/failure",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/sitemap",
+      "normalised": "https://www.vyalevhcp.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/continuous-foscarbidopa-foslevodopa",
+      "normalised": "https://www.vyalevhcp.com/continuous-foscarbidopa-foslevodopa",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/get-started",
+      "normalised": "https://www.vyalevhcp.com/get-started",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/site-map",
+      "normalised": "https://www.vyalevhcp.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/get-started/treatment-resources",
+      "normalised": "https://www.vyalevhcp.com/get-started/treatment-resources",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/abbv-tab-1200980157-0",
+      "normalised": "https://www.vyalevhcp.com/abbv-tab-1200980157-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/abbv-tab-506614235-0",
+      "normalised": "https://www.vyalevhcp.com/abbv-tab-506614235-0",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/abbv-tab-1200980157-1",
+      "normalised": "https://www.vyalevhcp.com/abbv-tab-1200980157-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.vyalevhcp.com/abbv-tab-506614235-1",
+      "normalised": "https://www.vyalevhcp.com/abbv-tab-506614235-1",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 28,
+    "bySource": {
+      "sitemap": 13,
+      "crawl": 15,
+      "manual": 0
+    }
+  }
+}

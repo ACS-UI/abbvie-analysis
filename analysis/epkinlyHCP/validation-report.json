@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.epkinlyHCP.com",
+  "normalisedUrl": "https://www.epkinlyhcp.com/",
+  "finalUrlAfterRedirects": "https://www.epkinlyhcp.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T12:40:04.673Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

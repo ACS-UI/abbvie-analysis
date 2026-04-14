@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Consolidated blocks — rockstar-v3</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --border: #2d3a4f;
+      --text: #e8ecf1;
+      --muted: #8b9cb3;
+      --accent: #1473e6;
+      --accent-hover: #378ef0;
+      --size-s: #2d6a4f;
+      --size-m: #bc6c25;
+      --size-l: #9d174d;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Adobe Clean", "Source Sans 3", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.45;
+      font-size: 14px;
+    }
+    body.lightbox-open {
+      overflow: hidden;
+    }
+    header {
+      padding: 1.25rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 1rem;
+      justify-content: space-between;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 1.15rem;
+      font-weight: 600;
+    }
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+    }
+    .toolbar label {
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+    input[type="search"] {
+      padding: 0.45rem 0.65rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--bg);
+      color: var(--text);
+      min-width: 200px;
+    }
+    input[type="search"]:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 1px;
+    }
+    .wrap {
+      overflow: auto;
+      padding: 1rem 1.25rem 2rem;
+      max-width: 100vw;
+    }
+    table {
+      width: max-content;
+      min-width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+    thead th {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: var(--surface);
+      border-bottom: 2px solid var(--border);
+      text-align: left;
+      padding: 0.65rem 0.75rem;
+      white-space: nowrap;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: none;
+      letter-spacing: 0.02em;
+    }
+    tbody tr:nth-child(even) { background: rgba(255, 255, 255, 0.02); }
+    tbody tr:hover { background: rgba(20, 115, 230, 0.08); }
+    td {
+      border-bottom: 1px solid var(--border);
+      padding: 0.6rem 0.75rem;
+      vertical-align: top;
+      max-width: 28rem;
+    }
+    td.narrow { max-width: 6rem; white-space: nowrap; }
+    td.tshirt {
+      text-align: center;
+      font-weight: 700;
+      font-size: 0.75rem;
+      letter-spacing: 0.05em;
+    }
+    td.tshirt.s { color: #6ee7a8; background: rgba(45, 106, 79, 0.25); }
+    td.tshirt.m { color: #fbbf77; background: rgba(188, 108, 37, 0.2); }
+    td.tshirt.l { color: #f472b6; background: rgba(157, 23, 77, 0.2); }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover { color: var(--accent-hover); text-decoration: underline; }
+    .thumb {
+      width: 120px;
+      height: 72px;
+      object-fit: contain;
+      object-position: top center;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      display: block;
+      cursor: pointer;
+    }
+    .shot-lightbox {
+      position: fixed;
+      inset: 0;
+      z-index: 10000;
+      margin: 0;
+      padding: 3.5rem 1.5rem 1.5rem;
+      border: none;
+      background: rgba(15, 20, 25, 0.94);
+      box-sizing: border-box;
+      overflow: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .shot-lightbox[hidden] {
+      display: none !important;
+    }
+    .shot-lightbox-img {
+      max-width: min(100%, calc(100vw - 3rem));
+      max-height: calc(100vh - 5rem);
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      border-radius: 8px;
+      box-shadow: 0 8px 40px rgba(0, 0, 0, 0.45);
+    }
+    .shot-lightbox-close {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      z-index: 2;
+      width: 2.5rem;
+      height: 2.5rem;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--surface);
+      color: var(--text);
+      font-size: 1.35rem;
+      line-height: 1;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .shot-lightbox-close:hover {
+      background: var(--border);
+      color: var(--text);
+    }
+    .thumb-missing {
+      width: 120px;
+      height: 72px;
+      border-radius: 6px;
+      border: 1px dashed var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.7rem;
+      color: var(--muted);
+      text-align: center;
+      padding: 0.25rem;
+    }
+    .meta {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-top: 0.35rem;
+    }
+    .err {
+      padding: 1rem 1.5rem;
+      background: #3d1f1f;
+      color: #fecaca;
+      border-radius: 8px;
+      margin: 1rem 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ProGen Site Analyser - Consolidated blocks</h1>
+    <div class="toolbar">
+      <label for="filter">Filter</label>
+      <input type="search" id="filter" placeholder="Search rows…" autocomplete="off" />
+    </div>
+  </header>
+  <p class="meta" style="margin: 0.75rem 1.5rem 0;">
+    Loads <code>consolidated-blocks.csv</code> from this folder via fetch. Open this page over HTTP so the table and screenshots load.
+  </p>
+  <div id="error" class="err" hidden></div>
+  <div class="wrap">
+    <table id="grid">
+      <thead><tr id="thead-row"></tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+
+  <div id="shot-lightbox" class="shot-lightbox" hidden role="dialog" aria-modal="true" aria-label="Full screenshot">
+    <button type="button" class="shot-lightbox-close" id="shot-lightbox-close" aria-label="Close">×</button>
+    <img id="shot-lightbox-img" class="shot-lightbox-img" alt="" />
+  </div>
+
+  <script>
+    function parseCSV(text) {
+      const rows = [];
+      let row = [];
+      let cell = "";
+      let i = 0;
+      let inQuotes = false;
+      while (i < text.length) {
+        const c = text[i];
+        const next = text[i + 1];
+        if (inQuotes) {
+          if (c === '"' && next === '"') {
+            cell += '"';
+            i += 2;
+            continue;
+          }
+          if (c === '"') {
+            inQuotes = false;
+            i++;
+            continue;
+          }
+          cell += c;
+          i++;
+          continue;
+        }
+        if (c === '"') {
+          inQuotes = true;
+          i++;
+          continue;
+        }
+        if (c === ",") {
+          row.push(cell);
+          cell = "";
+          i++;
+          continue;
+        }
+        if (c === "\r" || c === "\n") {
+          if (c === "\r" && next === "\n") i++;
+          row.push(cell);
+          if (row.some((x) => x !== "")) rows.push(row);
+          row = [];
+          cell = "";
+          i++;
+          continue;
+        }
+        cell += c;
+        i++;
+      }
+      row.push(cell);
+      if (row.some((x) => x !== "")) rows.push(row);
+      return rows;
+    }
+
+    function esc(s) {
+      const d = document.createElement("div");
+      d.textContent = s;
+      return d.innerHTML;
+    }
+
+    const URL_COL = "Page URL";
+    const SHOT_COL = "screenshot path";
+
+    function isUrl(s) {
+      return /^https?:\/\//i.test((s || "").trim());
+    }
+
+    const shotLightbox = document.getElementById("shot-lightbox");
+    const shotLightboxImg = document.getElementById("shot-lightbox-img");
+    const shotLightboxClose = document.getElementById("shot-lightbox-close");
+    let lightboxOpener = null;
+
+    function openShotLightbox(src) {
+      lightboxOpener = document.activeElement;
+      shotLightboxImg.src = src;
+      shotLightboxImg.alt = src;
+      shotLightbox.removeAttribute("hidden");
+      document.body.classList.add("lightbox-open");
+      shotLightboxClose.focus();
+    }
+
+    function closeShotLightbox() {
+      shotLightbox.setAttribute("hidden", "");
+      shotLightboxImg.removeAttribute("src");
+      document.body.classList.remove("lightbox-open");
+      if (lightboxOpener && typeof lightboxOpener.focus === "function") {
+        lightboxOpener.focus();
+      }
+      lightboxOpener = null;
+    }
+
+    shotLightboxClose.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      closeShotLightbox();
+    });
+
+    function renderTable(rows) {
+      const err = document.getElementById("error");
+      err.hidden = true;
+      const theadRow = document.getElementById("thead-row");
+      const tbody = document.getElementById("tbody");
+      theadRow.innerHTML = "";
+      tbody.innerHTML = "";
+
+      if (!rows.length) {
+        err.textContent = "No rows to display.";
+        err.hidden = false;
+        return;
+      }
+
+      const headers = rows[0];
+      headers.forEach((h) => {
+        const th = document.createElement("th");
+        th.textContent = h;
+        theadRow.appendChild(th);
+      });
+
+      const urlIdx = headers.indexOf(URL_COL);
+      const shotIdx = headers.indexOf(SHOT_COL);
+      const tshirtIdx = headers.indexOf("Tshirt Sizing");
+
+      for (let r = 1; r < rows.length; r++) {
+        const cells = rows[r];
+        if (cells.every((c) => (c || "").trim() === "")) continue;
+        const tr = document.createElement("tr");
+        tr.dataset.filter = cells.join(" ").toLowerCase();
+
+        headers.forEach((_, c) => {
+          const td = document.createElement("td");
+          const val = cells[c] != null ? String(cells[c]) : "";
+          if (c === tshirtIdx) {
+            td.className = "tshirt " + val.trim().toLowerCase();
+            td.textContent = val;
+          } else if (c === urlIdx && isUrl(val)) {
+            td.innerHTML = '<a href="' + esc(val) + '" target="_blank" rel="noopener">' + esc(val) + "</a>";
+          } else if (c === shotIdx && val) {
+            const img = document.createElement("img");
+            img.className = "thumb";
+            img.alt = val;
+            img.title = "View full screenshot";
+            img.loading = "lazy";
+            img.src = val;
+            img.addEventListener("click", (e) => {
+              e.preventDefault();
+              openShotLightbox(val);
+            });
+            img.onerror = function () {
+              img.replaceWith(missingThumb(val));
+            };
+            td.appendChild(img);
+          } else if (headers[c] === "Number of occurrences") {
+            td.className = "narrow";
+            td.textContent = val;
+          } else {
+            td.textContent = val;
+          }
+          tr.appendChild(td);
+        });
+        tbody.appendChild(tr);
+      }
+    }
+
+    function missingThumb(path) {
+      const d = document.createElement("div");
+      d.className = "thumb-missing";
+      d.title = path;
+      d.textContent = "No preview";
+      return d;
+    }
+
+    function applyFilter(q) {
+      const needle = (q || "").trim().toLowerCase();
+      document.querySelectorAll("#tbody tr").forEach((tr) => {
+        tr.hidden = needle && !tr.dataset.filter.includes(needle);
+      });
+    }
+
+    function showError(msg) {
+      const err = document.getElementById("error");
+      err.textContent = msg;
+      err.hidden = false;
+    }
+
+    async function loadFromFetch() {
+      const res = await fetch("./consolidated-blocks.csv", { cache: "no-store" });
+      if (!res.ok) throw new Error("Could not load consolidated-blocks.csv (" + res.status + ").");
+      const text = await res.text();
+      renderTable(parseCSV(text));
+    }
+
+    document.getElementById("filter").addEventListener("input", (e) => applyFilter(e.target.value));
+
+    loadFromFetch().catch(() => {
+      showError(
+        "Could not load consolidated-blocks.csv (often because this page was opened as a file:// URL). Serve this folder over HTTP so ./consolidated-blocks.csv can be fetched."
+      );
+    });
+  </script>
+</body>
+</html>

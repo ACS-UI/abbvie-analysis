@@ -1,0 +1,28 @@
+{
+  "blockId": "faq_cta",
+  "templateIds": [
+    "tpl_0",
+    "tpl_5",
+    "tpl_9"
+  ],
+  "name": "FAQs Call-to-Action",
+  "description": "Encourages users to read more FAQs about VUITY.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2.about-vuity-questions-wrapper"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

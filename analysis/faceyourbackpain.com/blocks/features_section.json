@@ -1,0 +1,27 @@
+{
+  "blockId": "features_section",
+  "templateIds": [
+    "tpl_2",
+    "tpl_19"
+  ],
+  "name": "Features Section",
+  "description": "Showcases additional resources such as doctor guides and treatment options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-features"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

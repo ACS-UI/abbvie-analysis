@@ -1,0 +1,47 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_0",
+      "humanName": "Dosing Information",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Condition Information Overview",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Uncategorized Content",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Website Sitemap",
+      "source": "llm_identify",
+      "blockCount": 5,
+      "proposedCount": 5
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Website Home Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "Global Safety Information",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 6
+    }
+  ],
+  "generatedAt": "2026-04-13T16:16:53.193Z"
+}

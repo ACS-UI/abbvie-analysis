@@ -1,0 +1,394 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.vuitypro.com/faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.vuitypro.com/faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": "#background-container-896586806"
+    },
+    {
+      "relativePath": "faq_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-accordion"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.vuitypro.com/faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-inline-use-isi"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.vuitypro.com/faqs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-footer"
+    },
+    {
+      "relativePath": "safety_bar__default.png",
+      "sourceUrl": "https://www.vuitypro.com/sitemap",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-safety-bar"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.vuitypro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": "header > .abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "fda_approval_highlight__default.png",
+      "sourceUrl": "https://www.vuitypro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-first-only-section"
+    },
+    {
+      "relativePath": "formulation_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-formulation-section"
+    },
+    {
+      "relativePath": "technology_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-how-works-section"
+    },
+    {
+      "relativePath": "efficacy_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-efficacy-section"
+    },
+    {
+      "relativePath": "carousel_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-carousel-section"
+    },
+    {
+      "relativePath": "safety_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-safety-section"
+    },
+    {
+      "relativePath": "prescribing_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-prescribing-section"
+    },
+    {
+      "relativePath": "hero_banner__default.png",
+      "sourceUrl": "https://www.vuitypro.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": "#background-container-1468676561"
+    },
+    {
+      "relativePath": "safety_statistics__default.png",
+      "sourceUrl": "https://www.vuitypro.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-ae-container"
+    },
+    {
+      "relativePath": "adverse_events_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-mt-container.vuitypro-curve.safety-mild-trsn-curve"
+    },
+    {
+      "relativePath": "clinical_trials_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-safety-trial-section.vuitypro-curve"
+    },
+    {
+      "relativePath": "warnings_precautions__default.png",
+      "sourceUrl": "https://www.vuitypro.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".safety-warning-curve-contain"
+    },
+    {
+      "relativePath": "post_marketing_data__default.png",
+      "sourceUrl": "https://www.vuitypro.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".safety-post-marketing-curve"
+    },
+    {
+      "relativePath": "call_to_action__default.png",
+      "sourceUrl": "https://www.vuitypro.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-signup-section-body"
+    },
+    {
+      "relativePath": "improved_vision_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-improved-vision-container"
+    },
+    {
+      "relativePath": "gemini_tabs__default.png",
+      "sourceUrl": "https://www.vuitypro.com/efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-tabs.vuitypro-tabs"
+    },
+    {
+      "relativePath": "dcnva_chart_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitipro-dcnva-chart-container"
+    },
+    {
+      "relativePath": "intermediate_vision_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitipro-intermediate-vision-container"
+    },
+    {
+      "relativePath": "safety_cta__default.png",
+      "sourceUrl": "https://www.vuitypro.com/efficacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-efficacy-client-option-container"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.vuitypro.com/access-and-prescribing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.vuitypro.com/access-and-prescribing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-container.access-prescribing-dropplet-secion"
+    },
+    {
+      "relativePath": "daily_treatment_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/access-and-prescribing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-container.vuitypro-daily-drops-container"
+    },
+    {
+      "relativePath": "fsa_hsa_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/access-and-prescribing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-container.access-prescribing-your-patients"
+    },
+    {
+      "relativePath": "retail_pharmacies_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/access-and-prescribing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-container.access-prescribing-mvp-title"
+    },
+    {
+      "relativePath": "insurance_information__default.png",
+      "sourceUrl": "https://www.vuitypro.com/access-and-prescribing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-container.access-prescribing-pharmacy"
+    },
+    {
+      "relativePath": "mvp_program_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/access-and-prescribing",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".abbv-image-text.mvp-program"
+    },
+    {
+      "relativePath": "delivered_with_phast__default.png",
+      "sourceUrl": "https://www.vuitypro.com/innovation",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-delivered-container"
+    },
+    {
+      "relativePath": "phast_technology__default.png",
+      "sourceUrl": "https://www.vuitypro.com/innovation",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-phast-sec"
+    },
+    {
+      "relativePath": "mechanism_of_action__default.png",
+      "sourceUrl": "https://www.vuitypro.com/innovation",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-video-meca-container"
+    },
+    {
+      "relativePath": "clinical_studies__default.png",
+      "sourceUrl": "https://www.vuitypro.com/innovation",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-client-option-container"
+    },
+    {
+      "relativePath": "references_section__default.png",
+      "sourceUrl": "https://www.vuitypro.com/innovation",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:45:07.931Z",
+      "selector": ".vuitypro-reference-section"
+    }
+  ]
+}

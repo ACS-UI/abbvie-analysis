@@ -1,0 +1,26 @@
+{
+  "blockId": "tabs_section",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Tabs Section",
+  "description": "Tabbed content for staging and related information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

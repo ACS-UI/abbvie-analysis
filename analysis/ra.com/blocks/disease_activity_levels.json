@@ -1,0 +1,26 @@
+{
+  "blockId": "disease_activity_levels",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Disease Activity Levels",
+  "description": "Illustrates different levels of RA disease activity with images and text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abv-custom-bgcolor-white.abv-graphic-callout-disease-levels"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

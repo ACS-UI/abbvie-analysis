@@ -1,0 +1,27 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_2",
+    "tpl_4"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Provides quick access links for U.S. Healthcare Professionals, Prescribing Information, and Important Safety Information.",
+  "domHints": {
+    "selectors": [
+      "#hdrv2-utilnav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

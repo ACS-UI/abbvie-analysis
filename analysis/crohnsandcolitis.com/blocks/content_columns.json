@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns",
+  "templateIds": [
+    "tpl_22"
+  ],
+  "name": "Content Columns",
+  "description": "Main content area with categorized links to site sections.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.pt-20.pt-md-30"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_22 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

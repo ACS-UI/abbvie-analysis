@@ -1,0 +1,27 @@
+{
+  "blockId": "gut_check_cta",
+  "templateIds": [
+    "tpl_7",
+    "tpl_14"
+  ],
+  "name": "Gut Check CTA",
+  "description": "Encourages users to prepare for their visit by completing a questionnaire.",
+  "domHints": {
+    "selectors": [
+      ".resources-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

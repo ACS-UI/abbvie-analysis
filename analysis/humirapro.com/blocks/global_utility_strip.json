@@ -1,0 +1,27 @@
+{
+  "blockId": "global_utility_strip",
+  "templateIds": [
+    "tpl_2",
+    "tpl_3"
+  ],
+  "name": "Global Utility Strip",
+  "description": "Provides utility links such as contact information and subscription options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

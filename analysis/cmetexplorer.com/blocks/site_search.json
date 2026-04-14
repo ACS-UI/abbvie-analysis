@@ -1,0 +1,28 @@
+{
+  "blockId": "site_search",
+  "templateIds": [
+    "tpl_108",
+    "tpl_259",
+    "tpl_311"
+  ],
+  "name": "Site search",
+  "description": "Search form in header or global chrome.",
+  "domHints": {
+    "selectors": [
+      "form[role=\"search\"]"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "query",
+        "type": "text",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Search UI on tpl_108. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Search"
+}

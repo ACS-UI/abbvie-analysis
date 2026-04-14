@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_request_submitted",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Request Submitted Modal",
+  "description": "Modal dialog confirming the successful submission of a request.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.requestsubmitted"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

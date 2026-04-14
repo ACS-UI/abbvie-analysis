@@ -1,0 +1,26 @@
+{
+  "blockId": "tree_diagram",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Tree Diagram",
+  "description": "Illustrates the classification and activity of the product against various bacteria.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.moa-tree-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

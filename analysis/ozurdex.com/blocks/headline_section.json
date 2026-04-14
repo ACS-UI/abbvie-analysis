@@ -1,0 +1,27 @@
+{
+  "blockId": "headline_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Headline Section",
+  "description": "Displays the main headline and introductory text for the warning page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.abbv-siab-title h1",
+      ".abbv-rich-text.abbv-siab-title p"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "role_of_care_team",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Role of Care Team Members",
+  "description": "Details the responsibilities of various care team members.",
+  "domHints": {
+    "selectors": [
+      ".nav-care-team"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

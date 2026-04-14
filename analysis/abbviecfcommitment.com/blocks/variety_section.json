@@ -1,0 +1,26 @@
+{
+  "blockId": "variety_section",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Variety Section",
+  "description": "Highlights the importance of variety in diet with tips.",
+  "domHints": {
+    "selectors": [
+      "#background-container-302857234"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

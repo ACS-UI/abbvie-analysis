@@ -1,0 +1,30 @@
+{
+  "blockId": "achievements_section",
+  "templateIds": [
+    "tpl_13",
+    "tpl_26",
+    "tpl_38",
+    "tpl_40",
+    "tpl_42"
+  ],
+  "name": "Achievements Section",
+  "description": "Lists the scholar's achievements and educational background.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.container_round-top"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

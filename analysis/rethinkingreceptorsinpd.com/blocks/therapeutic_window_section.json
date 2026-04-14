@@ -1,0 +1,26 @@
+{
+  "blockId": "therapeutic_window_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Therapeutic Window Section",
+  "description": "Explains the challenges faced as the therapeutic window narrows.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.section.background-gradient-yellow.last"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

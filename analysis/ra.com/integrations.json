@@ -1,0 +1,32 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.ra.com/rheumatoid-arthritis-resources/patient-stories/convo-with-rheum-transcript",
+          "https://www.ra.com/rheumatoid-arthritis-treatment/ra-treatments-explained",
+          "https://www.ra.com/what-is-rheumatoid-arthritis/symptoms",
+          "https://www.ra.com/personalization-activation",
+          "https://www.ra.com/rheumatoid-arthritis-resources/rapid3-survey",
+          "https://www.ra.com/rheumatoid-arthritis-resources/partner-with-rheumatologist",
+          "https://www.ra.com/subscribe",
+          "https://www.ra.com/rheumatoid-arthritis-resources/ra-support",
+          "https://www.ra.com/",
+          "https://www.ra.com/rheumatoid-arthritis-resources/find-a-rheumatologist",
+          "https://www.ra.com/search-results",
+          "https://www.ra.com/sitemap"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:12:02.443Z"
+}

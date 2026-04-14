@@ -1,0 +1,26 @@
+{
+  "blockId": "promo_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Promotional Section",
+  "description": "Highlights savings and insurance support information.",
+  "domHints": {
+    "selectors": [
+      ".humira-hero-promo"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,33 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.oriahnn.com/",
+          "https://www.oriahnn.com/savings-card",
+          "https://www.oriahnn.com/side-effects-and-safety-considerations",
+          "https://www.oriahnn.com/search-results",
+          "https://www.oriahnn.com/what-is-oriahnn",
+          "https://www.oriahnn.com/savings-and-insurance",
+          "https://www.oriahnn.com/site-map",
+          "https://www.oriahnn.com/heavy-periods-quiz",
+          "https://www.oriahnn.com/how-to-take-oriahnn",
+          "https://www.oriahnn.com/talking-to-your-gynecologist",
+          "https://www.oriahnn.com/uterine-fibroids-symptoms",
+          "https://www.oriahnn.com/what-are-uterine-fibroids",
+          "https://www.oriahnn.com/clinical-trials"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T15:37:13.265Z"
+}

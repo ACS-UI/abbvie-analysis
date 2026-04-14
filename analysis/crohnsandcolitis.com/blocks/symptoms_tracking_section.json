@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_tracking_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Symptoms Tracking Section",
+  "description": "Encourages users to monitor symptoms and communicate with their doctor.",
+  "domHints": {
+    "selectors": [
+      "#ucprogress"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

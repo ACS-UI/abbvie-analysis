@@ -1,0 +1,614 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_header__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-header"
+    },
+    {
+      "relativePath": "skip_to_main__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "a.skip-to-main-content-link"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-hero"
+    },
+    {
+      "relativePath": "jennifer_story__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#jennifers-story"
+    },
+    {
+      "relativePath": "heidi_story__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#heidi-story"
+    },
+    {
+      "relativePath": "cindy_story__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#cindy-story"
+    },
+    {
+      "relativePath": "callout_section__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-plum--deeper-plum"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-footer"
+    },
+    {
+      "relativePath": "modal_exit__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-modal[type='exit']"
+    },
+    {
+      "relativePath": "intro_content__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "main > div.container.theme-barely-coral > div.row.-align-items__center"
+    },
+    {
+      "relativePath": "image_with_caption__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "div.photo-wrap-jennifer"
+    },
+    {
+      "relativePath": "discussion_guide_cta__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "div.cmp-card.-banner"
+    },
+    {
+      "relativePath": "advocacy_groups__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "div.container.theme-plum--deeper-plum > div.row.-equal-height-col > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "starting_elahere__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "div.container.theme-plum--deeper-plum > div.row.-equal-height-col > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "newsletter_signup__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "div.container.theme-plum--deeper-plum > div.row.-equal-height-col > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "isi_section__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-isi"
+    },
+    {
+      "relativePath": "global_footer__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-footer"
+    },
+    {
+      "relativePath": "exit_modal__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/talking-to-your-doctor",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-modal[type='exit']"
+    },
+    {
+      "relativePath": "resources_cards__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/helpful-downloads",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#resources-cards"
+    },
+    {
+      "relativePath": "what_is_elahere__default.png",
+      "sourceUrl": "https://www.elahere.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-plum-1"
+    },
+    {
+      "relativePath": "stories_banner__default.png",
+      "sourceUrl": "https://www.elahere.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".cmp-card.-banner"
+    },
+    {
+      "relativePath": "callout_ctas__default.png",
+      "sourceUrl": "https://www.elahere.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-plum--deeper-plum"
+    },
+    {
+      "relativePath": "anchor_navigation__default.png",
+      "sourceUrl": "https://www.elahere.com/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-anchor-nav"
+    },
+    {
+      "relativePath": "progression_free_survival__default.png",
+      "sourceUrl": "https://www.elahere.com/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#progression-free-survival"
+    },
+    {
+      "relativePath": "overall_survival__default.png",
+      "sourceUrl": "https://www.elahere.com/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#overall-survival"
+    },
+    {
+      "relativePath": "response_rates__default.png",
+      "sourceUrl": "https://www.elahere.com/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#response-rates"
+    },
+    {
+      "relativePath": "callout_cards__default.png",
+      "sourceUrl": "https://www.elahere.com/results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-plum"
+    },
+    {
+      "relativePath": "email_signup_main__default.png",
+      "sourceUrl": "https://www.elahere.com/sign-up/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "main > div.container.theme-light-plum.-fan-bg"
+    },
+    {
+      "relativePath": "email_signup_heading__default.png",
+      "sourceUrl": "https://www.elahere.com/sign-up/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "main > div.container.theme-light-plum.-fan-bg > div.row > div.col > h1"
+    },
+    {
+      "relativePath": "email_signup_iframe__default.png",
+      "sourceUrl": "https://www.elahere.com/sign-up/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#signup-iframe"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.elahere.com/sign-up/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-isi"
+    },
+    {
+      "relativePath": "side_effects_section__default.png",
+      "sourceUrl": "https://www.elahere.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#side-effects"
+    },
+    {
+      "relativePath": "caring_for_eyes_section__default.png",
+      "sourceUrl": "https://www.elahere.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#caring-for-your-eyes"
+    },
+    {
+      "relativePath": "eye_drops_section__default.png",
+      "sourceUrl": "https://www.elahere.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#eye-drops"
+    },
+    {
+      "relativePath": "blurred_vision_section__default.png",
+      "sourceUrl": "https://www.elahere.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#managing-blurred-vision"
+    },
+    {
+      "relativePath": "find_eye_doctor_section__default.png",
+      "sourceUrl": "https://www.elahere.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#find-an-eye-doctor"
+    },
+    {
+      "relativePath": "modal_video__default.png",
+      "sourceUrl": "https://www.elahere.com/eye-care",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-modal[type='video']"
+    },
+    {
+      "relativePath": "eligibility_intro__default.png",
+      "sourceUrl": "https://www.elahere.com/about/is-elahere-right-for-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "main > div.container.theme-barely-coral > div.row:nth-of-type(1)"
+    },
+    {
+      "relativePath": "eligibility_criteria__default.png",
+      "sourceUrl": "https://www.elahere.com/about/is-elahere-right-for-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "main > div.container.theme-barely-coral > div.row:nth-of-type(2)"
+    },
+    {
+      "relativePath": "eligibility_note__default.png",
+      "sourceUrl": "https://www.elahere.com/about/is-elahere-right-for-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "main > div.container.theme-barely-coral > div.row:nth-of-type(3)"
+    },
+    {
+      "relativePath": "discussion_guide_banner__default.png",
+      "sourceUrl": "https://www.elahere.com/about/is-elahere-right-for-me",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "main > div.container.theme-barely-coral > div.row:nth-of-type(4)"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.elahere.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-header"
+    },
+    {
+      "relativePath": "side_effects_intro__default.png",
+      "sourceUrl": "https://www.elahere.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-light-coral > .row:nth-of-type(1)"
+    },
+    {
+      "relativePath": "side_effects_cards__default.png",
+      "sourceUrl": "https://www.elahere.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-light-coral > .row:nth-of-type(2)"
+    },
+    {
+      "relativePath": "common_side_effects_list__default.png",
+      "sourceUrl": "https://www.elahere.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-barely-coral > .row:nth-of-type(1)"
+    },
+    {
+      "relativePath": "side_effects_statistics__default.png",
+      "sourceUrl": "https://www.elahere.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-plum-1 > .row:nth-of-type(1)"
+    },
+    {
+      "relativePath": "eye_care_resources__default.png",
+      "sourceUrl": "https://www.elahere.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".row.spc-p-t_0 > .col.col-lg-12 > .cmp-card.-banner"
+    },
+    {
+      "relativePath": "additional_resources__default.png",
+      "sourceUrl": "https://www.elahere.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-plum--deeper-plum > .row.-equal-height-col"
+    },
+    {
+      "relativePath": "primary_footer__default.png",
+      "sourceUrl": "https://www.elahere.com/safety",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-footer"
+    },
+    {
+      "relativePath": "before_starting_treatment__default.png",
+      "sourceUrl": "https://www.elahere.com/starting-elahere",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#before-you-start"
+    },
+    {
+      "relativePath": "treatment_preparation__default.png",
+      "sourceUrl": "https://www.elahere.com/starting-elahere",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#how-treatment-is-given"
+    },
+    {
+      "relativePath": "medical_conditions__default.png",
+      "sourceUrl": "https://www.elahere.com/starting-elahere",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-plum-1"
+    },
+    {
+      "relativePath": "treatment_schedule__default.png",
+      "sourceUrl": "https://www.elahere.com/starting-elahere",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#how-treatment-is-given"
+    },
+    {
+      "relativePath": "resources_banner__default.png",
+      "sourceUrl": "https://www.elahere.com/starting-elahere",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-plum--deeper-plum"
+    },
+    {
+      "relativePath": "support_services_section__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-support-services",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#ESS"
+    },
+    {
+      "relativePath": "financial_assistance_section__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-support-services",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#financial-assistance"
+    },
+    {
+      "relativePath": "faqs_section__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-support-services",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#FAQs"
+    },
+    {
+      "relativePath": "contact_us_section__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-support-services",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "#contact-us"
+    },
+    {
+      "relativePath": "resources_section__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-support-services",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-plum--deeper-plum"
+    },
+    {
+      "relativePath": "copay_terms_modal__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/elahere-support-services",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": "cmp-modal#copay-terms"
+    },
+    {
+      "relativePath": "advocacy_groups_cards__default.png",
+      "sourceUrl": "https://www.elahere.com/resources/advocacy-groups",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:36:52.736Z",
+      "selector": ".container.theme-barely-coral"
+    }
+  ]
+}

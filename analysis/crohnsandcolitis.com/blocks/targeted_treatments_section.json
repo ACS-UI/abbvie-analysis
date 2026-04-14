@@ -1,0 +1,26 @@
+{
+  "blockId": "targeted_treatments_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Targeted Treatments Section",
+  "description": "Detailed explanation of targeted oral small molecules and biologics.",
+  "domHints": {
+    "selectors": [
+      "#biologictarget"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_columns",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Introductory Columns",
+  "description": "Provides an introduction and supporting text for the page.",
+  "domHints": {
+    "selectors": [
+      ".hero-inner-content-section-para"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

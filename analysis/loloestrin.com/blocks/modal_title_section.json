@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_title_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Modal Title Section",
+  "description": "Displays the title and introductory text for the modal.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

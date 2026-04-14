@@ -1,0 +1,26 @@
+{
+  "blockId": "what_is_viberzi",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "What is VIBERZI Section",
+  "description": "Details about VIBERZI, including its purpose and benefits.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.what-is-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "news_details",
+  "templateIds": [
+    "tpl_310"
+  ],
+  "name": "News Details",
+  "description": "Displays the specific details and highlights of the earnings report.",
+  "domHints": {
+    "selectors": [
+      ".wd_newsfeed_releases-detail"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_310 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

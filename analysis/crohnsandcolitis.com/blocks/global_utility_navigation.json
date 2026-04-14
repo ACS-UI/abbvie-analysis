@@ -1,0 +1,40 @@
+{
+  "blockId": "global_utility_navigation",
+  "templateIds": [
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_7",
+    "tpl_10",
+    "tpl_12",
+    "tpl_13",
+    "tpl_14",
+    "tpl_15",
+    "tpl_18",
+    "tpl_19",
+    "tpl_24",
+    "tpl_25",
+    "tpl_27",
+    "tpl_28"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick access to utility links and navigation options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "site_map_content",
+  "templateIds": [
+    "tpl_35"
+  ],
+  "name": "Site Map Content",
+  "description": "Displays the site map links categorized by sections.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.epi-sitemap"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_35 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "side_effects_summary",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Side Effects Summary",
+  "description": "Overview of the most common side effects of the medication.",
+  "domHints": {
+    "selectors": [
+      ".ori-x-icon-tout"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "background_container_1715847909",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Carousel / spotlight",
+  "description": "Rotating or swipeable spotlight region (announcements, hero slides, promos).",
+  "domHints": {
+    "selectors": [
+      "#background-container-1715847909"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "slides",
+        "type": "list",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Carousel-like region on tpl_7. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

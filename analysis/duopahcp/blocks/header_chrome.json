@@ -1,0 +1,28 @@
+{
+  "blockId": "header_chrome",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_2"
+  ],
+  "name": "Site header",
+  "description": "Combined header region (utility + navigation if not split).",
+  "domHints": {
+    "selectors": [
+      "header"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Header on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

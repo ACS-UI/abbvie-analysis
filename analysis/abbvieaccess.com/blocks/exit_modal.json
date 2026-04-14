@@ -1,0 +1,27 @@
+{
+  "blockId": "exit_modal",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Exit Modal",
+  "description": "Informs users when they are leaving the site and provides options.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.PageExitPARx",
+      ".abbv-modal.PageExitCMM"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

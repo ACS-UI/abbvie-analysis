@@ -1,0 +1,196 @@
+{
+  "entryUrl": "https://www.viberzi.com/",
+  "discoveredAt": "2026-04-13T15:35:59.839Z",
+  "urls": [
+    {
+      "url": "https://www.viberzi.com/",
+      "normalised": "https://www.viberzi.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/about-ibsd/what-is-ibsd",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/about-ibsd/what-is-ibsd",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/about-viberzi/what-is-viberzi",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/about-viberzi/what-is-viberzi",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/patient-resources",
+      "normalised": "https://www.viberzi.com/patient-resources",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/about-viberzi",
+      "normalised": "https://www.viberzi.com/about-viberzi",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/about-ibsd",
+      "normalised": "https://www.viberzi.com/about-ibsd",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/savings-program",
+      "normalised": "https://www.viberzi.com/savings-program",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/savings-program/activate",
+      "normalised": "https://www.viberzi.com/savings-program/activate",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/sitemap",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/faqs",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/faqs",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/about-viberzi/daily-dosing",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/about-viberzi/daily-dosing",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/about-ibsd/living-with-ibsd",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/about-ibsd/living-with-ibsd",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/savings-program/card-entry",
+      "normalised": "https://www.viberzi.com/savings-program/card-entry",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/site-map",
+      "normalised": "https://www.viberzi.com/site-map",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/about-ibsd/how-ibsd-is-diagnosed",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/about-ibsd/how-ibsd-is-diagnosed",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/patient-resources/doctordiscussion-guide",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/patient-resources/doctordiscussion-guide",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/about-viberzi/safety",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/about-viberzi/safety",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/savings-program/sorry",
+      "normalised": "https://www.viberzi.com/savings-program/sorry",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/savings-program/unsubscribecontinue-brand-viberzi-type-savings",
+      "normalised": "https://www.viberzi.com/savings-program/unsubscribecontinue-brand-viberzi-type-savings",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/savings-program/vib-existing-card-entry",
+      "normalised": "https://www.viberzi.com/savings-program/vib-existing-card-entry",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/sitemap",
+      "normalised": "https://www.viberzi.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/helpful-links",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/helpful-links",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/savings-program",
+      "normalised": "https://www.viberzi.com/www.viberzi.com/savings-program",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/savings-program/email-opt-out",
+      "normalised": "https://www.viberzi.com/savings-program/email-opt-out",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/www.viberzi.com/",
+      "normalised": "https://www.viberzi.com/www.viberzi.com",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.viberzi.com/patient-resources/doctordiscussion-guide",
+      "normalised": "https://www.viberzi.com/patient-resources/doctordiscussion-guide",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 26,
+    "bySource": {
+      "sitemap": 19,
+      "crawl": 7,
+      "manual": 0
+    }
+  }
+}

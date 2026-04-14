@@ -1,0 +1,26 @@
+{
+  "blockId": "symptom_tracking",
+  "templateIds": [
+    "tpl_27"
+  ],
+  "name": "Symptom Tracking",
+  "description": "Guidance on tracking symptoms for better management.",
+  "domHints": {
+    "selectors": [
+      "#st"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_27 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

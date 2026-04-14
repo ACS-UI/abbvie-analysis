@@ -1,0 +1,26 @@
+{
+  "blockId": "search_box",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Search Box",
+  "description": "Search input field and related features.",
+  "domHints": {
+    "selectors": [
+      "div#abbv-search-util"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Search"
+}

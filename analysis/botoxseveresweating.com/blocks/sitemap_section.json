@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Sitemap Section",
+  "description": "Displays the site map with hierarchical links to all site pages.",
+  "domHints": {
+    "selectors": [
+      ".sitemap"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

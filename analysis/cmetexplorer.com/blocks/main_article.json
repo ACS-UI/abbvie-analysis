@@ -1,0 +1,26 @@
+{
+  "blockId": "main_article",
+  "templateIds": [
+    "tpl_145"
+  ],
+  "name": "Main Article",
+  "description": "The primary content of the page, including text and images.",
+  "domHints": {
+    "selectors": [
+      "div.nav-bar__primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_145 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

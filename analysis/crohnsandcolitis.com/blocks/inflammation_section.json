@@ -1,0 +1,28 @@
+{
+  "blockId": "inflammation_section",
+  "templateIds": [
+    "tpl_5",
+    "tpl_21",
+    "tpl_28"
+  ],
+  "name": "Inflammation Section",
+  "description": "Explains the role of inflammation in ulcerative colitis progression.",
+  "domHints": {
+    "selectors": [
+      "#ucinside"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "breakthrough_bleeding",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Breakthrough Bleeding Section",
+  "description": "Provides data and insights on breakthrough bleeding and spotting, including a supporting chart.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.abbv-efects"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "next_page_cta",
+  "templateIds": [
+    "tpl_21"
+  ],
+  "name": "Next Page CTA",
+  "description": "Link to the next page in the content flow.",
+  "domHints": {
+    "selectors": [
+      ".visit-next-page-block"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_21 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

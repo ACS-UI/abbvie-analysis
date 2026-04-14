@@ -1,0 +1,26 @@
+{
+  "blockId": "uc_causes_section",
+  "templateIds": [
+    "tpl_21"
+  ],
+  "name": "UC Causes Section",
+  "description": "Details on various causes of ulcerative colitis.",
+  "domHints": {
+    "selectors": [
+      "#diagnosingcrohns"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_21 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

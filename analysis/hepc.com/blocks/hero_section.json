@@ -1,0 +1,28 @@
+{
+  "blockId": "hero_section",
+  "templateIds": [
+    "tpl_1",
+    "tpl_2",
+    "tpl_5"
+  ],
+  "name": "Hero Section",
+  "description": "Prominent section introducing the page topic with a title and background.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1003477565"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Hero"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "references_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "References Section",
+  "description": "Lists references and sources for the information provided on the page.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion.fybp-references-title"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

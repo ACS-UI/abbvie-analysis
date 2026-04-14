@@ -1,0 +1,26 @@
+{
+  "blockId": "flip_cards",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Flip Cards",
+  "description": "Interactive cards that flip to reveal additional information.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flip-card"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "struct-main",
+  "templateIds": [
+    "tpl_78"
+  ],
+  "name": "main",
+  "description": "Primary content from role=main",
+  "domHints": {
+    "selectors": [
+      "[role='main']"
+    ],
+    "landmark": "main",
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Inferred from DOM on tpl_78. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

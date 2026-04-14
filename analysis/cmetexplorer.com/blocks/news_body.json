@@ -1,0 +1,26 @@
+{
+  "blockId": "news_body",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "News Body",
+  "description": "Main body content of the news article.",
+  "domHints": {
+    "selectors": [
+      ".wd_body"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

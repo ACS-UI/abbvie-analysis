@@ -1,0 +1,27 @@
+{
+  "blockId": "footer_social_links",
+  "templateIds": [
+    "tpl_256",
+    "tpl_263"
+  ],
+  "name": "Footer Social Links",
+  "description": "Social media links in the footer.",
+  "domHints": {
+    "selectors": [
+      "#linklist-bdf1bf32bf"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_256 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "staying_on_track",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Staying on Track",
+  "description": "Offers advice for maintaining treatment adherence.",
+  "domHints": {
+    "selectors": [
+      "#staying-ontrack"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

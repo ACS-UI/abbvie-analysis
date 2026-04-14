@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_columns",
+  "templateIds": [
+    "tpl_50"
+  ],
+  "name": "Main Content Columns",
+  "description": "Columns displaying key information, links, and visuals.",
+  "domHints": {
+    "selectors": [
+      "div.grid-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_50 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

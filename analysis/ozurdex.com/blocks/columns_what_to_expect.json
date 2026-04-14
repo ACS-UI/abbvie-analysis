@@ -1,0 +1,26 @@
+{
+  "blockId": "columns_what_to_expect",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "What to Expect Columns",
+  "description": "Provides detailed content about what to expect with Ozurdex, divided into sections.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.ozure-whatshould-sec"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

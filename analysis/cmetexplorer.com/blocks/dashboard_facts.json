@@ -1,0 +1,29 @@
+{
+  "blockId": "dashboard_facts",
+  "templateIds": [
+    "tpl_82",
+    "tpl_127",
+    "tpl_201",
+    "tpl_231"
+  ],
+  "name": "Dashboard Facts",
+  "description": "Showcases key facts or statistics in a dashboard style.",
+  "domHints": {
+    "selectors": [
+      ".dashboardcards .cmp-dashboardcard"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_82 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

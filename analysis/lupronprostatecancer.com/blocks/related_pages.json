@@ -1,0 +1,26 @@
+{
+  "blockId": "related_pages",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Related Pages",
+  "description": "Links to other relevant pages on the site.",
+  "domHints": {
+    "selectors": [
+      ".related-page-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

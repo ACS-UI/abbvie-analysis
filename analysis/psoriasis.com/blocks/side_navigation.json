@@ -1,0 +1,26 @@
+{
+  "blockId": "side_navigation",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Side Navigation",
+  "description": "Provides links to related topics or sections for additional navigation.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.side-nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

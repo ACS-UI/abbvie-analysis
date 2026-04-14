@@ -1,0 +1,27 @@
+{
+  "blockId": "dashboard_card",
+  "templateIds": [
+    "tpl_133",
+    "tpl_146"
+  ],
+  "name": "Dashboard Card",
+  "description": "Informational card displaying key metrics or highlights.",
+  "domHints": {
+    "selectors": [
+      "div.dashboardcards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_133 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

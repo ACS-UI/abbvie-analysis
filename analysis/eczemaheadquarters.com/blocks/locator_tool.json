@@ -1,0 +1,26 @@
+{
+  "blockId": "locator_tool",
+  "templateIds": [
+    "tpl_42"
+  ],
+  "name": "Specialist Locator Tool",
+  "description": "Interactive tool allowing users to search for specialists by ZIP code and radius.",
+  "domHints": {
+    "selectors": [
+      ".abbv-dr-locator-app"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_42 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

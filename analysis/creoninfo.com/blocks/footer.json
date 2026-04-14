@@ -1,0 +1,28 @@
+{
+  "blockId": "footer",
+  "templateIds": [
+    "tpl_4",
+    "tpl_6",
+    "tpl_11"
+  ],
+  "name": "Footer",
+  "description": "Site footer with additional navigation links and contact information.",
+  "domHints": {
+    "selectors": [
+      "footer"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "info_cta_section",
+  "templateIds": [
+    "tpl_25"
+  ],
+  "name": "Info and CTA Section",
+  "description": "Provides an overview of the page's content with quick links to sections.",
+  "domHints": {
+    "selectors": [
+      ".on-this-page"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

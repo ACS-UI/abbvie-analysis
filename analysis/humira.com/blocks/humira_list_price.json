@@ -1,0 +1,26 @@
+{
+  "blockId": "humira_list_price",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "HUMIRA List Price",
+  "description": "Details about the list price of HUMIRA and related information.",
+  "domHints": {
+    "selectors": [
+      "#hlp"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

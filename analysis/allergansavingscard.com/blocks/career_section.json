@@ -1,0 +1,28 @@
+{
+  "blockId": "career_section",
+  "templateIds": [
+    "tpl_271"
+  ],
+  "name": "Career Section",
+  "description": "Information about careers at the company with text and image.",
+  "domHints": {
+    "selectors": [
+      "div#title-1754dd4813",
+      "div#text-193c79c684",
+      "a#button-6b6f4f8085"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_271 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

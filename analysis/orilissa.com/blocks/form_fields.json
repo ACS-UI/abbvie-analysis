@@ -1,0 +1,27 @@
+{
+  "blockId": "form_fields",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Form Fields",
+  "description": "Includes input fields for the user's name and recipient's email address.",
+  "domHints": {
+    "selectors": [
+      ".abbv-form-wrapper.abbv-from-name",
+      ".abbv-form-wrapper.abbv-to-email"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Form"
+}

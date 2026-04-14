@@ -1,0 +1,26 @@
+{
+  "blockId": "global_utility_nav",
+  "templateIds": [
+    "tpl_271"
+  ],
+  "name": "Global Utility Navigation",
+  "description": "Provides quick access to search and other utility links.",
+  "domHints": {
+    "selectors": [
+      "header.nav-bar ul.utility-nav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_271 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

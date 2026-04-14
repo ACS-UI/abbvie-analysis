@@ -1,0 +1,26 @@
+{
+  "blockId": "secondary_cta_links",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Secondary CTA Links",
+  "description": "Additional call-to-action links for specific tools and resources.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.abbvieaccess-secondaryHeaderNav"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

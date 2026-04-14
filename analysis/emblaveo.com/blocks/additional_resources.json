@@ -1,0 +1,26 @@
+{
+  "blockId": "additional_resources",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Additional Resources",
+  "description": "Displays additional resources and guides related to the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.support"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

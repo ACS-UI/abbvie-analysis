@@ -1,0 +1,26 @@
+{
+  "blockId": "sitemap_overview",
+  "templateIds": [
+    "tpl_13"
+  ],
+  "name": "Sitemap Overview",
+  "description": "Displays an overview of the sitemap with categorized links to various sections.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.flex-column.flex-lg-row"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_13 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

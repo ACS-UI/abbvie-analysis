@@ -1,0 +1,26 @@
+{
+  "blockId": "thumbnail_box_2",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Thumbnail Box 2",
+  "description": "Highlights the FDA approval for therapeutic conditions.",
+  "domHints": {
+    "selectors": [
+      ".thumbnail-box.left.approved-block"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

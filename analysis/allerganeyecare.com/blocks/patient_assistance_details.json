@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_assistance_details",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Patient Assistance Details",
+  "description": "Details about the patient assistance programs, including eligibility and contact information.",
+  "domHints": {
+    "selectors": [
+      ".allergan-patient-assistance-sec2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

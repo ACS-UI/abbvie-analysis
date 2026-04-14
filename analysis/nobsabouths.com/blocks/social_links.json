@@ -1,0 +1,26 @@
+{
+  "blockId": "social_links",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Social Links",
+  "description": "Displays links to social media platforms with icons.",
+  "domHints": {
+    "selectors": [
+      ".flex-container-social-icons"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

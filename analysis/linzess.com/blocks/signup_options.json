@@ -1,0 +1,26 @@
+{
+  "blockId": "signup_options",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Sign-Up Options",
+  "description": "Provides multiple ways for users to sign up for savings, including text, call, and online options.",
+  "domHints": {
+    "selectors": [
+      ".savings-card-cards"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

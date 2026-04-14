@@ -1,0 +1,234 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "header nav"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "[role='main'] > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "[role='main'] > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "main_region_5__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "[role='main'] > div:nth-of-type(6)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/support-and-resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".result-with-lupron-banner"
+    },
+    {
+      "relativePath": "page_title__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".page-title-container .abbv-rich-text h1"
+    },
+    {
+      "relativePath": "content_section_1__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".doctors-office-section"
+    },
+    {
+      "relativePath": "content_section_2__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".dosing-option-treatment-option-section"
+    },
+    {
+      "relativePath": "content_section_3__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".patient-msg-container"
+    },
+    {
+      "relativePath": "related_pages__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".related-page-section"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/about-lupron-depot/how-lupron-depot-is-given",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".abbv-inline-safety"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "cta_columns__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".abbv-row-container.banner-cta-columns"
+    },
+    {
+      "relativePath": "prose_columns__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".abbv-row-container.prescribed-columns"
+    },
+    {
+      "relativePath": "accordion_section__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": ".abbv-accordion.let-us-help-accordion"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.lupronprostatecancer.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:20:02.839Z",
+      "selector": "footer"
+    }
+  ]
+}

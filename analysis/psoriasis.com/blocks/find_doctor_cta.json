@@ -1,0 +1,26 @@
+{
+  "blockId": "find_doctor_cta",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Find Doctor CTA",
+  "description": "Call-to-action section to locate a dermatologist.",
+  "domHints": {
+    "selectors": [
+      ".abbv-find-the-right-doctor"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

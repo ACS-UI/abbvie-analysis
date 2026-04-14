@@ -1,0 +1,26 @@
+{
+  "blockId": "preparation_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Preparation for Appointment",
+  "description": "Guidelines on preparing for a dermatologist appointment.",
+  "domHints": {
+    "selectors": [
+      ".about_width_col .about_col:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

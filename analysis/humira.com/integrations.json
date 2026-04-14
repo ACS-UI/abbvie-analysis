@@ -1,0 +1,25 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.humira.com/crohns",
+          "https://www.humira.com/",
+          "https://www.humira.com/cost",
+          "https://www.humira.com/humira-complete/sign-up",
+          "https://www.humira.com/humira-complete/landing/app-injection-detect"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:14:36.139Z"
+}

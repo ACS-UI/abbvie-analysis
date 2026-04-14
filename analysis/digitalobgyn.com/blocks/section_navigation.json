@@ -1,0 +1,28 @@
+{
+  "blockId": "section_navigation",
+  "templateIds": [
+    "tpl_2",
+    "tpl_5",
+    "tpl_7"
+  ],
+  "name": "Section Navigation",
+  "description": "Allows users to navigate between different sections of the resource content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-section-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Tabs"
+}

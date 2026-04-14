@@ -1,0 +1,26 @@
+{
+  "blockId": "symptoms_quiz_cta",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Symptoms Quiz CTA",
+  "description": "Encourages users to take a quiz to understand their symptoms better.",
+  "domHints": {
+    "selectors": [
+      ".grid__next-best-message--regal-blue-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

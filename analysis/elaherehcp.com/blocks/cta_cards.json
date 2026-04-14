@@ -1,0 +1,28 @@
+{
+  "blockId": "cta_cards",
+  "templateIds": [
+    "tpl_0",
+    "tpl_1",
+    "tpl_5"
+  ],
+  "name": "Call-to-Action Cards",
+  "description": "Cards providing links to additional resources and actions.",
+  "domHints": {
+    "selectors": [
+      "main > div:nth-of-type(6)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "new_hcv_providers_section",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "New HCV Providers Section",
+  "description": "Provides onboarding information for new HCV providers.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1493112836"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

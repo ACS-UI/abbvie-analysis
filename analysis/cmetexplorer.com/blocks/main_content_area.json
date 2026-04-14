@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_area",
+  "templateIds": [
+    "tpl_140"
+  ],
+  "name": "Main Content Area",
+  "description": "The primary content of the page including articles and stories.",
+  "domHints": {
+    "selectors": [
+      "div.nav-bar__primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_140 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

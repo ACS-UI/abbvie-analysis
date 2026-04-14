@@ -1,0 +1,1534 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_navigation__default.png",
+      "sourceUrl": "https://www.abbvie.com/allergan.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "header.nav-bar"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/allergan.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-e2c5b7330a"
+    },
+    {
+      "relativePath": "intro_text__default.png",
+      "sourceUrl": "https://www.abbvie.com/allergan.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-6684db30df"
+    },
+    {
+      "relativePath": "products_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/allergan.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-cf14d74428"
+    },
+    {
+      "relativePath": "aesthetics_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/allergan.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-32f75940ae div#title-6b48eddfd5"
+    },
+    {
+      "relativePath": "careers_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/allergan.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-32f75940ae div#title-f2191c19bc"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.abbvie.com/allergan.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#experiencefragment-3bdac637b1"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.abbvie.com/allergan.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "button#button-e78b69d2e4"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "header .nav-bar__primary .nav-logo-wrapper"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.abbvie.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "nav#navigation-8e7625c5d1"
+    },
+    {
+      "relativePath": "cta_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/pipeline.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cmp-button"
+    },
+    {
+      "relativePath": "card_grid__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/pipeline.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory.card-dashboard"
+    },
+    {
+      "relativePath": "global_header__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-leaders/liz-shea.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "header.nav-bar"
+    },
+    {
+      "relativePath": "main_content__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-leaders/jeffrey-stewart.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.nav-bar__primary"
+    },
+    {
+      "relativePath": "primary_content__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-leaders/tracie-haas.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.nav-bar__primary"
+    },
+    {
+      "relativePath": "related_links__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-leaders/tracie-haas.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".linklist.list-dashboard"
+    },
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#navigation-8551fd3cf3"
+    },
+    {
+      "relativePath": "site_search__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "form[role=\"search\"]"
+    },
+    {
+      "relativePath": "cookie_preferences_entry__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#onetrust-consent-sdk"
+    },
+    {
+      "relativePath": "main_navigation__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment/allergan-ous-disclosures.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#navigation-3f60a6511f"
+    },
+    {
+      "relativePath": "content_intro__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment/allergan-ous-disclosures.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#text-8cbecf5ba2"
+    },
+    {
+      "relativePath": "content_columns__default.png",
+      "sourceUrl": "https://www.abbvie.com/contact-center.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-container"
+    },
+    {
+      "relativePath": "leader_bio__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-leaders/roopal-thakkar.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-d680b4c4dc"
+    },
+    {
+      "relativePath": "main_content_intro__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#title-7f02b642d8"
+    },
+    {
+      "relativePath": "cta_button_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "a#button-36554185fd"
+    },
+    {
+      "relativePath": "link_list_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "ul#linklist-aaa24a93ff"
+    },
+    {
+      "relativePath": "featured_story_card__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.cardpagestory.card-dashboard.card-medium"
+    },
+    {
+      "relativePath": "dashboard_card_recognition__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.dashboard-card-facts > div.content-container"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-principles/equity-equality-inclusion-diversity.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "button.back-btn"
+    },
+    {
+      "relativePath": "cta_button__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/operating-with-integrity/protecting-human-rights-and-workplace-safety.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#button-1a967122b5"
+    },
+    {
+      "relativePath": "link_list__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/operating-with-integrity/protecting-human-rights-and-workplace-safety.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#linklist-5efd6c60cf"
+    },
+    {
+      "relativePath": "main_cta_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/science.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-d72412c157"
+    },
+    {
+      "relativePath": "featured_stories_grid__default.png",
+      "sourceUrl": "https://www.abbvie.com/science.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-container > .grid-row"
+    },
+    {
+      "relativePath": "statistics_highlights__default.png",
+      "sourceUrl": "https://www.abbvie.com/science.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".dashboard-card-facts"
+    },
+    {
+      "relativePath": "footer_navigation__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-leaders/jag-dosanjh.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#navigation-65860bfaad"
+    },
+    {
+      "relativePath": "leadership_profile__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-leaders/azita-saleki-gerhardt.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cmp-dashboardcard"
+    },
+    {
+      "relativePath": "cta_grid__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-principles.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-container > .grid-row"
+    },
+    {
+      "relativePath": "content_card_grid__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/operating-with-integrity/transparency-in-payment/abbvie-inquiry.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-container > .grid-row"
+    },
+    {
+      "relativePath": "key_facts_overview__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/key-facts.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-4e6cf0db4c"
+    },
+    {
+      "relativePath": "content_cards__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/key-facts.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory"
+    },
+    {
+      "relativePath": "header_logo__default.png",
+      "sourceUrl": "https://www.abbvie.com/terms-of-use.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.nav-logo > a > img"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.abbvie.com/terms-of-use.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#navigation-2f4bba490c"
+    },
+    {
+      "relativePath": "featured_card__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory.card-dashboard"
+    },
+    {
+      "relativePath": "data_highlight__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".dashboardcards.medium-theme-stroke"
+    },
+    {
+      "relativePath": "primary_cta__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/inside-dream-initiative.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.nav-bar__primary"
+    },
+    {
+      "relativePath": "main_hero__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/living-with-an-illness.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.nav-bar__primary"
+    },
+    {
+      "relativePath": "navigation_menu__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/living-with-an-illness.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "nav#navigation-e8f5f3217c"
+    },
+    {
+      "relativePath": "featured_story__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/living-with-an-illness.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.cardpagestory.card-dashboard"
+    },
+    {
+      "relativePath": "dashboard_cards__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/living-with-an-illness.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.dashboardcards"
+    },
+    {
+      "relativePath": "leadership_profiles_grid__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-leaders.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.grid-container > div.grid-row"
+    },
+    {
+      "relativePath": "main_story_content__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/magnified-featuring-matt-widman.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-f719d1c268"
+    },
+    {
+      "relativePath": "data_highlight_card__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/operating-with-integrity/responsible-supply-chain.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".dashboard-card-facts"
+    },
+    {
+      "relativePath": "card_grid_highlight__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/operating-with-integrity.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-container > .grid-row"
+    },
+    {
+      "relativePath": "site_map_listing__default.png",
+      "sourceUrl": "https://www.abbvie.com/site-map.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cmp-navigation__group"
+    },
+    {
+      "relativePath": "main_content_cards__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.cardpagestory"
+    },
+    {
+      "relativePath": "content_teasers__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/chembeads-improving-artificial-intelligence-through-human-ingenuity.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-row__col-with-3"
+    },
+    {
+      "relativePath": "story_highlight__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/starting-with-a-spark-an-inside-look-at-environmental-sustainability.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory.card-dashboard"
+    },
+    {
+      "relativePath": "fact_highlight__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/starting-with-a-spark-an-inside-look-at-environmental-sustainability.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".dashboard-card-facts"
+    },
+    {
+      "relativePath": "story_cards__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/they-wont-back-down.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.cardpagestory.card-dashboard.card-medium"
+    },
+    {
+      "relativePath": "dashboard_facts__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/they-wont-back-down.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.dashboardcards.medium-theme-stroke"
+    },
+    {
+      "relativePath": "multi_column_cta__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/the-hardest-hit-how-nonprofits-rise-to-challenge-covid-19.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-row__col-with-4"
+    },
+    {
+      "relativePath": "content_grid__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/how-uterine-fibroids-feel-to-patient-who-is-also-doctor.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid.cmp-grid-meganav-3"
+    },
+    {
+      "relativePath": "cta_columns__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/precision-medicine-its-not-just-for-oncology-anymore.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-row__col-with-4"
+    },
+    {
+      "relativePath": "primary_header__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/chasing-the-value-of-a-walk-down-the-aisle.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".nav-bar"
+    },
+    {
+      "relativePath": "data_highlights__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/chasing-the-value-of-a-walk-down-the-aisle.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".dashboardcards"
+    },
+    {
+      "relativePath": "main_content_lead__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/rebuilding-puerto-rico-one-community-health-center-at-a-time.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.nav-bar__primary"
+    },
+    {
+      "relativePath": "prose_columns__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/rebuilding-puerto-rico-one-community-health-center-at-a-time.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cmp-text"
+    },
+    {
+      "relativePath": "card_grid_stories__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/eedi-stories.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-row__col-with-3 .cardpagestory"
+    },
+    {
+      "relativePath": "card_teasers__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/advancing-a-public-health-approach-to-patient-safety.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory"
+    },
+    {
+      "relativePath": "story_highlight_cards__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/discovery-files-vision-for-blood-cancer-patients.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory"
+    },
+    {
+      "relativePath": "cta_buttons__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/going-inside-prison-walls-to-help-eliminate-hepatitis-c.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "a#button-e8a49f3fea"
+    },
+    {
+      "relativePath": "feature_cards__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/lessons-from-a-lifelong-journey-with-psoriasis.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory"
+    },
+    {
+      "relativePath": "prose_content__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/lessons-from-a-lifelong-journey-with-psoriasis.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cmp-text"
+    },
+    {
+      "relativePath": "story_card__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/sustainability-stories.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory"
+    },
+    {
+      "relativePath": "dashboard_card__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/philanthropy-stories.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.dashboardcards.medium-theme-stroke"
+    },
+    {
+      "relativePath": "latest_stories__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/time-is-hours.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory"
+    },
+    {
+      "relativePath": "key_facts__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/working-parents-2023-finding-comfort-in-community.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".dashboard-card-facts"
+    },
+    {
+      "relativePath": "related_articles__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/the-persistence-lab-podcasts.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.cardpagestory"
+    },
+    {
+      "relativePath": "story_card_grid__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/science-stories.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory.card-dashboard"
+    },
+    {
+      "relativePath": "dashboard_statistics__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/science-stories.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".dashboardcards.medium-theme-stroke"
+    },
+    {
+      "relativePath": "card_grid_story_highlights__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/real-people-real-inspiration-joes-story.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".grid-container > .grid-row"
+    },
+    {
+      "relativePath": "statistics_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/our-stories/five-technologies-supporting-progress-in-challenging-diseases.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".dashboard-card-facts"
+    },
+    {
+      "relativePath": "profile_overview__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/our-people/our-rd-leaders/andrew-campbell.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#text-10de8beb7d"
+    },
+    {
+      "relativePath": "profile_card__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/our-people/our-rd-leaders/andrew-campbell.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory"
+    },
+    {
+      "relativePath": "innovation_highlights__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/areas-of-innovation.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-457af92334"
+    },
+    {
+      "relativePath": "content_section_intro__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/our-people/our-rd-leaders/darin-messina.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#text-8adbb5543f"
+    },
+    {
+      "relativePath": "content_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/our-people/our-rd-leaders/primal-kaur.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cmp-text"
+    },
+    {
+      "relativePath": "main_content_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/brand-partnerships/major-league-baseball.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.nav-bar__primary"
+    },
+    {
+      "relativePath": "footer_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/who-we-are/brand-partnerships/major-league-baseball.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#navigation-d8bb11057a"
+    },
+    {
+      "relativePath": "primary_cta_grid__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/areas-of-innovation/precision-medicine.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.grid-row__col-with-1"
+    },
+    {
+      "relativePath": "secondary_cta_grid__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/areas-of-innovation/precision-medicine.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.grid-row__col-with-3"
+    },
+    {
+      "relativePath": "who_we_are_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/rd-sites.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#title-5e4f37584b"
+    },
+    {
+      "relativePath": "science_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/rd-sites.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#title-803e1ad2ac"
+    },
+    {
+      "relativePath": "clinical_trials_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/science/clinical-trials.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-3872cfc99d"
+    },
+    {
+      "relativePath": "faq_list__default.png",
+      "sourceUrl": "https://www.abbvie.com/patients/patient-support/patient-assistance/patient-assistance-frequently-asked-questions.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "ul#linklist-6db1ce8f88"
+    },
+    {
+      "relativePath": "header_navigation__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/bay-area-opportunities.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "header.nav-bar"
+    },
+    {
+      "relativePath": "intro_content__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/bay-area-opportunities.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-bda50f47d9"
+    },
+    {
+      "relativePath": "campus_teaser__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/bay-area-opportunities.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-e9b7485235"
+    },
+    {
+      "relativePath": "carousel_gallery__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/bay-area-opportunities.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#carousel-7c39207324"
+    },
+    {
+      "relativePath": "focus_areas__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/bay-area-opportunities.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#title-d54aa0b523"
+    },
+    {
+      "relativePath": "breakthroughs_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/bay-area-opportunities.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#title-ad5d475f46"
+    },
+    {
+      "relativePath": "innovation_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/bay-area-opportunities.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#title-161ddc7f2c"
+    },
+    {
+      "relativePath": "content_highlight__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/life-at-abbvie/employee-resource-groups/abbvie-pride.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".container.abbvie-container .cmp-container"
+    },
+    {
+      "relativePath": "content_section_1__default.png",
+      "sourceUrl": "https://www.abbvie.com/contact-center/locations/tunisia.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#text-28ed2c3911"
+    },
+    {
+      "relativePath": "content_section_2__default.png",
+      "sourceUrl": "https://www.abbvie.com/contact-center/locations/tunisia.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory.card-dashboard.card-medium"
+    },
+    {
+      "relativePath": "content_section_3__default.png",
+      "sourceUrl": "https://www.abbvie.com/contact-center/locations/tunisia.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".dashboardcards.medium-theme-stroke"
+    },
+    {
+      "relativePath": "featured_links__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/why-abbvie.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cmp-list"
+    },
+    {
+      "relativePath": "patients_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/contact-center/locations/slovenia.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#title-d39bea986b"
+    },
+    {
+      "relativePath": "content_section_one__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/student-programs.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#title-12e7b71bc6"
+    },
+    {
+      "relativePath": "content_section_two__default.png",
+      "sourceUrl": "https://www.abbvie.com/join-us/student-programs.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#text-c752a427e5"
+    },
+    {
+      "relativePath": "lead_content__default.png",
+      "sourceUrl": "https://www.abbvie.com/cerevel.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-264a085156"
+    },
+    {
+      "relativePath": "neuroscience_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/cerevel.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-2a90107379 .grid-row:nth-of-type(1)"
+    },
+    {
+      "relativePath": "footer_social_media__default.png",
+      "sourceUrl": "https://www.abbvie.com/cerevel.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-36a29e83d9 .list-icons"
+    },
+    {
+      "relativePath": "footer_legal__default.png",
+      "sourceUrl": "https://www.abbvie.com/cerevel.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-36a29e83d9 .list-footer-legal"
+    },
+    {
+      "relativePath": "content_grid_1__default.png",
+      "sourceUrl": "https://www.abbvie.com/celsius-therapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-a9a9fe74b6 .grid-row:nth-of-type(1)"
+    },
+    {
+      "relativePath": "content_grid_2__default.png",
+      "sourceUrl": "https://www.abbvie.com/celsius-therapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div.aem-Grid"
+    },
+    {
+      "relativePath": "footer_primary_links__default.png",
+      "sourceUrl": "https://www.abbvie.com/celsius-therapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".list-footer-primary"
+    },
+    {
+      "relativePath": "footer_social_links__default.png",
+      "sourceUrl": "https://www.abbvie.com/celsius-therapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".list-icons"
+    },
+    {
+      "relativePath": "footer_popular_pages__default.png",
+      "sourceUrl": "https://www.abbvie.com/celsius-therapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#linklist-d3de59940d"
+    },
+    {
+      "relativePath": "footer_external_links__default.png",
+      "sourceUrl": "https://www.abbvie.com/celsius-therapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#linklist-016660de49"
+    },
+    {
+      "relativePath": "footer_legal_links__default.png",
+      "sourceUrl": "https://www.abbvie.com/celsius-therapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#linklist-bd74c6ddda"
+    },
+    {
+      "relativePath": "global_utility_nav__default.png",
+      "sourceUrl": "https://www.abbvie.com/nimbletherapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "header.nav-bar ul.utility-nav"
+    },
+    {
+      "relativePath": "cta_button_announcement__default.png",
+      "sourceUrl": "https://www.abbvie.com/nimbletherapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "a#button-55ecb8170a"
+    },
+    {
+      "relativePath": "immunology_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/nimbletherapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#title-e0e2729c78"
+    },
+    {
+      "relativePath": "career_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/nimbletherapeutics.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#title-1754dd4813"
+    },
+    {
+      "relativePath": "footer_primary__default.png",
+      "sourceUrl": "https://www.abbvie.com/mitokinin.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "ul#linklist-12ec1cfea3.cmp-list"
+    },
+    {
+      "relativePath": "footer_social__default.png",
+      "sourceUrl": "https://www.abbvie.com/mitokinin.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "ul#linklist-889662a718.cmp-list"
+    },
+    {
+      "relativePath": "spotlight_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/immunogen.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-a84e551985"
+    },
+    {
+      "relativePath": "secondary_spotlight__default.png",
+      "sourceUrl": "https://www.abbvie.com/immunogen.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-aae9fc3465"
+    },
+    {
+      "relativePath": "content_section_who_we_are__default.png",
+      "sourceUrl": "https://www.abbvie.com/sustainability/abbvie-foundation.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#title-bec17cd398"
+    },
+    {
+      "relativePath": "content_section_science__default.png",
+      "sourceUrl": "https://www.abbvie.com/sustainability/abbvie-foundation.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#title-127b6b5fd3"
+    },
+    {
+      "relativePath": "card_grid_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/sustainability/disaster-relief.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cardpagestory"
+    },
+    {
+      "relativePath": "content_section_three__default.png",
+      "sourceUrl": "https://www.abbvie.com/allergan-labeling.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "div#container-d9ee270214"
+    },
+    {
+      "relativePath": "milestones_section__default.png",
+      "sourceUrl": "https://www.abbvie.com/landing/a-history-of-impact.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".milestones"
+    },
+    {
+      "relativePath": "year_2023__default.png",
+      "sourceUrl": "https://www.abbvie.com/landing/a-history-of-impact.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#2023"
+    },
+    {
+      "relativePath": "year_2022__default.png",
+      "sourceUrl": "https://www.abbvie.com/landing/a-history-of-impact.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#2022"
+    },
+    {
+      "relativePath": "year_2021__default.png",
+      "sourceUrl": "https://www.abbvie.com/landing/a-history-of-impact.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#2021"
+    },
+    {
+      "relativePath": "year_2020__default.png",
+      "sourceUrl": "https://www.abbvie.com/landing/a-history-of-impact.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#2020"
+    },
+    {
+      "relativePath": "year_2019__default.png",
+      "sourceUrl": "https://www.abbvie.com/landing/a-history-of-impact.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#2019"
+    },
+    {
+      "relativePath": "year_2018__default.png",
+      "sourceUrl": "https://www.abbvie.com/landing/a-history-of-impact.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#2018"
+    },
+    {
+      "relativePath": "breadcrumbs__default.png",
+      "sourceUrl": "https://www.abbvie.com/latest-earnings.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".breadcrumbs__wrap"
+    },
+    {
+      "relativePath": "news_details__default.png",
+      "sourceUrl": "https://www.abbvie.com/latest-earnings.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".wd_newsfeed_releases-detail"
+    },
+    {
+      "relativePath": "global_utility_links__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cmp-globalheader__right-container"
+    },
+    {
+      "relativePath": "search_bar__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": ".cmp-globalnavigation__search"
+    },
+    {
+      "relativePath": "three_column_cta__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#container-0220467fb4"
+    },
+    {
+      "relativePath": "cookie_settings__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#ot-sdk-btn"
+    },
+    {
+      "relativePath": "footer_disclaimer__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#text-9ba799af3c"
+    },
+    {
+      "relativePath": "popup_warnonleave__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#warnonleave"
+    },
+    {
+      "relativePath": "popup_warnonthirdparty__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#warnonthirdparty"
+    },
+    {
+      "relativePath": "popup_warnonspecial__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#warnonspecial"
+    },
+    {
+      "relativePath": "main_content_area__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy-inquiry.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#auraErrorMask"
+    },
+    {
+      "relativePath": "cookie_consent_banner__default.png",
+      "sourceUrl": "https://www.abbvie.com/privacy-inquiry.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T18:09:33.086Z",
+      "selector": "#auraErrorMask"
+    }
+  ]
+}

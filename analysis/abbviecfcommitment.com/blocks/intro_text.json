@@ -1,0 +1,28 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_3",
+    "tpl_5",
+    "tpl_14"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides an introduction to the topic with a heading and paragraph.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.base-wrapper"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,51 @@
+{
+  "blockId": "content_intro",
+  "templateIds": [
+    "tpl_7",
+    "tpl_16",
+    "tpl_41",
+    "tpl_56",
+    "tpl_74",
+    "tpl_79",
+    "tpl_80",
+    "tpl_84",
+    "tpl_85",
+    "tpl_97",
+    "tpl_111",
+    "tpl_120",
+    "tpl_126",
+    "tpl_129",
+    "tpl_137",
+    "tpl_146",
+    "tpl_160",
+    "tpl_170",
+    "tpl_175",
+    "tpl_178",
+    "tpl_203",
+    "tpl_246",
+    "tpl_273",
+    "tpl_277",
+    "tpl_281",
+    "tpl_303"
+  ],
+  "name": "Content Introduction",
+  "description": "Introduction to the page content with a title and supporting text.",
+  "domHints": {
+    "selectors": [
+      "div#container-82e4b8a1e5"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

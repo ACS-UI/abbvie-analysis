@@ -1,0 +1,21 @@
+{
+  "entryUrl": "https://www.beyondagutfeeling.com/",
+  "discoveredAt": "2026-04-13T16:36:30.901Z",
+  "urls": [
+    {
+      "url": "https://www.beyondagutfeeling.com/",
+      "normalised": "https://www.beyondagutfeeling.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "bySource": {
+      "sitemap": 0,
+      "crawl": 1,
+      "manual": 0
+    }
+  }
+}

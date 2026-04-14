@@ -1,0 +1,26 @@
+{
+  "blockId": "tab_controls",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Tab Controls",
+  "description": "The controls for switching between tabs.",
+  "domHints": {
+    "selectors": [
+      ".abbv-tabs-controls"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

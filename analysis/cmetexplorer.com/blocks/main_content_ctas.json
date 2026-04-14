@@ -1,0 +1,27 @@
+{
+  "blockId": "main_content_ctas",
+  "templateIds": [
+    "tpl_112"
+  ],
+  "name": "Main Content CTAs",
+  "description": "Features call-to-action buttons and links for key sections.",
+  "domHints": {
+    "selectors": [
+      ".cmp-button",
+      "ul.cmp-list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_112 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

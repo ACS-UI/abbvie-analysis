@@ -1,0 +1,26 @@
+{
+  "blockId": "quick_benefits_section",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Quick Benefits Section",
+  "description": "Displays quick benefits of the product with supporting icons and text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.ori-x-icon-tout.ori-x-margin-top-30"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_transcripts",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Main Content - Transcripts",
+  "description": "Main content area displaying the transcript text and related information.",
+  "domHints": {
+    "selectors": [
+      ".linzess-transcript-global"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

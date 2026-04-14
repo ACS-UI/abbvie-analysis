@@ -1,0 +1,26 @@
+{
+  "blockId": "importance_of_diagnosis_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Importance of Diagnosis Section",
+  "description": "Emphasizes the importance of early diagnosis and treatment of CPP.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.lup-inner-container.importance-inner-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

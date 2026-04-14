@@ -1,0 +1,26 @@
+{
+  "blockId": "interactive_quiz_cta",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Interactive Quiz CTA",
+  "description": "Encourages users to take a quiz to better understand their symptoms.",
+  "domHints": {
+    "selectors": [
+      ".ufs-pink-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

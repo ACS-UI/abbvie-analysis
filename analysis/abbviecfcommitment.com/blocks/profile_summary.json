@@ -1,0 +1,26 @@
+{
+  "blockId": "profile_summary",
+  "templateIds": [
+    "tpl_34"
+  ],
+  "name": "Profile Summary",
+  "description": "Displays a brief summary of the scholar's profile including image and introductory text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.grid__2-col--40-60"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_34 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

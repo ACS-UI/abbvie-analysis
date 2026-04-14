@@ -1,0 +1,29 @@
+{
+  "blockId": "main_region_4",
+  "templateIds": [
+    "tpl_4",
+    "tpl_12",
+    "tpl_17",
+    "tpl_25"
+  ],
+  "name": "main region 4",
+  "description": "Major content region in main (div). Preview: Your LINZESS Prescription How much does LINZESS cost? Check the Financial Support page to learn more about the cost of L…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_4. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

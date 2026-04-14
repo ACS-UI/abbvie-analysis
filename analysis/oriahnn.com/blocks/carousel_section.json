@@ -1,0 +1,26 @@
+{
+  "blockId": "carousel_section",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Carousel Section",
+  "description": "Showcases diverse characteristics of the trial participants using a carousel format.",
+  "domHints": {
+    "selectors": [
+      ".abbv-carousel.owl-carousel"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Carousel"
+}

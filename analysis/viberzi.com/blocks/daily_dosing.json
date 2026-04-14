@@ -1,0 +1,26 @@
+{
+  "blockId": "daily_dosing",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Daily Dosing Section",
+  "description": "Information about the recommended dosing schedule for VIBERZI.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.full-container.bg-extra-light-orange"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_trials_section",
+  "templateIds": [
+    "tpl_257"
+  ],
+  "name": "Clinical Trials Section",
+  "description": "Provides information about clinical trials.",
+  "domHints": {
+    "selectors": [
+      "div#container-aae9fc3465"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_257 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

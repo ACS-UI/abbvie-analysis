@@ -1,0 +1,26 @@
+{
+  "blockId": "coverage_highlights",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "Coverage Highlights",
+  "description": "Highlights key statistics and benefits of the product's coverage.",
+  "domHints": {
+    "selectors": [
+      ".widely-covered-columns"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

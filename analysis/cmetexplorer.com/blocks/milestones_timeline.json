@@ -1,0 +1,27 @@
+{
+  "blockId": "milestones_timeline",
+  "templateIds": [
+    "tpl_43"
+  ],
+  "name": "Milestones Timeline",
+  "description": "A timeline showcasing significant milestones with images and descriptions.",
+  "domHints": {
+    "selectors": [
+      ".milestones",
+      ".year-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_43 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

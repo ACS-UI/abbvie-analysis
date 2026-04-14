@@ -1,0 +1,26 @@
+{
+  "blockId": "about_cpp_section",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "About CPP Section",
+  "description": "Provides an overview of Central Precocious Puberty and its implications.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text.lup-cpp-content-box.about-cpp-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

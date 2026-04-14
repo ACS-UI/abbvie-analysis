@@ -1,0 +1,27 @@
+{
+  "blockId": "content_section_1",
+  "templateIds": [
+    "tpl_252",
+    "tpl_303"
+  ],
+  "name": "Content Section 1",
+  "description": "Provides information about the organization's principles and values.",
+  "domHints": {
+    "selectors": [
+      "#text-28ed2c3911"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_252 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

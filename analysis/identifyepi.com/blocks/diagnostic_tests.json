@@ -1,0 +1,26 @@
+{
+  "blockId": "diagnostic_tests",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Diagnostic Tests",
+  "description": "Lists tests that can confirm the diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.abbv-margin-top-40"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

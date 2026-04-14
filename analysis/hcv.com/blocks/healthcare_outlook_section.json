@@ -1,0 +1,26 @@
+{
+  "blockId": "healthcare_outlook_section",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Healthcare Outlook Section",
+  "description": "Insights into Maria's health and related challenges.",
+  "domHints": {
+    "selectors": [
+      ".flex-blue-bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

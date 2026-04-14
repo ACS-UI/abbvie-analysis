@@ -1,0 +1,28 @@
+{
+  "blockId": "dashboard_facts",
+  "templateIds": [
+    "tpl_68",
+    "tpl_128"
+  ],
+  "name": "Dashboard Facts",
+  "description": "Showcases key statistics and achievements in a visually engaging format.",
+  "domHints": {
+    "selectors": [
+      "div.dashboardcards.medium-theme-stroke",
+      "div.dashboard-card-facts"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_68 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

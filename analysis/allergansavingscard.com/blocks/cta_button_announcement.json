@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_button_announcement",
+  "templateIds": [
+    "tpl_271"
+  ],
+  "name": "CTA Button - Announcement",
+  "description": "Call-to-action button linking to the announcement.",
+  "domHints": {
+    "selectors": [
+      "a#button-55ecb8170a"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_271 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

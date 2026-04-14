@@ -1,0 +1,26 @@
+{
+  "blockId": "living_with_hcv_card",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Living With HCV Card",
+  "description": "Shares insights into living with hepatitis C.",
+  "domHints": {
+    "selectors": [
+      "#background-container-2045404616 .flexboxitem-v2:nth-of-type(4)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

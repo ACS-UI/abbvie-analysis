@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.talkingibsc.com/",
+  "normalisedUrl": "https://www.talkingibsc.com/",
+  "finalUrlAfterRedirects": "https://www.talkingibsc.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:57:37.572Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

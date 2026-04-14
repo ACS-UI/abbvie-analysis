@@ -1,0 +1,26 @@
+{
+  "blockId": "bristol_stool_scale",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Bristol Stool Scale",
+  "description": "Content block explaining the Bristol Stool Form Scale with an accompanying image.",
+  "domHints": {
+    "selectors": [
+      ".abbv-image-text-v2 img[src*='stools']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,444 @@
+{
+  "entries": [
+    {
+      "relativePath": "tabs_disease_severity__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-tab-1599355144-0"
+    },
+    {
+      "relativePath": "tabs_patient_demographics__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-tab-184061788-1"
+    },
+    {
+      "relativePath": "chart_fibroid_location__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-barchart-1238806829-data"
+    },
+    {
+      "relativePath": "chart_primary_fibroid_volume__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-barchart-799249460-data"
+    },
+    {
+      "relativePath": "chart_uterine_volume__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-barchart-1457661547-data"
+    },
+    {
+      "relativePath": "chart_mbl_volume__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-barchart-580394742-data"
+    },
+    {
+      "relativePath": "chart_bmi__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-barchart-1676516265-data"
+    },
+    {
+      "relativePath": "chart_race__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-barchart-361540024-data"
+    },
+    {
+      "relativePath": "chart_ethnicity__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-barchart-1895370983-data"
+    },
+    {
+      "relativePath": "chart_age__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data/efficacy-disease-severity",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#abbv-barchart-142685306-data"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-hemoglobin",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "section > div.columns.parbase > div.abbv-row-container > div.abbv-row > div.abbv-col > div.rich-text > div.abbv-rich-text.text-center.mt-10"
+    },
+    {
+      "relativePath": "efficacy_flexbox__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-hemoglobin",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "section > div.columns.parbase > div.abbv-row-container > div.abbv-row > div.abbv-col > div.flexbox.parbase > div.abbv-flex-container"
+    },
+    {
+      "relativePath": "important_safety_information__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-hemoglobin",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "div[role='region'][aria-label='Important Safety Information']"
+    },
+    {
+      "relativePath": "footer_links__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-hemoglobin",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "footer.abbv-footer ul.abbv-footer-horizontal"
+    },
+    {
+      "relativePath": "back_to_top_button__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/efficacy/efficacy-flexbox-hemoglobin",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "button.abbv-back-to-top"
+    },
+    {
+      "relativePath": "adverse_reactions_table__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/safety-adverse-reactions/safety-adverse-reactions-flexbox",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "div.abbv-flex-container.oriahnn-sarf-col"
+    },
+    {
+      "relativePath": "discontinuation_section__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/safety-adverse-reactions/safety-adverse-reactions-flexbox",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "div.abbv-flex-container.teal-border__discontinuation-graphs"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/safety-adverse-reactions/safety-adverse-reactions-flexbox",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "footer.abbv-footer"
+    },
+    {
+      "relativePath": "global_utility_strip__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "header > .abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "header > .abbv-header-v2-primary-navigation"
+    },
+    {
+      "relativePath": "cta_columns__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".home-icon-callouts"
+    },
+    {
+      "relativePath": "utility_navigation__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "contact_form__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "iframe#aemFormFrame"
+    },
+    {
+      "relativePath": "back_to_top__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/contact-a-rep",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-back-to-top"
+    },
+    {
+      "relativePath": "search_box__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#header-search"
+    },
+    {
+      "relativePath": "search_results__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/search-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".search-results-coveo"
+    },
+    {
+      "relativePath": "section_navigation__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-section-navigation"
+    },
+    {
+      "relativePath": "study_design__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-rich-text.mb-30"
+    },
+    {
+      "relativePath": "primary_endpoint__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#primary-endpoint"
+    },
+    {
+      "relativePath": "reduction_over_time__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#reduction-over-time"
+    },
+    {
+      "relativePath": "subgroup_analysis__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/clinical-trial-data",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": "#subgroup"
+    },
+    {
+      "relativePath": "educational_resources__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-row-container.mt-30"
+    },
+    {
+      "relativePath": "contact_rep_cta__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-row-container.bg-color-pink.md-my-30"
+    },
+    {
+      "relativePath": "speaker_program_cta__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/resources",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-row-container.rounded-border-5.bg-color-pink.hidden"
+    },
+    {
+      "relativePath": "global_utility_navigation__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/access",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-header-v2-utility-navigation"
+    },
+    {
+      "relativePath": "insurance_coverage_intro__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/access",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-flex-container .orihcp-access-title"
+    },
+    {
+      "relativePath": "insurance_lookup_form__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/access",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-formulary-zipcode"
+    },
+    {
+      "relativePath": "insurance_coverage_chart__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/access",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-interactive-chart"
+    },
+    {
+      "relativePath": "insurance_coverage_details__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/access",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-rich-text.orihcp-pie-below-smll-txt"
+    },
+    {
+      "relativePath": "patient_profiles__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-container.patient-block"
+    },
+    {
+      "relativePath": "statistical_highlight__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-flex-container.orihcp-access-width"
+    },
+    {
+      "relativePath": "discussion_prompts__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-flex-container.start-conv"
+    },
+    {
+      "relativePath": "counseling_cta__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/patient-stories",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-container.px-10"
+    },
+    {
+      "relativePath": "sitemap_links__default.png",
+      "sourceUrl": "https://www.oriahnnhcp.com/site-map",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T15:37:30.967Z",
+      "selector": ".abbv-rich-text.ml-15.mb-25"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_card",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Resources Card",
+  "description": "Provides access to various HCV-related resources.",
+  "domHints": {
+    "selectors": [
+      "#background-container-2045404616 .flexboxitem-v2:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

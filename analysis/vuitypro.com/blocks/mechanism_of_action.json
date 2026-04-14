@@ -1,0 +1,26 @@
+{
+  "blockId": "mechanism_of_action",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Mechanism of Action",
+  "description": "Explains how the product works, including its dual mechanism of action.",
+  "domHints": {
+    "selectors": [
+      ".vuitypro-video-meca-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

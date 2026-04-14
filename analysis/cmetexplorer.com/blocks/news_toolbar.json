@@ -1,0 +1,26 @@
+{
+  "blockId": "news_toolbar",
+  "templateIds": [
+    "tpl_311"
+  ],
+  "name": "News Toolbar",
+  "description": "Toolbar with options like print and email for the news article.",
+  "domHints": {
+    "selectors": [
+      ".wd_toolbar"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_311 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

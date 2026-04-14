@@ -1,0 +1,26 @@
+{
+  "blockId": "access_coverage_card",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Access & Coverage Card",
+  "description": "Shares information about insurance coverage for INFeD.",
+  "domHints": {
+    "selectors": [
+      ".access-coverage-card"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

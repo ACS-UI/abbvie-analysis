@@ -1,0 +1,26 @@
+{
+  "blockId": "info_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Information Section",
+  "description": "Additional clinical safety and efficacy information.",
+  "domHints": {
+    "selectors": [
+      ".info-section"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

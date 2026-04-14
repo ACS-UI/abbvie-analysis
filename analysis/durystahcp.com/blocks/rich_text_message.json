@@ -1,0 +1,27 @@
+{
+  "blockId": "rich_text_message",
+  "templateIds": [
+    "tpl_12"
+  ],
+  "name": "Rich Text Message",
+  "description": "Presents a centered message informing the user about leaving the current site.",
+  "domHints": {
+    "selectors": [
+      ".abbv-rich-text",
+      ".abbv-rich-text-common"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

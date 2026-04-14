@@ -1,0 +1,680 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T11:06:41.538Z",
+  "completedAt": "2026-04-13T11:12:40.002Z",
+  "input": {
+    "url": "https://www.skyrizi.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/skyrizi",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Page layout group 1",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Psoriasis — group 2",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Crohns — group 3",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Signup — group 4",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Search Results — group 5",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Login — group 6",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "About Skyrizi Complete — group 7",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Nurse Ambassador — group 8",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_8",
+        "humanName": "Psoriatic Arthritis — group 9",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_9",
+        "humanName": "Mms Opt Terms And Conditions — group 10",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_10",
+        "humanName": "Ulcerative Colitis — group 11",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_11",
+        "humanName": "Stay On Track With Skyrizi Treatment — group 12",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 17
+      },
+      {
+        "templateId": "tpl_12",
+        "humanName": "Preparing For Skyrizi — group 13",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_13",
+        "humanName": "Insurance 101 — group 14",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_14",
+        "humanName": "Share Your Story — group 15",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_15",
+        "humanName": "How To Inject — group 16",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 19
+      },
+      {
+        "templateId": "tpl_16",
+        "humanName": "Ways To Save — group 17",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 18
+      },
+      {
+        "templateId": "tpl_17",
+        "humanName": "Save On Skyrizi Costs — group 18",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_18",
+        "humanName": "Infusion Support — group 19",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 16
+      },
+      {
+        "templateId": "tpl_19",
+        "humanName": "Living With Psoriasis — group 20",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_20",
+        "humanName": "Living With Psoriatic Arthritis — group 21",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_21",
+        "humanName": "Obi Training Video Transcript — group 22",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 18
+      },
+      {
+        "templateId": "tpl_22",
+        "humanName": "Crohns Resources To Stay On Track — group 23",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 14
+      },
+      {
+        "templateId": "tpl_23",
+        "humanName": "Crohns About Skyrizi Complete — group 24",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_24",
+        "humanName": "Living With Your Condition — group 25",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_25",
+        "humanName": "Dosing And Taking Skyrizi — group 26",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_26",
+        "humanName": "Cost And Savings — group 27",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_27",
+        "humanName": "Sitemap — group 28",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_28",
+        "humanName": "Cost And Savings — group 29",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_29",
+        "humanName": "Partner With Your Doctor — group 30",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_30",
+        "humanName": "Crohns Treatment Goals — group 31",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_31",
+        "humanName": "What Is Plaque Psoriasis — group 32",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 11
+      },
+      {
+        "templateId": "tpl_32",
+        "humanName": "How To Talk To Your Doctor — group 33",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_33",
+        "humanName": "Causes — group 34",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_34",
+        "humanName": "How Skyrizi Works — group 35",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_35",
+        "humanName": "Skyrizi Results — group 36",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_36",
+        "humanName": "Oral Treatment For Psoriasis — group 37",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_37",
+        "humanName": "Symptoms — group 38",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_38",
+        "humanName": "What Is Crohns Disease — group 39",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_39",
+        "humanName": "Find A Dermatologist — group 40",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_40",
+        "humanName": "Skyrizi Vs Other Injections — group 41",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_41",
+        "humanName": "How To Talk To Your Doctor — group 42",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 8
+      },
+      {
+        "templateId": "tpl_42",
+        "humanName": "What Is Ulcerative Colitis — group 43",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_43",
+        "humanName": "Before And After Pictures — group 44",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_44",
+        "humanName": "Side Effects — group 45",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_45",
+        "humanName": "Dosing — group 46",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_46",
+        "humanName": "Skyrizi Patient Stories — group 47",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_47",
+        "humanName": "Skyrizi Results — group 48",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_48",
+        "humanName": "Inflammation And Psoriasis — group 49",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 7
+      },
+      {
+        "templateId": "tpl_49",
+        "humanName": "What Is Skyrizi — group 50",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_50",
+        "humanName": "Insurance Comparison Chart — group 51",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_51",
+        "humanName": "Symptoms — group 52",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_52",
+        "humanName": "Efficacy — group 53",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_53",
+        "humanName": "Side Effects And Safety — group 54",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_54",
+        "humanName": "How Skyrizi Works — group 55",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_55",
+        "humanName": "Patient Stories — group 56",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_56",
+        "humanName": "Find A Gastroenterologist — group 57",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_57",
+        "humanName": "Ambassador — group 58",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 10
+      },
+      {
+        "templateId": "tpl_58",
+        "humanName": "How Skyrizi Works — group 59",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_59",
+        "humanName": "What Is Skyrizi — group 60",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_60",
+        "humanName": "Psoriasis And Psoriatic Arthritis — group 61",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_61",
+        "humanName": "What Is Skyrizi — group 62",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_62",
+        "humanName": "Find A Gastroenterologist — group 63",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_63",
+        "humanName": "Goals For Treating Uc — group 64",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_64",
+        "humanName": "Side Effects — group 65",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_65",
+        "humanName": "What Is Psoriatic Arthritis — group 66",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_66",
+        "humanName": "Sitemap — group 67",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_67",
+        "humanName": "Cost And Savings — group 68",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_68",
+        "humanName": "Sitemap — group 69",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_69",
+        "humanName": "Find A Doctor — group 70",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_70",
+        "humanName": "Real Patient Stories — group 71",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_71",
+        "humanName": "What Causes Psa — group 72",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_72",
+        "humanName": "Skyrizi Results — group 73",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_73",
+        "humanName": "Sitemap — group 74",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_74",
+        "humanName": "Partner With Your Gastroenterologist — group 75",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_75",
+        "humanName": "How Skyrizi Works — group 76",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_76",
+        "humanName": "Dosing — group 77",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_77",
+        "humanName": "Uc Impact Assessment — group 78",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_78",
+        "humanName": "Important Safety Information — group 79",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 1
+      },
+      {
+        "templateId": "tpl_79",
+        "humanName": "Rebate — group 80",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_80",
+        "humanName": "Rebate — group 81",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_81",
+        "humanName": "Gina Seeks Answers — group 82",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_82",
+        "humanName": "Steves Journey Transcript — group 83",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_83",
+        "humanName": "Login — group 84",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_84",
+        "humanName": "Enrollment — group 85",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_85",
+        "humanName": "Kevins Connection Transcript — group 86",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_86",
+        "humanName": "Amy Gets Her Answers — group 87",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 2
+      },
+      {
+        "templateId": "tpl_87",
+        "humanName": "Alisha Finds Clearer Skin — group 88",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_88",
+        "humanName": "Skyrizi Science Story Transcript — group 89",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_89",
+        "humanName": "Kathryn Change Transcript — group 90",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_90",
+        "humanName": "Kathryn Improvements Transcript — group 91",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_91",
+        "humanName": "Patient Video Paul Transcript — group 92",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_92",
+        "humanName": "Moa Video Transcript — group 93",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 2
+      },
+      {
+        "templateId": "tpl_93",
+        "humanName": "Psa Moa Video Transcript — group 94",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_94",
+        "humanName": "Kathryn Taking Transcript — group 95",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_95",
+        "humanName": "Jonathan Talking Transcript — group 96",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_96",
+        "humanName": "Shonda Taking Transcript — group 97",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_97",
+        "humanName": "Moa Video Transcript — group 98",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 2
+      },
+      {
+        "templateId": "tpl_98",
+        "humanName": "Sign Up — group 99",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_99",
+        "humanName": "Shonda Change Transcript — group 100",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_100",
+        "humanName": "Kade Change Transcript — group 101",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_101",
+        "humanName": "Patient Testimonials Paul — group 102",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_102",
+        "humanName": "Shonda Improvements Transcript — group 103",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_103",
+        "humanName": "Discover More Of Kades Story Transcript — group 104",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_104",
+        "humanName": "Page layout group 105",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      },
+      {
+        "templateId": "tpl_105",
+        "humanName": "Endoscopic Improvement Transcript — group 106",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_106",
+        "humanName": "Covid19 — group 107",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_107",
+        "humanName": "Page layout group 108",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 6
+      }
+    ]
+  }
+}

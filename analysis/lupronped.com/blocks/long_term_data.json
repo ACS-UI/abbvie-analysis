@@ -1,0 +1,26 @@
+{
+  "blockId": "long_term_data",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Long-Term Data Section",
+  "description": "Details the long-term efficacy and safety data.",
+  "domHints": {
+    "selectors": [
+      "#18year-long"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "mega_navigation",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Mega Navigation",
+  "description": "Displays the main site navigation with dropdown menus for subcategories.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-primary-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

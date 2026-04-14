@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_social_links",
+  "templateIds": [
+    "tpl_270"
+  ],
+  "name": "Footer Social Links",
+  "description": "Social media links in the footer.",
+  "domHints": {
+    "selectors": [
+      ".list-icons"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_270 (selectors validated in representative HTML).",
+  "aemCatalogName": "Footer"
+}

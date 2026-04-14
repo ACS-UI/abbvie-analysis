@@ -1,0 +1,26 @@
+{
+  "blockId": "header_logo",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Header Logo",
+  "description": "Displays the website's logo and sponsorship indication.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-v2-content .abbv-header-v2-left"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

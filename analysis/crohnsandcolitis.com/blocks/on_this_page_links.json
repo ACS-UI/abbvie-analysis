@@ -1,0 +1,31 @@
+{
+  "blockId": "on_this_page_links",
+  "templateIds": [
+    "tpl_3",
+    "tpl_7",
+    "tpl_12",
+    "tpl_15",
+    "tpl_16",
+    "tpl_19"
+  ],
+  "name": "On This Page Links",
+  "description": "Provides quick links to sections within the page for easy navigation.",
+  "domHints": {
+    "selectors": [
+      "div.abbv-header-v2-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

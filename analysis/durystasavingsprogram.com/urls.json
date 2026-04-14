@@ -1,0 +1,49 @@
+{
+  "entryUrl": "https://www.durystasavingsprogram.com/",
+  "discoveredAt": "2026-04-13T15:17:37.267Z",
+  "urls": [
+    {
+      "url": "https://www.durystasavingsprogram.com/",
+      "normalised": "https://www.durystasavingsprogram.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystasavingsprogram.com/sitemap",
+      "normalised": "https://www.durystasavingsprogram.com/sitemap",
+      "source": "sitemap",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystasavingsprogram.com/frequently-asked-questions",
+      "normalised": "https://www.durystasavingsprogram.com/frequently-asked-questions",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystasavingsprogram.com/about-vuity",
+      "normalised": "https://www.durystasavingsprogram.com/about-vuity",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.durystasavingsprogram.com/what-is-presbyopia",
+      "normalised": "https://www.durystasavingsprogram.com/what-is-presbyopia",
+      "source": "crawl",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "bySource": {
+      "sitemap": 1,
+      "crawl": 4,
+      "manual": 0
+    }
+  }
+}

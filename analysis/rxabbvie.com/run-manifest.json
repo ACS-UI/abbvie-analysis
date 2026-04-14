@@ -1,0 +1,39 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T16:28:36.274Z",
+  "completedAt": "2026-04-13T16:36:16.471Z",
+  "input": {
+    "url": "https://www.rxabbvie.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/rxabbvie.com",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Homepage with Product Links",
+        "source": "llm_identify",
+        "blockCount": 5,
+        "proposedCount": 5
+      }
+    ]
+  }
+}

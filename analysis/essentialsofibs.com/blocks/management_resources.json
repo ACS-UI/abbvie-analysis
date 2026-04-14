@@ -1,0 +1,26 @@
+{
+  "blockId": "management_resources",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Management Resources",
+  "description": "Offers downloadable resources for IBS management.",
+  "domHints": {
+    "selectors": [
+      "#background-container-1584261666"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

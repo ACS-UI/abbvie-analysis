@@ -1,0 +1,26 @@
+{
+  "blockId": "patient_assistance",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Patient Assistance Program",
+  "description": "Information about patient assistance programs for SAVELLA.",
+  "domHints": {
+    "selectors": [
+      ".savella-patient-assistance"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

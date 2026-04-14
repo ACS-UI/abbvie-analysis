@@ -1,0 +1,27 @@
+{
+  "blockId": "results_overall",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Results in Overall Patients",
+  "description": "Displays the results for all randomized patients in the study.",
+  "domHints": {
+    "selectors": [
+      "#randomized-patients",
+      ".abbv-flex-container.ozurdex-hcp-results-overall"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

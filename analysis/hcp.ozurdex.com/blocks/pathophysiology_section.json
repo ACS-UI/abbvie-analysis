@@ -1,0 +1,26 @@
+{
+  "blockId": "pathophysiology_section",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Pathophysiology Section",
+  "description": "Explains the pathophysiology of macular edema with supporting visuals.",
+  "domHints": {
+    "selectors": [
+      "#pathophysiology"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

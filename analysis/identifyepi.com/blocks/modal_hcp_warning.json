@@ -1,0 +1,29 @@
+{
+  "blockId": "modal_hcp_warning",
+  "templateIds": [
+    "tpl_5",
+    "tpl_20",
+    "tpl_27",
+    "tpl_35"
+  ],
+  "name": "Healthcare Professional Warning Modal",
+  "description": "Modal warning for accessing healthcare professional content.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.warnonleavehcp"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Modal"
+}

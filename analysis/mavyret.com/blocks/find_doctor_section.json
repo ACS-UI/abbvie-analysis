@@ -1,0 +1,26 @@
+{
+  "blockId": "find_doctor_section",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Find a Doctor Section",
+  "description": "Provides a tool to locate doctors or clinics for Hep C testing.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.locate-doctor"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

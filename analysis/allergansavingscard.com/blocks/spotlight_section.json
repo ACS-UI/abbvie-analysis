@@ -1,0 +1,26 @@
+{
+  "blockId": "spotlight_section",
+  "templateIds": [
+    "tpl_276"
+  ],
+  "name": "Spotlight Section",
+  "description": "Showcases featured content and supporting imagery.",
+  "domHints": {
+    "selectors": [
+      "#container-a84e551985"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_276 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,80 @@
+{
+  "workflowId": "site-analyser",
+  "startedAt": "2026-04-13T12:21:37.229Z",
+  "completedAt": "2026-04-13T12:22:05.172Z",
+  "input": {
+    "url": "https://www.botoxcervicaldystonia.com/",
+    "outputDir": "/Users/sselvara/adobe/adobe/AI/Experiments/mastra/workflows/site-analyser/outputs/abbvie/botoxcervicaldystonia",
+    "maxPages": null,
+    "discoverConcurrency": 64,
+    "useTemplateAgent": true,
+    "useBlockMappingAgent": true,
+    "useBlockIdentifyAgent": true,
+    "templateAgentModel": null,
+    "templateGroupingMode": "agent",
+    "templateTools": null,
+    "sameOriginOnly": true,
+    "respectRobotsTxt": true
+  },
+  "steps": {
+    "validate": true,
+    "discoverUrls": true,
+    "analyseTemplatesWithAgent": true,
+    "extractBlocks": true,
+    "detectIntegrations": true,
+    "finalize": true
+  },
+  "aborted": false,
+  "blockDetection": {
+    "entries": [
+      {
+        "templateId": "tpl_0",
+        "humanName": "Page layout group 1",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 9
+      },
+      {
+        "templateId": "tpl_1",
+        "humanName": "Sitemap — group 2",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_2",
+        "humanName": "Find A Botox Specialist — group 3",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_3",
+        "humanName": "Botox Reviews And Stories — group 4",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_4",
+        "humanName": "Why Botox — group 5",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_5",
+        "humanName": "Savings And Support — group 6",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 4
+      },
+      {
+        "templateId": "tpl_6",
+        "humanName": "About Cervical Dystonia — group 7",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 5
+      },
+      {
+        "templateId": "tpl_7",
+        "humanName": "Search Results — group 8",
+        "source": "heuristic_fallback_identify_error",
+        "blockCount": 3
+      }
+    ]
+  }
+}

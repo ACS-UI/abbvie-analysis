@@ -1,0 +1,34 @@
+{
+  "blockId": "link_list",
+  "templateIds": [
+    "tpl_21",
+    "tpl_84",
+    "tpl_85",
+    "tpl_120",
+    "tpl_146",
+    "tpl_170",
+    "tpl_277",
+    "tpl_303"
+  ],
+  "name": "Link List",
+  "description": "Displays a list of related links for further exploration.",
+  "domHints": {
+    "selectors": [
+      "ul#linklist-0e5bb6d281",
+      "ul.cmp-list"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_21 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

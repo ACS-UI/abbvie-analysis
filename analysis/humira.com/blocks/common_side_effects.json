@@ -1,0 +1,26 @@
+{
+  "blockId": "common_side_effects",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Common Side Effects",
+  "description": "Lists common side effects associated with HUMIRA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title:contains('Common side effects of HUMIRA')"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

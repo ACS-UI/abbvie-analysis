@@ -1,0 +1,26 @@
+{
+  "blockId": "case_studies_cta",
+  "templateIds": [
+    "tpl_15"
+  ],
+  "name": "Case Studies CTA",
+  "description": "Call-to-action for viewing case studies.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container.tout-journey-next"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

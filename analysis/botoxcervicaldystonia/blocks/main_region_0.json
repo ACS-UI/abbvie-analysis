@@ -1,0 +1,31 @@
+{
+  "blockId": "main_region_0",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2",
+    "tpl_3",
+    "tpl_4",
+    "tpl_5",
+    "tpl_6"
+  ],
+  "name": "main region 0",
+  "description": "Major content region in main (div). Preview: IMPROVE HEAD POSITION AND REDUCE NECK PAIN WITH BOTOX® FOR CERVICAL DYSTONIA Talk to your doctor today to see if BOTOX® …",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_0. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

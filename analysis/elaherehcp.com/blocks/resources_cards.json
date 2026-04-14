@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_cards",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Resources Cards",
+  "description": "Cards providing resources such as assessment forms, brochures, and starter kits.",
+  "domHints": {
+    "selectors": [
+      ".cmp-row.cmp-row--equal-height.p__reset-t"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

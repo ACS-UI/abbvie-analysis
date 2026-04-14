@@ -1,0 +1,49 @@
+{
+  "integrations": [
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.crohnsandcolitis.com/",
+          "https://www.crohnsandcolitis.com/crohns",
+          "https://www.crohnsandcolitis.com/ulcerative-colitis",
+          "https://www.crohnsandcolitis.com/crohns/biologics-for-crohns",
+          "https://www.crohnsandcolitis.com/crohns/targeted-treatments",
+          "https://www.crohnsandcolitis.com/ulcerative-colitis/severity-and-progression",
+          "https://www.crohnsandcolitis.com/ulcerative-colitis/treatment-options",
+          "https://www.crohnsandcolitis.com/ulcerative-colitis/what-is-ulcerative-colitis",
+          "https://www.crohnsandcolitis.com/search-results",
+          "https://www.crohnsandcolitis.com/sign-up",
+          "https://www.crohnsandcolitis.com/you-and-your-doctor",
+          "https://www.crohnsandcolitis.com/ulcerative-colitis/living-with-uc",
+          "https://www.crohnsandcolitis.com/ulcerative-colitis/targeted-treatments",
+          "https://www.crohnsandcolitis.com/crohns/severity-and-progression",
+          "https://www.crohnsandcolitis.com/crohns/site-map",
+          "https://www.crohnsandcolitis.com/ibd/stress-and-ibd",
+          "https://www.crohnsandcolitis.com/crohns/what-is-crohns-disease",
+          "https://www.crohnsandcolitis.com/tools-and-support/support-and-resources",
+          "https://www.crohnsandcolitis.com/sitemap",
+          "https://www.crohnsandcolitis.com/crohns/treatment-options",
+          "https://www.crohnsandcolitis.com/ibd/impact-of-ibd",
+          "https://www.crohnsandcolitis.com/ulcerative-colitis/causes",
+          "https://www.crohnsandcolitis.com/ulcerative-colitis/site-map",
+          "https://www.crohnsandcolitis.com/find-a-gastroenterologist",
+          "https://www.crohnsandcolitis.com/ibd/diet-and-exercise",
+          "https://www.crohnsandcolitis.com/prepare-for-your-appointment",
+          "https://www.crohnsandcolitis.com/ulcerative-colitis/symptoms-flare-ups",
+          "https://www.crohnsandcolitis.com/crohns/symptoms-flare-ups",
+          "https://www.crohnsandcolitis.com/crohns/causes"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:16:39.902Z"
+}

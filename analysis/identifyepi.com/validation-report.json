@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.identifyepi.com/hcp",
+  "normalisedUrl": "https://www.identifyepi.com/hcp",
+  "finalUrlAfterRedirects": "https://www.identifyepi.com/hcp",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:49:47.402Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

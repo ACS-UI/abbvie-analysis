@@ -1,0 +1,254 @@
+{
+  "entries": [
+    {
+      "relativePath": "header_utility_strip__default.png",
+      "sourceUrl": "https://www.skyrizi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "header > *:first-child"
+    },
+    {
+      "relativePath": "header_primary_navigation__default.png",
+      "sourceUrl": "https://www.skyrizi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "header nav"
+    },
+    {
+      "relativePath": "main_region_0__default.png",
+      "sourceUrl": "https://www.skyrizi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(1)"
+    },
+    {
+      "relativePath": "main_region_1__default.png",
+      "sourceUrl": "https://www.skyrizi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "main_region_2__default.png",
+      "sourceUrl": "https://www.skyrizi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(3)"
+    },
+    {
+      "relativePath": "main_region_3__default.png",
+      "sourceUrl": "https://www.skyrizi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(4)"
+    },
+    {
+      "relativePath": "main_region_4__default.png",
+      "sourceUrl": "https://www.skyrizi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(5)"
+    },
+    {
+      "relativePath": "site_footer__default.png",
+      "sourceUrl": "https://www.skyrizi.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "footer"
+    },
+    {
+      "relativePath": "columns__default.png",
+      "sourceUrl": "https://www.skyrizi.com/psoriasis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "carousel_region_0__default.png",
+      "sourceUrl": "https://www.skyrizi.com/psoriasis",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    },
+    {
+      "relativePath": "carousel__default.png",
+      "sourceUrl": "https://www.skyrizi.com/crohns",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[class*=\"carousel\"], [class*=\"slider\"], [class*=\"swiper\"], [data-carousel], [aria-roledescription=\"carousel\"]"
+    },
+    {
+      "relativePath": "main_region_5__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/nurse-ambassador",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(6)"
+    },
+    {
+      "relativePath": "main_region_6__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/stay-on-track-with-skyrizi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(7)"
+    },
+    {
+      "relativePath": "main_region_7__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/stay-on-track-with-skyrizi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(8)"
+    },
+    {
+      "relativePath": "main_region_8__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/stay-on-track-with-skyrizi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(9)"
+    },
+    {
+      "relativePath": "main_region_9__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/stay-on-track-with-skyrizi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(10)"
+    },
+    {
+      "relativePath": "main_region_10__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/stay-on-track-with-skyrizi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(11)"
+    },
+    {
+      "relativePath": "main_region_12__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/stay-on-track-with-skyrizi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(13)"
+    },
+    {
+      "relativePath": "main_region_13__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/stay-on-track-with-skyrizi-treatment",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(14)"
+    },
+    {
+      "relativePath": "main_region_11__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/how-to-inject",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(12)"
+    },
+    {
+      "relativePath": "main_region_15__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/how-to-inject",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(16)"
+    },
+    {
+      "relativePath": "main_region_14__default.png",
+      "sourceUrl": "https://www.skyrizi.com/skyrizi-complete/gastro/ways-to-save#tandcs",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(15)"
+    },
+    {
+      "relativePath": "section_navigation__default.png",
+      "sourceUrl": "https://www.skyrizi.com/crohns/skyrizi-results",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main'] > div:nth-of-type(2)"
+    },
+    {
+      "relativePath": "form_block_0__default.png",
+      "sourceUrl": "https://www.skyrizi.com/psoriasis/talk-to-dermatologist/find-a-dermatologist",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1)"
+    },
+    {
+      "relativePath": "struct-main__default.png",
+      "sourceUrl": "https://www.skyrizi.com/important-safety-information",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T11:08:00.827Z",
+      "selector": "[role='main']"
+    }
+  ]
+}

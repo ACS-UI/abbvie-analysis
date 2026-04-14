@@ -1,0 +1,27 @@
+{
+  "blockId": "resources_cta",
+  "templateIds": [
+    "tpl_12",
+    "tpl_28"
+  ],
+  "name": "Resources CTA",
+  "description": "Includes links to find a doctor, sign up for a book, and explore resources.",
+  "domHints": {
+    "selectors": [
+      "#background-container-410013748"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_12 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

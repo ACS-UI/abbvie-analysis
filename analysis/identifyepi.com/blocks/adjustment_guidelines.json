@@ -1,0 +1,26 @@
+{
+  "blockId": "adjustment_guidelines",
+  "templateIds": [
+    "tpl_32"
+  ],
+  "name": "Adjustment Guidelines",
+  "description": "Provides information on adjusting PERT dosage.",
+  "domHints": {
+    "selectors": [
+      ".epi-flex-icon-pert"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_32 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

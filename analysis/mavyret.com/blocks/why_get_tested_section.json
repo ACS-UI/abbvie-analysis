@@ -1,0 +1,26 @@
+{
+  "blockId": "why_get_tested_section",
+  "templateIds": [
+    "tpl_14"
+  ],
+  "name": "Why Get Tested Section",
+  "description": "Highlights reasons to get tested for Hep C with supporting visuals and text.",
+  "domHints": {
+    "selectors": [
+      ".abbv-background-container.why-get-tested"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_14 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_3"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: Selected Important Safety Information Stomach or intestine problems and problems from the procedure you will need to hav…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(5)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_3. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

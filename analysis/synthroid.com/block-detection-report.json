@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "templateId": "tpl_1",
+      "humanName": "Information Page",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_2",
+      "humanName": "Homepage",
+      "source": "llm_identify",
+      "blockCount": 8,
+      "proposedCount": 8
+    },
+    {
+      "templateId": "tpl_3",
+      "humanName": "Signup Page",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_4",
+      "humanName": "Search Results",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_5",
+      "humanName": "Sitemap",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_6",
+      "humanName": "FAQ Page",
+      "source": "llm_identify",
+      "blockCount": 6,
+      "proposedCount": 7
+    },
+    {
+      "templateId": "tpl_7",
+      "humanName": "Program Page",
+      "source": "llm_identify",
+      "blockCount": 7,
+      "proposedCount": 8
+    }
+  ],
+  "generatedAt": "2026-04-13T15:19:51.279Z"
+}

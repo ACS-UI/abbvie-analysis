@@ -1,0 +1,27 @@
+{
+  "blockId": "image_slider",
+  "templateIds": [
+    "tpl_3",
+    "tpl_6"
+  ],
+  "name": "Image Slider",
+  "description": "Interactive slider to compare visual conditions with and without the product.",
+  "domHints": {
+    "selectors": [
+      ".abbv-img-slider"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_columns",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Call-to-Action Columns",
+  "description": "Displays three CTAs for Identifying, Diagnosing, and Managing ID and IDA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.about-id-section-2"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

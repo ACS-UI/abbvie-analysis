@@ -1,0 +1,26 @@
+{
+  "blockId": "video_spotlight",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Video Spotlight",
+  "description": "Encourages users to watch a video related to the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.epi-spotlight"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Video"
+}

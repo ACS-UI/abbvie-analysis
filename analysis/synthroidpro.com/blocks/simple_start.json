@@ -1,0 +1,26 @@
+{
+  "blockId": "simple_start",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Simple Start",
+  "description": "Guides on how to start using the Synthroid Delivers Program.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.content--min"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

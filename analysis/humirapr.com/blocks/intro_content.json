@@ -1,0 +1,26 @@
+{
+  "blockId": "intro_content",
+  "templateIds": [
+    "tpl_10"
+  ],
+  "name": "Introduction Content",
+  "description": "Provides an overview and introduction to the topic.",
+  "domHints": {
+    "selectors": [
+      "section.hero01"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_10 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

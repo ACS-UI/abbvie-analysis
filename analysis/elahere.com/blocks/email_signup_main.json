@@ -1,0 +1,26 @@
+{
+  "blockId": "email_signup_main",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Email Signup Main Content",
+  "description": "The main content area for signing up to receive email updates.",
+  "domHints": {
+    "selectors": [
+      "main > div.container.theme-light-plum.-fan-bg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

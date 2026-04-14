@@ -1,0 +1,27 @@
+{
+  "blockId": "leader_bio",
+  "templateIds": [
+    "tpl_15",
+    "tpl_41"
+  ],
+  "name": "Leader Biography",
+  "description": "Detailed biography and information about the leader.",
+  "domHints": {
+    "selectors": [
+      "div#container-d680b4c4dc"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_15 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

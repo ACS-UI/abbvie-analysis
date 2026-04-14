@@ -1,0 +1,26 @@
+{
+  "blockId": "additional_links",
+  "templateIds": [
+    "tpl_129"
+  ],
+  "name": "Additional Links",
+  "description": "Provides extra navigation or related links for further exploration.",
+  "domHints": {
+    "selectors": [
+      ".cmp-list#linklist-40d6e8cf26"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_129 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

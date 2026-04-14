@@ -1,0 +1,168 @@
+{
+  "entryUrl": "https://hcp.xengelstent.com/",
+  "discoveredAt": "2026-04-13T15:32:54.609Z",
+  "urls": [
+    {
+      "url": "https://hcp.xengelstent.com/",
+      "normalised": "https://hcp.xengelstent.com/",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/clinical-efficacy/visual-recovery",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/clinical-efficacy/visual-recovery",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/healthcare-professionals",
+      "normalised": "https://hcp.xengelstent.com/healthcare-professionals",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/reimbursement",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/reimbursement",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/twoyearapexdata",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/twoyearapexdata",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/clinical-efficacy",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/clinical-efficacy",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/reimbursement",
+      "normalised": "https://hcp.xengelstent.com/reimbursement",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/clinical-efficacy",
+      "normalised": "https://hcp.xengelstent.com/clinical-efficacy",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/patient-selection",
+      "normalised": "https://hcp.xengelstent.com/patient-selection",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/additional-data/gpsdata",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/additional-data/gpsdata",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/patient-selection",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/patient-selection",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/references",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/references",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/healthcare-professionals",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/healthcare-professionals",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/safety",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/safety",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/about-xen",
+      "normalised": "https://hcp.xengelstent.com/about-xen",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/clinical-efficacy/visual-recovery",
+      "normalised": "https://hcp.xengelstent.com/clinical-efficacy/visual-recovery",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/about-xen",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com/about-xen",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/references",
+      "normalised": "https://hcp.xengelstent.com/references",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/twoyearapexdata",
+      "normalised": "https://hcp.xengelstent.com/twoyearapexdata",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/safety",
+      "normalised": "https://hcp.xengelstent.com/safety",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/additional-data/gpsdata",
+      "normalised": "https://hcp.xengelstent.com/additional-data/gpsdata",
+      "source": "crawl",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://hcp.xengelstent.com/hcp.xengelstent.com/",
+      "normalised": "https://hcp.xengelstent.com/hcp.xengelstent.com",
+      "source": "sitemap",
+      "httpStatus": 404,
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "stats": {
+    "total": 22,
+    "bySource": {
+      "sitemap": 11,
+      "crawl": 11,
+      "manual": 0
+    }
+  }
+}

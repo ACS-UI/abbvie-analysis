@@ -1,0 +1,26 @@
+{
+  "blockId": "exercise_section",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Exercise Section",
+  "description": "Highlights the importance of regular exercise with supporting text and image.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.fybp-exr:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

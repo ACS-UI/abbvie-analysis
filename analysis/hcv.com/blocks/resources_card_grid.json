@@ -1,0 +1,26 @@
+{
+  "blockId": "resources_card_grid",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Resources Card Grid",
+  "description": "Displays a grid of resource cards with images, titles, and download links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container-v2.flex-card-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

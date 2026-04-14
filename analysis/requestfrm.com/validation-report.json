@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.requestfrm.com/",
+  "normalisedUrl": "https://www.requestfrm.com/",
+  "finalUrlAfterRedirects": "https://www.requestfrm.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:26:48.569Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

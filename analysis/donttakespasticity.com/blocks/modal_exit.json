@@ -1,0 +1,26 @@
+{
+  "blockId": "modal_exit",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "Exit Modal",
+  "description": "Modal displayed when navigating away from the site.",
+  "domHints": {
+    "selectors": [
+      ".abbv-modal.exitmodal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_2 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

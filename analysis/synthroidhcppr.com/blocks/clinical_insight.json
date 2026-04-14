@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_insight",
+  "templateIds": [
+    "tpl_7"
+  ],
+  "name": "Clinical Insight",
+  "description": "Provides clinical insights and statistics relevant to the topic.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.synthroid-insight"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

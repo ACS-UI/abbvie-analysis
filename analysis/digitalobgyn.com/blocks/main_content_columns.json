@@ -1,0 +1,26 @@
+{
+  "blockId": "main_content_columns",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Main Content Columns",
+  "description": "Displays educational content in a two-column layout.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.woman-hel-end-sec1-p-lr"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

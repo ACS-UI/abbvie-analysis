@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.psoriaticarthritisinfo.com",
+  "normalisedUrl": "https://www.psoriaticarthritisinfo.com/",
+  "finalUrlAfterRedirects": "https://www.psoriaticarthritisinfo.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T15:59:32.223Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

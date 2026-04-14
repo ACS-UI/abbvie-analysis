@@ -1,0 +1,26 @@
+{
+  "blockId": "signs_and_symptoms",
+  "templateIds": [
+    "tpl_17"
+  ],
+  "name": "Signs and Symptoms",
+  "description": "Details the signs and symptoms of the condition.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.epi-info-background.epi-info-container.epi-info-top"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_17 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

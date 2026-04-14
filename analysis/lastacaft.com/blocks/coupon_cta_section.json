@@ -1,0 +1,26 @@
+{
+  "blockId": "coupon_cta_section",
+  "templateIds": [
+    "tpl_6"
+  ],
+  "name": "Coupon Call to Action",
+  "description": "Encourages users to sign up for savings with a description and an image.",
+  "domHints": {
+    "selectors": [
+      ".abbv-container.lastacaft-coupon-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

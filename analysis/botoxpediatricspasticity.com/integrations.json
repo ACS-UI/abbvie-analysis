@@ -1,0 +1,53 @@
+{
+  "integrations": [
+    {
+      "id": "vimeo-embed",
+      "name": "Vimeo embed",
+      "category": "video",
+      "evidence": {
+        "urls": [
+          "https://www.botoxpediatricspasticity.com/"
+        ],
+        "patterns": [
+          "player.vimeo.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    },
+    {
+      "id": "segment",
+      "name": "Segment",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.botoxpediatricspasticity.com/"
+        ],
+        "patterns": [
+          "segment.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    },
+    {
+      "id": "adobe-launch",
+      "name": "Adobe Launch / DT",
+      "category": "analytics",
+      "evidence": {
+        "urls": [
+          "https://www.botoxpediatricspasticity.com/"
+        ],
+        "patterns": [
+          "assets.adobedtm.com"
+        ],
+        "scriptSrcSamples": []
+      },
+      "confidence": "medium",
+      "notes": "Detected from inline HTML / script references."
+    }
+  ],
+  "collectedAt": "2026-04-13T16:37:45.315Z"
+}

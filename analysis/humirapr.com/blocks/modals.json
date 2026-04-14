@@ -1,0 +1,26 @@
+{
+  "blockId": "modals",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Modals",
+  "description": "Interactive modals for additional information or external links.",
+  "domHints": {
+    "selectors": [
+      ".modal"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

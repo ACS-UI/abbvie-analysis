@@ -1,0 +1,26 @@
+{
+  "blockId": "treatment_options_section",
+  "templateIds": [
+    "tpl_16"
+  ],
+  "name": "Treatment Options Section",
+  "description": "Detailed information about treatment options for the condition.",
+  "domHints": {
+    "selectors": [
+      ".fybp-main .abbv-row-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_16 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

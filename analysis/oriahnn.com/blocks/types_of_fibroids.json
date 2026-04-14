@@ -1,0 +1,26 @@
+{
+  "blockId": "types_of_fibroids",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Types of Fibroids",
+  "description": "Describes the different types of uterine fibroids and their characteristics.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.what-are-uf-types-fibroids-col"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

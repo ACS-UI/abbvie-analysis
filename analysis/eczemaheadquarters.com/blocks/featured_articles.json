@@ -1,0 +1,27 @@
+{
+  "blockId": "featured_articles",
+  "templateIds": [
+    "tpl_44"
+  ],
+  "name": "Featured Articles",
+  "description": "Displays a grid of featured articles with images and links.",
+  "domHints": {
+    "selectors": [
+      ".abbv-flex-container",
+      "div.abbv-flex-item"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_44 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

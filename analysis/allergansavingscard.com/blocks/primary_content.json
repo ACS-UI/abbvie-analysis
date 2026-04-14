@@ -1,0 +1,29 @@
+{
+  "blockId": "primary_content",
+  "templateIds": [
+    "tpl_7",
+    "tpl_72",
+    "tpl_126",
+    "tpl_184"
+  ],
+  "name": "Primary Content",
+  "description": "Displays the main content of the page, including details about Tracie Haas.",
+  "domHints": {
+    "selectors": [
+      "div.nav-bar__primary"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_7 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

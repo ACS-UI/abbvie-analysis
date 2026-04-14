@@ -1,0 +1,31 @@
+{
+  "blockId": "intro_text",
+  "templateIds": [
+    "tpl_3",
+    "tpl_14",
+    "tpl_25",
+    "tpl_28",
+    "tpl_38"
+  ],
+  "name": "Introduction Text",
+  "description": "Provides introductory information about the topic of eczema comorbidities.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.margin-mobile-top-30",
+      "h1"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_3 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

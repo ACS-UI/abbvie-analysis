@@ -1,0 +1,26 @@
+{
+  "blockId": "content_columns_2",
+  "templateIds": [
+    "tpl_25"
+  ],
+  "name": "Content Columns - Questions",
+  "description": "Guidance on preparing questions for the gastroenterologist.",
+  "domHints": {
+    "selectors": [
+      "#wayg"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_25 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

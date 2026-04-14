@@ -1,0 +1,31 @@
+{
+  "blockId": "quick_poll",
+  "templateIds": [
+    "tpl_4",
+    "tpl_5",
+    "tpl_17",
+    "tpl_24",
+    "tpl_28",
+    "tpl_35"
+  ],
+  "name": "Quick Poll",
+  "description": "Interactive poll about eczema diagnosis.",
+  "domHints": {
+    "selectors": [
+      ".abbv-quick-poll"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "understanding_cf",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Understanding CF",
+  "description": "Accordion section providing information about CF.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion-container:nth-of-type(1)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

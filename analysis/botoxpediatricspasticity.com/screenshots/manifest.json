@@ -1,0 +1,134 @@
+{
+  "entries": [
+    {
+      "relativePath": "global_utility_links__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": "header .top-nav-link"
+    },
+    {
+      "relativePath": "primary_navigation__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": "header .main-nav"
+    },
+    {
+      "relativePath": "hero_section__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": ".banner-section"
+    },
+    {
+      "relativePath": "desktop_hero_text__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": ".hero-right-block .hero-text.show-in-desktop"
+    },
+    {
+      "relativePath": "mobile_hero_text__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": ".show-in-mobile .hero-text"
+    },
+    {
+      "relativePath": "cta_block_1__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": ".cta-block.first-and-only"
+    },
+    {
+      "relativePath": "thumbnail_box_1__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": "#navHeader"
+    },
+    {
+      "relativePath": "thumbnail_box_2__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": ".thumbnail-box.left.approved-block"
+    },
+    {
+      "relativePath": "thumbnail_box_3__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": "#navHeader"
+    },
+    {
+      "relativePath": "cta_block_2__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": ".cta-block.talk-to"
+    },
+    {
+      "relativePath": "modal_exit_interstitial__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": "#ExitInterstitialModal"
+    },
+    {
+      "relativePath": "isi_bar__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": ".isi-bar"
+    },
+    {
+      "relativePath": "footer__default.png",
+      "sourceUrl": "https://www.botoxpediatricspasticity.com/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "capturedAt": "2026-04-13T16:33:20.979Z",
+      "selector": "footer"
+    }
+  ]
+}

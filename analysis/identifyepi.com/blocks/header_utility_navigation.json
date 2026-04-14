@@ -1,0 +1,26 @@
+{
+  "blockId": "header_utility_navigation",
+  "templateIds": [
+    "tpl_35"
+  ],
+  "name": "Header Utility Navigation",
+  "description": "Provides quick access to utility links such as sponsored content and healthcare professional site.",
+  "domHints": {
+    "selectors": [
+      ".abbv-header-utility-navigation"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_35 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

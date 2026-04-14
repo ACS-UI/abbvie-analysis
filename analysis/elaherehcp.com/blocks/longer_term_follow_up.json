@@ -1,0 +1,26 @@
+{
+  "blockId": "longer_term_follow_up",
+  "templateIds": [
+    "tpl_4"
+  ],
+  "name": "Longer-Term Follow-Up",
+  "description": "Summarizes findings from longer-term follow-up studies.",
+  "domHints": {
+    "selectors": [
+      "#longer-term-follow-up"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_4 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

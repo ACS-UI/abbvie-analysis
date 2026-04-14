@@ -1,0 +1,26 @@
+{
+  "blockId": "cta_doctor_guide",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "CTA Doctor Guide",
+  "description": "Call-to-action for downloading a doctor discussion guide.",
+  "domHints": {
+    "selectors": [
+      ".cta.parbase > a[href*='discussion-guide.pdf']"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

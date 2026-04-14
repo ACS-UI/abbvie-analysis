@@ -1,0 +1,26 @@
+{
+  "blockId": "partner_organizations",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Partner Organizations",
+  "description": "Section listing partner organizations with their logos and links.",
+  "domHints": {
+    "selectors": [
+      ".flexbox-container__cards--logos"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Cards"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "content_section_sunflower_oil",
+  "templateIds": [
+    "tpl_21"
+  ],
+  "name": "Content Section: Sunflower Oil",
+  "description": "Details about the benefits and usage of sunflower oil.",
+  "domHints": {
+    "selectors": [
+      ".abbv-title.home-remedies-titles:contains('Sunflower oil')"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_21 (selectors validated in representative HTML).",
+  "aemCatalogName": "Fragment"
+}

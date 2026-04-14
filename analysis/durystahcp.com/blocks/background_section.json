@@ -1,0 +1,27 @@
+{
+  "blockId": "background_section",
+  "templateIds": [
+    "tpl_8"
+  ],
+  "name": "Background Section",
+  "description": "This section provides a background image and container for the content.",
+  "domHints": {
+    "selectors": [
+      "#background-container-129790517",
+      ".abbv-background-container"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_8 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

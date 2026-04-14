@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.eczemaheadquarters.com/",
+  "normalisedUrl": "https://www.eczemaheadquarters.com/",
+  "finalUrlAfterRedirects": "https://www.eczemaheadquarters.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:03:54.984Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

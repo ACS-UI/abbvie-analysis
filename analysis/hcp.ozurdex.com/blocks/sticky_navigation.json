@@ -1,0 +1,26 @@
+{
+  "blockId": "sticky_navigation",
+  "templateIds": [
+    "tpl_5"
+  ],
+  "name": "Sticky Navigation",
+  "description": "Provides a sticky menu for quick navigation to different sections of the page.",
+  "domHints": {
+    "selectors": [
+      ".ozurdex-sticky-menu"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_5 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

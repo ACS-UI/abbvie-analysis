@@ -1,0 +1,26 @@
+{
+  "blockId": "columns",
+  "templateIds": [
+    "tpl_2"
+  ],
+  "name": "columns",
+  "description": "Major content region in main (div). Preview: .abbv-image-text-v1-823750714-large { display: inline-block; } Daily Tracker This journal can help your patients come pr…",
+  "domHints": {
+    "selectors": [
+      "[role='main'] > div:nth-of-type(7)"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "Heuristic main layout region on tpl_2. AEM block collection mapping is produced in the block-mapping step (LLM + catalog tool), not by this extractor.",
+  "aemCatalogName": "Unmapped"
+}

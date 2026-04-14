@@ -1,0 +1,26 @@
+{
+  "blockId": "footer_references",
+  "templateIds": [
+    "tpl_9"
+  ],
+  "name": "Footer References",
+  "description": "Accordion containing references and citations.",
+  "domHints": {
+    "selectors": [
+      ".abbv-accordion.accordion-references"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_9 (selectors validated in representative HTML).",
+  "aemCatalogName": "Accordion"
+}

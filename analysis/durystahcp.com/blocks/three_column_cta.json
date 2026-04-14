@@ -1,0 +1,26 @@
+{
+  "blockId": "three_column_cta",
+  "templateIds": [
+    "tpl_0"
+  ],
+  "name": "Three Column CTA",
+  "description": "Features three columns with images and text promoting key benefits of DURYSTA.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.pl-30.pr-30"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Columns"
+}

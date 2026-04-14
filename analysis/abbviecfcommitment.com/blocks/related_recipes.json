@@ -1,0 +1,31 @@
+{
+  "blockId": "related_recipes",
+  "templateIds": [
+    "tpl_6",
+    "tpl_16",
+    "tpl_17",
+    "tpl_22",
+    "tpl_25",
+    "tpl_27"
+  ],
+  "name": "Related Recipes",
+  "description": "Displays links and details for related recipes.",
+  "domHints": {
+    "selectors": [
+      ".recipe__related-box"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_6 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

@@ -1,0 +1,26 @@
+{
+  "blockId": "clinical_guidelines_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Clinical Guidelines Section",
+  "description": "Offers guidelines and considerations for switching or prescribing Synthroid.",
+  "domHints": {
+    "selectors": [
+      ".abbv-row-container.synthroid-tout-3"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

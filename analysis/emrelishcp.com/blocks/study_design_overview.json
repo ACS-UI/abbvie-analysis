@@ -1,0 +1,26 @@
+{
+  "blockId": "study_design_overview",
+  "templateIds": [
+    "tpl_11"
+  ],
+  "name": "Study Design Overview",
+  "description": "Provides an overview of the study design with detailed text and supporting visuals.",
+  "domHints": {
+    "selectors": [
+      ".emrelis-study-design"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_11 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

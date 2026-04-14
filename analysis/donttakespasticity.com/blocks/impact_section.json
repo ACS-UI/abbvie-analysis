@@ -1,0 +1,26 @@
+{
+  "blockId": "impact_section",
+  "templateIds": [
+    "tpl_1"
+  ],
+  "name": "Impact Section",
+  "description": "Encourages users to evaluate the impact of spasticity.",
+  "domHints": {
+    "selectors": [
+      ".botox-impact"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_1 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

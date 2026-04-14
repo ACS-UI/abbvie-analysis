@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.elahere.com",
+  "normalisedUrl": "https://www.elahere.com/",
+  "finalUrlAfterRedirects": "https://www.elahere.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T16:30:35.938Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

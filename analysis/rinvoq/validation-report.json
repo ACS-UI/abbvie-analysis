@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "originalInput": "https://www.rinvoq.com/",
+  "normalisedUrl": "https://www.rinvoq.com/",
+  "finalUrlAfterRedirects": "https://www.rinvoq.com/",
+  "httpStatus": 200,
+  "errors": [],
+  "validatedAt": "2026-04-13T10:56:53.386Z",
+  "trailingSlashPolicy": "Trailing slash removed except root path; fragments stripped."
+}

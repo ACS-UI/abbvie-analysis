@@ -1,0 +1,27 @@
+{
+  "blockId": "side_effects_section",
+  "templateIds": [
+    "tpl_0",
+    "tpl_2"
+  ],
+  "name": "Side Effects Section",
+  "description": "Details the potential side effects of using EMRELIS.",
+  "domHints": {
+    "selectors": [
+      "#side-effects"
+    ],
+    "landmark": null,
+    "ariaPatterns": []
+  },
+  "contentModel": {
+    "fields": [
+      {
+        "key": "content",
+        "type": "richtext",
+        "required": false
+      }
+    ]
+  },
+  "occurrenceNotes": "LLM-identified region on tpl_0 (selectors validated in representative HTML).",
+  "aemCatalogName": "Unmapped"
+}

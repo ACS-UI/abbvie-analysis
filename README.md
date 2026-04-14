@@ -2,7 +2,7 @@
 
 AI-driven analysis of AbbVie's digital portfolio — crawling pages, detecting UI blocks, mapping them to the AEM component catalog, and grouping pages into layout templates.
 
-**Live reports:** [https://acs-ui.github.io/abbvie-analysis/](https://acs-ui.github.io/abbvie-analysis/)
+**Live reports:** [https://acs-ui.github.io/abbvie-analysis/analysis-report.html](https://acs-ui.github.io/abbvie-analysis/analysis-report.html)
 
 ---
 
